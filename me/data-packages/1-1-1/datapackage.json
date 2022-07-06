@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "Units",
@@ -24,40 +24,40 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Jedinica"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Muškarci",
+                "Žene",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Pol"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-17 years",
-                "aged 18-24 years",
-                "aged 25-54 years",
+                "Manje od 18 godina",
+                "18-24 godine",
+                "25-54 godine",
                 "aged 25-64 years",
-                "aged over 65 years",
-                "aged 18-64 years",
+                "65 ili više godina",
+                "18-64 godine",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       }
