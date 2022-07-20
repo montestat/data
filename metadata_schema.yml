@@ -34,12 +34,12 @@ prose:
 #            label: Series (global)
 #           translation_key: metadata_fields.SDG_SERIES_DESCR
 #            scope: global
-      - name: META_LAST_UPDATE__GLOBAL
-        field:
-            element: text
-            label: Metadata update (global)
-            translation_key: metadata_fields.META_LAST_UPDATE
-            scope: global
+      # - name: META_LAST_UPDATE__GLOBAL
+      #   field:
+      #       element: text
+      #       label: Metadata update (global)
+      #       translation_key: metadata_fields.META_LAST_UPDATE
+      #       scope: global
 
       - name: SDG_CUSTODIAN_AGENCIES__GLOBAL
         field:
@@ -47,12 +47,12 @@ prose:
             label: International organisations(s) responsible for global monitoring (global)
             translation_key: metadata_fields.SDG_CUSTODIAN_AGENCIES
             scope: global
-      - name: SDG_RELATED_INDICATORS__GLOBAL
-        field:
-            element: text
-            label: Related indicators (global)
-            translation_key: metadata_fields.SDG_RELATED_INDICATORS
-            scope: global
+      # - name: SDG_RELATED_INDICATORS__GLOBAL
+      #   field:
+      #       element: text
+      #       label: Related indicators (global)
+      #       translation_key: metadata_fields.SDG_RELATED_INDICATORS
+      #       scope: global
 #      - name: CONTACT__GLOBAL
 #        field:
 #            element: text

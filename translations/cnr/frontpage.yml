@@ -1,9 +1,7 @@
-instructions: Kliknite na svaki cilj, %before_link pretragu, %after_link za statistiku
-  %country.name za globalne indikatore Ciljeva održivog razvoja.
-instructions_short: Kliknite na svaki cilj da dobijete podatke %country.name za globalni
-  indikator Ciljeva održivog razvoja.
-heading: '%country.name podaci za indikatore Ciljeva održivog razvoja'
-heading_short: '%country.name podaci za Ciljeve održivog razvoja'
+instructions: Kliknite na određeni cilj, %before_link pretragu, %after_link za statistiku %country.name za globalne indikatore Ciljeva održivog razvoja.
+instructions_short: Kliknite na određeni cilj da dobijete podatke %country.name za globalni indikator Ciljeva održivog razvoja.
+heading: '%country.name - podaci o indikatorima Ciljeva održivog razvoja'
+heading_short: '%country.name - podaci o Ciljevima održivog razvoja'
 download_all: Preuzmite sve podatke
 zip_file: Zapakovani podaci (ZIP)
 intro_title: 17 ciljeva za transformaciju našeg svijeta

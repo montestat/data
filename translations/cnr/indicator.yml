@@ -44,7 +44,7 @@ sub_categories: 'Potkategorije'
 # A label of "Show sub-categories" to display before a particular sub-category's name
 sub_categories_show: "Prikaži potkategorije:"
 series_help: 'Odaberite kategorije iz padajućih menija u nastavku da vidite različite
-  tipove podataka. Neki neće biti dostupni dok se ne odabere viši nivo.'
+  tipove podataka. Neki podaci neće biti dostupni dok se ne odabere viši nivo pretrage.'
 legend_help: 'Kliknite na legendu da uklonite pojedinačne linije sa grafika.'
 # A button that displays some data in the form of a chart
 chart: 'Grafik'
@@ -56,15 +56,15 @@ loading: 'Učitavanje'
 loading_map: 'Učitavanje mape'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'Nacionalni metapodaci'
-national_metadata_blurb: 'Ova tabela pruža metapodatke za stvarni indikator koji je
-  dostupan iz statistike %country.name najbliže odgovarajućem globalnom indikatoru
-  COR. Imajte na umu da čak i kada je globalni indikator COR u potpunosti dostupan
-  iz %country.adjective statistike, ovu tabelu treba konsultovati za informacije o
-  nacionalnoj metodologiji i druge informacije o %country.adjective metapodacima.'
+national_metadata_blurb: 'Ova tabela pruža više informacija o indikatoru koji je
+  dostupan iz crnogorske statistike a najbliže odgovara globalnom indikatoru
+  COR. Imajte na umu da i kada je globalni indikator COR u potpunosti dostupan
+  iz crnogorske statistike, ovu tabelu treba konsultovati za informacije o
+  nacionalnoj metodologiji i druge informacije o crnogorskim metapodacima.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'Globalni metapodaci'
-global_metadata_blurb: 'Ova tabela pruža informacije o metapodacima za OCR indikatore
-  kako ih je definisala Statistička komisija UN-a. <a href="https://unstats.un.org/sdgs/metadata/">Kompletne
+global_metadata_blurb: 'Ova tabela pruža informacije o metapodacima za COR indikatore
+  koje je definisala Statistička komisija UN-a. <a href="https://unstats.un.org/sdgs/metadata/">Kompletne
   globalne metapodatke</a> obezbjeđuje Odjeljenje za statistiku UN-a.'
 # A button for editing some content
 edit: 'Urediti'
