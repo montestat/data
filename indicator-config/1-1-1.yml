@@ -4,6 +4,7 @@ data_show_map: false
 graph_type: line
 indicator_name: global_indicators.1-1-1-title
 indicator_number: '1.1.1'
+national_geographical_coverage: custom.country_name
 precision:
   - unit: percentage
     decimals: 2
