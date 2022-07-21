@@ -29,6 +29,12 @@ prose:
             label: Indicator (global)
             translation_key: metadata_fields.SDG_INDICATOR
             scope: global
+      - name: methodology_global
+        field:
+            element: text
+            label: Methodology global
+            translation_key: metadata_fields.methodology_global
+            scope: global
       # - name: STAT_CONC_DEF__GLOBAL
       #   field:
       #       element: text
@@ -294,6 +300,12 @@ prose:
             label: Definition and concepts
             translation_key: metadata_fields.STAT_CONC_DEF
             scope: national
+      - name: methodology_national
+        field:
+            element: text
+            label: Methodology national
+            translation_key: metadata_fields.methodology_national
+            scope: national
       - name: DATA_SOURCE
         field:
             element: text
@@ -317,6 +329,18 @@ prose:
             element: text
             label: Comparability/deviation from international standards
             translation_key: metadata_fields.COMPARABILITY
+            scope: national
+      - name: methodology_start_date
+        field:
+            element: text
+            label: Indicator methodology start date
+            translation_key: metadata_fields.methodology_start_date
+            scope: national
+      - name: indicator_introduction_plan
+        field:
+            element: text
+            label: Indicator introduction plan
+            translation_key: metadata_fields.indicator_introduction_plan
             scope: national
       # - name: SDG_SERIES_DESCR
       #   field:
@@ -538,71 +562,71 @@ prose:
             label: "Organisation"
             translation_key: metadata_fields.source_organisation_1
             scope: source_1
-      - name: "source_periodicity_1"
-        field:
-            element: text
-            label: "Periodicity"
-            translation_key: metadata_fields.source_periodicity_1
-            scope: source_1
-      - name: "source_earliest_available_1"
-        field:
-            element: text
-            label: "Earliest available data"
-            translation_key: metadata_fields.source_earliest_available_1
-            scope: source_1
-      - name: "source_geographical_coverage_1"
-        field:
-            element: text
-            label: "Geographical coverage"
-            translation_key: metadata_fields.source_geographical_coverage_1
-            scope: source_1
-      - name: "source_url_1"
-        field:
-            element: text
-            label: "Link to data source"
-            translation_key: metadata_fields.source_url_1
-            scope: source_1
-      - name: "source_url_text_1"
-        field:
-            element: text
-            label: "Link to data source text"
-            translation_key: metadata_fields.source_url_text_1
-            value: "Link to source"
-            scope: source_1
-      - name: "source_release_date_1"
-        field:
-            element: text
-            label: "Release date"
-            translation_key: metadata_fields.source_release_date_1
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_1
-      - name: "source_next_release_1"
-        field:
-            element: text
-            label: "Next release"
-            translation_key: metadata_fields.source_next_release_1
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_1
-      - name: "source_statistical_classification_1"
-        field:
-            element: text
-            label: "Statistical classification"
-            translation_key: metadata_fields.source_statistical_classification_1
-            scope: source_1
-      - name: "source_contact_1"
-        field:
-            element: text
-            label: "Contact details"
-            translation_key: metadata_fields.source_contact_1
-            scope: source_1
-      - name: "source_other_info_1"
-        field:
-            element: textarea
-            label: "Other information"
-            translation_key: metadata_fields.source_other_info_1
-            scope: source_1
+      # - name: "source_periodicity_1"
+      #   field:
+      #       element: text
+      #       label: "Periodicity"
+      #       translation_key: metadata_fields.source_periodicity_1
+      #       scope: source_1
+      # - name: "source_earliest_available_1"
+      #   field:
+      #       element: text
+      #       label: "Earliest available data"
+      #       translation_key: metadata_fields.source_earliest_available_1
+      #       scope: source_1
+      # - name: "source_geographical_coverage_1"
+      #   field:
+      #       element: text
+      #       label: "Geographical coverage"
+      #       translation_key: metadata_fields.source_geographical_coverage_1
+      #       scope: source_1
+      # - name: "source_url_1"
+      #   field:
+      #       element: text
+      #       label: "Link to data source"
+      #       translation_key: metadata_fields.source_url_1
+      #       scope: source_1
+      # - name: "source_url_text_1"
+      #   field:
+      #       element: text
+      #       label: "Link to data source text"
+      #       translation_key: metadata_fields.source_url_text_1
+      #       value: "Link to source"
+      #       scope: source_1
+      # - name: "source_release_date_1"
+      #   field:
+      #       element: text
+      #       label: "Release date"
+      #       translation_key: metadata_fields.source_release_date_1
+      #       help: "A date in YYYY-MM-DD format"
+      #       placeholder: "YYYY-MM-DD"
+      #       scope: source_1
+      # - name: "source_next_release_1"
+      #   field:
+      #       element: text
+      #       label: "Next release"
+      #       translation_key: metadata_fields.source_next_release_1
+      #       help: "A date in YYYY-MM-DD format"
+      #       placeholder: "YYYY-MM-DD"
+      #       scope: source_1
+      # - name: "source_statistical_classification_1"
+      #   field:
+      #       element: text
+      #       label: "Statistical classification"
+      #       translation_key: metadata_fields.source_statistical_classification_1
+      #       scope: source_1
+      # - name: "source_contact_1"
+      #   field:
+      #       element: text
+      #       label: "Contact details"
+      #       translation_key: metadata_fields.source_contact_1
+      #       scope: source_1
+      # - name: "source_other_info_1"
+      #   field:
+      #       element: textarea
+      #       label: "Other information"
+      #       translation_key: metadata_fields.source_other_info_1
+      #       scope: source_1
       ## Source 2
       # - name: source_active_2
       #   field:
@@ -1005,28 +1029,5 @@ prose:
       #       label: UN designated tier
       #       translation_key: metadata_fields.un_designated_tier
       #       scope: global
-      - name: methodology_start_date
-        field:
-            element: text
-            label: Indicator methodology start date
-            translation_key: metadata_fields.methodology_start_date
-            scope: national
-      - name: indicator_introduction_plan
-        field:
-            element: text
-            label: Indicator introduction plan
-            translation_key: metadata_fields.indicator_introduction_plan
-            scope: national
-      - name: methodology_national
-        field:
-            element: text
-            label: Methodology national
-            translation_key: metadata_fields.methodology_national
-            scope: national
-      - name: methodology_global
-        field:
-            element: text
-            label: Methodology global
-            translation_key: metadata_fields.methodology_global
-            scope: global
+
   ignore: ['/scripts', '/.github']
