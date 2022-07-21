@@ -269,24 +269,24 @@ prose:
       #       label: Indicator information
       #       translation_key: metadata_fields.SDG_INDICATOR_INFO
       #       scope: national
-      # - name: SDG_GOAL
-      #   field:
-      #       element: text
-      #       label: Goal
-      #       translation_key: metadata_fields.SDG_GOAL
-      #       scope: national
-      # - name: SDG_TARGET
-      #   field:
-      #       element: text
-      #       label: Target
-      #       translation_key: metadata_fields.SDG_TARGET
-      #       scope: national
-      # - name: SDG_INDICATOR
-      #   field:
-      #       element: text
-      #       label: Indicator
-      #       translation_key: metadata_fields.SDG_INDICATOR
-      #       scope: national
+      - name: SDG_GOAL
+        field:
+            element: text
+            label: Goal
+            translation_key: metadata_fields.SDG_GOAL
+            scope: national
+      - name: SDG_TARGET
+        field:
+            element: text
+            label: Target
+            translation_key: metadata_fields.SDG_TARGET
+            scope: national
+      - name: SDG_INDICATOR
+        field:
+            element: text
+            label: Indicator
+            translation_key: metadata_fields.SDG_INDICATOR
+            scope: national
       # - name: SDG_SERIES_DESCR
       #   field:
       #       element: text
@@ -498,30 +498,30 @@ prose:
       #       translation_key: metadata_fields.OTHER_DOC
       #       scope: national
       ######### Last updated dates #########
-      - name: "national_data_update_url"
-        field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url
-            scope: national
-      - name: "national_data_update_url_text"
-        field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url_text
-            scope: national
-      - name: "national_metadata_update_url"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url
-            scope: national
-      - name: "national_metadata_update_url_text"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url_text
-            scope: national
+      # - name: "national_data_update_url"
+      #   field:
+      #       element: hidden
+      #       label: "Data last updated"
+      #       translation_key: metadata_fields.national_data_update_url
+      #       scope: national
+      # - name: "national_data_update_url_text"
+      #   field:
+      #       element: hidden
+      #       label: "Data last updated"
+      #       translation_key: metadata_fields.national_data_update_url_text
+      #       scope: national
+      # - name: "national_metadata_update_url"
+      #   field:
+      #       element: hidden
+      #       label: "Metadata last updated"
+      #       translation_key: metadata_fields.national_metadata_update_url
+      #       scope: national
+      # - name: "national_metadata_update_url_text"
+      #   field:
+      #       element: hidden
+      #       label: "Metadata last updated"
+      #       translation_key: metadata_fields.national_metadata_update_url_text
+      #       scope: national
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
