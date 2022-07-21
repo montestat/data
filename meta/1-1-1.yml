@@ -1,18 +1,19 @@
-SDG_INDICATOR__GLOBAL: >-
-  Indicator 1.1.1: Proportion of the population living below the
-  international poverty line by sex, age, employment status and geographic
-  location (urban/rural)
-SDG_TARGET__GLOBAL: >-
-  Target 1.1: By 2030, eradicate extreme poverty for all people everywhere,
-  currently measured as people living on less than $1.25 a day
-SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>Svjetska banka (WB)</p>
-STAT_CONC_DEF: >-
-  ## Proba
-  Neki tekst
-  **Podnaslov** neki tekst
-  Opet neki tekst
-DATA_SOURCE: Monstat, proba tekst nacionalni metapodaci
-un_designated_tier: '1'
+SDG_GOAL__GLOBAL: global_goals.1-title
+SDG_TARGET__GLOBAL: global_targets.1-1-title
+SDG_INDICATOR__GLOBAL: global_indicators.1-1-1-title
+STAT_CONC_DEF__GLOBAL: metadata_texts.1-1-1-global-definition
+DATA_SOURCE__GLOBAL: metadata_texts.1-1-1-global-datasource
+COVERAGE__GLOBAL: metadata_texts.1-1-1-global-disaggregation
+REC_USE_LIM__GLOBAL: metadata_texts.1-1-1-global-comment
+SDG_GOAL: global_goals.1-title
+SDG_TARGET: global_targets.1-1-title
+SDG_INDICATOR: global_indicators.1-1-1-title
+STAT_CONC_DEF: metadata_texts.1-1-1-national-definition
+DATA_SOURCE: metadata_texts.1-1-1-national-datasource
+COVERAGE: metadata_texts.1-1-1-national-disaggregation
+REC_USE_LIM: metadata_texts.1-1-1-national-comment
+COMPARABILITY: metadata_texts.1-1-1-national-deviation
+methodology_start_date: '2013'
+indicator_introduction_plan: metadata_texts.1-1-1-national-introductioncomment
 source_active_1: true
 source_organisation_1: sources.Monstat
-source_other_info_1: Domaćinstva, Anketa o dohotku i uslovima života EU-SILC

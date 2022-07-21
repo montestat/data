@@ -1,14 +1,9 @@
 ﻿computation_units: 'Percentage'
 data_non_statistical: false
 data_show_map: false
-data_start_values: []
-expected_disaggregations: []
-graph_title: global_indicators.1-1-1-title
-graph_titles: []
 graph_type: line
 indicator_name: global_indicators.1-1-1-title
 indicator_number: '1.1.1'
-national_geographical_coverage: custom.country_name
 precision:
   - unit: percentage
     decimals: 2

@@ -1,0 +1,10 @@
+1-1-1-global-definition:  This indicator provides the proportion of the total population and the proportion of the employed population living in households with per-capita consumption or income that is below the international poverty line of US$1.25. It is calculated by dividing the number of persons living in households below the poverty line (disaggregated by sex, age and employment status) by the total number of persons (disaggregated by the same sex, age and employment status groups).
+1-1-1-global-datasource: ''
+1-1-1-global-disaggregation: ''
+1-1-1-global-comment: ''
+1-1-1-national-definition: ''
+1-1-1-national-datasource: ''
+1-1-1-national-disaggregation: ''
+1-1-1-national-comment: ''
+1-1-1-national-deviation: ''
+1-1-1-national-introductioncomment: ''

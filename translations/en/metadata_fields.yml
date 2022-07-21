@@ -145,6 +145,8 @@ DOC_METHOD: Methods and guidance available to countries for the compilation of t
 QUALITY_MGMNT: Quality management
 QUALITY_ASSURE: Quality assurance
 QUALITY_ASSMNT: Quality assessment
-COVERAGE: Data availability and disaggregation
-COMPARABILITY: Comparability/deviation from international standards
+COVERAGE: Disaggregation
+COMPARABILITY: Comparability/deviation from UN methodology
 OTHER_DOC: References and Documentation
+methodology_start_date: Since when is the indicator monitored according to the described methodology
+indicator_introduction_plan: Plan for the introduction of the indicator, if there is none in Montenegro
