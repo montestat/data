@@ -1,7 +1,7 @@
 1-1-1-global-definition:  Ovaj indikator pruža informacije o udjelu ukupnog broja stanovništva i udjelu zaposlenog dijela populacije koji žive u domaćinstvima čija je potrošnja ili doprinos po osobi (članu domaćinstva) ispod međunarodne linije siromaštva - 1.25 američkih dolara. Ovaj indikator se računa dijeljenjem ukupnog broja osoba koje žive u domaćinstvima ispod linije siromaštva (razdvojeno po polu, godinama starosti i radnom statusu) sa ukupnim brojem stanovništva (razdvojeno po polu, godinama starosti i radnom statusu).
 1-1-1-global-datasource: Istraživanja domaćinstava
 1-1-1-global-disaggregation: Pol i godine
-1-1-1-global-comment: ''
+# 1-1-1-global-comment: ''
 1-1-1-national-definition: Stopa rizika od siromaštva predstavlja udio lica (u ukupnoj populaciji) čiji je raspoloživi ekvivalentni dohodak manji od relativne linije siromaštva, koja se nalazi na 60% od izračunate srednje vrijednosti (medijane) ekvivalentnog raspoloživog dohotka.
 1-1-1-national-datasource: Domaćinstva, Anketa o dohotku i uslovima života EU-SILC
 1-1-1-national-disaggregation: Pol i godine

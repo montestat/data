@@ -2,9 +2,9 @@ SDG_GOAL__GLOBAL: global_goals.1-title
 SDG_TARGET__GLOBAL: global_targets.1-1-title
 SDG_INDICATOR__GLOBAL: global_indicators.1-1-1-title
 STAT_CONC_DEF__GLOBAL: metadata_texts.1-1-1-global-definition
-DATA_SOURCE__GLOBAL: metadata_texts.1-1-1-global-datasource
-COVERAGE__GLOBAL: metadata_texts.1-1-1-global-disaggregation
-REC_USE_LIM__GLOBAL: metadata_texts.1-1-1-global-comment
+# DATA_SOURCE__GLOBAL: metadata_texts.1-1-1-global-datasource
+# COVERAGE__GLOBAL: metadata_texts.1-1-1-global-disaggregation
+# REC_USE_LIM__GLOBAL: metadata_texts.1-1-1-global-comment
 SDG_GOAL: global_goals.1-title
 SDG_TARGET: global_targets.1-1-title
 SDG_INDICATOR: global_indicators.1-1-1-title
