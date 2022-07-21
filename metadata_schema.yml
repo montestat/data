@@ -210,7 +210,7 @@ prose:
             translation_key: metadata_fields.ADJUSTMENT
             scope: global
       - name: IMPUTATION__GLOBAL
-      field:
+        field:
             element: text
             label: Treatment of missing values (i) at country level and (ii) at regional level (global)
             translation_key: metadata_fields.IMPUTATION
