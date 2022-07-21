@@ -155,12 +155,12 @@ prose:
       #       label: Data release calendar (global)
       #       translation_key: metadata_fields.REL_CAL_POLICY
       #       scope: global
-      - name: DATA_SOURCE__GLOBAL
-        field:
-            element: text
-            label: Data providers (global)
-            translation_key: metadata_fields.DATA_SOURCE
-            scope: global
+      # - name: DATA_SOURCE__GLOBAL
+      #   field:
+      #       element: text
+      #       label: Data providers (global)
+      #       translation_key: metadata_fields.DATA_SOURCE
+      #       scope: global
       # - name: COMPILING_ORG__GLOBAL
       #   field:
       #       element: text
@@ -185,12 +185,12 @@ prose:
       #       label: Rationale (global)
       #       translation_key: metadata_fields.RATIONALE
       #       scope: global
-      - name: REC_USE_LIM__GLOBAL
-        field:
-            element: text
-            label: Comment and limitations (global)
-            translation_key: metadata_fields.REC_USE_LIM
-            scope: global
+      # - name: REC_USE_LIM__GLOBAL
+      #   field:
+      #       element: text
+      #       label: Comment and limitations (global)
+      #       translation_key: metadata_fields.REC_USE_LIM
+      #       scope: global
       # - name: DATA_COMP__GLOBAL
       #   field:
       #       element: text
@@ -245,12 +245,12 @@ prose:
       #       label: Quality assessment (global)
       #       translation_key: metadata_fields.QUALITY_ASSMNT
       #       scope: global
-      - name: COVERAGE__GLOBAL
-        field:
-            element: text
-            label: Data availability and disaggregation (global)
-            translation_key: metadata_fields.COVERAGE
-            scope: global
+      # - name: COVERAGE__GLOBAL
+      #   field:
+      #       element: text
+      #       label: Data availability and disaggregation (global)
+      #       translation_key: metadata_fields.COVERAGE
+      #       scope: global
       # - name: COMPARABILITY__GLOBAL
       #   field:
       #       element: text
@@ -287,6 +287,36 @@ prose:
             element: text
             label: Indicator
             translation_key: metadata_fields.SDG_INDICATOR
+            scope: national
+      - name: STAT_CONC_DEF
+        field:
+            element: text
+            label: Definition and concepts
+            translation_key: metadata_fields.STAT_CONC_DEF
+            scope: national
+      - name: DATA_SOURCE
+        field:
+            element: text
+            label: Data providers
+            translation_key: metadata_fields.DATA_SOURCE
+            scope: national
+      - name: COVERAGE
+        field:
+            element: text
+            label: Data availability and disaggregation
+            translation_key: metadata_fields.COVERAGE
+            scope: national
+      - name: REC_USE_LIM
+        field:
+            element: text
+            label: Comment and limitations
+            translation_key: metadata_fields.REC_USE_LIM
+            scope: national
+      - name: COMPARABILITY
+        field:
+            element: text
+            label: Comparability/deviation from international standards
+            translation_key: metadata_fields.COMPARABILITY
             scope: national
       # - name: SDG_SERIES_DESCR
       #   field:
@@ -360,12 +390,6 @@ prose:
       #       label: Definition, concepts, and classifications
       #       translation_key: metadata_fields.IND_DEF_CON_CLASS
       #       scope: national
-      - name: STAT_CONC_DEF
-        field:
-            element: text
-            label: Definition and concepts
-            translation_key: metadata_fields.STAT_CONC_DEF
-            scope: national
       # - name: UNIT_MEASURE
       #   field:
       #       element: text
@@ -408,12 +432,6 @@ prose:
       #       label: Data release calendar
       #       translation_key: metadata_fields.REL_CAL_POLICY
       #       scope: national
-      - name: DATA_SOURCE
-        field:
-            element: text
-            label: Data providers
-            translation_key: metadata_fields.DATA_SOURCE
-            scope: national
       # - name: COMPILING_ORG
       #   field:
       #       element: text
@@ -438,12 +456,6 @@ prose:
       #       label: Rationale
       #       translation_key: metadata_fields.RATIONALE
       #       scope: national
-      - name: REC_USE_LIM
-        field:
-            element: text
-            label: Comment and limitations
-            translation_key: metadata_fields.REC_USE_LIM
-            scope: national
       # - name: DATA_COMP
       #   field:
       #       element: text
@@ -480,18 +492,6 @@ prose:
       #       label: Quality assessment
       #       translation_key: metadata_fields.QUALITY_ASSMNT
       #       scope: national
-      - name: COVERAGE
-        field:
-            element: text
-            label: Data availability and disaggregation
-            translation_key: metadata_fields.COVERAGE
-            scope: national
-      - name: COMPARABILITY
-        field:
-            element: text
-            label: Comparability/deviation from international standards
-            translation_key: metadata_fields.COMPARABILITY
-            scope: national
       # - name: OTHER_DOC
       #   field:
       #       element: text
