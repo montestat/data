@@ -1,1 +1,23 @@
-Year,Value
+Year,Value,Units
+2010,24.0,total infected
+2011,24.0,total infected
+2012,25.0,total infected
+2013,25.0,total infected
+2014,26.0,total infected
+2015,26.0,total infected
+2016,26.0,total infected
+2017,25.0,total infected
+2018,25.0,total infected
+2019,25.0,total infected
+2020,25.0,total infected
+2010,0.03,per 1000 uninfected population
+2011,0.04,per 1000 uninfected population
+2012,0.04,per 1000 uninfected population
+2013,0.04,per 1000 uninfected population
+2014,0.05,per 1000 uninfected population
+2015,0.05,per 1000 uninfected population
+2016,0.05,per 1000 uninfected population
+2017,0.05,per 1000 uninfected population
+2018,0.05,per 1000 uninfected population
+2019,0.05,per 1000 uninfected population
+2020,0.05,per 1000 uninfected population

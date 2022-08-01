@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_infected",
+                "per_1000_uninfected_population",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
