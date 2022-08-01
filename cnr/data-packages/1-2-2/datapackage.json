@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Pol"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-64 godine",
+                "65 ili više godina",
+                "Manje od 18 godina",
+                ""
+              ]
+            },
+            "title": "Starost"
           },
           {
             "name": "Value",
