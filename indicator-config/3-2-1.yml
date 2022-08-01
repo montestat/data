@@ -1,4 +1,4 @@
-﻿computation_units: 'Percentage'
+﻿computation_units: data.per_1000_life_births
 data_non_statistical: false
 data_show_map: false
 data_start_values: []

@@ -45,3 +45,11 @@
 3-2-2-national-comment: 'Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-02.pdf'
 3-2-2-national-deviation: ''
 3-2-2-national-introductioncomment: ''
+
+3-3-1-global-methodology: 'Broj novozaraženih HIV-om na 1000 neinficiranih, po polu, starosnoj dobi i ključnim grupama populacije definisano kao broj novozaraženih HIV-om na 1000 ljudskih godina među neinficiranih. Stopa incidencije je broj novih slučajeva u određenoj populaciji pod rizikom u određenom vremenskom periodu. Podaci o pojedincima za određen vremenski period su najbolji izvori podataka, ali su rijetko dostupni za veliki broj stanovnika. Kako bi se dobili podaci o incidenciji HIV-a, mogu se koristiti posebni dijagnostički testovi u istraživanjima ili zdravstvenim organizacijama. Incidencija HIV-a takođe se može modelirati koristeći Spectrum software.'
+3-3-1-national-methodology: 'Podaci su dobijeni korišćenjem SPECTRUM metodologije u saradnji sa UNAIDS-om (jun 2021.god) i predstavljaju All ages HIV incidence - ukupan broj novoinficiranih na 1000 neinficiranih, za sve uzraste; ne predstavlja prosto izračunavanje broja novih infekcija u odnosu na ukupan broj stanovnika.'
+3-3-1-national-datasource: Anketa domaćinstava ili ključne populacije sa HIV testiranjem, Spectrum modeliranje.
+3-3-1-national-disaggregation: Opšta populacija, ključna populacija (muškarci koji imaju sex sa muškarcima, seksualni radnici, lica koja uzimaju droge iglom, transdzender osobe, zatvorenici. Godišta (0-14, 15-24, 15-49. 50+) za ključne populacije < 25, 25+), po načinu prenosa (uključujući prenos sa majke na dijete), mjestu boravka, polu.
+3-3-1-national-comment: 'Nadzorom nad HIV-om u Crnoj Gori moguće je izračunavati broj novoregistrovanih slučajeva HIV/AIDS-a u godini na 100 000 stanovnika. Podaci se disagregiraju u odnosu na pol, uzrast, geografsku distribuciju i način prenosa virusa. U saradnji sa UNAIDS-om vršene su procjene incidencije (broj novoinficiranih na 1000) i podaci se ne mogu disagregirati po gore navedenim karakteristikama. Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-01.pdf.'
+3-3-1-national-deviation: ''
+3-3-1-national-introductioncomment: ''
