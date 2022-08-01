@@ -1,8 +1,6 @@
 1-1-1-title: 'Udio stanovništva ispod međunarodne linije siromaštva, po polu, starosti, radnom statusu i geografskoj lokaciji (urbana/ruralna)'
-1-2-1-title: 'Procenat stanovništva koje živi ispod nacionalne granice siromaštva,
-  prema polu i starosti'
-1-2-2-title: 'Udio muškaraca, žena i djece svih uzrasta koji žive u siromaštvu u svim
-  njegovim dimenzijama prema nacionalnim definicijama'
+1-2-1-title: 'Procenat stanovništva koje živi ispod nacionalne granice siromaštva, po polu i starosti'
+1-2-2-title: 'Udio muškaraca, žena i djece svih uzrasta koji žive u siromaštvu u svim svojim dimenzijama prema nacionalnim definicijama'
 1-3-1-title: 'Procenat stanovništva obuhvaćenog nivoima/sistemima socijalne zaštite,
   po polu, po izdvajanju dece, nezaposlenih, starijih, osoba sa invaliditetom, trudnica,
   novorođenčadi, žrtava povreda na radu i siromašnih i ugroženih'
@@ -289,8 +287,7 @@
   među djecom mlađom od 5 godina, prema tipu (gubljenje i prekomjerna tjelesna težina)'
 2-2-3-title: 'Prevalencija anemije kod žena starosti od 15 do 49 godina, prema statusu
   trudnoće (procenat)'
-2-3-1-title: 'Obim proizvodnje po jedinici rada po klasama veličine poljoprivrednog/pastirskog/šumarskog
-  preduzeća'
+2-3-1-title: 'Obim proizvodnje po radnoj jedinici po klasama veličine poljoprivrednih/stočarskih/šumarskih preduzeća'
 2-3-2-title: 'Prosječan prihod malih proizvođača hrane, prema polu i statusu starosjedioca'
 2-4-1-title: 'Udio poljoprivrednih površina pod produktivnom i održivom poljoprivredom'
 2-5-1-title: 'Broj biljnih i životinjskih genetičkih resursa za hranu i poljoprivredu
@@ -302,7 +299,7 @@
 2-b-1-title: 'Subvencije za izvoz poljoprivrednih proizvoda'
 2-c-1-title: 'Indikator anomalija cijena hrane'
 3-1-1-title: 'Stopa smrtnosti majki'
-3-1-2-title: 'Udio porođaja kojima prisustvuje kvalifikovano zdravstveno osoblje'
+3-1-2-title: 'Procenat porođaja kojima je prisustvovalo obučeno zdravstveno osoblje'
 3-2-1-title: 'Stopa smrtnosti ispod 5 godina'
 3-2-2-title: 'Stopa neonatalne smrtnosti'
 3-3-1-title: 'Broj novih HIV infekcija na 1 000 nezaražene populacije, prema polu,

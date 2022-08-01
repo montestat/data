@@ -7,7 +7,7 @@ graph_title: global_indicators.1-2-1-title
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.1-2-1-title
-indicator_number: '1.1.1'
+indicator_number: '1.2.1'
 national_geographical_coverage: custom.country_name
 precision:
   - unit: percentage
