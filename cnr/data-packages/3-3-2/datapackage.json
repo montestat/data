@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno novoinficiranih",
+                "na 100 000 ljudi",
+                ""
+              ]
+            },
+            "title": "Jedinica"
           },
           {
             "name": "Value",
