@@ -53,3 +53,11 @@
 3-3-1-national-comment: ''
 3-3-1-national-deviation: ''
 3-3-1-national-introductioncomment: ''
+
+3-3-2-global-methodology: 'The tuberculosis incidence per 100,000 population as defined as the estimated number of new and relapse TB cases (all forms of TB, including cases in people living with HIV) arising in a given year, expressed as a rate per 100 000 population. Estimates of incidence for each country are derived, using one or more of the following approaches depending on available data: (i) incidence = case notifications/estimated proportion of cases detected; (ii) capture-recapture modelling, (iii) incidence = prevalence/duration of condition.'
+3-3-2-national-methodology: ''
+3-3-2-national-datasource: ''
+3-3-2-national-disaggregation: ''
+3-3-2-national-comment: ''
+3-3-2-national-deviation: ''
+3-3-2-national-introductioncomment: ''
