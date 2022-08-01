@@ -45,3 +45,11 @@
 3-2-2-national-comment: ''
 3-2-2-national-deviation: ''
 3-2-2-national-introductioncomment: ''
+
+3-3-1-global-methodology: 'Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations as defined as the number of new HIV infections per 1000 person-years among the uninfected population. The incidence rate is the number of new cases per population at risk in a given time period. Longitudinal data on individuals are the best source of data but are rarely available for large populations. Special diagnostic tests in surveys or from health facilities can be used to obtain data on HIV incidence. HIV incidence is thus modelled using the Spectrum software. HIV incidence can also be modelled using the Spectrum software.'
+3-3-1-national-methodology: ''
+3-3-1-national-datasource: ''
+3-3-1-national-disaggregation: ''
+3-3-1-national-comment: ''
+3-3-1-national-deviation: ''
+3-3-1-national-introductioncomment: ''
