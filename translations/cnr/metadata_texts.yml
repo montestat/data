@@ -53,3 +53,11 @@
 3-3-1-national-comment: 'Nadzorom nad HIV-om u Crnoj Gori moguće je izračunavati broj novoregistrovanih slučajeva HIV/AIDS-a u godini na 100 000 stanovnika. Podaci se disagregiraju u odnosu na pol, uzrast, geografsku distribuciju i način prenosa virusa. U saradnji sa UNAIDS-om vršene su procjene incidencije (broj novoinficiranih na 1000) i podaci se ne mogu disagregirati po gore navedenim karakteristikama. Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-01.pdf.'
 3-3-1-national-deviation: ''
 3-3-1-national-introductioncomment: ''
+
+3-3-2-global-methodology: 'Incidenca tuberkuloze na 100.000 stanovnika, kao što je definisana kao procijenjeni broj novih slučajeva TB i TBC-a (svi oblici tuberkuloze, uključujući slučajeve kod ljudi koji žive sa HIV-om) koji nastaju u određenoj godini, izraženi kao stopa na 100 000 stanovnika. Izveštaji o učestalosti za svaku zemlju su izvedeni koristeći jedan ili više sledećih pristupa u zavisnosti od dostupnih podataka: (i) učestalost = obaveštenja o slučajevima / procenjeni procenat otkrivenih slučajeva; (ii) modeliranje capture-recapture, (iii) incidencija = prevalencija / trajanje stanja.'
+3-3-2-national-methodology: 'Podaci su dobijeni korišćenjem SPECTRUM metodologije u saradnji sa UNAIDS-om (jun 2021.god) i predstavljaju All ages HIV incidence - ukupan broj novoinficiranih na 1000 neinficiranih, za sve uzraste; ne predstavlja prosto izračunavanje broja novih infekcija u odnosu na ukupan broj stanovnika.'
+3-3-2-national-datasource: 'https://arxiv.org/ftp/arxiv/papers/1603/1603.00278.pdf'
+3-3-2-national-disaggregation: Prema zemlji, polu i starosnom dobu (djeca, odrasli).
+3-3-2-national-comment: 'Postoje 4 metode izračunavanja ovog indikatora. Treba se odlučiti za jedan. Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf'
+3-3-2-national-deviation: ''
+3-3-2-national-introductioncomment: ''
