@@ -13,3 +13,19 @@
 1-2-1-national-comment: ''
 1-2-1-national-deviation: ''
 1-2-1-national-introductioncomment: ''
+
+1-2-2-global-methodology: No established calculation methodology.
+1-2-2-national-methodology: ''
+1-2-2-national-datasource: ''
+1-2-2-national-disaggregation: ''
+1-2-2-national-comment: ''
+1-2-2-national-deviation: ''
+1-2-2-national-introductioncomment: ''
+
+3-1-2-global-methodology: 'Percentage of births attended by skilled health personnel (generally doctors, nurses or midwives) is the percentage of deliveries attended by health personnel trained in providing lifesaving obstetric care, including giving the necessary supervision, care and advice to women during pregnancy, labour and the post-partum period, conducting deliveries on their own, and caring for newborns. Traditional birth attendants, even if they receive a short training course, are not included. Computation Method: The number of women aged 15-49 with a live birth attended by a skilled health personnel (doctors, nurses or midwives) during delivery is expressed as a percentage of women aged 15-49 with a live birth in the same period.'
+3-1-2-national-methodology: ''
+3-1-2-national-datasource: ''
+3-1-2-national-disaggregation: ''
+3-1-2-national-comment: ''
+3-1-2-national-deviation: ''
+3-1-2-national-introductioncomment: ''

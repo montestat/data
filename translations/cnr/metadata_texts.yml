@@ -8,9 +8,24 @@
 
 1-2-1-global-methodology: Ovaj indikator pruža informacije o udjelu ukupnog broja stanovništva i udjelu zaposlenog dijela populacije koji žive u domaćinstvima čija je potrošnja ili doprinos po osobi (članu domaćinstva) ispod nacionalne linije siromaštva. Ovaj indikator se računa dijeljenjem ukupnog broja osoba koje žive u domaćinstvima ispod linije siromaštva (razdvojeno po polu, godinama starosti i radnom statusu) sa ukupnim brojem stanovništva (razdvojeno po polu, godinama starosti i radnom statusu).
 1-2-1-national-methodology: Stopa rizika od siromaštva predstavlja udio lica (u ukupnoj populaciji) čiji je raspoloživi ekvivalentni dohodak manji od relativne linije siromaštva, koja se nalazi na 60% od izračunate srednje vrijednosti (medijane) ekvivalentnog raspoloživog dohotka.
-1-2-1-national-datasource: Domaćinstva, Anketa o dohotku I uslovima života EU-SILC
+1-2-1-national-datasource: Domaćinstva, Anketa o dohotku i uslovima života EU-SILC
 1-2-1-national-disaggregation: Pol i godine
 1-2-1-national-comment: Ovaj indikator se računa na osnovu metodologije propisane od strane Eurostata na osnovu regulative - Regulation (EC) No 1177/2003.
 1-2-1-national-deviation: Pokazatelj se temelji na konceptu relativnog siromaštva i stopa rizika od siromaštva se računa na osnovu relativne linije siromaštva koja zavisi od srednje vrijednosti (medijane) ekvivalentnog raspoloživog dohotka. Odnosno, ta vrijednost zavisi od distribucije dohotka, tj promjenjiva je, nije data unaprijed i fiksirana u vremenu.
 1-2-1-national-introductioncomment: Od 2013. godine, Uprava za statistiku je usvojila koncept relativnog siromaštva na osnovu dohotka domaćinstva kao zvaničnu metodologiju za mjerenje siromaštva u skladu sa dinamikom koja je definisana zajedničkom pregovaračkom pozicijom za Poglavlje 18 Statistika. Uprava za statistiku je bila u obavezi da uvede EU metodologiju za praćenje siromaštva po kojoj se siromaštvo izražava relativno, u odnosu na čitavo stanovništvo Crne Gore i to na osnovu ukupnog dohotka domaćinstva. 
 
+1-2-2-global-methodology: Nema utvrđene metodologije izračunavanja.
+1-2-2-national-methodology: Stopa rizika od siromaštva ili socijalne isključenosti (AROPE) pokazuje udio lica (u ukupnoj populaciji) koji su u riziku od siromaštva ili su izrazito materijalno deprivirani ili žive u domaćinstvima veoma niskog inteziteta rada. 
+1-2-2-national-datasource: Domaćinstva, Anketa o dohotku i uslovima života EU-SILC
+1-2-2-national-disaggregation: Pol i godine
+1-2-2-national-comment: Ovaj indikator se računa na osnovu metodologije propisane od strane Eurostata na osnovu regulative - Regulation (EC) No 1177/2003.
+1-2-2-national-deviation: ''
+1-2-2-national-introductioncomment: ''
+
+3-1-2-global-methodology: 'Procenat porođaja kojima je prisustvovalo obučeno zdravsteno osoblje (uglavnom ljekari, medicinske sestre ili babice) je procenat porođaja kojima prisustvuje zdravstveni radnik obučen za pružanje spasilačke porodiljske njege, uključujući pružanje potrebnog nadzora, njege i saveta ženama tokom trudnoće i post-partum period, samostalno rukovanje porođaja i brige o novorođenčadima. Tradicionalne osobe koje nadgledaju porođaj, čak i ako dobiju kratak kurs obuke, nisu uključeni. Metoda izračunavanja: Broj žena starosne dobi od 15 do 49 godina sa živim rođenjem na kojima je prisustvovao kvalifikovani zdravstveni radnik (doktori, medicinske sestre ili babice) tokom porođaja izražava se kao procenat žena starosne dobi 15-49 godina sa živim rođenjem u istom periodu.'
+3-1-2-national-methodology: ''
+3-1-2-national-datasource: Anketiranje domaćinstava na nacionalnom nivou
+3-1-2-national-disaggregation: Za ovaj indikator, kada se podaci prikupljaju iz anketiranja domaćinstava, dostupno je razvrstavanje prema prebivalištu (urbano/ruralno), kućnim bogatstvom (kvintile) i starosti majke, geografske regije. Kada se podaci prijavljuju iz administrativnih izvora, razvrstavanje je više ograničeno i ima tendenciju da uključi samo prebivalište.
+3-1-2-national-comment: 'Globalni monitoring sprovode UNICEF i WHO. Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-02.pdf'
+3-1-2-national-deviation: ''
+3-1-2-national-introductioncomment: ''
