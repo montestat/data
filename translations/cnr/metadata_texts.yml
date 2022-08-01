@@ -29,3 +29,19 @@
 3-1-2-national-comment: 'Globalni monitoring sprovode UNICEF i WHO. Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-02.pdf'
 3-1-2-national-deviation: ''
 3-1-2-national-introductioncomment: ''
+
+3-2-1-global-methodology: 'Stopa smrtnosti djece ispod pet godina je verovatnoća umiranja djeteta rođenog u određenoj godini ili u periodu prije dostizanja starosne dobi od 5 godina, ako se podvrgne starosnoj specifičnoj smrtnosti tog perioda, izraženom na 1000 živorođenih.'
+3-2-1-national-methodology: ''
+3-2-1-national-datasource: Gradjanski registri, popis stanovnistva, ankete domaćinstava.
+3-2-1-national-disaggregation: Može se razvrstati po polu, starosnom dobu, kvintil bogatstva, mjesto prebivališta, obrazovanje majke. Razvrstani podaci nisu uvijek dostupni.
+3-2-1-national-comment: 'Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-01.pdf'
+3-2-1-national-deviation: ''
+3-2-1-national-introductioncomment: ''
+
+3-2-2-global-methodology: 'Stopa smrtnosti novorođenčadi je verovatnoća da će dijete rođeno u određenoj godini ili periodu umrjeti tokom prvih 28 završenih dana života, ukoliko se podvrgne stopama mortaliteta specifičnom za uzrast u tom periodu, izraženo na 1000 živorođenih.'
+3-2-2-national-methodology: ''
+3-2-2-national-datasource: Gradjanski registri, popis stanovnistva, ankete domaćinstava.
+3-2-2-national-disaggregation: Može se razvrstati po polu, starosnom dobu, kvintil bogatstva, mjesto prebivališta, obrazovanje majke. Razvrstani podaci nisu uvijek dostupni.
+3-2-2-national-comment: 'Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-02.pdf'
+3-2-2-national-deviation: ''
+3-2-2-national-introductioncomment: ''
