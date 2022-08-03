@@ -18,3 +18,12 @@ total_infected: ukupno novoinficiranih
 per_1000_uninfected_population: ukupno novoinficiranih na 1000 neinficiranih
 per_100000_population: na 100 000 ljudi
 per_1000_women: na 1000 žena
+number of public health workers: Broj ljekara
+number of nurses: Broj medicinskih sestara i babica
+number of dental staff: Broj stomatološkog osoblja
+number of pharmaceutical staff: Broj farmaceutskog osoblja
+population: Populacija
+density of health workers: Gustina ljekara
+density of nurses: Gustina medicinskih sestara i babica
+density of dental staff: Gustina stomatološkog osoblja
+density of pharmaceutical staff: Gustina farmaceutskog osoblja
