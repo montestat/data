@@ -12,8 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 1000 women",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Roma settlements",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 10-14 years",
+                "aged 15-19 years",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",
