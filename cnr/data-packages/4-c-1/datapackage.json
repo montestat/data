@@ -12,12 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj nastavnika u predškolskom, osnovnom, opšte srednjem obrazovanju i opšteobrazovnim predmetima stručnog obrazovanja koji su pohađali barem minimalnu organizovanu obuku nastavnika (npr. pedagošku obuku) prije zaposlenja ili na radnom mjestu potrebnu za izvođenje nastave na odgovarajućem nivou u datoj zemlji",
+                "Broj nastavnika u srednjem stručnom obrazovanju koji su pohađali barem minimalnu organizovanu obuku nastavnika (npr. pedagošku obuku) prije zaposlenja ili na radnom mjestu potrebnu za izvođenje nastave na odgovarajućem nivou u datoj zemlji",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

@@ -12,12 +12,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "razredi 2/3",
+                "osnovna škola",
+                "srednja škola",
+                ""
+              ]
+            },
+            "title": "Starost"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Žene",
+                "Muškarci",
+                ""
+              ]
+            },
+            "title": "Pol"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "čitanje",
+                "matematika",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

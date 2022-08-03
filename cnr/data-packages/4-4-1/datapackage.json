@@ -12,8 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mladi",
+                "odrasli",
+                ""
+              ]
+            },
+            "title": "Starost"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prenos datoteka između računara ili drugih uređaja",
+                "Instaliranje softvera ili aplikacija",
+                "Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",
+                "Kopiranje ili premještanje datoteka ili foldera",
+                "Korišćenje softvera za obradu teksta",
+                "presentations",
+                "Korišćenje softvera za tabelarnu obradu podataka",
+                "Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",
+                "photos",
+                "programming",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

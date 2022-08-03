@@ -12,7 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "youth",
+                "adult",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "transfer_files",
+                "install_software",
+                "change_settings",
+                "copy_files",
+                "word_processing",
+                "presentations",
+                "spread_sheets",
+                "advanced_spread_sheets",
+                "photos",
+                "programming",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

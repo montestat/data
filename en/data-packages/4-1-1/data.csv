@@ -1,1 +1,61 @@
-Year,Value
+Year,Units,Age,Sex,Category,Value
+2016,total,grades 2/3,Female,reading,7538
+2017,total,grades 2/3,Female,reading,7567
+2018,total,grades 2/3,Female,reading,7690
+2019,total,grades 2/3,Female,reading,7435
+2020,total,grades 2/3,Female,reading,7308
+2021,total,grades 2/3,Female,reading,7204
+2016,total,grades 2/3,Female,mathematics,7538
+2017,total,grades 2/3,Female,mathematics,7567
+2018,total,grades 2/3,Female,mathematics,7690
+2019,total,grades 2/3,Female,mathematics,7435
+2020,total,grades 2/3,Female,mathematics,7308
+2021,total,grades 2/3,Female,mathematics,7204
+2016,total,grades 2/3,Male,reading,8421
+2017,total,grades 2/3,Male,reading,8451
+2018,total,grades 2/3,Male,reading,8491
+2019,total,grades 2/3,Male,reading,8094
+2020,total,grades 2/3,Male,reading,7882
+2021,total,grades 2/3,Male,reading,7768
+2016,total,grades 2/3,Male,mathematics,8421
+2017,total,grades 2/3,Male,mathematics,8451
+2018,total,grades 2/3,Male,mathematics,8491
+2019,total,grades 2/3,Male,mathematics,8094
+2020,total,grades 2/3,Male,mathematics,7882
+2021,total,grades 2/3,Male,mathematics,7768
+2016,total,primary school,Female,reading,3754
+2017,total,primary school,Female,reading,3696
+2018,total,primary school,Female,reading,3540
+2019,total,primary school,Female,reading,3447
+2020,total,primary school,Female,reading,3303
+2016,total,primary school,Female,mathematics,3754
+2017,total,primary school,Female,mathematics,3696
+2018,total,primary school,Female,mathematics,3540
+2019,total,primary school,Female,mathematics,3447
+2020,total,primary school,Female,mathematics,3303
+2016,total,primary school,Male,reading,3947
+2017,total,primary school,Male,reading,4051
+2018,total,primary school,Male,reading,3810
+2019,total,primary school,Male,reading,3531
+2020,total,primary school,Male,reading,3682
+2016,total,primary school,Male,mathematics,3947
+2017,total,primary school,Male,mathematics,4051
+2018,total,primary school,Male,mathematics,3810
+2019,total,primary school,Male,mathematics,3531
+2020,total,primary school,Male,mathematics,3682
+2016,total,lower secondary school,Female,reading,3603
+2017,total,lower secondary school,Female,reading,3185
+2018,total,lower secondary school,Female,reading,3110
+2019,total,lower secondary school,Female,reading,3209
+2016,total,lower secondary school,Female,mathematics,3603
+2017,total,lower secondary school,Female,mathematics,3185
+2018,total,lower secondary school,Female,mathematics,3110
+2019,total,lower secondary school,Female,mathematics,3209
+2016,total,lower secondary school,Male,reading,3595
+2017,total,lower secondary school,Male,reading,3235
+2018,total,lower secondary school,Male,reading,3238
+2019,total,lower secondary school,Male,reading,3200
+2016,total,lower secondary school,Male,mathematics,3595
+2017,total,lower secondary school,Male,mathematics,3235
+2018,total,lower secondary school,Male,mathematics,3238
+2019,total,lower secondary school,Male,mathematics,3200
