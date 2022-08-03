@@ -36,6 +36,38 @@
       "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
+      "path": "3-a-1/data.csv",
+      "name": "3-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+    },
+    {
       "path": "3-7-1/data.csv",
       "name": "3-7-1",
       "profile": "tabular-data-resource",
@@ -151,6 +183,57 @@
         ]
       },
       "title": "Proportion of births attended by skilled health personnel"
+    },
+    {
+      "path": "3-c-1/data.csv",
+      "name": "3-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "per_1000_population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number of public health workers",
+                "number of nurses",
+                "number of dental staff",
+                "number of pharmaceutical staff",
+                "population",
+                "density of health workers",
+                "density of nurses",
+                "density of dental staff",
+                "density of pharmaceutical staff",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Health worker density and distribution"
     },
     {
       "path": "3-2-1/data.csv",
@@ -2430,28 +2513,6 @@
         ]
       },
       "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
-    },
-    {
-      "path": "3-c-1/data.csv",
-      "name": "3-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Health worker density and distribution"
     },
     {
       "path": "5-c-1/data.csv",
@@ -5268,28 +5329,6 @@
         ]
       },
       "title": "Proportion of the population who are refugees, by country of origin"
-    },
-    {
-      "path": "3-a-1/data.csv",
-      "name": "3-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
       "path": "13-1-2/data.csv",

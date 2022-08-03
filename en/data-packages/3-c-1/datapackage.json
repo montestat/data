@@ -12,8 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "per_1000_population",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number of public health workers",
+                "number of nurses",
+                "number of dental staff",
+                "number of pharmaceutical staff",
+                "population",
+                "density of health workers",
+                "density of nurses",
+                "density of dental staff",
+                "density of pharmaceutical staff",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

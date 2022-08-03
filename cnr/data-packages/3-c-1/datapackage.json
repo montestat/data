@@ -12,8 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "per_1000_population",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj ljekara",
+                "Broj medicinskih sestara i babica",
+                "Broj stomatološkog osoblja",
+                "Broj farmaceutskog osoblja",
+                "Populacija",
+                "Gustina ljekara",
+                "Gustina medicinskih sestara i babica",
+                "Gustina stomatološkog osoblja",
+                "Gustina farmaceutskog osoblja",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",
