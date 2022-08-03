@@ -558,6 +558,64 @@
       "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
+      "path": "5-3-1/data.csv",
+      "name": "5-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Romska naselja",
+                ""
+              ]
+            },
+            "title": "Lokacija"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "manje od 15 godina",
+                "manje od 18 godina",
+                ""
+              ]
+            },
+            "title": "Starost"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+    },
+    {
       "path": "3-2-1/data.csv",
       "name": "3-2-1",
       "profile": "tabular-data-resource",
@@ -2730,30 +2788,6 @@
         ]
       },
       "title": "Total value of inward and outward illicit financial flows (in current United States dollars)"
-    },
-    {
-      "path": "5-3-1/data.csv",
-      "name": "5-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
       "path": "11-3-2/data.csv",

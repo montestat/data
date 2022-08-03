@@ -1,6 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
 adult,10,1
+aged 0-15 years,2,1
 aged 0-17 years,3,3
+aged 0-18 years,2,1
 aged 10-14 years,1,1
 aged 15-19 years,1,1
 aged 15-24 years,3,1

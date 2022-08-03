@@ -12,8 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Romska naselja",
+                ""
+              ]
+            },
+            "title": "Lokacija"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "manje od 15 godina",
+                "manje od 18 godina",
+                ""
+              ]
+            },
+            "title": "Starost"
           },
           {
             "name": "Value",

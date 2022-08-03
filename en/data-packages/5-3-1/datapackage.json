@@ -12,8 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Roma settlements",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "less than 15 years",
+                "less than 18 years",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",

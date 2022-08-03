@@ -1,1 +1,5 @@
-Year,Value
+Year,Units,Lokacija,Starost,Value
+2018,%,,manje od 15 godina,1.9
+2018,%,,manje od 18 godina,5.8
+2018,%,Romska naselja,manje od 15 godina,21.5
+2018,%,Romska naselja,manje od 18 godina,60.0

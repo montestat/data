@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2018,2018,2018,2018],"Units":["%","%","%","%"],"Lokacija":[null,null,"Romska naselja","Romska naselja"],"Starost":["manje od 15 godina","manje od 18 godina","manje od 15 godina","manje od 18 godina"],"Value":[1.9,5.8,21.5,60.0]},"edges":{"From":["Starost"],"To":["Lokacija"]}}

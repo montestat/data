@@ -512,6 +512,59 @@
       "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
+      "path": "5-3-1/data.csv",
+      "name": "5-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Roma settlements",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 0-15 years",
+                "aged 0-18 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+    },
+    {
       "path": "3-2-1/data.csv",
       "name": "3-2-1",
       "profile": "tabular-data-resource",
@@ -2503,28 +2556,6 @@
         ]
       },
       "title": "Total value of inward and outward illicit financial flows (in current United States dollars)"
-    },
-    {
-      "path": "5-3-1/data.csv",
-      "name": "5-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
       "path": "11-3-2/data.csv",

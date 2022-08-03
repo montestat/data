@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2018,2018,2018,2018],"Units":["%","%","%","%"],"Location":[null,null,"Roma settlements","Roma settlements"],"Age":["less than 15 years","less than 18 years","less than 15 years","less than 18 years"],"Value":[1.9,5.8,21.5,60.0]},"edges":{"From":["Age"],"To":["Location"]}}
