@@ -8,12 +8,15 @@ Female: Žene
 Location: Lokacija
 Count: Brojnost
 Density: Gustina
+Category: Kategorija
 aged 0-17 years: Manje od 18 godina
 aged 18-24 years: 18-24 godine
 aged 25-54 years: 25-54 godine
 aged 55-64 years: 55-64 godine
 aged over 65 years: 65 ili više godina
 aged 18-64 years: 18-64 godine
+aged 15-24 years: 15-24 godine
+aged 25-64 years: 25-64 godine
 Roma settlements: Romska naselja
 per_1000_life_births: na 1000 rođenih
 total_infected: ukupno novoinficiranih
@@ -27,3 +30,22 @@ pharmaceutical staff: farmaceutsko osoblje
 population: populacija
 total: ukupno
 per_1000_population: na 1000 ljudi
+class_2_3: razredi 2/3
+primary_school: osnovna škola
+lower_high_school: srednja škola
+reading: čitanje
+maths: matematika
+youth: mladi
+adult: odrasli
+transfer_files: Prenos datoteka između računara ili drugih uređaja
+install_software: Instaliranje softvera ili aplikacija
+change_settings: Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe
+copy_files: Kopiranje ili premještanje datoteka ili foldera
+word_processing: Korišćenje softvera za obradu teksta
+prezentacije: Kreiranje prezentacija ili dokumenata koji integrišu tekst, slike, tabele ili grafikone
+spread_sheets: Korišćenje softvera za tabelarnu obradu podataka
+advanced_spread_sheets: Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona
+fotografije: korišćenje softvera za uređivanje fotografija, video ili audio datoteka
+programiranje: Pisanje koda u programskom jeziku
+teacher_class_1: Broj nastavnika u predškolskom, osnovnom, opšte srednjem obrazovanju i opšteobrazovnim predmetima stručnog obrazovanja koji su pohađali barem minimalnu organizovanu obuku nastavnika (npr. pedagošku obuku) prije zaposlenja ili na radnom mjestu potrebnu za izvođenje nastave na odgovarajućem nivou u datoj zemlji
+teacher_class_2: Broj nastavnika u srednjem stručnom obrazovanju koji su pohađali barem minimalnu organizovanu obuku nastavnika (npr. pedagošku obuku) prije zaposlenja ili na radnom mjestu potrebnu za izvođenje nastave na odgovarajućem nivou u datoj zemlji
