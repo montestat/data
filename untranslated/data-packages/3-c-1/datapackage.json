@@ -26,19 +26,28 @@
             }
           },
           {
-            "name": "Category",
+            "name": "Count",
             "type": "string",
             "constraints": {
               "enum": [
-                "number of public health workers",
-                "number of nurses",
-                "number of dental staff",
-                "number of pharmaceutical staff",
+                "health workers",
+                "nurses",
+                "dental staff",
+                "pharmaceutical staff",
                 "population",
-                "density of health workers",
-                "density of nurses",
-                "density of dental staff",
-                "density of pharmaceutical staff",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Density",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "health workers",
+                "nurses",
+                "dental staff",
+                "pharmaceutical staff",
                 ""
               ]
             }

@@ -1,100 +1,100 @@
-Year,Units,Category,Value
-2010,total,number of public health workers,1260.0
-2011,total,number of public health workers,1241.0
-2012,total,number of public health workers,1257.0
-2013,total,number of public health workers,1326.0
-2014,total,number of public health workers,1350.0
-2015,total,number of public health workers,1466.0
-2016,total,number of public health workers,1589.0
-2017,total,number of public health workers,1650.0
-2018,total,number of public health workers,1720.0
-2019,total,number of public health workers,1708.0
-2020,total,number of public health workers,1721.0
-2010,total,number of nurses,3298.0
-2011,total,number of nurses,3204.0
-2012,total,number of nurses,3090.0
-2013,total,number of nurses,3377.0
-2014,total,number of nurses,3413.0
-2015,total,number of nurses,3352.0
-2016,total,number of nurses,3410.0
-2017,total,number of nurses,3200.0
-2018,total,number of nurses,3283.0
-2019,total,number of nurses,3302.0
-2020,total,number of nurses,3374.0
-2010,total,number of dental staff,26.0
-2011,total,number of dental staff,24.0
-2012,total,number of dental staff,25.0
-2013,total,number of dental staff,25.0
-2014,total,number of dental staff,25.0
-2015,total,number of dental staff,25.0
-2016,total,number of dental staff,30.0
-2017,total,number of dental staff,29.0
-2018,total,number of dental staff,29.0
-2019,total,number of dental staff,32.0
-2020,total,number of dental staff,31.0
-2010,total,number of pharmaceutical staff,91.0
-2011,total,number of pharmaceutical staff,92.0
-2012,total,number of pharmaceutical staff,93.0
-2013,total,number of pharmaceutical staff,105.0
-2014,total,number of pharmaceutical staff,106.0
-2015,total,number of pharmaceutical staff,109.0
-2016,total,number of pharmaceutical staff,108.0
-2017,total,number of pharmaceutical staff,109.0
-2018,total,number of pharmaceutical staff,120.0
-2019,total,number of pharmaceutical staff,127.0
-2020,total,number of pharmaceutical staff,143.0
-2010,total,population,619428.0
-2011,total,population,620029.0
-2012,total,population,620029.0
-2013,total,population,620029.0
-2014,total,population,620029.0
-2015,total,population,620029.0
-2016,total,population,620029.0
-2017,total,population,620029.0
-2018,total,population,620029.0
-2019,total,population,620029.0
-2020,total,population,620029.0
-2010,per_1000_population,density of health workers,203.41
-2011,per_1000_population,density of health workers,200.15
-2012,per_1000_population,density of health workers,202.73
-2013,per_1000_population,density of health workers,213.86
-2014,per_1000_population,density of health workers,217.73
-2015,per_1000_population,density of health workers,236.44
-2016,per_1000_population,density of health workers,256.28
-2017,per_1000_population,density of health workers,266.12
-2018,per_1000_population,density of health workers,277.41
-2019,per_1000_population,density of health workers,275.47
-2020,per_1000_population,density of health workers,277.57
-2010,per_1000_population,density of nurses,532.43
-2011,per_1000_population,density of nurses,516.75
-2012,per_1000_population,density of nurses,498.36
-2013,per_1000_population,density of nurses,544.65
-2014,per_1000_population,density of nurses,550.46
-2015,per_1000_population,density of nurses,540.62
-2016,per_1000_population,density of nurses,549.97
-2017,per_1000_population,density of nurses,516.1
-2018,per_1000_population,density of nurses,529.49
-2019,per_1000_population,density of nurses,532.56
-2020,per_1000_population,density of nurses,544.17
-2010,per_1000_population,density of dental staff,4.2
-2011,per_1000_population,density of dental staff,3.87
-2012,per_1000_population,density of dental staff,4.03
-2013,per_1000_population,density of dental staff,4.03
-2014,per_1000_population,density of dental staff,4.03
-2015,per_1000_population,density of dental staff,4.03
-2016,per_1000_population,density of dental staff,4.84
-2017,per_1000_population,density of dental staff,4.68
-2018,per_1000_population,density of dental staff,4.68
-2019,per_1000_population,density of dental staff,5.16
-2020,per_1000_population,density of dental staff,5.0
-2010,per_1000_population,density of pharmaceutical staff,14.69
-2011,per_1000_population,density of pharmaceutical staff,14.84
-2012,per_1000_population,density of pharmaceutical staff,15.0
-2013,per_1000_population,density of pharmaceutical staff,16.93
-2014,per_1000_population,density of pharmaceutical staff,17.1
-2015,per_1000_population,density of pharmaceutical staff,17.58
-2016,per_1000_population,density of pharmaceutical staff,17.42
-2017,per_1000_population,density of pharmaceutical staff,17.58
-2018,per_1000_population,density of pharmaceutical staff,19.35
-2019,per_1000_population,density of pharmaceutical staff,20.48
-2020,per_1000_population,density of pharmaceutical staff,23.06
+Year,Units,Count,Density,Value
+2010,total,health workers,,1260.0
+2011,total,health workers,,1241.0
+2012,total,health workers,,1257.0
+2013,total,health workers,,1326.0
+2014,total,health workers,,1350.0
+2015,total,health workers,,1466.0
+2016,total,health workers,,1589.0
+2017,total,health workers,,1650.0
+2018,total,health workers,,1720.0
+2019,total,health workers,,1708.0
+2020,total,health workers,,1721.0
+2010,total,nurses,,3298.0
+2011,total,nurses,,3204.0
+2012,total,nurses,,3090.0
+2013,total,nurses,,3377.0
+2014,total,nurses,,3413.0
+2015,total,nurses,,3352.0
+2016,total,nurses,,3410.0
+2017,total,nurses,,3200.0
+2018,total,nurses,,3283.0
+2019,total,nurses,,3302.0
+2020,total,nurses,,3374.0
+2010,total,dental staff,,26.0
+2011,total,dental staff,,24.0
+2012,total,dental staff,,25.0
+2013,total,dental staff,,25.0
+2014,total,dental staff,,25.0
+2015,total,dental staff,,25.0
+2016,total,dental staff,,30.0
+2017,total,dental staff,,29.0
+2018,total,dental staff,,29.0
+2019,total,dental staff,,32.0
+2020,total,dental staff,,31.0
+2010,total,pharmaceutical staff,,91.0
+2011,total,pharmaceutical staff,,92.0
+2012,total,pharmaceutical staff,,93.0
+2013,total,pharmaceutical staff,,105.0
+2014,total,pharmaceutical staff,,106.0
+2015,total,pharmaceutical staff,,109.0
+2016,total,pharmaceutical staff,,108.0
+2017,total,pharmaceutical staff,,109.0
+2018,total,pharmaceutical staff,,120.0
+2019,total,pharmaceutical staff,,127.0
+2020,total,pharmaceutical staff,,143.0
+2010,total,population,,619428.0
+2011,total,population,,620029.0
+2012,total,population,,620029.0
+2013,total,population,,620029.0
+2014,total,population,,620029.0
+2015,total,population,,620029.0
+2016,total,population,,620029.0
+2017,total,population,,620029.0
+2018,total,population,,620029.0
+2019,total,population,,620029.0
+2020,total,population,,620029.0
+2010,per 1000 population,,health workers,203.41
+2011,per 1000 population,,health workers,200.15
+2012,per 1000 population,,health workers,202.73
+2013,per 1000 population,,health workers,213.86
+2014,per 1000 population,,health workers,217.73
+2015,per 1000 population,,health workers,236.44
+2016,per 1000 population,,health workers,256.28
+2017,per 1000 population,,health workers,266.12
+2018,per 1000 population,,health workers,277.41
+2019,per 1000 population,,health workers,275.47
+2020,per 1000 population,,health workers,277.57
+2010,per 1000 population,,nurses,532.43
+2011,per 1000 population,,nurses,516.75
+2012,per 1000 population,,nurses,498.36
+2013,per 1000 population,,nurses,544.65
+2014,per 1000 population,,nurses,550.46
+2015,per 1000 population,,nurses,540.62
+2016,per 1000 population,,nurses,549.97
+2017,per 1000 population,,nurses,516.1
+2018,per 1000 population,,nurses,529.49
+2019,per 1000 population,,nurses,532.56
+2020,per 1000 population,,nurses,544.17
+2010,per 1000 population,,dental staff,4.2
+2011,per 1000 population,,dental staff,3.87
+2012,per 1000 population,,dental staff,4.03
+2013,per 1000 population,,dental staff,4.03
+2014,per 1000 population,,dental staff,4.03
+2015,per 1000 population,,dental staff,4.03
+2016,per 1000 population,,dental staff,4.84
+2017,per 1000 population,,dental staff,4.68
+2018,per 1000 population,,dental staff,4.68
+2019,per 1000 population,,dental staff,5.16
+2020,per 1000 population,,dental staff,5.0
+2010,per 1000 population,,pharmaceutical staff,14.69
+2011,per 1000 population,,pharmaceutical staff,14.84
+2012,per 1000 population,,pharmaceutical staff,15.0
+2013,per 1000 population,,pharmaceutical staff,16.93
+2014,per 1000 population,,pharmaceutical staff,17.1
+2015,per 1000 population,,pharmaceutical staff,17.58
+2016,per 1000 population,,pharmaceutical staff,17.42
+2017,per 1000 population,,pharmaceutical staff,17.58
+2018,per 1000 population,,pharmaceutical staff,19.35
+2019,per 1000 population,,pharmaceutical staff,20.48
+2020,per 1000 population,,pharmaceutical staff,23.06
