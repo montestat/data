@@ -1,8 +1,8 @@
-SDG_GOAL__GLOBAL: global_goals.3-title
+SDG_GOAL__GLOBAL: global_goals.4-title
 SDG_TARGET__GLOBAL: global_targets.4-1-title
 SDG_INDICATOR__GLOBAL: global_indicators.4-1-1-title
 methodology_global: metadata_texts.4-1-1-global-methodology
-SDG_GOAL: global_goals.3-title
+SDG_GOAL: global_goals.4-title
 SDG_TARGET: global_targets.4-1-title
 SDG_INDICATOR: global_indicators.4-1-1-title
 methodology_national: metadata_texts.4-1-1-national-methodology
