@@ -303,9 +303,9 @@
 3-2-1-title: 'Stopa smrtnosti djece ispod 5 godina'
 3-2-2-title: 'Stopa smrtnosti novorođenčadi'
 3-3-1-title: 'Broj HIV infekcija u odnosu na 1000 neinficiranih, po polu, starosnoj dobi i ključnim grupama populacije'
-3-3-2-title: 'Incidencija tuberkuloze na 100 000 stanovnika'
-3-3-3-title: 'Učestalost malarije na 1 000 stanovnika'
-3-3-4-title: 'Incidencija hepatitisa B na 100 000 stanovnika'
+3-3-2-title: 'Incidencija tuberkuloze na 100000 stanovnika'
+3-3-3-title: 'Incidencija malarije na 1000 stanovnika'
+3-3-4-title: 'Incidencija hepatitisa B na 100000 stanovnika'
 3-3-5-title: 'Broj ljudi kojima su potrebne intervencije protiv zanemarenih tropskih
   bolesti'
 3-4-1-title: 'Stopa smrtnosti koja se pripisuje kardiovaskularnim bolestima, raku,
@@ -316,9 +316,8 @@
 3-5-2-title: 'Potrošnja alkohola po glavi stanovnika (starosti od 15 godina i više)
   u toku kalendarske godine u litrima čistog alkohola'
 3-6-1-title: 'Stopa smrtnosti od povreda u saobraćaju'
-3-7-1-title: 'Udio žena u reproduktivnom dobu (15-49 godina) koje imaju potrebu za
-  planiranjem porodice savremenim metodama'
-3-7-2-title: 'Stopa nataliteta adolescenata (10-14 godina; 15-19 godina) na 1 000
+3-7-1-title: 'Udio žena reproduktivne dobi (starosti 15-49 godina) čija je potreba za planiranjem porodice zadovoljena modernim metodama'
+3-7-2-title: 'Stopa nataliteta adolescenata (10-14 godina; 15-19 godina) na 1000
   žena u toj starosnoj grupi'
 3-8-1-title: 'Pokrivenost osnovnih zdravstvenih usluga'
 3-8-2-title: 'Udio stanovništva sa velikim izdacima domaćinstva za zdravstvo kao udio
