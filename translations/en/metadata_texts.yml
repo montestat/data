@@ -86,6 +86,22 @@
 3-7-2-national-deviation: ''
 3-7-2-national-introductioncomment: ''
 
+3-a-1-global-methodology: 'The indicator is defined as the percentage of the population aged 15 years and over who currently use any tobacco product (smoked and/or smokeless tobacco) on a daily or non-daily basis.'
+3-a-1-national-methodology: ''
+3-a-1-national-datasource: ''
+3-a-1-national-disaggregation: ''
+3-a-1-national-comment: ''
+3-a-1-national-deviation: ''
+3-a-1-national-introductioncomment: ''
+
+3-c-1-global-methodology: 'Though, traditionally, this indicator has been estimated using 2 measurements: density of physicians, and density of nursing and midwifery personnel. In the context of the SDG agenda, the dataset is expanded to physicians, nursing personnel, midwifery personnel, dentistry personnel and pharmaceutical personnel. The dataset is planned to progressively move to cover all health cadres. The method of estimation for number of physicians (including generalist and specialist medical practitioners) depending on the nature of the original data source may include practising physicians only or all registered physicians. The figures for number of nursing and midwifery include nursing personnel and midwifery personnel, whenever available. In many countries, nurses trained with midwifery skills are counted and reported as nurses. This makes the distinction between nursing personnel and midwifery personnel difficult to draw. The figures for number of dentistry personnel include dentists, dental technicians/assistants and related occupations. Due to variability of data sources, the professional-level and associate-level occupations may not always be distinguishable. The figures for number of pharmaceutical personnel include pharmacists, pharmaceutical technicians/assistants and related occupations. Due to variability of data sources, the professionallevel and associate-level occupations may not always be distinguishable. In general, the denominator data for workforce density (i.e. national population estimates) are obtained from the United Nations Population Division's World Population Prospects database. In cases where the official health workforce report provides density indicators instead of counts, estimates of the stock were then calculated using the population estimated from the United Nations Population Division's World population prospects database (2015).'
+3-c-1-national-methodology: ''
+3-c-1-national-datasource: ''
+3-c-1-national-disaggregation: ''
+3-c-1-national-comment: ''
+3-c-1-national-deviation: ''
+3-c-1-national-introductioncomment: ''
+
 -global-methodology: ''
 -national-methodology: ''
 -national-datasource: ''

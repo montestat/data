@@ -18,3 +18,12 @@ total_infected: total infected
 per_1000_uninfected_population: per 1000 uninfected population
 per_100000_population: per 100 000 population
 per_1000_women: per 1000 women
+number of public health workers: number of public health workers
+number of nurses: number of nurses
+number of dental staff: number of dental staff
+number of pharmaceutical staff: number of pharmaceutical staff
+population: population
+density of health workers: density of health workers
+density of nurses: density of nurses
+density of dental staff: density of dental staff
+density of pharmaceutical staff: density of pharmaceutical staff
