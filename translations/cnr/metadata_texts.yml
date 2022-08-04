@@ -17,91 +17,91 @@
 1-2-2-national-datasource: 'Domaćinstva, Anketa o dohotku i uslovima života EU-SILC'
 1-2-2-national-disaggregation: 'Pol i godine'
 1-2-2-national-comment: 'Ovaj indikator se računa na osnovu metodologije propisane od strane Eurostata na osnovu regulative - Regulation (EC) No 1177/2003.'
-1-2-2-national-deviation: ''
-1-2-2-national-introductioncomment: ''
+1-2-2-national-deviation: ""
+1-2-2-national-introductioncomment: ""
 3-1-2-global-methodology: 'Procenat porođaja kojima je prisustvovalo obučeno zdravsteno osoblje (uglavnom ljekari, medicinske sestre ili babice) je procenat porođaja kojima prisustvuje zdravstveni radnik obučen za pružanje spasilačke porodiljske njege, uključujući pružanje potrebnog nadzora, njege i saveta ženama tokom trudnoće i post-partum period, samostalno rukovanje porođaja i brige o novorođenčadima. Tradicionalne osobe koje nadgledaju porođaj, čak i ako dobiju kratak kurs obuke, nisu uključeni. Metoda izračunavanja: Broj žena starosne dobi od 15 do 49 godina sa živim rođenjem na kojima je prisustvovao kvalifikovani zdravstveni radnik (doktori, medicinske sestre ili babice) tokom porođaja izražava se kao procenat žena starosne dobi 15-49 godina sa živim rođenjem u istom periodu.'
-3-1-2-national-methodology: ''
+3-1-2-national-methodology: ""
 3-1-2-national-datasource: 'Anketiranje domaćinstava na nacionalnom nivou'
 3-1-2-national-disaggregation: 'Za ovaj indikator, kada se podaci prikupljaju iz anketiranja domaćinstava, dostupno je razvrstavanje prema prebivalištu (urbano/ruralno), kućnim bogatstvom (kvintile) i starosti majke, geografske regije. Kada se podaci prijavljuju iz administrativnih izvora, razvrstavanje je više ograničeno i ima tendenciju da uključi samo prebivalište.'
 3-1-2-national-comment: 'Globalni monitoring sprovode UNICEF i WHO. Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-02.pdf'
-3-1-2-national-deviation: ''
-3-1-2-national-introductioncomment: ''
+3-1-2-national-deviation: ""
+3-1-2-national-introductioncomment: ""
 3-2-1-global-methodology: 'Stopa smrtnosti djece ispod pet godina je verovatnoća umiranja djeteta rođenog u određenoj godini ili u periodu prije dostizanja starosne dobi od 5 godina, ako se podvrgne starosnoj specifičnoj smrtnosti tog perioda, izraženom na 1000 živorođenih.'
-3-2-1-national-methodology: ''
+3-2-1-national-methodology: ""
 3-2-1-national-datasource: Gradjanski registri, popis stanovnistva, ankete domaćinstava.'
 3-2-1-national-disaggregation: Može se razvrstati po polu, starosnom dobu, kvintil bogatstva, mjesto prebivališta, obrazovanje majke. Razvrstani podaci nisu uvijek dostupni.'
 3-2-1-national-comment: 'Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-01.pdf'
-3-2-1-national-deviation: ''
-3-2-1-national-introductioncomment: ''
+3-2-1-national-deviation: ""
+3-2-1-national-introductioncomment: ""
 3-2-2-global-methodology: 'Stopa smrtnosti novorođenčadi je verovatnoća da će dijete rođeno u određenoj godini ili periodu umrjeti tokom prvih 28 završenih dana života, ukoliko se podvrgne stopama mortaliteta specifičnom za uzrast u tom periodu, izraženo na 1000 živorođenih.'
-3-2-2-national-methodology: ''
+3-2-2-national-methodology: ""
 3-2-2-national-datasource: 'Gradjanski registri, popis stanovnistva, ankete domaćinstava.'
 3-2-2-national-disaggregation: 'Može se razvrstati po polu, starosnom dobu, kvintil bogatstva, mjesto prebivališta, obrazovanje majke. Razvrstani podaci nisu uvijek dostupni.'
 3-2-2-national-comment: 'Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-02.pdf'
-3-2-2-national-deviation: ''
-3-2-2-national-introductioncomment: ''
+3-2-2-national-deviation: ""
+3-2-2-national-introductioncomment: ""
 3-3-1-global-methodology: 'Broj novozaraženih HIV-om na 1000 neinficiranih, po polu, starosnoj dobi i ključnim grupama populacije definisano kao broj novozaraženih HIV-om na 1000 ljudskih godina među neinficiranih. Stopa incidencije je broj novih slučajeva u određenoj populaciji pod rizikom u određenom vremenskom periodu. Podaci o pojedincima za određen vremenski period su najbolji izvori podataka, ali su rijetko dostupni za veliki broj stanovnika. Kako bi se dobili podaci o incidenciji HIV-a, mogu se koristiti posebni dijagnostički testovi u istraživanjima ili zdravstvenim organizacijama. Incidencija HIV-a takođe se može modelirati koristeći Spectrum software.'
 3-3-1-national-methodology: 'Podaci su dobijeni korišćenjem SPECTRUM metodologije u saradnji sa UNAIDS-om (jun 2021.god) i predstavljaju All ages HIV incidence - ukupan broj novoinficiranih na 1000 neinficiranih, za sve uzraste; ne predstavlja prosto izračunavanje broja novih infekcija u odnosu na ukupan broj stanovnika.'
 3-3-1-national-datasource: 'Anketa domaćinstava ili ključne populacije sa HIV testiranjem, Spectrum modeliranje.'
 3-3-1-national-disaggregation: 'Opšta populacija, ključna populacija (muškarci koji imaju sex sa muškarcima, seksualni radnici, lica koja uzimaju droge iglom, transdzender osobe, zatvorenici. Godišta (0-14, 15-24, 15-49. 50+) za ključne populacije < 25, 25+), po načinu prenosa (uključujući prenos sa majke na dijete), mjestu boravka, polu.'
 3-3-1-national-comment: 'Nadzorom nad HIV-om u Crnoj Gori moguće je izračunavati broj novoregistrovanih slučajeva HIV/AIDS-a u godini na 100 000 stanovnika. Podaci se disagregiraju u odnosu na pol, uzrast, geografsku distribuciju i način prenosa virusa. U saradnji sa UNAIDS-om vršene su procjene incidencije (broj novoinficiranih na 1000) i podaci se ne mogu disagregirati po gore navedenim karakteristikama. Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-01.pdf.'
-3-3-1-national-deviation: ''
-3-3-1-national-introductioncomment: ''
+3-3-1-national-deviation: ""
+3-3-1-national-introductioncomment: ""
 3-3-2-global-methodology: 'Incidenca tuberkuloze na 100.000 stanovnika, kao što je definisana kao procijenjeni broj novih slučajeva TB i TBC-a (svi oblici tuberkuloze, uključujući slučajeve kod ljudi koji žive sa HIV-om) koji nastaju u određenoj godini, izraženi kao stopa na 100 000 stanovnika. Izveštaji o učestalosti za svaku zemlju su izvedeni koristeći jedan ili više sledećih pristupa u zavisnosti od dostupnih podataka: (i) učestalost = obaveštenja o slučajevima / procenjeni procenat otkrivenih slučajeva; (ii) modeliranje capture-recapture, (iii) incidencija = prevalencija / trajanje stanja.'
-3-3-2-national-methodology: ''
+3-3-2-national-methodology: ""
 3-3-2-national-datasource: 'https://arxiv.org/ftp/arxiv/papers/1603/1603.00278.pdf'
 3-3-2-national-disaggregation: Prema zemlji, polu i starosnom dobu (djeca, odrasli).
 3-3-2-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf'
-3-3-2-national-deviation: ''
-3-3-2-national-introductioncomment: ''
+3-3-2-national-deviation: ""
+3-3-2-national-introductioncomment: ""
 3-3-3-global-methodology: 'Incidencija malarije definisana je kao broj novih slučajeva malarije na 1.000 ljudi koji su izloženi riziku svake godine. Metoda izračunavanja: Incidencija malarije (1) izražena je kao broj novih slučajeva na 100.000 stanovnika godišnje sa populacijom zemlje koja je izvedena iz projekcija Odeljenja za stanovništvo UN i procenat rizika procjenjen od strane Nacionalnog programa za kontrolu malarije u zemlji. Preciznije, zemlja procjenjuje koliko je procenat visokog rizika (H) i kakav je procenat pri niskom riziku (L), a populacija koja je u riziku procjenjuje se kao populacija UN * populacija H + UN * L / 2. Broj novih slučajeva, M, procjenjuje se iz broja slučajeva malarije koje je prijavilo Ministarstvo zdravlja koje su prilagođene da uzmu u obzir (i) nepotpunost u sistemima izvještavanja (ii) pacijentima koji traže liječenje u privatnom sektoru, samo-liječenje ili uopšte ne traži terapiju, i (iii) potencijalnu prekomerno dijagnozu kroz nedostatak laboratorijske potvrde slučajeva. Postupak koji je opisan u izveštaju Svetskog izveštaja o malariji 2008 (2), kombinira podatke koji su prijavili NMCP (prijavljeni slučajevi, potpunost izveštavanja i verovatnoća da su slučajevi parazitski pozitivni) sa podacima dobijenim na nacionalnim reprezentativnim anketama domaćinstava o upotrebi zdravstvenih usluga.'
-3-3-3-national-methodology: ''
+3-3-3-national-methodology: ""
 3-3-3-national-datasource: 'Slučajevi prijavljeni od strane NMCP-a se dobijaju iz sistema za nadgledanje svake zemlje.'
-3-3-3-national-disaggregation: ''
+3-3-3-national-disaggregation: ""
 3-3-3-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-03.pdf'
-3-3-3-national-deviation: ''
-3-3-3-national-introductioncomment: ''
+3-3-3-national-deviation: ""
+3-3-3-national-introductioncomment: ""
 3-7-1-global-methodology: 'Procenat žena u reproduktivnom dobu (između 15-49 godina starosti) koje su seksualno aktivne i koje su svoju potrebu za planiranjem porodice zadovoljile modernim metodama. Ankete domaćinstava uključuju niz pitanja koja mjere stopu rasprostranjenosti modernih kontraceptivnih sredstava kao i potražnju (potrebu) za planiranjem porodice. Ukupna potražnja (potreba) za planiranjem porodice se definiše kao zbir ukupnog broja žena u reproduktivnom dobu (između 15-49 godina starosti) koje su udate ili u zajednici i koje trenutno koriste ili čiji seksualni partner trenutno koristi, makar jedno kontraceptivno sredstvo, i nezadovoljene potrebe za planiranjem porodice. Nezadovoljena potreba za planiranjem porodice je proporcija ukupnog broja žena u reproduktivnom dobu (između 15-49 godina starosti) koje su ili udate ili žive u sporazumnoj zajednici, koje su plodne i seksualno aktivne i ne koriste nikakve kontraceptivne metode (moderne ili tradicionalne), i koje naglašavaju da ne žele više djece ili žele da odgode rađanje narednog djeteta za najmanje dvije godine. Ovdje ubrajamo: (i) sve trudnice (udate ili u sporazumnoj zajednici) čije su trudnoće neželjene ili začete u pogrešnom trenutku; (ii) sve porodilje čija menstruacija i dalje izostaje (udate ili u sporazumnoj zajednici) koje ne planiraju porodicu i čiji je prethodni porođaj bio neželjen ili je dijete začeto u pogrešnom trenutku; (iii) sve plodne žene (udate ili u sporazumnoj zajednici) koje nisu ni trudne niti su porodilje, i koje ne žele više djece (žele da ograniče veličinu svoje porodice) ili žele da odgode rađanje narednog djeteta za najmanje dvije godine ili ne znaju da li i kada žele da rode još jedno dijete (žele da naprave veći razmak između rađanja djece), a koje ne koriste nijedno kontraceptivno sredstvo.'
 3-7-1-national-methodology: 'Broj žena u reproduktivnom dobu (15 do 49 godina) koje su svoju potrebu za planiranjem porodice zadovoljile modernim metodama, podijeljen s ukupnim brojem žena starosti od 15 do 49 godina koje su trenutno u braku ili zajednici.'
 3-7-1-national-datasource: 'MICS/UNICEF'
-3-7-1-national-disaggregation: ''
+3-7-1-national-disaggregation: ""
 3-7-1-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf'
-3-7-1-national-deviation: ''
+3-7-1-national-deviation: ""
 3-7-1-national-introductioncomment: 'Vremenski plan: u 2018.godini i svakoj narednoj rundi MICS istraživanja.'
 3-7-2-global-methodology: 'Godišnji broj porođaja žena između 15 i 49 godina starosti na 1000 žena u datoj starosnoj grupi. Takođe se naziva i starosno specifična stopa fertiliteta kod žena između 15 i 49 godina starosti. Stopa porođaja kod adolescentkinja se obično računa kao srazmjera. Brojilac je broj živorođenčadi žena između 15 i 49 godina starosti, dok je imenilac procjena izloženosti rađanju žena između 15 i 49 godina starosti. Brojilac i imenilac se računaju različito za civilnu registraciju i za podatke anketa i popisa.'
 3-7-2-national-methodology: 'Godišnji broj porođaja žena između 15 i 49 godina starosti na 1000 žena u datoj starosnoj grupi'
 3-7-2-national-datasource: 'Zavod za statistiku.'
-3-7-2-national-disaggregation: ''
+3-7-2-national-disaggregation: ""
 3-7-2-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-02.pdf'
-3-7-2-national-deviation: ''
-3-7-2-national-introductioncomment: ''
+3-7-2-national-deviation: ""
+3-7-2-national-introductioncomment: ""
 3-a-1-global-methodology: 'Indikator je definisan kao procenat stanovništva starosne dobi od 15 i više godina, koji trenutno koristi bilo koji duvanski proizvod (dimljeni i/ili bez dima) na dnevnoj ili van dnevnoj osnovi.'
-3-a-1-national-methodology: ''
+3-a-1-national-methodology: ""
 3-a-1-national-datasource: 'Stopa prevalencije prema starosti po polu od reprezentativnih istraživanja populacije koja se sprovode od 1990. godine: • zvanično priznata od strane nacionalnog zdravstvenog organa; • slučajno odabranih učesnika predstavnika opšte populacije; i • izveštavanje o najmanje jednom indikatoru merenja trenutnog korišćenja duvana, dnevnog korišćenja duvana, trenutnog pušenja duvana, svakodnevnog pušenja duvana, trenutnog pušenja cigareta ili dnevnog pušenja cigareta. Zvanični izveštaji o istraživanju prikupljeni su od država članica putem jednog ili više sledećih metoda: • sistem izveštavanja FCTC-a SZO; • pregled istraživanja sprovedenih pod pokroviteljstvom Globalnog sistema za nadzor duvana; • pregled drugih istraživanja sprovedenih u saradnji sa SZO-om, kao što su ankete STEPvise i istraživanja o svjetskom zdravlju; • skeniranje međunarodnih baza podataka o nadzoru, kao što su podaci Demografske i zdravstvene ankete (DHS), ankete o višestrukim indikatorskim klasterima (MICS) i Anketi o merenju životnih standarda Svjetske banke (LSMS); i • identifikacija i pregled anketiranja specifičnih za zemlju koja nisu deo međunarodnih sistema nadzora.'
 3-a-1-national-disaggregation: 'Po polu i po starosti.'
 3-a-1-national-comment: 'Crna Gora nema sve navedene izvore podataka, ali kako istraživanja - kao osnovni izvor podataka nisu dostupna kontinuirano, onda se mogu koristiti i neki, za taj period, dostupni podaci. Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-0a-01.pdf'
-3-a-1-national-deviation: ''
-3-a-1-national-introductioncomment: ''
+3-a-1-national-deviation: ""
+3-a-1-national-introductioncomment: ""
 3-c-1-global-methodology: 'Iako je, tradicionalno, ovaj indikator procjenjen korišćenjem 2 mjerenja: gustine ljekara i gustine osoblja medicinskih sestara i babica. U kontekstu SDG dnevnog reda, skup podataka je proširen na ljekare, osoblje medicinskih sestara, osoblje babica, stomatološko osoblje i farmaceutsko osoblje. Plan podataka se planira progresivno da pokrije sve zdravstvene kadrove. Način procjene broja ljekara (uključujući i generaliste i specijaliste lekara) u zavisnosti od prirode originalnog izvora podataka može obuhvatiti samo ljekare koji se bave liječenjem ili svi registrovani ljekari. Podaci o broju medicinskih sestara i babica uključuju osoblje medicinskog osoblja i babica, kad god je to moguće. U mnogim zemljama, medicinske sestre obučene sa veštačenjem babica se računaju i prijavljuju kao medicinske sestre. To čini razliku između osoblja medicinskog osoblja i osoblja akušerstva teško crtati. Podaci o broju stomatološkog osoblja uključuju stomatologe, zubne tehničare / pomoćnike i srodna zanimanja. Zbog varijabilnosti izvora podataka, profesije na nivou profesionalnog i pridruženog nivoa ne mogu uvijek biti prepoznatljive. Brojke za broj farmaceutskog osoblja uključuju farmaceuta, farmaceutskih tehničara / asistenata i srodnih zanimanja. Zbog varijabilnosti izvora podataka, profesionalni nivo i profesije na nivou saradnika možda se ne razlikuju uvijek. Generalno, podaci denominatora za gustinu radne snage (tj. Nacionalne procjene stanovništva) dobijaju se iz baze podataka o svjetskim stanovništvima stanovništva Ujedinjenih nacija. U slučajevima kada zvanični izveštaj zdravstvene radne snage daje indikatore gustine umesto tačaka, procjene zaliha su zatim izračunate pomoću populacije procijenjene iz baze podataka o izgledu stanovništva Ujedinjenih nacija stanovništva (2015).'
-3-c-1-national-methodology: ''
+3-c-1-national-methodology: ""
 3-c-1-national-datasource: 'Podaci su sastavljeni od rutinskih administrativnih informacionih sistema (uključujući izveštaje o osoblju i platnom spisku, kao i profesionalnu obuku, registraciju i licenciranje), popis stanovništva, ankete o radnoj snazi i zapošljavanju i procene zdravstvenih ustanova. Većina podataka iz administrativnih izvora potiče iz objavljenih nacionalnih pregleda zdravstvenog sektora i/ili zvaničnih izvještaja o zemlji u kancelarijama SZO.'
 3-c-1-national-disaggregation: 'Podaci po nacionalnom nivou.'
 3-c-1-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-0c-01.pdf'
-3-c-1-national-deviation: ''
-3-c-1-national-introductioncomment: ''
+3-c-1-national-deviation: ""
+3-c-1-national-introductioncomment: ""
 4-1-1-global-methodology: 'UNESCO: Procenat djece i mladih na kraju osnovnog i nižeg sekundarnog  obrazovanja koji postižu najmanje minalmlni nivo znanja iz (a) čitanja i (b) matematike. Ovaj minimalni nivo znanja se procjenjuje u skladu sa novim univerzalnim skalama za mjerenje pismenosti i znanja iz matematike, a koje su trenutno u izradi. Indikator se izračunava pomoću broja djece i mladih koji završavaju osnovnu ili nižu srednju školu i postižu ili premašuju minimalni nivo znanja u datom predmetu, a koji se izražava kao procenat izveden od ukupnog broja djece i mladih koja završavaju osnovnu ili nižu srednju školu. UNICEF: Ovaj pokazatelj predstavlja procenat djece mlađe od pet godina koja su na dobrom razvojnom putu u pogledu zdravlja, učenja i psihosocijalnog stanja. Izračunava se tako što se broj djece mlađe od pet godina, a koja su na dobrom razvojnom putu u pogledu zdravlja, učenja i psihosocijalnog stanja, podijeli sa ukupnim udjelom djece mlađe od pet godina u stanovništvu.'
-4-1-1-national-methodology: ''
+4-1-1-national-methodology: ""
 4-1-1-national-datasource: 'Organi odgovorni za vršenje ocjena učenja (uključujući ministarstva obrazovanja, nacionalne statističke službe i druge pružaoce podataka). Za međudržavne procene, davaoci podataka su Međunarodna asocijacija za evaluaciju obrazovnih dostignuća (IEA), Laboratorio Latinoamericano de Evaluacion de la Calidad de la Educacion (LLECE), Organizacija za ekonomsku saradnju i razvoj (OECD), Program d 'Analizirati obrazovne studije CONFEMEN (PASEC) i Konzorcijum južne i istočne Afrike za praćenje obrazovnog kvaliteta (SACMEQ).'
 4-1-1-national-disaggregation: 'Godište ili godište grupe đaka, pol, mjesto prebivališta, socio-ekonomski status, migracioni status, i etnička pripadnost. Statistika o licima sa invaliditetom nije trenutno dostupna u većini nacionalnih i među-nacionalnih ocjena učenja ali može se uzeti u obzir za buduće analize.'
 4-1-1-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-01.pdf'
-4-1-1-national-deviation: ''
-4-1-1-national-introductioncomment: ''
+4-1-1-national-deviation: ""
+4-1-1-national-introductioncomment: ""
 4-2-1-global-methodology: 'Procjenat djece na početku osnovne škole, najčešće 6 godina starosti u mnogim zemljama, koja pokazuju zdravlje shodno njihovim godinama, psihosocijalno blagostanje i posjeduju neophodne sposobnosti i znanje potrebno za obrazovanje u prvim razredima osnovne škole. Djeca polaze u osnovnu školu u različitim uzrastima u različitim zemljama. Iz ovoga proizilazi da indikator može dosta odražavati razvoj djeteta između pete i sedme godine života.'
-4-2-1-national-methodology: ''
+4-2-1-national-methodology: ""
 4-2-1-national-datasource: 'MICS/UNICEF'
-4-2-1-national-disaggregation: ''
+4-2-1-national-disaggregation: ""
 4-2-1-national-comment: 'U MICS6 istrazivanju definisan je SDG indikator 4.2.1 ali definicija nije u potpunosti ista. Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-01.pdf'
-4-2-1-national-deviation: ''
+4-2-1-national-deviation: ""
 4-2-1-national-introductioncomment: 'Vremenski plan: U 2018.godini svakoj narednoj rundi MISC istraživanja.'
 4-3-1-global-methodology: 'Procenat mladih i adolescenata u datoj starosnoj grupi (primjer - 15 - 24 godine, 25 - 64 godine itd.) koji učestvuju u formalnom ili neformalnom obrazovanju ili obuci u datom vremenskom opsegu (primjer - proteklih 12 mjeseci). Idealno, ovaj indikator bi trebao biti razdvojen po tipovima programa poput TVET-a (tehničko i stručno obrazovanje i obuka), visokog obrazovanja, obrazovanja za odrasle i drugih relevantnih tipova, kao i da pokriva kako formalne tako i neformalne programe obrazovanja.'
 4-3-1-national-methodology: 'EUROSTAT'
@@ -111,58 +111,58 @@
 4-3-1-national-deviation: 'Stopa učestvovanja mladih i odraslih u formalnom i neformalnom obrazovanju i osposobljavanju odnosi na referentni period od 4 prethodna mjeseca a ne na 12 prethodnih mjeseci.'
 4-3-1-national-introductioncomment: 'Anketa o radnoj snazi donosi podatke o sudjelovanju u formalnom i neformalnom obrazovanju i osposobljavanju u posljednje četiri nedjelje.'
 4-4-1-global-methodology: 'Procenat mladih i odraslih sa vještinama informacionih i komunikacionih tehnologija (ICT), prema vrsti vještine definisanom kao procenat mladih (starih od 15-24 godine) i odraslih (stariji od 15 godina i više) koji su preduzeli određeni računar povezane aktivnosti u datom vremenskom periodu (npr. poslednja tri meseca). Metod izračunavanja: Indikator se izračunava kao procenat ljudi u datoj populaciji koji su odgovorili sa da na izabrani broj varijabli, npr. korišćenje IKT vještina u različitim predmetnim oblastima ili područjima učenja, korištenje ICT vještina u školi i / ili na radnom mjestu ili izvan nje, minimalno vrijeme provedeno korištenjem ICT vještina unutar i van škole i/ili na radnom mjestu, dostupnost interneta pristup unutar ili izvan škole i / ili radnog mesta itd.'
-4-4-1-national-methodology: ''
+4-4-1-national-methodology: ""
 4-4-1-national-datasource: 'Ankete škola ili domaćinstava.'
 4-4-1-national-disaggregation: 'Prema starosnom dobu, starosnoj grupi studenata, polu, lokaciji, socio-ekonomskom statusu.'
 4-4-1-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf'
-4-4-1-national-deviation: ''
-4-4-1-national-introductioncomment: ''
+4-4-1-national-deviation: ""
+4-4-1-national-introductioncomment: ""
 4-c-1-global-methodology: 'Procenat nastavnika po stepenu obrazovanja koji se predaje (predškolsko, osnovno, niže srednje i srednje obrazovanje) koji su dobili najmanje minimum organizovanog pedagoškog usavršavanja i usavršavanja pedagoških nastavnika koji su potrebni za nastavu na relevantnom nivou u datoj zemlji. Metod izračunavanja: Broj nastavnika na određenom nivou obrazovanja koji su obučeni izražava se kao procenat svih nastavnika na tom nivou obrazovanja.'
-4-c-1-national-methodology: ''
+4-c-1-national-methodology: ""
 4-c-1-national-datasource: 'Administrativni podaci od škola i drugih organizovanih centara za učenje.'
 4-c-1-national-disaggregation: 'Prema polu, nivou obrazovanja i vrsti institucije (državna/javna).'
 4-c-1-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-04-0c-01.pdf'
-4-c-1-national-deviation: ''
-4-c-1-national-introductioncomment: ''
+4-c-1-national-deviation: ""
+4-c-1-national-introductioncomment: ""
 5-3-1-global-methodology: 'UNICEF: Ovaj indikator obezbjeđuje proporciju žena između 20 i 24 godine starosti koje su se prvi put udale ili bile u zajednici do 18 godine života. Indikator se računa dijeljenjem broja žena između 20 i 24 godine starosti koje su se prvi put udale ili bile u zajednici do 18 godine života sa ukupnim brojem žena starosti između 20 i 24 godine u čitavoj populaciji.'
-5-3-1-national-methodology: ''
+5-3-1-national-methodology: ""
 5-3-1-national-datasource: 'MICS/UNICEF'
-5-3-1-national-disaggregation: ''
+5-3-1-national-disaggregation: ""
 5-3-1-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-01.pdf'
-5-3-1-national-deviation: ''
+5-3-1-national-deviation: ""
 5-3-1-national-introductioncomment: 'Vremenski plan: u 2018. godini i svakoj narednoj rundi MICS-a.'
 7-1-1-global-methodology: 'Proporcija stanovništva sa pristupom električnoj energiji je procenat stanovništva sa pristupom električnoj energiji.'
-7-1-1-national-methodology: ''
+7-1-1-national-methodology: ""
 7-1-1-national-datasource: 'MICS istraživanja.'
 7-1-1-national-disaggregation: 'Razvrstavanje po mjesto prebivališta (urbano/ruralno područje).'
 7-1-1-national-comment: 'Indikatori ciljeva održivog razvoja (SDG), http://unstats.un.org/sdgs/indicators/indicators-list/. Međuagencijska radna grupa za indikatore održivog razvoja kontinuirano ažurira metapodatke mnogih indikatora SDG-a i vrši promjene na listi SDG indikatora. MICS pokriva brojne indikatore SDG-a s potpunim podudaranjem njihovih definicija, dok su neki od indikatora samo djelimično pokriveni MICS-om. Ovi poslednji slučajevi uključeni su ovdje sve dok trenutna međunarodna metodologija dozvoljava samo način na koji je definisan MICS indikator, i/ili ukoliko značajan dio SDG indikatora može biti generisan putem MICS indikatora. Za više informacija o metapodacima o SDG indikatorima, pogledajte http://unstats.un.org/sdgs/metadata/. Neki indikatori kreirani su na osnovu pitanja iz nekoliko modula MICS upitnika. U takvim slučajevima, naveden je samo modul(i) koji sadrži većinu neophodnih podataka. Svi pokazatelji MICS-a su raščlanjeni ili mogu biti raščlanjeni, gdje je to relevantno, po kvintilima bogatstva, polu, starosti, migracijskom statusu, invaliditetu i geografskoj lokaciji (prema domenima izvještavanja), ili drugim karakteristikama, u skladu sa preporukama Međuagencijske ekspertske grupa o SDG indikatorima: http://unstats.un.org/sdgs/indicators/Official%20List%20of%20Proposed%20SDG%20Indicators.pdf'
-7-1-1-national-deviation: ''
-7-1-1-national-introductioncomment: ''
+7-1-1-national-deviation: ""
+7-1-1-national-introductioncomment: ""
 7-2-1-global-methodology: 'Udio obnovljive energije u ukupnoj finalnoj potrošnji je procenat finalne potrošnje energije koja je dobijena iz obnovljivih izvora. Računa se dijeljenjem potrošnje energije iz svih obnovljivih izvora sa ukupnom finalnom potrošnjom energije. Potrošnja energije iz obnovljivih izvora uključuje potrošnju iz: vode, čvrstih biogoriva, vjetra, sunca, tečnih biogoriva, prirodnog gasa, geotermalnih i morskih izvora kao i smeća. Ukupna finalna potrošnja energije se izračunava iz nacionalnih balansa i statistika kao ukupna finalna potrošnja minus neenergetska upotreba. Potrošnja obnovljive energije izvodi se iz tri tabele IEA svjetske energetske statistike i balansa: ukupna finalna potrošnja, proizvodnja struje i proizvodnja grijanja. Sve količine prijavljene u tabeli ukupne finalne potrošnje su uzete kako su i prijavljene. Kako količine struje i toplote u tabeli finalne potrošnje nisu razdvojene po tehnologiji, tabela proizvodnje struje i toplote  se koristi za presjek stanja finalne potrošnje struje i toplote po tehnologiji. Raspodjela po tehologiji se vrši uzimanjem učešća tehnologije u tabeli proizvodnje struje i toplote i množenjem tog udjela sa finalnom potrošnjom energije struje i toplote, respektivno.'
-7-2-1-national-methodology: ''
-7-2-1-national-datasource: ''
+7-2-1-national-methodology: ""
+7-2-1-national-datasource: ""
 7-2-1-national-disaggregation: 'Po izvoru i po namjeni'
 7-2-1-national-comment: 'Kompleksni energetski bilans. Podaci kompleksnog energetskog bilansa se salju Eurostatu, koji prema odredjenoj formuli racuna udio obnovljivih izvora, odnosno njihovu proizvodnju i potrosnju. Podaci su dostupni na sajtu Eurostata. Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf'
-7-2-1-national-deviation: ''
+7-2-1-national-deviation: ""
 7-2-1-national-introductioncomment: 'Udio obnovljive energije u ukupnoj finalnoj potrošnji energije (%) ili Udio obnovljive energije u ukupnoj potrošnji primarne energije (%)'
 8-1-1-global-methodology: 'Godišnja stopa rasta realnog bruto domaćeg proizvoda (BDP) po glavi stanovnika se izračunava kao procentualna promena realnog BDP-a po glavi stanovnika između dvije godine zaredom. Realni BDP po glavi stanovnika izračunava se podijeljenjem BDP-a u stalnim cenama od strane stanovništva neke zemlje ili područja. Podaci za realni BDP se mere u stalnim američkim dolarima kako bi se olakšalo izračunavanje stopa rasta zemlje i agregacija podataka o zemljama. Metod izračunavanja: Godišnja stopa rasta realnog bruto domaćeg proizvoda (BDP) po glavi stanovnika izračunava se kako slijedi: a. Konvertira godišnji realni BDP u domaćoj valuti po cenama iz 2005. godine za zemlju ili oblast u američke dolare po cenama iz 2005. koristeći kursne stope za 2005. godinu. b. Podelite rezultat populacije zemlje ili područja kako biste ostvarili godišnji realni BDP po glavi stanovnika stalni američki dolar po cenama iz 2005. godine. c. Izračunati godišnju stopu rasta realnog BDP per capita u godini t + 1 koristeći sledeću formulu: G (t + 1) - G (t)) / G (t)] k 100%, gde je G (t + 1) realni BDP po glavi stanovnika u američkim dolarima u godini t + 1 i G (t) je realni BDP po glavi stanovnika u američkim dolarima u godini t.'
-8-1-1-national-methodology: ''
-8-1-1-national-datasource: ''
+8-1-1-national-methodology: ""
+8-1-1-national-datasource: ""
 8-1-1-national-disaggregation: 'Moguće je razvrstati podatke prema regionu.'
 8-1-1-national-comment: 'Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-08-01-01.pdf'
-8-1-1-national-deviation: ''
-8-1-1-national-introductioncomment: ''
+8-1-1-national-deviation: ""
+8-1-1-national-introductioncomment: ""
 8-4-2-global-methodology: 'Domaća potrošnja materijala (DMC) je indikator standardnog obračunavanje toka materijala (MFA) i izvještava očiglednu potrošnju materijala u nacionalnoj ekonomiji. Izračunava se kao direktni uvoz (IM) materijala plus domaća ekstrakcija (DE) materijala minus direktni izvoz (EKS) materijala mjeren u metričkim tonama. DMC mjeri količinu materijala koji se koriste u ekonomskim procesima. Ne uključuje materijale koji se mobilišu tokom procesa domaće ekstrakcije, ali koji ne ulaze u ekonomski proces. DMC se zasniva na zvaničnim ekonomskim statistikama i zahtjeva određeno modeliranje kako bi se prilagodili izvorni podaci metodološkim zahtjevima MFA. Računovodstveni standard i računovodstvene metode navedene su u EUROSTAT-ovom vodiču za MFA račune u najnovijem izdanju iz 2013. MFA računovodstvo je takođe dio centralnog okvira Sistema integrisanih ekološko-ekonomskih računa (SEEA).'
-8-4-2-national-methodology: ''
-8-4-2-national-datasource: ''
+8-4-2-national-methodology: ""
+8-4-2-national-datasource: ""
 8-4-2-national-disaggregation: 'DMC indikator se može razvrstati na uvoze, domaću ekstrakciju i izvoze velikog broja kategorija materijala.'
-8-4-2-national-comment: ''
-8-4-2-national-deviation: ''
+8-4-2-national-comment: ""
+8-4-2-national-deviation: ""
 8-4-2-national-introductioncomment: 'Publikacija Indikatori materijalnih tokova u Crnoj Gori 2006-2013. godina prikazuje indikatore materijalnih tokova,obračunatih na bazi zvaničnih izvora podataka Zavoda za statistiku Crne Gore, prije svega statistike poljoprivrede, industrije, kao i statistike spoljne trgovine. Nastala je na inicijativu i podršku Centra za održivi razvoj kancelarije UNDP-a u Crnoj Gori. Publikaciju je pripremio Zavod za statistiku Crrne Gore odnosno sektor nacionalnih računa, cijena i statistike spoljne trgovine, uz stručnu podršku sektora statistike poljoprivrede, šumarstva i životne sredine. Za razvoj i unapređenje računa materijalnih tokova neophodno je jačanje administrativnih izvora podataka u gore navedenim oblastima. Na taj način stvoriće se uslovi za poptuni obuhvat i obračun računa materijalnih tokova za nivou ekonomije Crne Gore.'
 8-5-2-global-methodology: 'Stopa nezaposlenosti prenosi posto ljudi koji su dio radne snage i koji su nezaposleni. Nezaposlene osobe definisane su kao osobe dovoljne zivotne starosti za rad (obicno 15 i vise godina) koji nisu trenutno u radno odnosu, i koje su u potrazi za poslom, i spremne da pocnu sa radom. Metod izračunavanja: Stopa nezaposlenosti = Nezaposleni / ljudi koji su dio radne snage * 100.'
-8-5-2-national-methodology: ''
+8-5-2-national-methodology: ""
 8-5-2-national-datasource: 'Anketa o radnoj snazi u domaćinstvima'
 8-5-2-national-disaggregation: 'Pol, starosna grupa, status invalidnosti.'
 8-5-2-national-comment: 'Anketa o radnoj snazi se sprovodi u skladu sa Regulativom 577/98. Stopa nezaposlenosti predstavlja procenat nezaposlenih u ukupnom broju aktivnih stanovnika. Podaci su raspolozivi prema polu i starosnim grupama ali nisu raspolozivi za osobe sa invaliditetom. Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-02.pdf'
-8-5-2-national-deviation: ''
-8-5-2-national-introductioncomment: ''
+8-5-2-national-deviation: ""
+8-5-2-national-introductioncomment: ""
