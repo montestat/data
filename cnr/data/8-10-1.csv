@@ -1,1 +1,61 @@
-Year,Value
+Year,Units,Kategorija,Value
+2010,ukupno,branches_of_commercial_banks,85.0
+2011,ukupno,branches_of_commercial_banks,85.0
+2012,ukupno,branches_of_commercial_banks,88.0
+2013,ukupno,branches_of_commercial_banks,97.0
+2014,ukupno,branches_of_commercial_banks,119.0
+2015,ukupno,branches_of_commercial_banks,105.0
+2016,ukupno,branches_of_commercial_banks,110.0
+2017,ukupno,branches_of_commercial_banks,113.0
+2018,ukupno,branches_of_commercial_banks,111.0
+2019,ukupno,branches_of_commercial_banks,111.0
+2020,ukupno,branches_of_commercial_banks,106.0
+2021,ukupno,branches_of_commercial_banks,110.0
+2010,ukupno,atms,321.0
+2011,ukupno,atms,332.0
+2012,ukupno,atms,350.0
+2013,ukupno,atms,361.0
+2014,ukupno,atms,359.0
+2015,ukupno,atms,386.0
+2016,ukupno,atms,396.0
+2017,ukupno,atms,412.0
+2018,ukupno,atms,443.0
+2019,ukupno,atms,413.0
+2020,ukupno,atms,416.0
+2021,ukupno,atms,419.0
+2010,ukupno,odraslih ljudi (15+),498032.0
+2011,ukupno,odraslih ljudi (15+),500653.0
+2012,ukupno,odraslih ljudi (15+),502698.0
+2013,ukupno,odraslih ljudi (15+),504320.0
+2014,ukupno,odraslih ljudi (15+),505976.0
+2015,ukupno,odraslih ljudi (15+),507095.0
+2016,ukupno,odraslih ljudi (15+),508108.0
+2017,ukupno,odraslih ljudi (15+),509085.0
+2018,ukupno,odraslih ljudi (15+),509929.0
+2019,ukupno,odraslih ljudi (15+),510429.0
+2020,ukupno,odraslih ljudi (15+),510398.0
+2021,ukupno,odraslih ljudi (15+),509572.0
+2010,na 100 000 odraslih ljudi,branches_of_commercial_banks,17.07
+2011,na 100 000 odraslih ljudi,branches_of_commercial_banks,16.98
+2012,na 100 000 odraslih ljudi,branches_of_commercial_banks,17.51
+2013,na 100 000 odraslih ljudi,branches_of_commercial_banks,19.23
+2014,na 100 000 odraslih ljudi,branches_of_commercial_banks,23.52
+2015,na 100 000 odraslih ljudi,branches_of_commercial_banks,20.71
+2016,na 100 000 odraslih ljudi,branches_of_commercial_banks,21.65
+2017,na 100 000 odraslih ljudi,branches_of_commercial_banks,22.2
+2018,na 100 000 odraslih ljudi,branches_of_commercial_banks,21.77
+2019,na 100 000 odraslih ljudi,branches_of_commercial_banks,21.75
+2020,na 100 000 odraslih ljudi,branches_of_commercial_banks,20.77
+2021,na 100 000 odraslih ljudi,branches_of_commercial_banks,21.59
+2010,na 100 000 odraslih ljudi,atms,64.45
+2011,na 100 000 odraslih ljudi,atms,66.31
+2012,na 100 000 odraslih ljudi,atms,69.62
+2013,na 100 000 odraslih ljudi,atms,71.58
+2014,na 100 000 odraslih ljudi,atms,70.95
+2015,na 100 000 odraslih ljudi,atms,76.12
+2016,na 100 000 odraslih ljudi,atms,77.94
+2017,na 100 000 odraslih ljudi,atms,80.93
+2018,na 100 000 odraslih ljudi,atms,86.87
+2019,na 100 000 odraslih ljudi,atms,80.91
+2020,na 100 000 odraslih ljudi,atms,81.51
+2021,na 100 000 odraslih ljudi,atms,82.23

@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno",
+                "na 100 000 odraslih ljudi",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "branches_of_commercial_banks",
+                "atms",
+                "odraslih ljudi (15+)",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",
