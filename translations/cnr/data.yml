@@ -24,6 +24,7 @@ per_1000_life_births: na 1000 rođenih
 total_infected: ukupno novoinficiranih
 per_1000_uninfected_population: ukupno novoinficiranih na 1000 neinficiranih
 per_100000_population: na 100 000 ljudi
+per_100000_adults: na 100 000 odraslih ljudi
 per_1000_women: na 1000 žena
 health workers: ljekari
 nurses: medicinske sestre i babice
@@ -53,3 +54,4 @@ teacher_class_1: Broj nastavnika u predškolskom, osnovnom, opšte srednjem obra
 teacher_class_2: Broj nastavnika u srednjem stručnom obrazovanju koji su pohađali barem minimalnu organizovanu obuku nastavnika (npr. pedagošku obuku) prije zaposlenja ili na radnom mjestu potrebnu za izvođenje nastave na odgovarajućem nivou u datoj zemlji
 tons: tone
 tons_per_capita: tone po glavi stanovnika
+adults_15: odraslih ljudi (15+)
