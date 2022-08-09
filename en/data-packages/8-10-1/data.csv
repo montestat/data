@@ -1,28 +1,28 @@
 Year,Units,Category,Value
-2010,total,branches_of_commercial_banks,85.0
-2011,total,branches_of_commercial_banks,85.0
-2012,total,branches_of_commercial_banks,88.0
-2013,total,branches_of_commercial_banks,97.0
-2014,total,branches_of_commercial_banks,119.0
-2015,total,branches_of_commercial_banks,105.0
-2016,total,branches_of_commercial_banks,110.0
-2017,total,branches_of_commercial_banks,113.0
-2018,total,branches_of_commercial_banks,111.0
-2019,total,branches_of_commercial_banks,111.0
-2020,total,branches_of_commercial_banks,106.0
-2021,total,branches_of_commercial_banks,110.0
-2010,total,atms,321.0
-2011,total,atms,332.0
-2012,total,atms,350.0
-2013,total,atms,361.0
-2014,total,atms,359.0
-2015,total,atms,386.0
-2016,total,atms,396.0
-2017,total,atms,412.0
-2018,total,atms,443.0
-2019,total,atms,413.0
-2020,total,atms,416.0
-2021,total,atms,419.0
+2010,total,branches of commercial banks,85.0
+2011,total,branches of commercial banks,85.0
+2012,total,branches of commercial banks,88.0
+2013,total,branches of commercial banks,97.0
+2014,total,branches of commercial banks,119.0
+2015,total,branches of commercial banks,105.0
+2016,total,branches of commercial banks,110.0
+2017,total,branches of commercial banks,113.0
+2018,total,branches of commercial banks,111.0
+2019,total,branches of commercial banks,111.0
+2020,total,branches of commercial banks,106.0
+2021,total,branches of commercial banks,110.0
+2010,total,ATMs,321.0
+2011,total,ATMs,332.0
+2012,total,ATMs,350.0
+2013,total,ATMs,361.0
+2014,total,ATMs,359.0
+2015,total,ATMs,386.0
+2016,total,ATMs,396.0
+2017,total,ATMs,412.0
+2018,total,ATMs,443.0
+2019,total,ATMs,413.0
+2020,total,ATMs,416.0
+2021,total,ATMs,419.0
 2010,total,adults (15+),498032.0
 2011,total,adults (15+),500653.0
 2012,total,adults (15+),502698.0
@@ -35,27 +35,27 @@ Year,Units,Category,Value
 2019,total,adults (15+),510429.0
 2020,total,adults (15+),510398.0
 2021,total,adults (15+),509572.0
-2010,per 100 000 adults,branches_of_commercial_banks,17.07
-2011,per 100 000 adults,branches_of_commercial_banks,16.98
-2012,per 100 000 adults,branches_of_commercial_banks,17.51
-2013,per 100 000 adults,branches_of_commercial_banks,19.23
-2014,per 100 000 adults,branches_of_commercial_banks,23.52
-2015,per 100 000 adults,branches_of_commercial_banks,20.71
-2016,per 100 000 adults,branches_of_commercial_banks,21.65
-2017,per 100 000 adults,branches_of_commercial_banks,22.2
-2018,per 100 000 adults,branches_of_commercial_banks,21.77
-2019,per 100 000 adults,branches_of_commercial_banks,21.75
-2020,per 100 000 adults,branches_of_commercial_banks,20.77
-2021,per 100 000 adults,branches_of_commercial_banks,21.59
-2010,per 100 000 adults,atms,64.45
-2011,per 100 000 adults,atms,66.31
-2012,per 100 000 adults,atms,69.62
-2013,per 100 000 adults,atms,71.58
-2014,per 100 000 adults,atms,70.95
-2015,per 100 000 adults,atms,76.12
-2016,per 100 000 adults,atms,77.94
-2017,per 100 000 adults,atms,80.93
-2018,per 100 000 adults,atms,86.87
-2019,per 100 000 adults,atms,80.91
-2020,per 100 000 adults,atms,81.51
-2021,per 100 000 adults,atms,82.23
+2010,per 100 000 adults,branches of commercial banks,17.07
+2011,per 100 000 adults,branches of commercial banks,16.98
+2012,per 100 000 adults,branches of commercial banks,17.51
+2013,per 100 000 adults,branches of commercial banks,19.23
+2014,per 100 000 adults,branches of commercial banks,23.52
+2015,per 100 000 adults,branches of commercial banks,20.71
+2016,per 100 000 adults,branches of commercial banks,21.65
+2017,per 100 000 adults,branches of commercial banks,22.2
+2018,per 100 000 adults,branches of commercial banks,21.77
+2019,per 100 000 adults,branches of commercial banks,21.75
+2020,per 100 000 adults,branches of commercial banks,20.77
+2021,per 100 000 adults,branches of commercial banks,21.59
+2010,per 100 000 adults,ATMs,64.45
+2011,per 100 000 adults,ATMs,66.31
+2012,per 100 000 adults,ATMs,69.62
+2013,per 100 000 adults,ATMs,71.58
+2014,per 100 000 adults,ATMs,70.95
+2015,per 100 000 adults,ATMs,76.12
+2016,per 100 000 adults,ATMs,77.94
+2017,per 100 000 adults,ATMs,80.93
+2018,per 100 000 adults,ATMs,86.87
+2019,per 100 000 adults,ATMs,80.91
+2020,per 100 000 adults,ATMs,81.51
+2021,per 100 000 adults,ATMs,82.23

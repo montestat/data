@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "branches_of_commercial_banks",
-                "atms",
+                "filijale poslovnih banaka",
+                "bankomati",
                 "odraslih ljudi (15+)",
                 ""
               ]

@@ -1,1 +1,56 @@
-Year,Value
+Year,Units,Kategorija,Value
+2010,1000_tons,ukupno,4813
+2011,1000_tons,ukupno,4048
+2012,1000_tons,ukupno,2310
+2013,1000_tons,ukupno,3029
+2014,1000_tons,ukupno,2784
+2015,1000_tons,ukupno,3245
+2016,1000_tons,ukupno,3894
+2017,1000_tons,ukupno,4539
+2018,1000_tons,ukupno,3741
+2019,1000_tons,ukupno,4070
+2020,1000_tons,ukupno,3999
+2010,1000_tons,željeznički saobraćaj,1213
+2011,1000_tons,željeznički saobraćaj,1050
+2012,1000_tons,željeznički saobraćaj,683
+2013,1000_tons,željeznički saobraćaj,1049
+2014,1000_tons,željeznički saobraćaj,903
+2015,1000_tons,željeznički saobraćaj,988
+2016,1000_tons,željeznički saobraćaj,1395
+2017,1000_tons,željeznički saobraćaj,1603
+2018,1000_tons,željeznički saobraćaj,967
+2019,1000_tons,željeznički saobraćaj,1132
+2020,1000_tons,željeznički saobraćaj,1154
+2010,1000_tons,drumski saobraćaj,1839
+2011,1000_tons,drumski saobraćaj,1247
+2012,1000_tons,drumski saobraćaj,398
+2013,1000_tons,drumski saobraćaj,684
+2014,1000_tons,drumski saobraćaj,639
+2015,1000_tons,drumski saobraćaj,768
+2016,1000_tons,drumski saobraćaj,852
+2017,1000_tons,drumski saobraćaj,839
+2018,1000_tons,drumski saobraćaj,810
+2019,1000_tons,drumski saobraćaj,886
+2020,1000_tons,drumski saobraćaj,800
+2010,1000_tons,avio saobraćaj,2
+2011,1000_tons,avio saobraćaj,1
+2012,1000_tons,avio saobraćaj,1
+2013,1000_tons,avio saobraćaj,1
+2014,1000_tons,avio saobraćaj,1
+2015,1000_tons,avio saobraćaj,1
+2016,1000_tons,avio saobraćaj,1
+2017,1000_tons,avio saobraćaj,1
+2018,1000_tons,avio saobraćaj,1
+2019,1000_tons,avio saobraćaj,1
+2020,1000_tons,avio saobraćaj,1
+2010,1000_tons,pomorski saobraćaj,1759
+2011,1000_tons,pomorski saobraćaj,1750
+2012,1000_tons,pomorski saobraćaj,1228
+2013,1000_tons,pomorski saobraćaj,1295
+2014,1000_tons,pomorski saobraćaj,1241
+2015,1000_tons,pomorski saobraćaj,1488
+2016,1000_tons,pomorski saobraćaj,1646
+2017,1000_tons,pomorski saobraćaj,2096
+2018,1000_tons,pomorski saobraćaj,1963
+2019,1000_tons,pomorski saobraćaj,2051
+2020,1000_tons,pomorski saobraćaj,2044

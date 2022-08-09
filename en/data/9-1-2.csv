@@ -1,1 +1,56 @@
-Year,Value
+Year,Units,Category,Value
+2010,1000_tons,total,4813
+2011,1000_tons,total,4048
+2012,1000_tons,total,2310
+2013,1000_tons,total,3029
+2014,1000_tons,total,2784
+2015,1000_tons,total,3245
+2016,1000_tons,total,3894
+2017,1000_tons,total,4539
+2018,1000_tons,total,3741
+2019,1000_tons,total,4070
+2020,1000_tons,total,3999
+2010,1000_tons,railway traffic,1213
+2011,1000_tons,railway traffic,1050
+2012,1000_tons,railway traffic,683
+2013,1000_tons,railway traffic,1049
+2014,1000_tons,railway traffic,903
+2015,1000_tons,railway traffic,988
+2016,1000_tons,railway traffic,1395
+2017,1000_tons,railway traffic,1603
+2018,1000_tons,railway traffic,967
+2019,1000_tons,railway traffic,1132
+2020,1000_tons,railway traffic,1154
+2010,1000_tons,road traffic,1839
+2011,1000_tons,road traffic,1247
+2012,1000_tons,road traffic,398
+2013,1000_tons,road traffic,684
+2014,1000_tons,road traffic,639
+2015,1000_tons,road traffic,768
+2016,1000_tons,road traffic,852
+2017,1000_tons,road traffic,839
+2018,1000_tons,road traffic,810
+2019,1000_tons,road traffic,886
+2020,1000_tons,road traffic,800
+2010,1000_tons,air traffic,2
+2011,1000_tons,air traffic,1
+2012,1000_tons,air traffic,1
+2013,1000_tons,air traffic,1
+2014,1000_tons,air traffic,1
+2015,1000_tons,air traffic,1
+2016,1000_tons,air traffic,1
+2017,1000_tons,air traffic,1
+2018,1000_tons,air traffic,1
+2019,1000_tons,air traffic,1
+2020,1000_tons,air traffic,1
+2010,1000_tons,maritime traffic,1759
+2011,1000_tons,maritime traffic,1750
+2012,1000_tons,maritime traffic,1228
+2013,1000_tons,maritime traffic,1295
+2014,1000_tons,maritime traffic,1241
+2015,1000_tons,maritime traffic,1488
+2016,1000_tons,maritime traffic,1646
+2017,1000_tons,maritime traffic,2096
+2018,1000_tons,maritime traffic,1963
+2019,1000_tons,maritime traffic,2051
+2020,1000_tons,maritime traffic,2044

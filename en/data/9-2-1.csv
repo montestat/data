@@ -1,1 +1,23 @@
-Year,Value
+Year,Units,Category,Value
+2010,percent_of_bdp,manufacturing value,4.2
+2011,percent_of_bdp,manufacturing value,4.9
+2012,percent_of_bdp,manufacturing value,4.5
+2013,percent_of_bdp,manufacturing value,4.2
+2014,percent_of_bdp,manufacturing value,3.9
+2015,percent_of_bdp,manufacturing value,4.0
+2016,percent_of_bdp,manufacturing value,3.8
+2017,percent_of_bdp,manufacturing value,3.9
+2018,percent_of_bdp,manufacturing value,4.0
+2019,percent_of_bdp,manufacturing value,3.8
+2020,percent_of_bdp,manufacturing value,4.0
+2010,"per capita, in EUR",manufacturing value,206.0
+2011,"per capita, in EUR",manufacturing value,254.0
+2012,"per capita, in EUR",manufacturing value,228.0
+2013,"per capita, in EUR",manufacturing value,222.0
+2014,"per capita, in EUR",manufacturing value,214.0
+2015,"per capita, in EUR",manufacturing value,229.0
+2016,"per capita, in EUR",manufacturing value,230.0
+2017,"per capita, in EUR",manufacturing value,260.0
+2018,"per capita, in EUR",manufacturing value,
+2019,"per capita, in EUR",manufacturing value,
+2020,"per capita, in EUR",manufacturing value,
