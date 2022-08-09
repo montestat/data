@@ -24,6 +24,7 @@ per_1000_life_births: na 1000 rođenih
 total_infected: ukupno novoinficiranih
 per_1000_uninfected_population: ukupno novoinficiranih na 1000 neinficiranih
 per_100000_population: na 100 000 ljudi
+per_1000000_population: na 1 000 000 ljudi
 per_100000_adults: na 100 000 odraslih ljudi
 per_1000_women: na 1000 žena
 health workers: ljekari
@@ -55,3 +56,13 @@ teacher_class_2: Broj nastavnika u srednjem stručnom obrazovanju koji su pohađ
 tons: tone
 tons_per_capita: tone po glavi stanovnika
 adults_15: odraslih ljudi (15+)
+atms: bankomati
+branches_of_commercial_banks: filijale poslovnih banaka
+railway_traffic: željeznički saobraćaj
+road_traffic: drumski saobraćaj
+air_traffic: avio saobraćaj
+maritime_traffic: pomorski saobraćaj
+manufacturing_value: proizvodna vrijednost
+percent_of_gdp: udio BDP-a
+per_capita_in_eur: po glavi stanovnika, u EUR
+eur: EUR
