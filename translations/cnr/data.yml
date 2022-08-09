@@ -66,3 +66,28 @@ manufacturing_value: proizvodna vrijednost
 percent_of_gdp: udio BDP-a
 per_capita_in_eur: po glavi stanovnika, u EUR
 eur: EUR
+quantity: količina
+collected_waste: sakupljen otpad
+produced_waste: proizveden otpad
+processed_waste: prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad
+Andrijevica: Andrijevica
+Bar: Bar
+Berane (sa Petnjicom): Berane (sa Petnjicom)
+Bijelo Polje: Bijelo Polje
+Budva: Budva
+Cetinje: Cetinje
+Danilovgrad: Danilovgrad
+Herceg Novi: Herceg Novi
+Kolasin: Kolašin
+Kotor: Kotor
+Mojkovac: Mojkovac
+Niksic: Nikšić
+Plav (sa Gusinjem): Plav (sa Gusinjem)
+Pljevlja: Pljevlja
+Pluzine: Plužine
+Podgorica: Podgorica
+Rozaje: Rožaje
+savnik: Šavnik
+Tivat: Tivat
+Ulcinj: Ulcinj
+Zabljak: Žabljak
