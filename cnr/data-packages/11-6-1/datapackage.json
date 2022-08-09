@@ -12,12 +12,67 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "količina",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Andrijevica",
+                "Bar",
+                "Berane (sa Petnjicom)",
+                "Bijelo Polje",
+                "Budva",
+                "Cetinje",
+                "Danilovgrad",
+                "Herceg Novi",
+                "Kolašin",
+                "Kotor",
+                "Mojkovac",
+                "Nikšić",
+                "Plav (sa Gusinjem)",
+                "Pljevlja",
+                "Plužine",
+                "Podgorica",
+                "Rožaje",
+                "Šavnik",
+                "Tivat",
+                "Ulcinj",
+                "Žabljak",
+                ""
+              ]
+            },
+            "title": "Lokacija"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sakupljen otpad",
+                "proizveden otpad",
+                "prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

@@ -12,12 +12,67 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "quantity",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Andrijevica",
+                "Bar",
+                "Berane (sa Petnjicom)",
+                "Bijelo Polje",
+                "Budva",
+                "Cetinje",
+                "Danilovgrad",
+                "Herceg Novi",
+                "Kolašin",
+                "Kotor",
+                "Mojkovac",
+                "Nikšić",
+                "Plav (sa Gusinjem)",
+                "Pljevlja",
+                "Plužine",
+                "Podgorica",
+                "Rožaje",
+                "Šavnik",
+                "Tivat",
+                "Ulcinj",
+                "Žabljak",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "collected waste",
+                "produced waste",
+                "processed waste + disposed waste in sanitary landfills + temporarily stored waste",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

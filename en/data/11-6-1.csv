@@ -1,1 +1,64 @@
-Year,Value
+Year,Units,Location,Category,Value
+2015,quantity,Andrijevica,collected waste,700
+2015,quantity,Bar,collected waste,21891
+2015,quantity,Berane (sa Petnjicom),collected waste,7942
+2015,quantity,Bijelo Polje,collected waste,12053
+2015,quantity,Budva,collected waste,22492
+2015,quantity,Cetinje,collected waste,4864
+2015,quantity,Danilovgrad,collected waste,2950
+2015,quantity,Herceg Novi,collected waste,16838
+2015,quantity,Kolašin,collected waste,2150
+2015,quantity,Kotor,collected waste,11820
+2015,quantity,Mojkovac,collected waste,1442
+2015,quantity,Nikšić,collected waste,18000
+2015,quantity,Plav (sa Gusinjem),collected waste,1715
+2015,quantity,Pljevlja,collected waste,7000
+2015,quantity,Plužine,collected waste,625
+2015,quantity,Podgorica,collected waste,64125
+2015,quantity,Rožaje,collected waste,2955
+2015,quantity,Šavnik,collected waste,500
+2015,quantity,Tivat,collected waste,7993
+2015,quantity,Ulcinj,collected waste,9328
+2015,quantity,Žabljak,collected waste,850
+2015,quantity,Andrijevica,produced waste,1186
+2015,quantity,Bar,produced waste,24000
+2015,quantity,Berane (sa Petnjicom),produced waste,9928
+2015,quantity,Bijelo Polje,produced waste,12053
+2015,quantity,Budva,produced waste,23100
+2015,quantity,Cetinje,produced waste,6080
+2015,quantity,Danilovgrad,produced waste,4658
+2015,quantity,Herceg Novi,produced waste,18521
+2015,quantity,Kolašin,produced waste,2300
+2015,quantity,Kotor,produced waste,12500
+2015,quantity,Mojkovac,produced waste,2240
+2015,quantity,Nikšić,produced waste,20359
+2015,quantity,Plav (sa Gusinjem),produced waste,3430
+2015,quantity,Pljevlja,produced waste,8532
+2015,quantity,Plužine,produced waste,1173
+2015,quantity,Podgorica,produced waste,66602
+2015,quantity,Rožaje,produced waste,5910
+2015,quantity,Šavnik,produced waste,517
+2015,quantity,Tivat,produced waste,8100
+2015,quantity,Ulcinj,produced waste,11625
+2015,quantity,Žabljak,produced waste,1127
+2015,quantity,Andrijevica,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Bar,processed waste + disposed waste in sanitary landfills + temporarily stored waste,21891
+2015,quantity,Berane (sa Petnjicom),processed waste + disposed waste in sanitary landfills + temporarily stored waste,2034
+2015,quantity,Bijelo Polje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Budva,processed waste + disposed waste in sanitary landfills + temporarily stored waste,21095
+2015,quantity,Cetinje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Danilovgrad,processed waste + disposed waste in sanitary landfills + temporarily stored waste,2950
+2015,quantity,Herceg Novi,processed waste + disposed waste in sanitary landfills + temporarily stored waste,3793
+2015,quantity,Kolašin,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Kotor,processed waste + disposed waste in sanitary landfills + temporarily stored waste,6408
+2015,quantity,Mojkovac,processed waste + disposed waste in sanitary landfills + temporarily stored waste,601
+2015,quantity,Nikšić,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Plav (sa Gusinjem),processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Pljevlja,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Plužine,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Podgorica,processed waste + disposed waste in sanitary landfills + temporarily stored waste,64125
+2015,quantity,Rožaje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Šavnik,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2015,quantity,Tivat,processed waste + disposed waste in sanitary landfills + temporarily stored waste,5236
+2015,quantity,Ulcinj,processed waste + disposed waste in sanitary landfills + temporarily stored waste,9328
+2015,quantity,Žabljak,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0

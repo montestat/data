@@ -1,1 +1,64 @@
-Year,Value
+Year,Units,Lokacija,Kategorija,Value
+2015,količina,Andrijevica,sakupljen otpad,700
+2015,količina,Bar,sakupljen otpad,21891
+2015,količina,Berane (sa Petnjicom),sakupljen otpad,7942
+2015,količina,Bijelo Polje,sakupljen otpad,12053
+2015,količina,Budva,sakupljen otpad,22492
+2015,količina,Cetinje,sakupljen otpad,4864
+2015,količina,Danilovgrad,sakupljen otpad,2950
+2015,količina,Herceg Novi,sakupljen otpad,16838
+2015,količina,Kolašin,sakupljen otpad,2150
+2015,količina,Kotor,sakupljen otpad,11820
+2015,količina,Mojkovac,sakupljen otpad,1442
+2015,količina,Nikšić,sakupljen otpad,18000
+2015,količina,Plav (sa Gusinjem),sakupljen otpad,1715
+2015,količina,Pljevlja,sakupljen otpad,7000
+2015,količina,Plužine,sakupljen otpad,625
+2015,količina,Podgorica,sakupljen otpad,64125
+2015,količina,Rožaje,sakupljen otpad,2955
+2015,količina,Šavnik,sakupljen otpad,500
+2015,količina,Tivat,sakupljen otpad,7993
+2015,količina,Ulcinj,sakupljen otpad,9328
+2015,količina,Žabljak,sakupljen otpad,850
+2015,količina,Andrijevica,proizveden otpad,1186
+2015,količina,Bar,proizveden otpad,24000
+2015,količina,Berane (sa Petnjicom),proizveden otpad,9928
+2015,količina,Bijelo Polje,proizveden otpad,12053
+2015,količina,Budva,proizveden otpad,23100
+2015,količina,Cetinje,proizveden otpad,6080
+2015,količina,Danilovgrad,proizveden otpad,4658
+2015,količina,Herceg Novi,proizveden otpad,18521
+2015,količina,Kolašin,proizveden otpad,2300
+2015,količina,Kotor,proizveden otpad,12500
+2015,količina,Mojkovac,proizveden otpad,2240
+2015,količina,Nikšić,proizveden otpad,20359
+2015,količina,Plav (sa Gusinjem),proizveden otpad,3430
+2015,količina,Pljevlja,proizveden otpad,8532
+2015,količina,Plužine,proizveden otpad,1173
+2015,količina,Podgorica,proizveden otpad,66602
+2015,količina,Rožaje,proizveden otpad,5910
+2015,količina,Šavnik,proizveden otpad,517
+2015,količina,Tivat,proizveden otpad,8100
+2015,količina,Ulcinj,proizveden otpad,11625
+2015,količina,Žabljak,proizveden otpad,1127
+2015,količina,Andrijevica,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Bar,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,21891
+2015,količina,Berane (sa Petnjicom),prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,2034
+2015,količina,Bijelo Polje,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Budva,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,21095
+2015,količina,Cetinje,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Danilovgrad,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,2950
+2015,količina,Herceg Novi,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,3793
+2015,količina,Kolašin,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Kotor,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,6408
+2015,količina,Mojkovac,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,601
+2015,količina,Nikšić,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Plav (sa Gusinjem),prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Pljevlja,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Plužine,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Podgorica,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,64125
+2015,količina,Rožaje,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Šavnik,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0
+2015,količina,Tivat,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,5236
+2015,količina,Ulcinj,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,9328
+2015,količina,Žabljak,prerađen otpad + odloženi otpad na sanitarnim deponijama + privremeno uskladišteni otpad,0

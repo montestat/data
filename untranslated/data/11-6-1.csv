@@ -1,1 +1,64 @@
-Year,Value
+Year,Units,Location,Category,Value
+2015,quantity,Andrijevica,collected_waste,700
+2015,quantity,Bar,collected_waste,21891
+2015,quantity,Berane (sa Petnjicom),collected_waste,7942
+2015,quantity,Bijelo Polje,collected_waste,12053
+2015,quantity,Budva,collected_waste,22492
+2015,quantity,Cetinje,collected_waste,4864
+2015,quantity,Danilovgrad,collected_waste,2950
+2015,quantity,Herceg Novi,collected_waste,16838
+2015,quantity,Kolasin,collected_waste,2150
+2015,quantity,Kotor,collected_waste,11820
+2015,quantity,Mojkovac,collected_waste,1442
+2015,quantity,Niksic,collected_waste,18000
+2015,quantity,Plav (sa Gusinjem),collected_waste,1715
+2015,quantity,Pljevlja,collected_waste,7000
+2015,quantity,Pluzine,collected_waste,625
+2015,quantity,Podgorica,collected_waste,64125
+2015,quantity,Rozaje,collected_waste,2955
+2015,quantity,savnik,collected_waste,500
+2015,quantity,Tivat,collected_waste,7993
+2015,quantity,Ulcinj,collected_waste,9328
+2015,quantity,Zabljak,collected_waste,850
+2015,quantity,Andrijevica,produced_waste,1186
+2015,quantity,Bar,produced_waste,24000
+2015,quantity,Berane (sa Petnjicom),produced_waste,9928
+2015,quantity,Bijelo Polje,produced_waste,12053
+2015,quantity,Budva,produced_waste,23100
+2015,quantity,Cetinje,produced_waste,6080
+2015,quantity,Danilovgrad,produced_waste,4658
+2015,quantity,Herceg Novi,produced_waste,18521
+2015,quantity,Kolasin,produced_waste,2300
+2015,quantity,Kotor,produced_waste,12500
+2015,quantity,Mojkovac,produced_waste,2240
+2015,quantity,Niksic,produced_waste,20359
+2015,quantity,Plav (sa Gusinjem),produced_waste,3430
+2015,quantity,Pljevlja,produced_waste,8532
+2015,quantity,Pluzine,produced_waste,1173
+2015,quantity,Podgorica,produced_waste,66602
+2015,quantity,Rozaje,produced_waste,5910
+2015,quantity,savnik,produced_waste,517
+2015,quantity,Tivat,produced_waste,8100
+2015,quantity,Ulcinj,produced_waste,11625
+2015,quantity,Zabljak,produced_waste,1127
+2015,quantity,Andrijevica,processed_waste,0
+2015,quantity,Bar,processed_waste,21891
+2015,quantity,Berane (sa Petnjicom),processed_waste,2034
+2015,quantity,Bijelo Polje,processed_waste,0
+2015,quantity,Budva,processed_waste,21095
+2015,quantity,Cetinje,processed_waste,0
+2015,quantity,Danilovgrad,processed_waste,2950
+2015,quantity,Herceg Novi,processed_waste,3793
+2015,quantity,Kolasin,processed_waste,0
+2015,quantity,Kotor,processed_waste,6408
+2015,quantity,Mojkovac,processed_waste,601
+2015,quantity,Niksic,processed_waste,0
+2015,quantity,Plav (sa Gusinjem),processed_waste,0
+2015,quantity,Pljevlja,processed_waste,0
+2015,quantity,Pluzine,processed_waste,0
+2015,quantity,Podgorica,processed_waste,64125
+2015,quantity,Rozaje,processed_waste,0
+2015,quantity,savnik,processed_waste,0
+2015,quantity,Tivat,processed_waste,5236
+2015,quantity,Ulcinj,processed_waste,9328
+2015,quantity,Zabljak,processed_waste,0

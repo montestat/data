@@ -3,6 +3,80 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "11-6-1/data.csv",
+      "name": "11-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "quantity",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Andrijevica",
+                "Bar",
+                "Berane (sa Petnjicom)",
+                "Bijelo Polje",
+                "Budva",
+                "Cetinje",
+                "Danilovgrad",
+                "Herceg Novi",
+                "Kolasin",
+                "Kotor",
+                "Mojkovac",
+                "Niksic",
+                "Plav (sa Gusinjem)",
+                "Pljevlja",
+                "Pluzine",
+                "Podgorica",
+                "Rozaje",
+                "savnik",
+                "Tivat",
+                "Ulcinj",
+                "Zabljak",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "collected_waste",
+                "produced_waste",
+                "processed_waste",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
+    },
+    {
       "path": "3-3-1/data.csv",
       "name": "3-3-1",
       "profile": "tabular-data-resource",
@@ -401,7 +475,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percent_of_bdp",
+                "percent_of_gdp",
                 "per_capita_in_eur",
                 ""
               ]
@@ -3130,28 +3204,6 @@
         ]
       },
       "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
-    },
-    {
-      "path": "11-6-1/data.csv",
-      "name": "11-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
     },
     {
       "path": "5-c-1/data.csv",

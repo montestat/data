@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percent_of_bdp",
+                "percent of GDP",
                 "per capita, in EUR",
                 ""
               ]
