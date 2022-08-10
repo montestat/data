@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "kg po glavi stanovnika",
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stvoreni opasni otpad po glavi stanovnika (kg)",
+                "Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada",
+                "Udio operacija R u ukupnoj obradi",
+                "Udio operacija D u ukupnoj obradi",
+                "Udio izvoza u ukupnoj obradi",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

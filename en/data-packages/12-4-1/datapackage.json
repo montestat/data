@@ -12,8 +12,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "points",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Convention",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basel convention",
+                "Rotterdam convention",
+                "Stockholm convention",
+                "Montreal convention",
+                "Minamata convention",
+                ""
+              ]
+            },
+            "title": "Convention"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Designation of the contact person and one or more competent authorities",
+                "Submission of annual national reports during the reporting period",
+                "Designation of competent national authorities and official contact points",
+                "Submitting an import response during the reporting period (0.2 points per import response)",
+                "Designation of official contact point and national focal point",
+                "Submission of the national implementation plan",
+                "Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan)",
+                "Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol",
+                "Submission of information on licensing systems under Article 4B of the Montreal Protocol",
+                "Designation of the national key point (Article 17)",
+                "Submitting a national report (Article 21)",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per_capita_kg",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hazardous_waste",
+                "processed_hazardous_waste",
+                "waste_operation_r",
+                "waste_operation_d",
+                "waste_export",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

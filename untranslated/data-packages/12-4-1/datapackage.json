@@ -12,7 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "points",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Convention",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "basel_convention",
+                "rotterdam_convention",
+                "stockholm_convention",
+                "montreal_convention",
+                "minamata_convention",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "basel_convention_1",
+                "basel_convention_2",
+                "rotterdam_convention_1",
+                "rotterdam_convention_2",
+                "stockholm_convention_1",
+                "stockholm_convention_2",
+                "stockholm_convention_3",
+                "montreal_convention_1",
+                "montreal_convention_2",
+                "minamata_convention_1",
+                "minamata_convention_2",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "kg per capita",
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hazardous waste generated",
+                "Processed hazardous waste in the total amount of hazardous waste generated",
+                "Share of operations R in total processing",
+                "Share of operations D in total processing",
+                "Share of exports in total processing",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

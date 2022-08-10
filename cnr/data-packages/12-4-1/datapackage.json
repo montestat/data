@@ -12,8 +12,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "bodovi",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Convention",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baselska konvencija",
+                "Roterdamska konvencija",
+                "Stokholmska konvencija",
+                "Montrealski protokol",
+                "Minamata konvencija",
+                ""
+              ]
+            },
+            "title": "Konvencija"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Označavanje kontakt osobe i jednu ili više nadležnih organa",
+                "Podnošenje godišnjih nacionalnih izvještaja tokom izvještajnog perioda",
+                "Označavanje nadležnih nacionalnih organa i zvanične kontakt tačke",
+                "Podnošenje import odgovora tokom izvještajnog perioda (0.2 boda po import odgovoru)",
+                "Označavanje zvanične kontakt tačke i nacionalne ključne tačke",
+                "Podnošenje nacionalnog plana implementacije",
+                "Podnošenje revidiranog nacionalnog plana/planova implementacije koji se odnose na usvojene izmjene i dopune od strane Konferencije stranaka u izvještajnom periodu (1 bod po revidiranom i ažuriranom planu)",
+                "Usklađenost sa zahtjevima za izvještavanje za proizvodnju i potrošnju ozonskog oštećenja suspstance prema članu 7 Montrealskog protokola",
+                "Podnošenje informacija o licencnim sistemima prema članu 4B Montrealskog protokola",
+                "Označavanje nacionalne ključne tačke (član 17)",
+                "Podnošenje nacionalnog izvještaja (član 21)",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

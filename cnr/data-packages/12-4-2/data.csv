@@ -1,1 +1,51 @@
-Year,Value
+Year,Units,Kategorija,Value
+2011,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),252.1
+2012,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),338.2
+2013,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),398.5
+2014,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),436.3
+2015,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),475.6
+2016,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),525.0
+2017,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),483.4
+2018,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),546.2
+2019,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),528.5
+2020,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),553.5
+2011,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,112.6
+2012,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,100.1
+2013,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,99.5
+2014,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,99.1
+2015,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,102.4
+2016,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,99.7
+2017,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,99.9
+2018,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,99.8
+2019,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,111.5
+2020,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,92.6
+2011,%,Udio operacija R u ukupnoj obradi,0.5
+2012,%,Udio operacija R u ukupnoj obradi,1.4
+2013,%,Udio operacija R u ukupnoj obradi,1.9
+2014,%,Udio operacija R u ukupnoj obradi,1.5
+2015,%,Udio operacija R u ukupnoj obradi,1.7
+2016,%,Udio operacija R u ukupnoj obradi,0.8
+2017,%,Udio operacija R u ukupnoj obradi,0.6
+2018,%,Udio operacija R u ukupnoj obradi,0.6
+2019,%,Udio operacija R u ukupnoj obradi,0.3
+2020,%,Udio operacija R u ukupnoj obradi,0.3
+2011,%,Udio operacija D u ukupnoj obradi,96.7
+2012,%,Udio operacija D u ukupnoj obradi,98.2
+2013,%,Udio operacija D u ukupnoj obradi,97.3
+2014,%,Udio operacija D u ukupnoj obradi,97.8
+2015,%,Udio operacija D u ukupnoj obradi,97.5
+2016,%,Udio operacija D u ukupnoj obradi,98.8
+2017,%,Udio operacija D u ukupnoj obradi,98.7
+2018,%,Udio operacija D u ukupnoj obradi,98.8
+2019,%,Udio operacija D u ukupnoj obradi,88.6
+2020,%,Udio operacija D u ukupnoj obradi,99.2
+2011,%,Udio izvoza u ukupnoj obradi,2.8
+2012,%,Udio izvoza u ukupnoj obradi,0.4
+2013,%,Udio izvoza u ukupnoj obradi,0.8
+2014,%,Udio izvoza u ukupnoj obradi,0.7
+2015,%,Udio izvoza u ukupnoj obradi,0.8
+2016,%,Udio izvoza u ukupnoj obradi,0.4
+2017,%,Udio izvoza u ukupnoj obradi,0.7
+2018,%,Udio izvoza u ukupnoj obradi,0.6
+2019,%,Udio izvoza u ukupnoj obradi,11.1
+2020,%,Udio izvoza u ukupnoj obradi,0.5

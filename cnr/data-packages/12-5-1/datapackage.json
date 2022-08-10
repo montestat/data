@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "tone",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reciklirane količine otpada (R2-R11 + izvoz)",
+                "Ukupne stvorene količine otpada",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

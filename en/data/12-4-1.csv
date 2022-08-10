@@ -1,1 +1,56 @@
-Year,Value
+Year,Units,Convention,Category,Value
+2015,points,Basel convention,Designation of the contact person and one or more competent authorities,1.0
+2016,points,Basel convention,Designation of the contact person and one or more competent authorities,1.0
+2017,points,Basel convention,Designation of the contact person and one or more competent authorities,1.0
+2018,points,Basel convention,Designation of the contact person and one or more competent authorities,1.0
+2019,points,Basel convention,Designation of the contact person and one or more competent authorities,1.0
+2015,points,Basel convention,Submission of annual national reports during the reporting period,1.0
+2016,points,Basel convention,Submission of annual national reports during the reporting period,1.0
+2017,points,Basel convention,Submission of annual national reports during the reporting period,1.0
+2018,points,Basel convention,Submission of annual national reports during the reporting period,1.0
+2019,points,Basel convention,Submission of annual national reports during the reporting period,1.0
+2015,points,Rotterdam convention,Designation of competent national authorities and official contact points,1.0
+2016,points,Rotterdam convention,Designation of competent national authorities and official contact points,1.0
+2017,points,Rotterdam convention,Designation of competent national authorities and official contact points,1.0
+2018,points,Rotterdam convention,Designation of competent national authorities and official contact points,1.0
+2019,points,Rotterdam convention,Designation of competent national authorities and official contact points,1.0
+2015,points,Rotterdam convention,Submitting an import response during the reporting period (0.2 points per import response),0.2
+2016,points,Rotterdam convention,Submitting an import response during the reporting period (0.2 points per import response),0.2
+2017,points,Rotterdam convention,Submitting an import response during the reporting period (0.2 points per import response),0.2
+2018,points,Rotterdam convention,Submitting an import response during the reporting period (0.2 points per import response),0.2
+2019,points,Rotterdam convention,Submitting an import response during the reporting period (0.2 points per import response),0.2
+2015,points,Stockholm convention,Designation of official contact point and national focal point,1.0
+2016,points,Stockholm convention,Designation of official contact point and national focal point,1.0
+2017,points,Stockholm convention,Designation of official contact point and national focal point,1.0
+2018,points,Stockholm convention,Designation of official contact point and national focal point,1.0
+2019,points,Stockholm convention,Designation of official contact point and national focal point,1.0
+2015,points,Stockholm convention,Submission of the national implementation plan,1.0
+2016,points,Stockholm convention,Submission of the national implementation plan,1.0
+2017,points,Stockholm convention,Submission of the national implementation plan,1.0
+2018,points,Stockholm convention,Submission of the national implementation plan,1.0
+2019,points,Stockholm convention,Submission of the national implementation plan,1.0
+2015,points,Stockholm convention,Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan),0.0
+2016,points,Stockholm convention,Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan),0.0
+2017,points,Stockholm convention,Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan),0.0
+2018,points,Stockholm convention,Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan),0.0
+2019,points,Stockholm convention,Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan),1.0
+2015,points,Montreal convention,Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol,15.0
+2016,points,Montreal convention,Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol,15.0
+2017,points,Montreal convention,Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol,15.0
+2018,points,Montreal convention,Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol,15.0
+2019,points,Montreal convention,Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol,15.0
+2015,points,Montreal convention,Submission of information on licensing systems under Article 4B of the Montreal Protocol,5.0
+2016,points,Montreal convention,Submission of information on licensing systems under Article 4B of the Montreal Protocol,5.0
+2017,points,Montreal convention,Submission of information on licensing systems under Article 4B of the Montreal Protocol,5.0
+2018,points,Montreal convention,Submission of information on licensing systems under Article 4B of the Montreal Protocol,5.0
+2019,points,Montreal convention,Submission of information on licensing systems under Article 4B of the Montreal Protocol,5.0
+2015,points,Minamata convention,Designation of the national key point (Article 17),5.0
+2016,points,Minamata convention,Designation of the national key point (Article 17),5.0
+2017,points,Minamata convention,Designation of the national key point (Article 17),5.0
+2018,points,Minamata convention,Designation of the national key point (Article 17),5.0
+2019,points,Minamata convention,Designation of the national key point (Article 17),5.0
+2015,points,Minamata convention,Submitting a national report (Article 21),0.0
+2016,points,Minamata convention,Submitting a national report (Article 21),0.0
+2017,points,Minamata convention,Submitting a national report (Article 21),0.0
+2018,points,Minamata convention,Submitting a national report (Article 21),0.0
+2019,points,Minamata convention,Submitting a national report (Article 21),0.0
