@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "popis stanovništva i domaćinstava",
+                "Upis u matičnu knjigu rođenih",
+                "Upis u matičnu knjigu umrlih",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "da/ne (1 označava 'da')",
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
           },
           {
             "name": "Value",
