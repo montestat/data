@@ -423,6 +423,103 @@
       "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Administrative head",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.0",
+                "2.0",
+                "3.0",
+                "4.0",
+                "5.0",
+                "6.0",
+                "7.0",
+                "8.0",
+                "9.0",
+                "10.0",
+                ""
+              ]
+            },
+            "title": "Administrativna cjelina"
+          },
+          {
+            "name": "Summary sheet 1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupni rezultat (PI-1)",
+                "varijansa sastava (PI-2)",
+                "nepredviđeni dio budžeta",
+                ""
+              ]
+            },
+            "title": "Sumirano - Obračunski list za dimenzije PI-1.1, PI-2.1 i PI-2.3"
+          },
+          {
+            "name": "Economic head",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kompenzacija zaposlenih",
+                "Upotreba robe i usluga",
+                "Potrošnja fiksnog kapitala",
+                "Kamatna stopa",
+                "Subvencije",
+                "Grantovi",
+                "Socijalne beneficije",
+                "Ostali troškovi",
+                ""
+              ]
+            },
+            "title": "Ekonomska cjelina"
+          },
+          {
+            "name": "Summary sheet 2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "varijansa kompozicije",
+                ""
+              ]
+            },
+            "title": "Sumirano - Obračun rashoda po varijansama ekonomske klasifikacije PI-2.2"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    },
+    {
       "path": "9-1-2/data.csv",
       "name": "9-1-2",
       "profile": "tabular-data-resource",
@@ -3582,30 +3679,6 @@
         ]
       },
       "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
-    },
-    {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
       "path": "12-c-1/data.csv",

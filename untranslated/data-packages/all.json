@@ -392,6 +392,96 @@
       "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Administrative head",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1.0",
+                "2.0",
+                "3.0",
+                "4.0",
+                "5.0",
+                "6.0",
+                "7.0",
+                "8.0",
+                "9.0",
+                "10.0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Summary sheet 1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pi_1",
+                "pi_2",
+                "share_of_budget",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Economic head",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "compensation_employees",
+                "goods_services",
+                "fixed_capital",
+                "interest",
+                "subsidies",
+                "grants",
+                "social_benefits",
+                "other_expenses",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Summary sheet 2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "composition_variance",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    },
+    {
       "path": "9-1-2/data.csv",
       "name": "9-1-2",
       "profile": "tabular-data-resource",
@@ -3288,28 +3378,6 @@
         ]
       },
       "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
-    },
-    {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
       "path": "12-c-1/data.csv",
