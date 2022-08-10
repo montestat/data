@@ -34,40 +34,40 @@ Year,Units,Category,Economic class,Size class,LSU class,Value
 2010,total,> 3 GJR, 8000-15000,,,333.0
 2010,total,> 3 GJR,15000-25000,,,118.0
 2010,total,> 3 GJR,> 25000,,,43.0
-2016,total,Farms SPG 2016,,Without land,,311.0
-2016,total,Farms SPG 2016,,<0.10,,1560.0
-2016,total,Farms SPG 2016,,0.10-0.50,,10590.0
-2016,total,Farms SPG 2016,,0.50-1.00,,5815.0
-2016,total,Farms SPG 2016,,1.00-2.00,,7363.0
-2016,total,Farms SPG 2016,,2.00-3.00,,3895.0
-2016,total,Farms SPG 2016,,3.00-4.00,,2511.0
-2016,total,Farms SPG 2016,,4.00-5.00,,1600.0
-2016,total,Farms SPG 2016,,5.00-6.00,,1462.0
-2016,total,Farms SPG 2016,,6.00-8.00,,2164.0
-2016,total,Farms SPG 2016,,8.00-10.00,,1082.0
-2016,total,Farms SPG 2016,,10.00-15.00,,1584.0
-2016,total,Farms SPG 2016,,15.00-20.00,,1042.0
-2016,total,Farms SPG 2016,,20.00-30.00,,1029.0
-2016,total,Farms SPG 2016,,30.00-50.00,,900.0
-2016,total,Farms SPG 2016,,50.00-100.00,,587.0
-2016,total,Farms SPG 2016,,>100.00,,296.0
-2010,total,Farms PP 2010,,Without land,,593.0
-2010,total,Farms PP 2010,,<0.10,,2515.0
-2010,total,Farms PP 2010,,0.10-0.50,,15418.0
-2010,total,Farms PP 2010,,0.50-1.00,,8467.0
-2010,total,Farms PP 2010,,1.00-2.00,,8867.0
-2010,total,Farms PP 2010,,2.00-3.00,,4081.0
-2010,total,Farms PP 2010,,3.00-4.00,,2258.0
-2010,total,Farms PP 2010,,4.00-5.00,,1288.0
-2010,total,Farms PP 2010,,5.00-6.00,,1057.0
-2010,total,Farms PP 2010,,6.00-8.00,,1067.0
-2010,total,Farms PP 2010,,8.00-10.00,,588.0
-2010,total,Farms PP 2010,,10.00-15.00,,815.0
-2010,total,Farms PP 2010,,15.00-20.00,,342.0
-2010,total,Farms PP 2010,,20.00-30.00,,329.0
-2010,total,Farms PP 2010,,30.00-50.00,,313.0
-2010,total,Farms PP 2010,,50.00-100.00,,441.0
-2010,total,Farms PP 2010,,>100.00,,431.0
+2016,total,Farms SPG 2016 - hectares,,Without land,,311.0
+2016,total,Farms SPG 2016 - hectares,,<0.10,,1560.0
+2016,total,Farms SPG 2016 - hectares,,0.10-0.50,,10590.0
+2016,total,Farms SPG 2016 - hectares,,0.50-1.00,,5815.0
+2016,total,Farms SPG 2016 - hectares,,1.00-2.00,,7363.0
+2016,total,Farms SPG 2016 - hectares,,2.00-3.00,,3895.0
+2016,total,Farms SPG 2016 - hectares,,3.00-4.00,,2511.0
+2016,total,Farms SPG 2016 - hectares,,4.00-5.00,,1600.0
+2016,total,Farms SPG 2016 - hectares,,5.00-6.00,,1462.0
+2016,total,Farms SPG 2016 - hectares,,6.00-8.00,,2164.0
+2016,total,Farms SPG 2016 - hectares,,8.00-10.00,,1082.0
+2016,total,Farms SPG 2016 - hectares,,10.00-15.00,,1584.0
+2016,total,Farms SPG 2016 - hectares,,15.00-20.00,,1042.0
+2016,total,Farms SPG 2016 - hectares,,20.00-30.00,,1029.0
+2016,total,Farms SPG 2016 - hectares,,30.00-50.00,,900.0
+2016,total,Farms SPG 2016 - hectares,,50.00-100.00,,587.0
+2016,total,Farms SPG 2016 - hectares,,>100.00,,296.0
+2010,total,Farms PP 2010 - hectares,,Without land,,593.0
+2010,total,Farms PP 2010 - hectares,,<0.10,,2515.0
+2010,total,Farms PP 2010 - hectares,,0.10-0.50,,15418.0
+2010,total,Farms PP 2010 - hectares,,0.50-1.00,,8467.0
+2010,total,Farms PP 2010 - hectares,,1.00-2.00,,8867.0
+2010,total,Farms PP 2010 - hectares,,2.00-3.00,,4081.0
+2010,total,Farms PP 2010 - hectares,,3.00-4.00,,2258.0
+2010,total,Farms PP 2010 - hectares,,4.00-5.00,,1288.0
+2010,total,Farms PP 2010 - hectares,,5.00-6.00,,1057.0
+2010,total,Farms PP 2010 - hectares,,6.00-8.00,,1067.0
+2010,total,Farms PP 2010 - hectares,,8.00-10.00,,588.0
+2010,total,Farms PP 2010 - hectares,,10.00-15.00,,815.0
+2010,total,Farms PP 2010 - hectares,,15.00-20.00,,342.0
+2010,total,Farms PP 2010 - hectares,,20.00-30.00,,329.0
+2010,total,Farms PP 2010 - hectares,,30.00-50.00,,313.0
+2010,total,Farms PP 2010 - hectares,,50.00-100.00,,441.0
+2010,total,Farms PP 2010 - hectares,,>100.00,,431.0
 2010,total,,,,Farms,32675.0
 2010,total,,,,LSU,117753.1
 2010,total,Family farms,,,Farms,32656.0

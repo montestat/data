@@ -238,8 +238,8 @@
                 "1-2 GJR",
                 "2-3 GJR",
                 "> 3 GJR",
-                "Gazdinstva SPG 2016",
-                "Gazdinstva PP 2010",
+                "Gazdinstva SPG 2016 - hektari",
+                "Gazdinstva PP 2010 - hektari",
                 "Porodična poljoprivredna gazdinstva",
                 "Preduzeća",
                 ""
@@ -651,6 +651,54 @@
         ]
       },
       "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+    },
+    {
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hectares",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tradicionalna obrada",
+                "Konvencionalna obrada",
+                "Bez obrade",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Proportion of agricultural area under productive and sustainable agriculture"
     },
     {
       "path": "9-2-1/data.csv",
@@ -1864,6 +1912,53 @@
         ]
       },
       "title": "Proportion of individuals using the Internet"
+    },
+    {
+      "path": "5-a-1/data.csv",
+      "name": "5-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Žene",
+                "Muškarci",
+                ""
+              ]
+            },
+            "title": "Pol"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
     },
     {
       "path": "3-7-2/data.csv",
@@ -3267,30 +3362,6 @@
       "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
-      "path": "5-a-1/data.csv",
-      "name": "5-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
-    },
-    {
       "path": "14-3-1/data.csv",
       "name": "14-3-1",
       "profile": "tabular-data-resource",
@@ -3745,30 +3816,6 @@
         ]
       },
       "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
-    },
-    {
-      "path": "2-4-1/data.csv",
-      "name": "2-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Proportion of agricultural area under productive and sustainable agriculture"
     },
     {
       "path": "16-8-1/data.csv",
