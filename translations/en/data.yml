@@ -176,7 +176,7 @@ family_agriculture: "Family farms"
 companies: "Companies"
 farms: "Farms"
 lsu: "LSU"
-ha: hectares
+hectares: hectares
 traditional_agriculture: Traditional agriculture
 conventional_agriculture: Conventional agriculture
 without_agriculture: Without agriculture

@@ -176,7 +176,7 @@ family_agriculture: "Porodična poljoprivredna gazdinstva"
 companies: "Preduzeća"
 farms: "gazdinstva"
 lsu: "LSU"
-ha: hektari
+hectares: hektari
 traditional_agriculture: Tradicionalna obrada
 conventional_agriculture: Konvencionalna obrada
 without_agriculture: Bez obrade
