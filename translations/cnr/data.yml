@@ -9,6 +9,7 @@ Location: Lokacija
 Count: Brojnost
 Density: Gustina
 Category: Kategorija
+Convention: Konvencija
 aged 0-17 years: Manje od 18 godina
 aged 18-24 years: 18-24 godine
 aged 25-54 years: 25-54 godine
@@ -99,3 +100,31 @@ Pljevlja UB: Pljevlja UB
 Podgorica UB: Podgorica UB
 pm10: PM 10
 pm2.5: PM 2.5
+points: bodovi
+basel_convention: Baselska konvencija
+rotterdam_convention: Roterdamska konvencija
+stockholm_convention: Stokholmska konvencija
+montreal_convention: Montrealski protokol
+minamata_convention: Minamata konvencija
+basel_convention_1: Označavanje kontakt osobe i jednu ili više nadležnih organa
+basel_convention_2: Podnošenje godišnjih nacionalnih izvještaja tokom izvještajnog perioda
+rotterdam_convention_1: Označavanje nadležnih nacionalnih organa i zvanične kontakt tačke
+rotterdam_convention_2: Podnošenje import odgovora tokom izvještajnog perioda (0.2 boda po import odgovoru)
+stockholm_convention_1: Označavanje zvanične kontakt tačke i nacionalne ključne tačke
+stockholm_convention_2: Podnošenje nacionalnog plana implementacije
+stockholm_convention_3: Podnošenje revidiranog nacionalnog plana/planova implementacije koji se odnose na usvojene izmjene i dopune od strane Konferencije stranaka u izvještajnom periodu (1 bod po revidiranom i ažuriranom planu)
+montreal_convention_1: Usklađenost sa zahtjevima za izvještavanje za proizvodnju i potrošnju ozonskog oštećenja suspstance prema članu 7 Montrealskog protokola
+montreal_convention_2: Podnošenje informacija o licencnim sistemima prema članu 4B Montrealskog protokola
+minamata_convention_1: Označavanje nacionalne ključne tačke (član 17)
+minamata_convention_2: Podnošenje nacionalnog izvještaja (član 21)
+hazardous_waste: Stvoreni opasni otpad po glavi stanovnika (kg)
+processed_hazardous_waste: Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada
+waste_operation_r: Udio operacija R u ukupnoj obradi
+waste_operation_d: Udio operacija D u ukupnoj obradi
+waste_export: Udio izvoza u ukupnoj obradi
+per_capita_kg: kg po glavi stanovnika
+recycled_waste: Reciklirane količine otpada (R2-R11 + izvoz)
+total_waste: Ukupne stvorene količine otpada
+accreditation: akreditacija (1 označava akreditaciju A)
+ombudsman: ombudsman
+yes_no: da/ne
