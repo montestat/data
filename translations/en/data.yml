@@ -162,9 +162,13 @@ size_class_20.00_30.00: "20.00-30.00"
 size_class_30.00_50.00: "30.00-50.00"
 size_class_50.00_100.00: "50.00-100.00"
 size_class_more_100.00: ">100.00"
-farms_spg_2016: "Farms SPG 2016"
-farms_pp_2010: "Farms PP 2010"
+farms_spg_2016: "Farms SPG 2016 - hectares"
+farms_pp_2010: "Farms PP 2010 - hectares"
 family_agriculture: "Family farms"
 companies: "Companies"
 farms: "Farms"
 lsu: "LSU"
+ha: hectares
+traditional_agriculture: Traditional agriculture
+conventional_agriculture: Conventional agriculture
+without_agriculture: Without agriculture
