@@ -9,6 +9,7 @@ Location: Location
 Count: Count
 Density: Density
 Category: Category
+Convention: Convention
 aged 0-17 years: aged 0-17 years
 aged 18-24 years: aged 18-24 years
 aged 25-54 years: aged 25-54 years
@@ -99,3 +100,30 @@ Pljevlja UB: Pljevlja UB
 Podgorica UB: Podgorica UB
 pm10: PM 10
 pm2.5: PM 2.5
+points: points
+basel_convention: Basel convention
+rotterdam_convention: Rotterdam convention
+stockholm_convention: Stockholm convention
+montreal_convention: Montreal convention
+minamata_convention: Minamata convention
+basel_convention_1: Designation of the contact person and one or more competent authorities
+basel_convention_2: Submission of annual national reports during the reporting period
+rotterdam_convention_1: Designation of competent national authorities and official contact points
+rotterdam_convention_2: Submitting an import response during the reporting period (0.2 points per import response)
+stockholm_convention_1: Designation of official contact point and national focal point
+stockholm_convention_2: Submission of the national implementation plan
+stockholm_convention_3: Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan)
+montreal_convention_1: Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol
+montreal_convention_2: Submission of information on licensing systems under Article 4B of the Montreal Protocol
+minamata_convention_1: Designation of the national key point (Article 17)
+minamata_convention_2: Submitting a national report (Article 21)
+hazardous_waste: Hazardous waste generated
+processed_hazardous_waste: Processed hazardous waste in the total amount of hazardous waste generated
+waste_operation_r: Share of operations R in total processing
+waste_operation_d: Share of operations D in total processing
+waste_export: Share of exports in total processing
+per_capita_kg: kg per capita
+recycled_waste: Recycled amounts of waste (R2-R11 + export)
+total_waste: Total generated amounts of waste
+accreditation: accreditation
+ombudsman: ombudsman

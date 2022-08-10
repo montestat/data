@@ -89,11 +89,8 @@
 12-2-2-title: 'Domaća potrošnja materijala, domaća potrošnja materijala po glavi stanovnika
   i domaća potrošnja materijala po BDP-u'
 12-3-1-title: '(a) Indeks gubitka hrane i (b) indeks otpada od hrane'
-12-4-1-title: 'Broj strana u međunarodnim multilateralnim ekološkim sporazumima o
-  opasnom otpadu i drugim hemikalijama koje ispunjavaju svoje obaveze i obaveze u
-  prenošenju informacija kako se zahtijeva svakim relevantnim sporazumom'
-12-4-2-title: '(a) Opasni otpad proizveden po glavi stanovnika; i (b) udio tretiranog
-  opasnog otpada, prema vrsti tretmana'
+12-4-1-title: 'Broj stranka potpisnica međunarodnih multilateralnih sporazuma o opasnom otpadu i drugim hemikalijama, koje ispunjavaju obaveze koje su na sebe preuzele i obaveze dostavljanja informacija koje se traže na osnovu svakog od relevatnih sporazuma'
+12-4-2-title: '(a) Opasni otpad proizveden po glavi stanovnika, udio prerađenog opasnog otpada i po vrsti prerade'
 12-5-1-title: 'Nacionalna stopa recikliranja, tone recikliranog materijala'
 12-6-1-title: 'Broj kompanija koje objavljuju izvještaje o održivosti'
 12-7-1-title: 'Stepen implementacije održivih politika javnih nabavki i akcionog plana'
@@ -216,8 +213,7 @@
 16-5-2-title: 'Udio preduzeća koja su imala barem jedan kontakt sa javnim službenikom
   i koja su platila mito javnom službeniku ili su im ti javni službenici tražili mito
   tokom prethodnih 12 mjeseci'
-16-6-1-title: 'Primarni državni rashodi kao udio prvobitno odobrenog budžeta, po sektoru
-  (ili prema budžetskim kodovima ili slično)'
+16-6-1-title: 'Udio primarnih budžetskih rashoda u prvobitno usvojenom budžetu, po sektoru (ili po kodovima budžetske klasifikacije ili slično)'
 16-6-2-title: 'Udio stanovništva zadovoljnog svojim posljednjim iskustvom javnih usluga'
 16-7-1-title: 'Proporcije pozicija u nacionalnim i lokalnim institucijama, uključujući
   (a) zakonodavna tijela; (b) javne službe; i (c) pravosuđe, u poređenju sa nacionalnom
@@ -225,10 +221,9 @@
 16-7-2-title: 'Udio stanovništva koji vjeruje da je donošenje odluka inkluzivno i
   odgovorno, prema polu, starosti, invalidnosti i grupi stanovništva'
 16-8-1-title: 'Udio članova i prava glasa zemalja u razvoju u međunarodnim organizacijama'
-16-9-1-title: 'Udio djece mlađe od 5 godina čija su rođenja upisana u registar civilnih
-  organa, prema starosti'
-16-a-1-title: 'Postojanje nezavisnih nacionalnih institucija za ljudska prava u skladu
-  sa Pariškim principima'
+16-9-1-title: 'Udio djece ispod 5 godina starosti čije je rođenje registrovano kod organa nadležnog za građanske registre, po godinama'
+16-a-1-title: 'Postojanje nezavisnih nacionalnih institucija za zaštitu ljudskih prava u skladu
+  sa Pariškim načelima'
 16-b-1-title: 'Udio stanovništva koje je prijavilo da se lično osjećalo diskriminisano
   ili uznemiravano u prethodnih 12 mjeseci na osnovu diskriminacije zabranjene međunarodnim
   pravom o ljudskim pravima'
