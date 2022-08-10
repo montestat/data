@@ -1,4 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
+1_2_gjr,7,1
+2_3_gjr,7,1
 adults_15,1,1
 advanced_spread_sheets,2,1
 air_traffic,1,1
@@ -12,9 +14,14 @@ cat_d,1,1
 cat_e,1,1
 change_settings,2,1
 collected_waste,21,1
+companies,2,1
 copy_files,2,1
+family_agriculture,2,1
+farms_pp_2010,17,1
+farms_spg_2016,17,1
 hazardous_waste,1,1
 install_software,2,1
+less_1_gjr,7,1
 manufacturing_value,2,1
 maritime_traffic,1,1
 maths,6,1
@@ -22,6 +29,7 @@ minamata_convention_1,1,1
 minamata_convention_2,1,1
 montreal_convention_1,1,1
 montreal_convention_2,1,1
+more_3_gjr,7,1
 national_stat_plan_strategy,1,1
 ombudsman,1,1
 photos,2,1
@@ -42,7 +50,7 @@ stockholm_convention_2,1,1
 stockholm_convention_3,1,1
 teacher_class_1,1,1
 teacher_class_2,1,1
-total,1,1
+total,8,2
 total_waste,1,1
 transfer_files,2,1
 waste_export,1,1

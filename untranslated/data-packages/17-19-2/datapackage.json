@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "yes_no",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Census",
             "type": "string",
             "constraints": {
@@ -31,17 +42,6 @@
               "enum": [
                 "register_of_births",
                 "register_of_deaths",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "yes_no",
-                "%",
                 ""
               ]
             }

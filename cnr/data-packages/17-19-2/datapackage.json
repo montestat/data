@@ -16,6 +16,18 @@
             "title": "Godina"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "da/ne (1 označava 'da')",
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
             "name": "Census",
             "type": "string",
             "constraints": {
@@ -37,18 +49,6 @@
               ]
             },
             "title": "Registar rođenih/umrlih"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "da/ne (1 označava 'da')",
-                "%",
-                ""
-              ]
-            },
-            "title": "Jedinica"
           },
           {
             "name": "Value",

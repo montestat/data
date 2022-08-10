@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "yes/no (1 is equivalent to 'yes')",
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Census",
             "type": "string",
             "constraints": {
@@ -37,18 +49,6 @@
               ]
             },
             "title": "Register of births/deaths"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "yes/no (1 is equivalent to 'yes')",
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

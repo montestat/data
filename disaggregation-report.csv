@@ -1,10 +1,13 @@
 Disaggregation,Number of indicators,Number of values
 Age,8,17
-Category,13,50
+Category,14,58
 Census,1,1
 Convention,1,5
 Count,1,5
 Density,1,4
+Economic class,1,7
 Location,9,28
+LSU class,1,2
 Register,1,2
 Sex,6,2
+Size class,1,17

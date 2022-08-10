@@ -1,0 +1,8 @@
+Value,Disaggregation combinations using this value,Number of indicators
+economic_class_15000_25000,5,1
+economic_class_2000_4000,5,1
+economic_class_4000_8000,5,1
+economic_class_8000_15000,5,1
+economic_class_less_2000,5,1
+economic_class_more_25000,5,1
+number_of_farms,5,1

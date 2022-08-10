@@ -12,8 +12,94 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno",
+                "< 1 GJR",
+                "1-2 GJR",
+                "2-3 GJR",
+                "> 3 GJR",
+                "Gazdinstva SPG 2016",
+                "Gazdinstva PP 2010",
+                "Porodična poljoprivredna gazdinstva",
+                "Preduzeća",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
+            "name": "Economic class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj gazdinstava",
+                "< 2000",
+                "2000-4000",
+                "4000-8000",
+                " 8000-15000",
+                "15000-25000",
+                "> 25000",
+                ""
+              ]
+            },
+            "title": "Economic class"
+          },
+          {
+            "name": "Size class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bez zemljišta",
+                "<0.10",
+                "0.10-0.50",
+                "0.50-1.00",
+                "1.00-2.00",
+                "2.00-3.00",
+                "3.00-4.00",
+                "4.00-5.00",
+                "5.00-6.00",
+                "6.00-8.00",
+                "8.00-10.00",
+                "10.00-15.00",
+                "15.00-20.00",
+                "20.00-30.00",
+                "30.00-50.00",
+                "50.00-100.00",
+                ">100.00",
+                ""
+              ]
+            },
+            "title": "Size class"
+          },
+          {
+            "name": "LSU class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "gazdinstva",
+                "LSU",
+                ""
+              ]
+            },
+            "title": "LSU class"
           },
           {
             "name": "Value",
