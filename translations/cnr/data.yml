@@ -15,6 +15,10 @@ Register: Registar rođenih/umrlih
 Economic class: Klase ekonomske veličine gazdinstava 2010. godina
 Size class: Veličina razreda prema korišćenom poljoprivrednom zemljištu (ha)
 LSU class: Uslovno grlo LSU
+Administrative head: Administrativna cjelina
+Economic head: Ekonomska cjelina
+Summary sheet 1: Sumirano - Obračunski list za dimenzije PI-1.1, PI-2.1 i PI-2.3
+Summary sheet 2: Sumirano - Obračun rashoda po varijansama ekonomske klasifikacije PI-2.2
 aged 0-17 years: Manje od 18 godina
 aged 18-24 years: 18-24 godine
 aged 25-54 years: 25-54 godine
@@ -183,3 +187,15 @@ international_bank_for_reconstruction: Međunarodna banka za rekonstrukciju i ra
 world_trade_organization: Svjetska trgovinska organizacija
 mne_member: Da li je CG član?
 mne_vote: Da li ima pravo glasa?
+pi_1: ukupni rezultat (PI-1)
+pi_2: varijansa sastava (PI-2)
+share_of_budget: nepredviđeni dio budžeta
+compensation_employees: Kompenzacija zaposlenih
+goods_services: Upotreba robe i usluga
+fixed_capital: Potrošnja fiksnog kapitala
+interest: Kamatna stopa
+subsidies: Subvencije
+grants: Grantovi
+social_benefits: Socijalne beneficije
+other_expenses: Ostali troškovi
+composition_variance: varijansa kompozicije

@@ -15,6 +15,10 @@ Register: Register of births/deaths
 Economic class: Economic size classes of farms in 2010
 Size class: Class size according to used agricultural land (ha)
 LSU class: LSU
+Administrative head: Administrative head
+Economic head: Economic head
+Summary sheet 1: Summary - Calculation Sheet for Dimensions PI-1.1, PI-2.1 and PI-2.3
+Summary sheet 2: Summary - Calculation Sheet for Expenditure by Economic Classification Variance PI-2.2
 aged 0-17 years: aged 0-17 years
 aged 18-24 years: aged 18-24 years
 aged 25-54 years: aged 25-54 years
@@ -183,3 +187,15 @@ international_bank_for_reconstruction: International Bank for Reconstruction and
 world_trade_organization: World Trade Organization
 mne_member: Is Montenegro a member?
 mne_vote: Does Montenegro have the right to vote?
+pi_1: aggregate outturn (PI-1)
+pi_2: composition (PI-2) variance
+share_of_budget: contingency share of budget
+compensation_employees: Compensation of employees
+goods_services: Use of goods and services
+fixed_capital: Consumption of fixed capital
+interest: Interest
+subsidies: Subsidies
+grants: Grants
+social_benefits: Social benefits
+other_expenses: Other expenses
+composition_variance: composition variance
