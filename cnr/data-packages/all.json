@@ -262,7 +262,7 @@
                 ""
               ]
             },
-            "title": "Economic class"
+            "title": "Klase ekonomske veličine gazdinstava 2010. godina"
           },
           {
             "name": "Size class",
@@ -289,7 +289,7 @@
                 ""
               ]
             },
-            "title": "Size class"
+            "title": "Veličina razreda prema korišćenom poljoprivrednom zemljištu (ha)"
           },
           {
             "name": "LSU class",
@@ -301,7 +301,7 @@
                 ""
               ]
             },
-            "title": "LSU class"
+            "title": "Uslovno grlo LSU"
           },
           {
             "name": "Value",
@@ -358,6 +358,69 @@
         ]
       },
       "title": "Unemployment rate, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "16-8-1/data.csv",
+      "name": "16-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "da/ne (1 označava 'da')",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Generalna skupština UN",
+                "Savjet bezbjednosti UN",
+                "Ekonomski i socijalni savjet UN",
+                "Međunarodni monetarni fond",
+                "Međunarodna banka za rekonstrukciju i razvoj",
+                "Svjetska trgovinska organizacija",
+                ""
+              ]
+            },
+            "title": "Institution"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Da li je CG član?",
+                "Da li ima pravo glasa?",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "9-1-2/data.csv",
@@ -559,6 +622,69 @@
         ]
       },
       "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+    },
+    {
+      "path": "10-6-1/data.csv",
+      "name": "10-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "da/ne (1 označava 'da')",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Generalna skupština UN",
+                "Savjet bezbjednosti UN",
+                "Ekonomski i socijalni savjet UN",
+                "Međunarodni monetarni fond",
+                "Međunarodna banka za rekonstrukciju i razvoj",
+                "Svjetska trgovinska organizacija",
+                ""
+              ]
+            },
+            "title": "Institution"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Da li je CG član?",
+                "Da li ima pravo glasa?",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "17-18-3/data.csv",
@@ -3818,30 +3944,6 @@
       "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
     },
     {
-      "path": "16-8-1/data.csv",
-      "name": "16-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
-    },
-    {
       "path": "17-9-1/data.csv",
       "name": "17-9-1",
       "profile": "tabular-data-resource",
@@ -4800,30 +4902,6 @@
         ]
       },
       "title": "Proportion of fish stocks within biologically sustainable levels"
-    },
-    {
-      "path": "10-6-1/data.csv",
-      "name": "10-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "3-d-1/data.csv",

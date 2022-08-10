@@ -334,6 +334,64 @@
       "title": "Unemployment rate, by sex, age and persons with disabilities"
     },
     {
+      "path": "16-8-1/data.csv",
+      "name": "16-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "yes_no",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "un_general_assembly",
+                "un_security_council",
+                "un_economic_social_council",
+                "international_monetary_fund",
+                "international_bank_for_reconstruction",
+                "world_trade_organization",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mne_member",
+                "mne_vote",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
+    },
+    {
       "path": "9-1-2/data.csv",
       "name": "9-1-2",
       "profile": "tabular-data-resource",
@@ -516,6 +574,64 @@
         ]
       },
       "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+    },
+    {
+      "path": "10-6-1/data.csv",
+      "name": "10-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "yes_no",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "un_general_assembly",
+                "un_security_council",
+                "un_economic_social_council",
+                "international_monetary_fund",
+                "international_bank_for_reconstruction",
+                "world_trade_organization",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mne_member",
+                "mne_vote",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "17-18-3/data.csv",
@@ -3504,28 +3620,6 @@
       "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
     },
     {
-      "path": "16-8-1/data.csv",
-      "name": "16-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
-    },
-    {
       "path": "17-9-1/data.csv",
       "name": "17-9-1",
       "profile": "tabular-data-resource",
@@ -4404,28 +4498,6 @@
         ]
       },
       "title": "Proportion of fish stocks within biologically sustainable levels"
-    },
-    {
-      "path": "10-6-1/data.csv",
-      "name": "10-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "3-d-1/data.csv",

@@ -12,12 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "yes/no (1 is equivalent to 'yes')",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UN General Assembly",
+                "UN Security Council",
+                "UN Economic and Social Council",
+                "International Monetary Fund",
+                "International Bank for Reconstruction and Development",
+                "World Trade Organization",
+                ""
+              ]
+            },
+            "title": "Institution"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Is Montenegro a member?",
+                "Does Montenegro have the right to vote?",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

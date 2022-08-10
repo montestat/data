@@ -60,7 +60,7 @@
                 ""
               ]
             },
-            "title": "Economic class"
+            "title": "Economic size classes of farms in 2010"
           },
           {
             "name": "Size class",
@@ -87,7 +87,7 @@
                 ""
               ]
             },
-            "title": "Size class"
+            "title": "Class size according to used agricultural land (ha)"
           },
           {
             "name": "LSU class",
@@ -99,7 +99,7 @@
                 ""
               ]
             },
-            "title": "LSU class"
+            "title": "LSU"
           },
           {
             "name": "Value",

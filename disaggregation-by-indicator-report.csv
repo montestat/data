@@ -2,11 +2,13 @@ Indicator,Disaggregations,Number of disaggregations
 #1-1-1,"Sex, Age",2
 #1-2-1,"Sex, Age",2
 #1-2-2,"Sex, Age",2
+#10-6-1,"Category, Institution",2
 #11-6-1,"Location, Category",2
 #11-6-2,Location,1
 #12-4-1,"Category, Convention",2
 #12-4-2,Category,1
 #12-5-1,Category,1
+#16-8-1,"Category, Institution",2
 #16-a-1,Category,1
 #17-18-3,Category,1
 #17-19-2,"Census, Register",2

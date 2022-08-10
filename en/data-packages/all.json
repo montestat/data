@@ -262,7 +262,7 @@
                 ""
               ]
             },
-            "title": "Economic class"
+            "title": "Economic size classes of farms in 2010"
           },
           {
             "name": "Size class",
@@ -289,7 +289,7 @@
                 ""
               ]
             },
-            "title": "Size class"
+            "title": "Class size according to used agricultural land (ha)"
           },
           {
             "name": "LSU class",
@@ -301,7 +301,7 @@
                 ""
               ]
             },
-            "title": "LSU class"
+            "title": "LSU"
           },
           {
             "name": "Value",
@@ -358,6 +358,69 @@
         ]
       },
       "title": "Unemployment rate, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "16-8-1/data.csv",
+      "name": "16-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "yes/no (1 is equivalent to 'yes')",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UN General Assembly",
+                "UN Security Council",
+                "UN Economic and Social Council",
+                "International Monetary Fund",
+                "International Bank for Reconstruction and Development",
+                "World Trade Organization",
+                ""
+              ]
+            },
+            "title": "Institution"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Is Montenegro a member?",
+                "Does Montenegro have the right to vote?",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "9-1-2/data.csv",
@@ -559,6 +622,69 @@
         ]
       },
       "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+    },
+    {
+      "path": "10-6-1/data.csv",
+      "name": "10-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "yes/no (1 is equivalent to 'yes')",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UN General Assembly",
+                "UN Security Council",
+                "UN Economic and Social Council",
+                "International Monetary Fund",
+                "International Bank for Reconstruction and Development",
+                "World Trade Organization",
+                ""
+              ]
+            },
+            "title": "Institution"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Is Montenegro a member?",
+                "Does Montenegro have the right to vote?",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "17-18-3/data.csv",
@@ -3818,30 +3944,6 @@
       "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
     },
     {
-      "path": "16-8-1/data.csv",
-      "name": "16-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
-    },
-    {
       "path": "17-9-1/data.csv",
       "name": "17-9-1",
       "profile": "tabular-data-resource",
@@ -4800,30 +4902,6 @@
         ]
       },
       "title": "Proportion of fish stocks within biologically sustainable levels"
-    },
-    {
-      "path": "10-6-1/data.csv",
-      "name": "10-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "3-d-1/data.csv",
