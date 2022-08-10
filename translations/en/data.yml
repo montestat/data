@@ -12,6 +12,9 @@ Category: Category
 Convention: Convention
 Census: Population and household census
 Register: Register of births/deaths
+Economic class: Economic size classes of farms in 2010
+Size class: Class size according to used agricultural land (ha)
+LSU class: LSU
 aged 0-17 years: aged 0-17 years
 aged 18-24 years: aged 18-24 years
 aged 25-54 years: aged 25-54 years
@@ -172,3 +175,11 @@ ha: hectares
 traditional_agriculture: Traditional agriculture
 conventional_agriculture: Conventional agriculture
 without_agriculture: Without agriculture
+un_general_assembly: UN General Assembly
+un_security_council: UN Security Council
+un_economic_social_council: UN Economic and Social Council
+international_monetary_fund: International Monetary Fund
+international_bank_for_reconstruction: International Bank for Reconstruction and Development
+world_trade_organization: World Trade Organization
+mne_member: Is Montenegro a member?
+mne_vote: Does Montenegro have the right to vote?

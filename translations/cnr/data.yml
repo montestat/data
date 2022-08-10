@@ -12,6 +12,9 @@ Category: Kategorija
 Convention: Konvencija
 Census: Popis stanovništva i domaćinstava
 Register: Registar rođenih/umrlih
+Economic class: Klase ekonomske veličine gazdinstava 2010. godina
+Size class: Veličina razreda prema korišćenom poljoprivrednom zemljištu (ha)
+LSU class: Uslovno grlo LSU
 aged 0-17 years: Manje od 18 godina
 aged 18-24 years: 18-24 godine
 aged 25-54 years: 25-54 godine
@@ -172,3 +175,11 @@ ha: hektari
 traditional_agriculture: Tradicionalna obrada
 conventional_agriculture: Konvencionalna obrada
 without_agriculture: Bez obrade
+un_general_assembly: Generalna skupština UN
+un_security_council: Savjet bezbjednosti UN
+un_economic_social_council: Ekonomski i socijalni savjet UN
+international_monetary_fund: Međunarodni monetarni fond
+international_bank_for_reconstruction: Međunarodna banka za rekonstrukciju i razvoj
+world_trade_organization: Svjetska trgovinska organizacija
+mne_member: Da li je CG član?
+mne_vote: Da li ima pravo glasa?
