@@ -73,6 +73,7 @@ processed_waste: processed waste + disposed waste in sanitary landfills + tempor
 Andrijevica: Andrijevica
 Bar: Bar
 Berane (sa Petnjicom): Berane (sa Petnjicom)
+Berane: Berane
 Bijelo Polje: Bijelo Polje
 Budva: Budva
 Cetinje: Cetinje
@@ -91,3 +92,10 @@ savnik: Šavnik
 Tivat: Tivat
 Ulcinj: Ulcinj
 Zabljak: Žabljak
+Podgorica UT: Podgorica UT
+Bar UB: Bar UB
+Niksic UB: Nikšić UB
+Pljevlja UB: Pljevlja UB
+Podgorica UB: Podgorica UB
+pm10: PM 10
+pm2.5: PM 2.5
