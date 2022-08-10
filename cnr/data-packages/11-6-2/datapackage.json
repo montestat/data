@@ -12,8 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM 10",
+                "PM 2.5",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Podgorica UT",
+                "Bar UB",
+                "Nikšić UB",
+                "Pljevlja UB",
+                "Podgorica UB",
+                "Tivat UB",
+                ""
+              ]
+            },
+            "title": "Lokacija"
           },
           {
             "name": "Value",
