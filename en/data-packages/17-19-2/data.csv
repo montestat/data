@@ -1,26 +1,26 @@
-Year,Category,Units,Value
-2011,population and household census,yes/no (1 is equivalent to 'yes'),1.0
-2010,Entry in the register of births,%,99.97
-2011,Entry in the register of births,%,100.0
-2012,Entry in the register of births,%,100.0
-2013,Entry in the register of births,%,100.0
-2014,Entry in the register of births,%,100.0
-2015,Entry in the register of births,%,100.0
-2016,Entry in the register of births,%,100.0
-2017,Entry in the register of births,%,100.0
-2018,Entry in the register of births,%,100.0
-2019,Entry in the register of births,%,100.0
-2020,Entry in the register of births,%,100.0
-2021,Entry in the register of births,%,100.0
-2010,Entry in the death register,%,100.0
-2011,Entry in the death register,%,100.0
-2012,Entry in the death register,%,100.0
-2013,Entry in the death register,%,100.0
-2014,Entry in the death register,%,100.0
-2015,Entry in the death register,%,100.0
-2016,Entry in the death register,%,100.0
-2017,Entry in the death register,%,100.0
-2018,Entry in the death register,%,100.0
-2019,Entry in the death register,%,100.0
-2020,Entry in the death register,%,100.0
-2021,Entry in the death register,%,100.0
+Year,Population and household census,Register of births/deaths,Units,Value
+2011,population and household census,,yes/no (1 is equivalent to 'yes'),1.0
+2010,,Entry in the register of births,%,99.97
+2011,,Entry in the register of births,%,100.0
+2012,,Entry in the register of births,%,100.0
+2013,,Entry in the register of births,%,100.0
+2014,,Entry in the register of births,%,100.0
+2015,,Entry in the register of births,%,100.0
+2016,,Entry in the register of births,%,100.0
+2017,,Entry in the register of births,%,100.0
+2018,,Entry in the register of births,%,100.0
+2019,,Entry in the register of births,%,100.0
+2020,,Entry in the register of births,%,100.0
+2021,,Entry in the register of births,%,100.0
+2010,,Entry in the death register,%,100.0
+2011,,Entry in the death register,%,100.0
+2012,,Entry in the death register,%,100.0
+2013,,Entry in the death register,%,100.0
+2014,,Entry in the death register,%,100.0
+2015,,Entry in the death register,%,100.0
+2016,,Entry in the death register,%,100.0
+2017,,Entry in the death register,%,100.0
+2018,,Entry in the death register,%,100.0
+2019,,Entry in the death register,%,100.0
+2020,,Entry in the death register,%,100.0
+2021,,Entry in the death register,%,100.0

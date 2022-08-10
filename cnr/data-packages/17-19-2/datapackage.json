@@ -16,17 +16,27 @@
             "title": "Godina"
           },
           {
-            "name": "Category",
+            "name": "Census",
             "type": "string",
             "constraints": {
               "enum": [
                 "popis stanovništva i domaćinstava",
+                ""
+              ]
+            },
+            "title": "Popis stanovništva i domaćinstava"
+          },
+          {
+            "name": "Register",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Upis u matičnu knjigu rođenih",
                 "Upis u matičnu knjigu umrlih",
                 ""
               ]
             },
-            "title": "Kategorija"
+            "title": "Registar rođenih/umrlih"
           },
           {
             "name": "Units",

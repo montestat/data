@@ -16,17 +16,27 @@
             "title": "Year"
           },
           {
-            "name": "Category",
+            "name": "Census",
             "type": "string",
             "constraints": {
               "enum": [
                 "population and household census",
+                ""
+              ]
+            },
+            "title": "Population and household census"
+          },
+          {
+            "name": "Register",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Entry in the register of births",
                 "Entry in the death register",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Register of births/deaths"
           },
           {
             "name": "Units",

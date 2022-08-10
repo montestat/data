@@ -15,11 +15,20 @@
             "type": "integer"
           },
           {
-            "name": "Category",
+            "name": "Census",
             "type": "string",
             "constraints": {
               "enum": [
                 "population_census",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Register",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "register_of_births",
                 "register_of_deaths",
                 ""
