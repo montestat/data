@@ -125,5 +125,6 @@ waste_export: Share of exports in total processing
 per_capita_kg: kg per capita
 recycled_waste: Recycled amounts of waste (R2-R11 + export)
 total_waste: Total generated amounts of waste
-accreditation: accreditation
+accreditation: accreditation  (1 is equivalent to accreditation type A)
 ombudsman: ombudsman
+yes_no: yes/no

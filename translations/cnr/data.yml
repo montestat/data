@@ -125,5 +125,6 @@ waste_export: Udio izvoza u ukupnoj obradi
 per_capita_kg: kg po glavi stanovnika
 recycled_waste: Reciklirane količine otpada (R2-R11 + izvoz)
 total_waste: Ukupne stvorene količine otpada
-accreditation: akreditacija
+accreditation: akreditacija (1 označava akreditaciju A)
 ombudsman: ombudsman
+yes_no: da/ne
