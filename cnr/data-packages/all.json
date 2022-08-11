@@ -379,7 +379,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "da/ne (1 označava 'da')",
+                "da/ne",
                 ""
               ]
             },
@@ -740,7 +740,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "da/ne (1 označava 'da')",
+                "da/ne",
                 ""
               ]
             },
@@ -803,7 +803,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "da/ne (1 označava 'da')",
+                "da/ne",
                 ""
               ]
             },
@@ -2391,7 +2391,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "da/ne (1 označava 'da')",
+                "da/ne",
                 "%",
                 ""
               ]
@@ -2513,7 +2513,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "da/ne (1 označava 'da')",
+                "da/ne",
                 ""
               ]
             },
