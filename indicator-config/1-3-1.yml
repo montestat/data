@@ -30,3 +30,4 @@ reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
+progress_status: target_achieved
