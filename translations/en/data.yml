@@ -137,7 +137,7 @@ recycled_waste: Recycled amounts of waste (R2-R11 + export)
 total_waste: Total generated amounts of waste
 accreditation: accreditation  (1 is equivalent to accreditation type A)
 ombudsman: ombudsman
-yes_no: yes/no (1 is equivalent to 'yes')
+yes_no: yes/no
 national_stat_plan_strategy: Implementation of the strategy for the introduction of the national statistical plan
 population_census: population and household census
 register_of_births: Entry in the register of births

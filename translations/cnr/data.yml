@@ -137,7 +137,7 @@ recycled_waste: Reciklirane količine otpada (R2-R11 + izvoz)
 total_waste: Ukupne stvorene količine otpada
 accreditation: akreditacija (1 označava akreditaciju A)
 ombudsman: ombudsman
-yes_no: da/ne (1 označava 'da')
+yes_no: da/ne
 national_stat_plan_strategy: Implementiranje strategije za uvođenje nacionalnog statističkog plana
 population_census: popis stanovništva i domaćinstava
 register_of_births: Upis u matičnu knjigu rođenih
