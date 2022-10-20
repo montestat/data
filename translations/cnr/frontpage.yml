@@ -2,7 +2,7 @@ instructions: Kliknite na određeni cilj, %before_link pretragu, %after_link za 
 instructions_short: Kliknite na određeni cilj da dobijete podatke %country.name za globalni indikator Ciljeva održivog razvoja.
 heading: '%country.name - podaci o indikatorima Ciljeva održivog razvoja'
 heading_short: '%country.name - podaci o Ciljevima održivog razvoja'
-download_all: Preuzmite sve podatke
+download_all: Preuzmi sve podatke
 zip_file: Zapakovani podaci (ZIP)
 intro_title: 17 ciljeva za transformaciju našeg svijeta
 intro_body: <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Ciljevi
