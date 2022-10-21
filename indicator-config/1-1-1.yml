@@ -15,3 +15,6 @@ precision:
 reporting_status: complete
 standalone: false
 # progress_status: not_available
+# progress_status: challenges_remain
+# progress_status: approaching_target
+# progress_status: target_achieved
