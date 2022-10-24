@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2018,2018,2018,2018],"Units":["%","%","%","%"],"Lokacija":[null,null,"Romska naselja","Romska naselja"],"Pol":["Mu\u0161karci","\u017dene","Mu\u0161karci","\u017dene"],"Value":[95.8,83.9,79.7,60.4]},"edges":{"From":["Pol"],"To":["Lokacija"]}}

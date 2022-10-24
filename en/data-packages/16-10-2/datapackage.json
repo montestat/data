@@ -12,12 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Value",
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Location",
             "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]

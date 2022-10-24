@@ -1,1 +1,5 @@
-Year,Value
+Year,Units,Location,Sex,Value
+2018,%,,Male,95.8
+2018,%,,Female,83.9
+2018,%,Roma settlements,Male,79.7
+2018,%,Roma settlements,Female,60.4

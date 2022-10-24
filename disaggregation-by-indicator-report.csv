@@ -3,15 +3,20 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"Age, Sex",2
 #1-2-2,"Age, Sex",2
 #1-4-1,Location,1
+#10-3-1,"Location, Sex",2
 #10-6-1,"Category, Institution",2
 #11-6-1,"Category, Location",2
 #11-6-2,Location,1
 #12-4-1,"Convention, Category",2
 #12-4-2,Category,1
 #12-5-1,Category,1
+#16-1-4,"Location, Sex",2
+#16-2-1,Location,1
+#16-3-1,"Location, Sex",2
 #16-6-1,"Administrative head, Summary sheet 1, Economic head, Summary sheet 2",4
 #16-8-1,"Category, Institution",2
 #16-a-1,Category,1
+#16-b-1,"Location, Sex",2
 #17-18-3,Category,1
 #17-19-2,"Census, Register",2
 #2-2-1,Location,1
