@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Romska naselja",
+                ""
+              ]
+            },
+            "title": "Lokacija"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "članovi domaćinstva s prostorijom za pranje ruku u kojoj se nalaze voda i sapun ili deterdžent",
+                "članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije koje ne dijele sa drugima",
+                "članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju gdje se otpad ne prazni",
+                "članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju, ali se otpad prazni",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

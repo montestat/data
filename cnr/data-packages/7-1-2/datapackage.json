@@ -27,15 +27,18 @@
             "title": "Jedinica"
           },
           {
-            "name": "Location",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Romska naselja",
+                "Udio stanovništva koje koristi čista goriva i tehnologije za kuvanje",
+                "Udio stanovništva koje koristi čista goriva i tehnologije za grijanje",
+                "Udio stanovništva koja koriste čista goriva i tehnologije za osvjetljenje",
+                "Udio stanovništva koja koriste čista goriva i tehnologije za kuvanje, grijanje i osvjetljenje",
                 ""
               ]
             },
-            "title": "Lokacija"
+            "title": "Kategorija"
           },
           {
             "name": "Value",

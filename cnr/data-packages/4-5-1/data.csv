@@ -1,1 +1,13 @@
-Year,Value
+Year,Units,Lokacija,Starost,Kategorija,Value
+2018,ukupno,,osnovna škola,indeks pariteta,1.0
+2018,ukupno,,osnovna škola,bogatstvo,0.95
+2018,ukupno,,osnovna škola,područje,0.99
+2018,ukupno,,srednja škola,indeks pariteta,1.06
+2018,ukupno,,srednja škola,bogatstvo,0.66
+2018,ukupno,,srednja škola,područje,1.02
+2018,ukupno,Romska naselja,osnovna škola,indeks pariteta,1.06
+2018,ukupno,Romska naselja,osnovna škola,bogatstvo,0.58
+2018,ukupno,Romska naselja,osnovna škola,područje,0.99
+2018,ukupno,Romska naselja,srednja škola,indeks pariteta,0.86
+2018,ukupno,Romska naselja,srednja škola,bogatstvo,0.09
+2018,ukupno,Romska naselja,srednja škola,područje,0.58

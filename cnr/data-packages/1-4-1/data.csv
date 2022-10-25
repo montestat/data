@@ -1,3 +1,9 @@
-Year,Units,Lokacija,Value
-2018,%,,99.1
-2018,%,Romska naselja,98.4
+Year,Units,Lokacija,Kategorija,Value
+2018,%,,članovi domaćinstva s prostorijom za pranje ruku u kojoj se nalaze voda i sapun ili deterdžent,99.6
+2018,%,Romska naselja,članovi domaćinstva s prostorijom za pranje ruku u kojoj se nalaze voda i sapun ili deterdžent,94.3
+2018,%,,članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije koje ne dijele sa drugima,96.0
+2018,%,Romska naselja,članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije koje ne dijele sa drugima,84.6
+2018,%,,članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju gdje se otpad ne prazni,73.7
+2018,%,Romska naselja,članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju gdje se otpad ne prazni,83.9
+2018,%,,"članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju, ali se otpad prazni",12.8
+2018,%,Romska naselja,"članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju, ali se otpad prazni",7.9

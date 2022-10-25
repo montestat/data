@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1000 life births",
+                "per_1000_life_births",
                 ""
               ]
             }
