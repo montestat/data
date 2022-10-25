@@ -200,21 +200,3 @@ grants: Grants
 social_benefits: Social benefits
 other_expenses: Other expenses
 composition_variance: composition variance
-parity_index: parity index
-wealth: wealth
-territory: territory
-sanitation_cat_1: 'household members with a handwashing room with water and soap or detergent'
-sanitation_cat_2: 'household members using improved sanitation facilities that they do not share with others'
-sanitation_cat_3: 'household members who use improved sanitary facilities where it is not possible to release water into the common sewer where waste is not emptied'
-sanitation_cat_4: 'household members who use improved sanitary facilities where it is not possible to let water into the common sewer, but the waste is emptied'
-water_waste_cat_1: 'calculation indicator for households'
-water_waste_cat_2: 'calculation indicator for industry'
-water_waste_cat_total: 'calculation indicator total'
-clean_tech_cat_1: 'Share of population using clean fuels and technologies for cooking'
-clean_tech_cat_2: 'Share of population using clean fuels and technologies for heating'
-clean_tech_cat_3: 'Share of population using clean fuels and technologies for lighting'
-clean_tech_cat_4: 'Share of population using clean fuels and technologies for cooking, heating and lighting'
-co2_emission_cat_1: 'CO2 emission per unit of value added for the whole economy'
-co2_emission_cat_2: 'CO2 emission per unit of value added from manufacturing industries'
-public_transport_cat_1: 'Value of calculated indicator, total - Capital Podgorica'
-public_transport_cat_2: 'Indicator value - number of inhabitants who have obstacles in performing daily activities'
