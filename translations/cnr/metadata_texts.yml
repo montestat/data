@@ -439,3 +439,45 @@
 16-10-2-national-comment: 'Crna Gora je donijela Zakon o slobodnom pristupu informacijama ("Službeni list Crne Gore", br. 044/12 i 030/17).'
 16-10-2-national-deviation: ""
 16-10-2-national-introductioncomment: ''
+6-2-1-global-methodology: ''
+6-2-1-national-methodology: 'UN nema standardizovanu metodologiju za izračunavanje ovog indikatora. U Crnoj Gori on se izračunava kroz MICS istraživanje. '
+6-2-1-national-datasource: 'MICS'
+6-2-1-national-disaggregation: ""
+6-2-1-national-comment: ''
+6-2-1-national-deviation: ""
+6-2-1-national-introductioncomment: ''
+4-5-1-global-methodology: ''
+4-5-1-national-methodology: 'Indeksi pariteta predstavljaju odnos vrijednosti indikatora od grupe do grupe. Grupa u nepovoljnijem položaju brojilac. Vrijednost 1 označava paritet između 4-5-1 grupe. U Crnoj Gori izvor podataka za ovaj indikator je MICS istraživanje.'
+4-5-1-national-datasource: 'MICS'
+4-5-1-national-disaggregation: ""
+4-5-1-national-comment: ''
+4-5-1-national-deviation: ""
+4-5-1-national-introductioncomment: ''
+6-3-1-global-methodology: ''
+6-3-1-national-methodology: 'Udio otpadnih voda nastalih u domaćinstvima i ekonomskim aktivnostima koje se bezbjedno tretiraju na osnovu skale za tretman kako je definisano SEEA u odnosu na ukupne otpadne vode nastale u domaćinstvima i ekonomskim aktivnostima. Ovaj indikator pokriva domaćinstva i cjelokupnu ekonomiju i nadograđuje se na okvir praćenja JMP, UNSD/UNEP upitnik za vodu za zemlje koje nisu članice OECD/Eurostata, OECD/Eurostat upitnik za zemlje OECD, AQUASAT, IBNET. Statističke metode za mjerenje tretmana otpadnih voda su usklađene sa statističkim standardom SEEA21 i pripadajućim definicijama, klasifikacijama i kategorijama tretmana (Obuhvata sve otpadne vode nastale i obrađene od strane privrede. Kategorije tretmana će biti konzistentne, koliko god je to moguće u kontekstu globalnih ciljeva praćenja, sa definisanim u SEEA. Indikator 6.3.1 podrazumijeva obračun udjela otpadnih voda nastalih u domaćinstvima i ekonomskim aktivnostima koje se bezbjedno tretiraju u odnosu na ukupne otpadne vode nastale u domaćinstvima i ekonomskim aktivnostima koje obuhvataju komunalne i opasne vode. Izračunavanje vrijednosti indikatora je količina tretirana (izvan mjesta i na licu mjesta) podijeljena s ukupnom količinom proizvedenih otpadnih voda. Ovaj pokazatelj raščlanjen je za domaćinstva i ne-domaćinstva (industrijski i komercijalni objekti).'
+6-3-1-national-datasource: 'MICS'
+6-3-1-national-disaggregation: ""
+6-3-1-national-comment: ''
+6-3-1-national-deviation: ""
+6-3-1-national-introductioncomment: ''
+9-4-1-global-methodology: ''
+9-4-1-national-methodology: 'Indikator Emisija CO2 po jedinici dodate vrijednosti predstavlja količinu emisija iz sagorijevanja goriva nastalih tokom ekonomske aktivnosti po jedinici proizvodnje. Može se računati za cijelu ekonomiju ili za sektore pojedinačno.'
+9-4-1-national-datasource: 'MICS'
+9-4-1-national-disaggregation: ""
+9-4-1-national-comment: ''
+9-4-1-national-deviation: ""
+9-4-1-national-introductioncomment: ''
+11-2-1-global-methodology: ''
+11-2-1-national-methodology: 'Povoljan pristup javnom prevozu podrazumijeva da se zvanična stajališta u okviru javnog prevoza nalaze na ≤500m od mjesta stanovanja, radnog mjesta, škole, trgovačkog centra i sl. Ovaj inikator se računa: (Broj stanovnika koji imaju povoljan pristup javnom prevozu / Ukupan broj stanovnika u gradu ) *100. Broj stanovnika koji ima povoljan pristup javnom prevozu podrazumijeva broj osoba koje žive, rade, školuju se i sl, u prečniku od 500m od mjesta autobuske stanice. Dodatno u okviru ovog indikatora optimalnim pristupom podrazumijeva se i javni prevoz koji je pristupačan osobama sa invaliditetom, kao i starijim osobama, kao i da su češće vožnje, odnosno dostupnije linije u saobraćajnim "špicevima". Obračun Indikatora 11.2.1 urađen je za nivo Glavnog grada Podgorica u granicama GUR-a Podgorica (8.584,9 ha) kao planskog dokumenta.'
+11-2-1-national-datasource: 'MICS'
+11-2-1-national-disaggregation: ""
+11-2-1-national-comment: ''
+11-2-1-national-deviation: ""
+11-2-1-national-introductioncomment: ''
+11-7-1-global-methodology: ''
+11-7-1-national-methodology: 'Javni prostor, odnosno površina podrazumijeva prostor koji je u vlasništvu javnosti ili se može javno koristiti (svaki građanin mu može besplatno pristupiti i uživati u njemu). Indikator 11.7.1 =((ukupna površina otvorenih javnih prostora+ukupna površina pod ulicama))/(ukupna izgrađena površina grada)*100. Ukupna površina otvorenih javnih prostora uključuje: parkove, područja za rekreaciju (igrališta, riječne obale, morske obale, javne plaže), trgove, plaže, skverove, kao i površinu pod ulicama.Smanjenje površine javnog prostora negativno utiče na kvalitet života, socijalnu integraciju, razvoj infrastrukture, održivost i produktivnost. Ulice predstavljaju osnovni element urbanog prostora, tj. javni prostor namijenjen kolskom i pješačkom saobraćaju. Ukupna izgrađena površina grada predstavlja područje koje zauzimaju zgrade i druge nepropusne površine. Shodno UN metodologiji, vremenska učestalost obračuna indikatora 11.7.1 je u razmaku od tri do pet godina. Praćenje u navedenim godišnjim vremenskim razmacima, omogućit će gradovima da utvrde da li se udio otvorenih javnih prostora izgrađenim područjima gradova povećava tokom vremena.'
+11-7-1-national-datasource: 'MICS'
+11-7-1-national-disaggregation: ""
+11-7-1-national-comment: 'Ukupna vrijednost indikatora = (Ukupna površina otvorenih javnih prostora / Ukupna izgrađena površina grada) * 100. Ključni dokumenti i baza podataka, kao i posebni svodni setovi podataka i anlitičke tabele, kartografsko-grafičke podloge .dwg fajlovi Atlas 1 i 2 -  iz kojih su se izveli proračuni za Indikatora 11.7.1. odnose se na dokumentacionu osnovu Prostornog i urbanističkog plana (PUP) Glavnog grada Podgorica, kao i Generalnog urbanističkog rješenja (GUR) Glavnog grada Podgorica iz 2014. godine. Zato je ovaj indikator bilo moguće obračunati samo za ovu godinu.'
+11-7-1-national-deviation: ""
+11-7-1-national-introductioncomment: ''
