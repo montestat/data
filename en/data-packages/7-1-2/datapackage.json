@@ -27,18 +27,15 @@
             "title": "Units"
           },
           {
-            "name": "Category",
+            "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of population using clean fuels and technologies for cooking",
-                "Share of population using clean fuels and technologies for heating",
-                "Share of population using clean fuels and technologies for lighting",
-                "Share of population using clean fuels and technologies for cooking, heating and lighting",
+                "Roma settlements",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Location"
           },
           {
             "name": "Value",

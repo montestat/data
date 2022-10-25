@@ -25,14 +25,11 @@
             }
           },
           {
-            "name": "Category",
+            "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "clean_tech_cat_1",
-                "clean_tech_cat_2",
-                "clean_tech_cat_3",
-                "clean_tech_cat_4",
+                "Roma settlements",
                 ""
               ]
             }

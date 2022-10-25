@@ -12,31 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CO2 emission per unit of value added for the whole economy",
-                "CO2 emission per unit of value added from manufacturing industries",
-                ""
-              ]
-            },
-            "title": "Category"
           },
           {
             "name": "Value",

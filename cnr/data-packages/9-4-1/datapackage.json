@@ -12,31 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ukupno",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju",
-                "Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija",
-                ""
-              ]
-            },
-            "title": "Kategorija"
           },
           {
             "name": "Value",

@@ -12,50 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Roma settlements",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "primary_school",
-                "lower_high_school",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "parity_index",
-                "wealth",
-                "territory",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

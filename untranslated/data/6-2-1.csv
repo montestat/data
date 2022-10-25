@@ -1,9 +1,1 @@
-Year,Units,Location,Category,Value
-2018,%,,sanitation_cat_1,99.6
-2018,%,Roma settlements,sanitation_cat_1,94.3
-2018,%,,sanitation_cat_2,96.0
-2018,%,Roma settlements,sanitation_cat_2,84.6
-2018,%,,sanitation_cat_3,73.7
-2018,%,Roma settlements,sanitation_cat_3,83.9
-2018,%,,sanitation_cat_4,12.8
-2018,%,Roma settlements,sanitation_cat_4,7.9
+Year,Value

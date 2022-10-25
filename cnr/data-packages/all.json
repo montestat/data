@@ -74,66 +74,6 @@
       "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
     },
     {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Romska naselja",
-                ""
-              ]
-            },
-            "title": "Lokacija"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "članovi domaćinstva s prostorijom za pranje ruku u kojoj se nalaze voda i sapun ili deterdžent",
-                "članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije koje ne dijele sa drugima",
-                "članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju gdje se otpad ne prazni",
-                "članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju, ali se otpad prazni",
-                ""
-              ]
-            },
-            "title": "Kategorija"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
-    },
-    {
       "path": "3-7-2/data.csv",
       "name": "3-7-2",
       "profile": "tabular-data-resource",
@@ -955,18 +895,15 @@
             "title": "Jedinica"
           },
           {
-            "name": "Category",
+            "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "Udio stanovništva koje koristi čista goriva i tehnologije za kuvanje",
-                "Udio stanovništva koje koristi čista goriva i tehnologije za grijanje",
-                "Udio stanovništva koja koriste čista goriva i tehnologije za osvjetljenje",
-                "Udio stanovništva koja koriste čista goriva i tehnologije za kuvanje, grijanje i osvjetljenje",
+                "Romska naselja",
                 ""
               ]
             },
-            "title": "Kategorija"
+            "title": "Lokacija"
           },
           {
             "name": "Value",
@@ -1023,41 +960,6 @@
         ]
       },
       "title": "Unemployment rate, by sex, age and persons with disabilities"
-    },
-    {
-      "path": "11-7-1/data.csv",
-      "name": "11-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
     },
     {
       "path": "3-c-1/data.csv",
@@ -1680,54 +1582,6 @@
       "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "obračunski indikator za domaćinstva",
-                "obračunski indikator za industriju",
-                "obračunski indikator ukupno",
-                ""
-              ]
-            },
-            "title": "Kategorija"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
-    },
-    {
       "path": "3-7-1/data.csv",
       "name": "3-7-1",
       "profile": "tabular-data-resource",
@@ -2219,77 +2073,6 @@
       "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
-      "path": "4-5-1/data.csv",
-      "name": "4-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ukupno",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Romska naselja",
-                ""
-              ]
-            },
-            "title": "Lokacija"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "osnovna škola",
-                "srednja škola",
-                ""
-              ]
-            },
-            "title": "Starost"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "indeks pariteta",
-                "bogatstvo",
-                "područje",
-                ""
-              ]
-            },
-            "title": "Kategorija"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
-    },
-    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -2390,20 +2173,6 @@
             "title": "Lokacija"
           },
           {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "članovi domaćinstva s prostorijom za pranje ruku u kojoj se nalaze voda i sapun ili deterdžent",
-                "članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije koje ne dijele sa drugima",
-                "članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju gdje se otpad ne prazni",
-                "članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju, ali se otpad prazni",
-                ""
-              ]
-            },
-            "title": "Kategorija"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
@@ -2411,112 +2180,6 @@
         ]
       },
       "title": "Proportion of population living in households with access to basic services"
-    },
-    {
-      "path": "9-4-1/data.csv",
-      "name": "9-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ukupno",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju",
-                "Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija",
-                ""
-              ]
-            },
-            "title": "Kategorija"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "CO2 emission per unit of value added"
-    },
-    {
-      "path": "11-2-1/data.csv",
-      "name": "11-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Vrijednost obračunatog indikatora, ukupno - Glavni grad Podgorica",
-                "Vrijednost indikatora - broj stanovnika koji ima smetnje u obavljanju svakodnevnih aktivnosti",
-                ""
-              ]
-            },
-            "title": "Kategorija"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Pol"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
     },
     {
       "path": "9-3-1/data.csv",
@@ -2737,7 +2400,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "na 1000 rođenih",
+                "per 1000 life births",
                 ""
               ]
             },
@@ -4494,6 +4157,30 @@
       "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
+      "path": "11-2-1/data.csv",
+      "name": "11-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+    },
+    {
       "path": "1-5-1/data.csv",
       "name": "1-5-1",
       "profile": "tabular-data-resource",
@@ -4660,6 +4347,30 @@
         ]
       },
       "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+    },
+    {
+      "path": "6-2-1/data.csv",
+      "name": "6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "3-8-2/data.csv",
@@ -5598,6 +5309,30 @@
       "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
     },
     {
+      "path": "11-7-1/data.csv",
+      "name": "11-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+    },
+    {
       "path": "1-5-2/data.csv",
       "name": "1-5-2",
       "profile": "tabular-data-resource",
@@ -5766,6 +5501,30 @@
       "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
     },
     {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
+    },
+    {
       "path": "11-7-2/data.csv",
       "name": "11-7-2",
       "profile": "tabular-data-resource",
@@ -5884,6 +5643,30 @@
         ]
       },
       "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+    },
+    {
+      "path": "4-5-1/data.csv",
+      "name": "4-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
     },
     {
       "path": "17-11-1/data.csv",
@@ -7732,6 +7515,30 @@
         ]
       },
       "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP"
+    },
+    {
+      "path": "9-4-1/data.csv",
+      "name": "9-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "CO2 emission per unit of value added"
     },
     {
       "path": "15-2-1/data.csv",

@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "obračunski indikator za domaćinstva",
-                "obračunski indikator za industriju",
-                "obračunski indikator ukupno",
-                ""
-              ]
-            },
-            "title": "Kategorija"
           },
           {
             "name": "Value",

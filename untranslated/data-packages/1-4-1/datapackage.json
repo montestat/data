@@ -35,19 +35,6 @@
             }
           },
           {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "sanitation_cat_1",
-                "sanitation_cat_2",
-                "sanitation_cat_3",
-                "sanitation_cat_4",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "na 1000 rođenih",
+                "per 1000 life births",
                 ""
               ]
             },

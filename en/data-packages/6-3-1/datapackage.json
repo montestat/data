@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "calculation indicator for households",
-                "calculation indicator for industry",
-                "calculation indicator total",
-                ""
-              ]
-            },
-            "title": "Category"
           },
           {
             "name": "Value",
