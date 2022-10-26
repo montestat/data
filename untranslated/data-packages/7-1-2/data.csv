@@ -1,3 +1,5 @@
-Year,Units,Location,Value
-2018,%,,28.0
-2018,%,Roma settlements,11.1
+Year,Units,Category,Value
+2018,%,clean_tech_cat_1,63.8
+2018,%,clean_tech_cat_2,29.7
+2018,%,clean_tech_cat_3,99.6
+2018,%,clean_tech_cat_4,28.0

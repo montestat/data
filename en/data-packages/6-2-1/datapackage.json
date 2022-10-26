@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Roma settlements",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "household members with a handwashing room with water and soap or detergent",
+                "household members using improved sanitation facilities that they do not share with others",
+                "household members who use improved sanitary facilities where it is not possible to release water into the common sewer where waste is not emptied",
+                "household members who use improved sanitary facilities where it is not possible to let water into the common sewer, but the waste is emptied",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

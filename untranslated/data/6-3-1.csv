@@ -1,1 +1,4 @@
-Year,Value
+Year,Units,Category,Value
+2017,%,water_waste_cat_1,76.2
+2017,%,water_waste_cat_2,56.2
+2017,%,water_waste_cat_total,74.4

@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vrijednost obračunatog indikatora, ukupno - Glavni grad Podgorica",
+                "Vrijednost indikatora - broj stanovnika koji ima smetnje u obavljanju svakodnevnih aktivnosti",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Pol"
           },
           {
             "name": "Value",
