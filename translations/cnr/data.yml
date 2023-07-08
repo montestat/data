@@ -218,3 +218,8 @@ co2_emission_cat_1: 'Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonom
 co2_emission_cat_2: 'Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija'
 public_transport_cat_1: 'Vrijednost obračunatog indikatora, ukupno - Glavni grad Podgorica'
 public_transport_cat_2: 'Vrijednost indikatora - broj stanovnika koji ima smetnje u obavljanju svakodnevnih aktivnosti'
+1_3_1_cat_1: 'Udio majki sa novorođenčadima koje primaju porodiljsku novčanu naknadu'
+1_3_1_cat_2: 'Udio stanovništva iznad zakonske starosne dobi za penziju koje prima penziju'
+1_3_1_cat_3: 'Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene'
+1_3_1_cat_4: 'Udio stanovništva sa teškim invaliditetom koje prima invalidninu'
+1_3_1_cat_5: 'Udio stanovništva obuhvaćenog najmanje jednim davanjem socijalne zaštite'
