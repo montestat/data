@@ -27,8 +27,23 @@
             "title": "Jedinica"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Udio majki sa novorođenčadima koje primaju porodiljsku novčanu naknadu",
+                "Udio stanovništva iznad zakonske starosne dobi za penziju koje prima penziju",
+                "Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene",
+                "Udio stanovništva sa teškim invaliditetom koje prima invalidninu",
+                "Udio stanovništva obuhvaćenog najmanje jednim davanjem socijalne zaštite",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
