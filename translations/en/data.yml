@@ -223,3 +223,5 @@ public_transport_cat_2: 'Indicator value - number of inhabitants who have obstac
 1_3_1_cat_3: 'Proportion of unemployed persons receiving unemployment cash benefit'
 1_3_1_cat_4: 'Proportion of population with severe disabilities receiving disability cash benefit'
 1_3_1_cat_5: 'Proportion of population covered by at least one social protection benefit'
+1_5_1_cat_1: 'Number of deaths and missing persons attributed to disasters'
+1_5_1_cat_2: 'Number of directly affected persons attributed to disasters'
