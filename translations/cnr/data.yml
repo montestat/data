@@ -223,3 +223,5 @@ public_transport_cat_2: 'Vrijednost indikatora - broj stanovnika koji ima smetnj
 1_3_1_cat_3: 'Udio nezaposlenih koji primaju novčanu naknadu za nezaposlene'
 1_3_1_cat_4: 'Udio stanovništva sa teškim invaliditetom koje prima invalidninu'
 1_3_1_cat_5: 'Udio stanovništva obuhvaćenog najmanje jednim davanjem socijalne zaštite'
+1_5_1_cat_1: 'Broj umrlih i nestalih osoba pripisanih katastrofama'
+1_5_1_cat_2: 'Broj direktno pogođenih osoba pripisanih katastrofama'
