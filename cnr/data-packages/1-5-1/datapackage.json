@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "na 100 000 ljudi",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Broj umrlih i nestalih osoba pripisanih katastrofama",
+                "Broj direktno pogođenih osoba pripisanih katastrofama",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",
