@@ -12,12 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "International Health Regulations (IHR) capacity, State Party Self-Assessment Annual Report (SPAR), Legislation and financing",
+                "International Health Regulations (IHR) capacity, State Party Self-Assessment Annual Report (SPAR), IHR Coordination and National IHR Focal Point Functions",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

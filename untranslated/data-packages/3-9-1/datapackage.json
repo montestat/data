@@ -12,11 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per_1000_population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3_9_1_cat_1",
+                "3_9_1_cat_2",
+                "3_9_1_cat_3",
+                "3_9_1_cat_4",
+                "3_9_1_cat_5",
+                "3_9_1_cat_6",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

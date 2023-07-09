@@ -12,12 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kapacitet međunarodnih zdravstvenih propisa (IHR), godišnji izvještaj o samoprocjeni države (SPAR), zakonodavstvo i finansiranje",
+                "Kapacitet međunarodnih zdravstvenih propisa (IHR), godišnji izvještaj o samoprocjeni države (SPAR), koordinacija IHR-a i funkcije nacionalne kontakt tačke za IHR",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

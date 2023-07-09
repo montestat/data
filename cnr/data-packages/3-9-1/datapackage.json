@@ -12,12 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "na 1000 ljudi",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stopa smrtnosti standardizovana po godinama koja se pripisuje zagađenju vazduha na otvorenom",
+                "Stopa smrtnosti standardizovana po godinama koja se pripisuje zagađenju vazduha u domaćinstvu",
+                "Stopa smrtnosti standardizovana po godinama koja se pripisuje zagađenju vazduha na otvorenom i u domaćinstvu",
+                "Sirova stopa smrtnosti koja se pripisuje zagađenju vazduha na otvorenom",
+                "Sirova stopa smrtnosti koja se pripisuje zagađenju vazduha na otvorenom i u domaćinstvu",
+                "Sirova stopa smrtnosti koja se pripisuje zagađenju vazduha u domaćinstvu",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

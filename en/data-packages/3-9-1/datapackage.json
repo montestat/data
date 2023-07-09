@@ -12,12 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 1000 population",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age-standardized mortality rate attributed to ambient air pollution",
+                "Age-standardized mortality rate attributed to household air pollution",
+                "Age-standardized mortality rate attributed to household and ambient air pollution",
+                "Crude death rate attributed to ambient air pollution",
+                "Crude death rate attributed to household and ambient air pollution",
+                "Crude death rate attributed to household air pollution",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

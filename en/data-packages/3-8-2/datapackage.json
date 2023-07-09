@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,",
+                "Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "na 1000 ljudi",
+                ""
+              ]
+            },
+            "title": "Jedinica"
           },
           {
             "name": "Value",
