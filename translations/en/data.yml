@@ -32,6 +32,7 @@ aged 0-15 years: less than 15 years
 aged 0-18 years: less than 18 years
 Roma settlements: Roma settlements
 per_1000_life_births: per 1000 life births
+per_100000_life_births: per 100 000 life births
 total_infected: total infected
 per_1000_uninfected_population: per 1000 uninfected population
 per_100000_population: per 100 000 population
@@ -225,3 +226,16 @@ public_transport_cat_2: 'Indicator value - number of inhabitants who have obstac
 1_3_1_cat_5: 'Proportion of population covered by at least one social protection benefit'
 1_5_1_cat_1: 'Number of deaths and missing persons attributed to disasters'
 1_5_1_cat_2: 'Number of directly affected persons attributed to disasters'
+index: 'Index'
+rate: 'Rate'
+litres_pure_alcohol: 'Litres of pure alcohol'
+3_8_2_cat_1: 'Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,'
+3_8_2_cat_2: 'Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income'
+3_9_1_cat_1: 'Age-standardized mortality rate attributed to ambient air pollution'
+3_9_1_cat_2: 'Age-standardized mortality rate attributed to household air pollution'
+3_9_1_cat_3: 'Age-standardized mortality rate attributed to household and ambient air pollution'
+3_9_1_cat_4: 'Crude death rate attributed to ambient air pollution'
+3_9_1_cat_5: 'Crude death rate attributed to household and ambient air pollution'
+3_9_1_cat_6: 'Crude death rate attributed to household air pollution'
+3_d_1_cat_1: 'International Health Regulations (IHR) capacity, State Party Self-Assessment Annual Report (SPAR), Legislation and financing'
+3_d_1_cat_2: 'International Health Regulations (IHR) capacity, State Party Self-Assessment Annual Report (SPAR), IHR Coordination and National IHR Focal Point Functions'

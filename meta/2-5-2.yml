@@ -1,0 +1,16 @@
+SDG_GOAL__GLOBAL: global_goals.2-title
+SDG_TARGET__GLOBAL: global_targets.2-5-title
+SDG_INDICATOR__GLOBAL: global_indicators.2-5-2-title
+methodology_global: ''
+SDG_GOAL: global_goals.2-title
+SDG_TARGET: global_targets.2-5-title
+SDG_INDICATOR: global_indicators.2-5-2-title
+methodology_national: ''
+DATA_SOURCE: 'UNECE: https://w3.unece.org/SDG/'
+COVERAGE: ''
+REC_USE_LIM: metadata_texts.2-5-2-national-comment
+COMPARABILITY: ''
+methodology_start_date: ''
+indicator_introduction_plan: ''
+source_active_1: true
+source_organisation_1: sources.biotechnical_institute
