@@ -32,6 +32,7 @@ aged 0-15 years: manje od 15 godina
 aged 0-18 years: manje od 18 godina
 Roma settlements: Romska naselja
 per_1000_life_births: na 1000 rođenih
+per_100000_life_births: na 100 000 rođenih
 total_infected: ukupno novoinficiranih
 per_1000_uninfected_population: ukupno novoinficiranih na 1000 neinficiranih
 per_100000_population: na 100 000 ljudi
@@ -225,3 +226,16 @@ public_transport_cat_2: 'Vrijednost indikatora - broj stanovnika koji ima smetnj
 1_3_1_cat_5: 'Udio stanovništva obuhvaćenog najmanje jednim davanjem socijalne zaštite'
 1_5_1_cat_1: 'Broj umrlih i nestalih osoba pripisanih katastrofama'
 1_5_1_cat_2: 'Broj direktno pogođenih osoba pripisanih katastrofama'
+index: 'Indeks'
+rate: 'Stopa'
+litres_pure_alcohol: 'Litara čistog alkohola'
+3_8_2_cat_1: 'Udio stanovništva sa velikim izdacima domaćinstva za zdravstvo (veći od 10%) kao udio u ukupnim rashodima ili prihodima domaćinstva'
+3_8_2_cat_2: 'Udio stanovništva sa velikim izdacima domaćinstva za zdravstvo (veći od 25%) kao udio u ukupnim rashodima ili prihodima domaćinstva'
+3_9_1_cat_1: 'Stopa smrtnosti standardizovana po godinama koja se pripisuje zagađenju vazduha na otvorenom'
+3_9_1_cat_2: 'Stopa smrtnosti standardizovana po godinama koja se pripisuje zagađenju vazduha u domaćinstvu'
+3_9_1_cat_3: 'Stopa smrtnosti standardizovana po godinama koja se pripisuje zagađenju vazduha na otvorenom i u domaćinstvu'
+3_9_1_cat_4: 'Sirova stopa smrtnosti koja se pripisuje zagađenju vazduha na otvorenom'
+3_9_1_cat_5: 'Sirova stopa smrtnosti koja se pripisuje zagađenju vazduha na otvorenom i u domaćinstvu'
+3_9_1_cat_6: 'Sirova stopa smrtnosti koja se pripisuje zagađenju vazduha u domaćinstvu'
+3_d_1_cat_1: 'Kapacitet međunarodnih zdravstvenih propisa (IHR), godišnji izvještaj o samoprocjeni države (SPAR), zakonodavstvo i finansiranje'
+3_d_1_cat_2: 'Kapacitet međunarodnih zdravstvenih propisa (IHR), godišnji izvještaj o samoprocjeni države (SPAR), koordinacija IHR-a i funkcije nacionalne kontakt tačke za IHR'
