@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nivo 1-10",
+                ""
+              ]
+            },
+            "title": "Jedinica"
           },
           {
             "name": "Value",

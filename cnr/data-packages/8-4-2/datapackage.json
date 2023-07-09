@@ -22,10 +22,25 @@
               "enum": [
                 "tone",
                 "tone po glavi stanovnika",
+                "kilograma po konstantnom USD iz 2015",
                 ""
               ]
             },
             "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "biomasa",
+                "fosilna goriva",
+                "metalne rude",
+                "nemetalni minerali",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

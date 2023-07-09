@@ -12,12 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "nivo ušešća (1 - mali, 2 - srednji, 3 - veliki)",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "voda za piće - urbana sredina",
+                "pijaća voda - ruralna sredina",
+                "kanalizacija - urbana sredina",
+                "kanalizacija - ruralna sredina",
+                "promocija higijene",
+                "planiranje i upravljanje vodenim resursima",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

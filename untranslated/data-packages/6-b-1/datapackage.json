@@ -12,11 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "level_of_participation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6_b_1_cat_1",
+                "6_b_1_cat_2",
+                "6_b_1_cat_3",
+                "6_b_1_cat_4",
+                "6_b_1_cat_5",
+                "6_b_1_cat_6",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

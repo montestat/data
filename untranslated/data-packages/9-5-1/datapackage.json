@@ -20,13 +20,14 @@
             "constraints": {
               "enum": [
                 "eur",
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

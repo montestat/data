@@ -22,10 +22,25 @@
               "enum": [
                 "tons",
                 "tons per capita",
+                "kilograms per constant 2015 USD",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "biomass",
+                "fossil fuels",
+                "metal ores",
+                "non-metallic minerals",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

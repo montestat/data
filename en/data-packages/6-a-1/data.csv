@@ -1,1 +1,23 @@
-Year,Value
+Year,Units,Category,Value
+2004,millions USD,total,0
+2005,millions USD,total,1
+2006,millions USD,total,1
+2007,millions USD,total,3
+2008,millions USD,total,10
+2009,millions USD,total,8
+2010,millions USD,total,12
+2011,millions USD,total,19
+2012,millions USD,total,42
+2013,millions USD,total,20
+2014,millions USD,total,29
+2015,millions USD,total,16
+2016,millions USD,total,14
+2017,millions USD,total,11
+2018,millions USD,total,27
+2019,millions USD,total,9
+2020,millions USD,total,15
+2020,millions USD,Hydro-electric power plants,3
+2020,millions USD,Waste management/disposal,0
+2020,millions USD,Water resources conservation (including data collection),0
+2020,millions USD,Water supply and sanitation - large systems,10
+2018,millions USD,Government,15

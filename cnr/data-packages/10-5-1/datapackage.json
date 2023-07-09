@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nenaplativi krediti umanjeni za rezervisanja za kapital",
+                "Nenaplativi krediti do ukupnih bruto kredita",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

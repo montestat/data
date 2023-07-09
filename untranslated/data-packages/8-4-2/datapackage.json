@@ -21,6 +21,20 @@
               "enum": [
                 "tons",
                 "tons_per_capita",
+                "kg_per_constant_usd_2015",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "8_4_2_cat_1",
+                "8_4_2_cat_2",
+                "8_4_2_cat_3",
+                "8_4_2_cat_4",
                 ""
               ]
             }

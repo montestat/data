@@ -1,1 +1,33 @@
-Year,Value
+Year,Units,Category,Value
+2008,%,at least 2G,99.0
+2009,%,at least 2G,100.0
+2010,%,at least 2G,100.0
+2014,%,at least 2G,99.5
+2015,%,at least 2G,99.5
+2016,%,at least 2G,99.5
+2017,%,at least 2G,99.5
+2018,%,at least 2G,99.6
+2019,%,at least 2G,98.5
+2020,%,at least 2G,98.3
+2021,%,at least 2G,98.4
+2010,%,at least 3G,72.0
+2012,%,at least 3G,75.3
+2013,%,at least 3G,81.8
+2014,%,at least 3G,97.2
+2015,%,at least 3G,97.2
+2016,%,at least 3G,95.0
+2017,%,at least 3G,98.0
+2018,%,at least 3G,98.0
+2019,%,at least 3G,98.0
+2020,%,at least 3G,98.3
+2021,%,at least 3G,98.0
+2012,%,at least 4G,10.0
+2013,%,at least 4G,38.0
+2014,%,at least 4G,62.0
+2015,%,at least 4G,65.0
+2016,%,at least 4G,85.0
+2017,%,at least 4G,98.0
+2018,%,at least 4G,97.6
+2019,%,at least 4G,97.7
+2020,%,at least 4G,97.5
+2021,%,at least 4G,97.8

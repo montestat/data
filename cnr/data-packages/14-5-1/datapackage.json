@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prosječan udio ključnih morskih područja biodiverziteta pokrivenih zaštićenim područjima",
+                "Pokrivenost zaštićenih područja u odnosu na morska područja (ekskluzivne ekonomske zone)",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

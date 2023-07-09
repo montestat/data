@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno vodena tijela",
+                "tijela podzemne vode",
+                "otvorena vodena tijela",
+                "riječna vodena tijela",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",
