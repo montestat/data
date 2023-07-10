@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "miliona dolara (2017)",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Svjetski ponderisani tarifni prosjek, status najpovlašćenije nacije, svi proizvodi",
+                "Svjetski ponderisani tarifni prosjek, preferencijalni status, svi proizvodi",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

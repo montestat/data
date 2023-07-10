@@ -89,6 +89,17 @@
             "title": "Sumirano - Obračun rashoda po varijansama ekonomske klasifikacije PI-2.2"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primarni državni rashodi kao proporcija prvobitno odobrenog budžeta",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

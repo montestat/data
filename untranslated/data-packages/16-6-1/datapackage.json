@@ -83,6 +83,16 @@
             }
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16_6_1_cat_1",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

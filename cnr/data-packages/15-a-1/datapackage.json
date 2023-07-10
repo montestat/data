@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "miliona dolara (2020)",
+                ""
+              ]
+            },
+            "title": "Jedinica"
           },
           {
             "name": "Value",

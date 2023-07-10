@@ -89,6 +89,17 @@
             "title": "Summary - Calculation Sheet for Expenditure by Economic Classification Variance PI-2.2"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary government expenditures as a proportion of original approved budget",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

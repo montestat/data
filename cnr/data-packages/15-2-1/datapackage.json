@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "tona po hektaru",
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nadzemna biomasa u šumi",
+                "Godišnja stopa promjene šumske površine",
+                "Udio šumske površine sa dugoročnim planom upravljanja",
+                "Udio šumske površine unutar zakonom utvrđenih zaštićenih područja",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

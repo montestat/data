@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "tonnes_per_hectare",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15_2_1_cat_1",
+                "15_2_1_cat_2",
+                "15_2_1_cat_3",
+                "15_2_1_cat_4",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
