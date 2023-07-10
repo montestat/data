@@ -46,6 +46,7 @@ pharmaceutical staff: farmaceutsko osoblje
 population: populacija
 total: ukupno
 per_1000_population: na 1000 ljudi
+per_100_population: na 100 ljudi
 class_2_3: razredi 2/3
 primary_school: osnovna škola
 lower_high_school: srednja škola
@@ -289,3 +290,16 @@ tonnes_year: 'tona po godini'
 14_5_1_cat_1: 'Prosječan udio ključnih morskih područja biodiverziteta pokrivenih zaštićenim područjima'
 14_5_1_cat_2: 'Pokrivenost zaštićenih područja u odnosu na morska područja (ekskluzivne ekonomske zone)'
 score_1_5: 'Nivo 1-5'
+15_1_2_cat_1: 'slatkovodni'
+15_1_2_cat_2: 'kopneni'
+tonnes_per_hectare: 'tona po hektaru'
+15_2_1_cat_1: 'Nadzemna biomasa u šumi'
+15_2_1_cat_2: 'Godišnja stopa promjene šumske površine'
+15_2_1_cat_3: 'Udio šumske površine sa dugoročnim planom upravljanja'
+15_2_1_cat_4: 'Udio šumske površine unutar zakonom utvrđenih zaštićenih područja'
+info_15_8_1: 'Crna Gora je 2019. godine donijela Zakon o stranim i invazivnim stranim vrstama, biljaka, životinja i gljiva, čija je primjena počela u martu 2021. godine. Takođe, od 2018. godine, Crna Gora je članica Evropske organizacije za zaštitu biljaka (Europian Plant Protection Organisation - EPPO), koja ima definisan postupak procjene rizika, kojim se procjenjuje potencijalna invazivnost strane vrste u slučaju njenog unosa u područje u kojem nije prirodna.'
+millions_constant_usd_2020: 'miliona dolara (2020)'
+millions_constant_usd_2017: 'miliona dolara (2017)'
+16_6_1_cat_1: 'Primarni državni rashodi kao proporcija prvobitno odobrenog budžeta'
+17_10_1_cat_1: 'Svjetski ponderisani tarifni prosjek, status najpovlašćenije nacije, svi proizvodi'
+17_10_1_cat_2: 'Svjetski ponderisani tarifni prosjek, preferencijalni status, svi proizvodi'
