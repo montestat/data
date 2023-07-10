@@ -46,6 +46,7 @@ pharmaceutical staff: pharmaceutical staff
 population: population
 total: total
 per_1000_population: per 1000 population
+per_100_population: per 100 population
 class_2_3: grades 2/3
 primary_school: primary school
 lower_high_school: lower secondary school
@@ -289,3 +290,16 @@ tonnes_year: 'tonnes per year'
 14_5_1_cat_1: 'Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas'
 14_5_1_cat_2: 'Coverage of protected areas in relation to marine areas (Exclusive Economic Zones)'
 score_1_5: 'Score 1-5'
+15_1_2_cat_1: 'freshwater'
+15_1_2_cat_2: 'terrestrial'
+tonnes_per_hectare: 'tonnes per hectare'
+15_2_1_cat_1: 'Above-ground biomass in forest'
+15_2_1_cat_2: 'Annual forest area change rate'
+15_2_1_cat_3: 'Proportion of forest area with a long-term management plan'
+15_2_1_cat_4: 'Proportion of forest area within legally established protected areas'
+info_15_8_1: 'In 2019, Montenegro adopted the Law on Foreign and Invasive Species, Plants, Animals and Mushrooms, the application of which began in March 2021. Also, since 2018, Montenegro is a member of the European Plant Protection Organization (EPPO), which defined the risk assessment procedure, which assesses the potential invasiveness of a foreign species in the event of its introduction into an area where it is not natural.'
+millions_constant_usd_2020: 'millions USD (2020)'
+millions_constant_usd_2017: 'millions USD (2017)'
+16_6_1_cat_1: 'Primary government expenditures as a proportion of original approved budget'
+17_10_1_cat_1: 'Worldwide weighted tariff-average, most-favoured-nation status, all products'
+17_10_1_cat_2: 'Worldwide weighted tariff-average, preferential status, all products'
