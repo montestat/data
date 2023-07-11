@@ -10,6 +10,8 @@ Year,Units,Kategorija,Value
 2018,1000_tons,ukupno,3741
 2019,1000_tons,ukupno,4070
 2020,1000_tons,ukupno,3999
+2021,1000_tons,ukupno,3650
+2022,1000_tons,ukupno,5151
 2010,1000_tons,željeznički saobraćaj,1213
 2011,1000_tons,željeznički saobraćaj,1050
 2012,1000_tons,željeznički saobraćaj,683
@@ -21,6 +23,8 @@ Year,Units,Kategorija,Value
 2018,1000_tons,željeznički saobraćaj,967
 2019,1000_tons,željeznički saobraćaj,1132
 2020,1000_tons,željeznički saobraćaj,1154
+2021,1000_tons,željeznički saobraćaj,943
+2022,1000_tons,željeznički saobraćaj,1346
 2010,1000_tons,drumski saobraćaj,1839
 2011,1000_tons,drumski saobraćaj,1247
 2012,1000_tons,drumski saobraćaj,398
@@ -32,6 +36,8 @@ Year,Units,Kategorija,Value
 2018,1000_tons,drumski saobraćaj,810
 2019,1000_tons,drumski saobraćaj,886
 2020,1000_tons,drumski saobraćaj,800
+2021,1000_tons,drumski saobraćaj,847
+2022,1000_tons,drumski saobraćaj,875
 2010,1000_tons,avio saobraćaj,2
 2011,1000_tons,avio saobraćaj,1
 2012,1000_tons,avio saobraćaj,1
@@ -43,6 +49,8 @@ Year,Units,Kategorija,Value
 2018,1000_tons,avio saobraćaj,1
 2019,1000_tons,avio saobraćaj,1
 2020,1000_tons,avio saobraćaj,1
+2021,1000_tons,avio saobraćaj,1
+2022,1000_tons,avio saobraćaj,1
 2010,1000_tons,pomorski saobraćaj,1759
 2011,1000_tons,pomorski saobraćaj,1750
 2012,1000_tons,pomorski saobraćaj,1228
@@ -54,3 +62,5 @@ Year,Units,Kategorija,Value
 2018,1000_tons,pomorski saobraćaj,1963
 2019,1000_tons,pomorski saobraćaj,2051
 2020,1000_tons,pomorski saobraćaj,2044
+2021,1000_tons,pomorski saobraćaj,1859
+2022,1000_tons,pomorski saobraćaj,2929

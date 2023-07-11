@@ -10,6 +10,8 @@ Year,Units,Category,Value
 2018,1000_tons,total,3741
 2019,1000_tons,total,4070
 2020,1000_tons,total,3999
+2021,1000_tons,total,3650
+2022,1000_tons,total,5151
 2010,1000_tons,railway_traffic,1213
 2011,1000_tons,railway_traffic,1050
 2012,1000_tons,railway_traffic,683
@@ -21,6 +23,8 @@ Year,Units,Category,Value
 2018,1000_tons,railway_traffic,967
 2019,1000_tons,railway_traffic,1132
 2020,1000_tons,railway_traffic,1154
+2021,1000_tons,railway_traffic,943
+2022,1000_tons,railway_traffic,1346
 2010,1000_tons,road_traffic,1839
 2011,1000_tons,road_traffic,1247
 2012,1000_tons,road_traffic,398
@@ -32,6 +36,8 @@ Year,Units,Category,Value
 2018,1000_tons,road_traffic,810
 2019,1000_tons,road_traffic,886
 2020,1000_tons,road_traffic,800
+2021,1000_tons,road_traffic,847
+2022,1000_tons,road_traffic,875
 2010,1000_tons,air_traffic,2
 2011,1000_tons,air_traffic,1
 2012,1000_tons,air_traffic,1
@@ -43,6 +49,8 @@ Year,Units,Category,Value
 2018,1000_tons,air_traffic,1
 2019,1000_tons,air_traffic,1
 2020,1000_tons,air_traffic,1
+2021,1000_tons,air_traffic,1
+2022,1000_tons,air_traffic,1
 2010,1000_tons,maritime_traffic,1759
 2011,1000_tons,maritime_traffic,1750
 2012,1000_tons,maritime_traffic,1228
@@ -54,3 +62,5 @@ Year,Units,Category,Value
 2018,1000_tons,maritime_traffic,1963
 2019,1000_tons,maritime_traffic,2051
 2020,1000_tons,maritime_traffic,2044
+2021,1000_tons,maritime_traffic,1859
+2022,1000_tons,maritime_traffic,2929

@@ -15,12 +15,6 @@ Year,Units,Age,Category,Value
 2019,%,adult,Transferring files between computers or other devices,92.9
 2020,%,youth,Transferring files between computers or other devices,96.5
 2020,%,adult,Transferring files between computers or other devices,90.8
-2021,%,youth,Transferring files between computers or other devices,
-2021,%,adult,Transferring files between computers or other devices,
-2013,%,youth,Installing software or applications (apps),
-2013,%,adult,Installing software or applications (apps),
-2014,%,youth,Installing software or applications (apps),
-2014,%,adult,Installing software or applications (apps),
 2015,%,youth,Installing software or applications (apps),39.3
 2015,%,adult,Installing software or applications (apps),31.9
 2016,%,youth,Installing software or applications (apps),54.7
@@ -35,10 +29,8 @@ Year,Units,Age,Category,Value
 2020,%,adult,Installing software or applications (apps),58.5
 2021,%,youth,Installing software or applications (apps),63.7
 2021,%,adult,Installing software or applications (apps),59.7
-2013,%,youth,"Changing the settings of any software, including operational system or security programs",
-2013,%,adult,"Changing the settings of any software, including operational system or security programs",
-2014,%,youth,"Changing the settings of any software, including operational system or security programs",
-2014,%,adult,"Changing the settings of any software, including operational system or security programs",
+2022,%,youth,Installing software or applications (apps),61.5
+2022,%,adult,Installing software or applications (apps),56.9
 2015,%,youth,"Changing the settings of any software, including operational system or security programs",7.9
 2015,%,adult,"Changing the settings of any software, including operational system or security programs",7.2
 2016,%,youth,"Changing the settings of any software, including operational system or security programs",26.1
@@ -53,6 +45,8 @@ Year,Units,Age,Category,Value
 2020,%,adult,"Changing the settings of any software, including operational system or security programs",26.2
 2021,%,youth,"Changing the settings of any software, including operational system or security programs",31.3
 2021,%,adult,"Changing the settings of any software, including operational system or security programs",27.2
+2022,%,youth,"Changing the settings of any software, including operational system or security programs",36.0
+2022,%,adult,"Changing the settings of any software, including operational system or security programs",29.5
 2013,%,youth,Copying or moving files or folders,83.4
 2013,%,adult,Copying or moving files or folders,72.0
 2014,%,youth,Copying or moving files or folders,92.4
@@ -69,12 +63,6 @@ Year,Units,Age,Category,Value
 2019,%,adult,Copying or moving files or folders,95.9
 2020,%,youth,Copying or moving files or folders,98.4
 2020,%,adult,Copying or moving files or folders,94.8
-2021,%,youth,Copying or moving files or folders,
-2021,%,adult,Copying or moving files or folders,
-2013,%,youth,Using word processing software,
-2013,%,adult,Using word processing software,
-2014,%,youth,Using word processing software,
-2014,%,adult,Using word processing software,
 2015,%,youth,Using word processing software,75.9
 2015,%,adult,Using word processing software,64.6
 2016,%,youth,Using word processing software,77.8
@@ -89,6 +77,8 @@ Year,Units,Age,Category,Value
 2020,%,adult,Using word processing software,70.2
 2021,%,youth,Using word processing software,76.4
 2021,%,adult,Using word processing software,70.1
+2022,%,youth,Using word processing software,78.4
+2022,%,adult,Using word processing software,70.6
 2013,%,youth,"Creating presentations or documents integrating text, pictures, tables or charts",27.8
 2013,%,adult,"Creating presentations or documents integrating text, pictures, tables or charts",15.7
 2014,%,youth,"Creating presentations or documents integrating text, pictures, tables or charts",29.5
@@ -107,6 +97,8 @@ Year,Units,Age,Category,Value
 2020,%,adult,"Creating presentations or documents integrating text, pictures, tables or charts",40.4
 2021,%,youth,"Creating presentations or documents integrating text, pictures, tables or charts",
 2021,%,adult,"Creating presentations or documents integrating text, pictures, tables or charts",42.0
+2022,%,youth,"Creating presentations or documents integrating text, pictures, tables or charts",67.6
+2022,%,adult,"Creating presentations or documents integrating text, pictures, tables or charts",43.8
 2013,%,youth,Using spread sheet software,19.1
 2013,%,adult,Using spread sheet software,15.9
 2014,%,youth,Using spread sheet software,29.7
@@ -125,10 +117,8 @@ Year,Units,Age,Category,Value
 2020,%,adult,Using spread sheet software,38.4
 2021,%,youth,Using spread sheet software,54.7
 2021,%,adult,Using spread sheet software,40.2
-2013,%,youth,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",
-2013,%,adult,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",
-2014,%,youth,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",
-2014,%,adult,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",
+2022,%,youth,Using spread sheet software,46.8
+2022,%,adult,Using spread sheet software,40.3
 2015,%,youth,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",20.6
 2015,%,adult,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",13.4
 2016,%,youth,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",29.0
@@ -143,10 +133,8 @@ Year,Units,Age,Category,Value
 2020,%,adult,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",23.3
 2021,%,youth,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",38.6
 2021,%,adult,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",22.6
-2013,%,youth,"Using software to edit photos, video or audio files",
-2013,%,adult,"Using software to edit photos, video or audio files",
-2014,%,youth,"Using software to edit photos, video or audio files",
-2014,%,adult,"Using software to edit photos, video or audio files",
+2022,%,youth,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",35.4
+2022,%,adult,"Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",22.2
 2015,%,youth,"Using software to edit photos, video or audio files",40.9
 2015,%,adult,"Using software to edit photos, video or audio files",22.6
 2016,%,youth,"Using software to edit photos, video or audio files",31.0
@@ -161,10 +149,8 @@ Year,Units,Age,Category,Value
 2020,%,adult,"Using software to edit photos, video or audio files",26.5
 2021,%,youth,"Using software to edit photos, video or audio files",37.8
 2021,%,adult,"Using software to edit photos, video or audio files",25.6
-2013,%,youth,Writing code in a programming language,
-2013,%,adult,Writing code in a programming language,
-2014,%,youth,Writing code in a programming language,
-2014,%,adult,Writing code in a programming language,
+2022,%,youth,"Using software to edit photos, video or audio files",49.8
+2022,%,adult,"Using software to edit photos, video or audio files",27.4
 2015,%,youth,Writing code in a programming language,3.8
 2015,%,adult,Writing code in a programming language,1.7
 2016,%,youth,Writing code in a programming language,3.6
@@ -179,3 +165,5 @@ Year,Units,Age,Category,Value
 2020,%,adult,Writing code in a programming language,7.5
 2021,%,youth,Writing code in a programming language,14.0
 2021,%,adult,Writing code in a programming language,8.5
+2022,%,youth,Writing code in a programming language,9.4
+2022,%,adult,Writing code in a programming language,9.0

@@ -9,6 +9,7 @@ Year,Units,Category,Value
 2018,kg per capita,Hazardous waste generated,546.2
 2019,kg per capita,Hazardous waste generated,528.5
 2020,kg per capita,Hazardous waste generated,553.5
+2021,kg per capita,Hazardous waste generated,491.7
 2011,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,112.6
 2012,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,100.1
 2013,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,99.5
@@ -19,6 +20,7 @@ Year,Units,Category,Value
 2018,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,99.8
 2019,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,111.5
 2020,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,92.6
+2021,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,103.8
 2011,%,Share of operations R in total processing,0.5
 2012,%,Share of operations R in total processing,1.4
 2013,%,Share of operations R in total processing,1.9
@@ -29,6 +31,7 @@ Year,Units,Category,Value
 2018,%,Share of operations R in total processing,0.6
 2019,%,Share of operations R in total processing,0.3
 2020,%,Share of operations R in total processing,0.3
+2021,%,Share of operations R in total processing,0.97
 2011,%,Share of operations D in total processing,96.7
 2012,%,Share of operations D in total processing,98.2
 2013,%,Share of operations D in total processing,97.3
@@ -39,6 +42,7 @@ Year,Units,Category,Value
 2018,%,Share of operations D in total processing,98.8
 2019,%,Share of operations D in total processing,88.6
 2020,%,Share of operations D in total processing,99.2
+2021,%,Share of operations D in total processing,92.26
 2011,%,Share of exports in total processing,2.8
 2012,%,Share of exports in total processing,0.4
 2013,%,Share of exports in total processing,0.8
@@ -49,3 +53,4 @@ Year,Units,Category,Value
 2018,%,Share of exports in total processing,0.6
 2019,%,Share of exports in total processing,11.1
 2020,%,Share of exports in total processing,0.5
+2021,%,Share of exports in total processing,6.77

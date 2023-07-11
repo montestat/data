@@ -74,6 +74,8 @@
                 "Nikšić UB",
                 "Pljevlja UB",
                 "Podgorica UB",
+                "Kotor",
+                "Bijelo Polje",
                 "Tivat UB",
                 ""
               ]
@@ -3601,6 +3603,9 @@
               "enum": [
                 "Designation of the contact person and one or more competent authorities",
                 "Submission of annual national reports during the reporting period",
+                "basel_convention_3",
+                "basel_convention_4",
+                "basel_convention_5",
                 "Designation of competent national authorities and official contact points",
                 "Submitting an import response during the reporting period (0.2 points per import response)",
                 "Designation of official contact point and national focal point",
@@ -4460,6 +4465,10 @@
                 "International Monetary Fund",
                 "International Bank for Reconstruction and Development",
                 "World Trade Organization",
+                "African Development Bank",
+                "Asian Development Bank",
+                "Inter-American Development Bank",
+                "Financial Stability Board",
                 ""
               ]
             },

@@ -11,6 +11,7 @@ Year,Value,Units
 2019,0.0,total infected
 2020,1.0,total infected
 2021,1.0,total infected
+2022,0.0,total infected
 2010,0.0,per 100 000 population
 2011,0.004838483,per 100 000 population
 2012,0.001612828,per 100 000 population
@@ -23,3 +24,4 @@ Year,Value,Units
 2019,0.0,per 100 000 population
 2020,0.001612828,per 100 000 population
 2021,0.001612828,per 100 000 population
+2022,0.0,per 100 000 population

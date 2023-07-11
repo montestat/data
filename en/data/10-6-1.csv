@@ -75,6 +75,58 @@ Year,Units,Institution,Category,Value
 2020,yes/no,World Trade Organization,Is Montenegro a member?,1
 2021,yes/no,World Trade Organization,Is Montenegro a member?,1
 2022,yes/no,World Trade Organization,Is Montenegro a member?,1
+2010,yes/no,African Development Bank,Is Montenegro a member?,-1
+2011,yes/no,African Development Bank,Is Montenegro a member?,-1
+2012,yes/no,African Development Bank,Is Montenegro a member?,-1
+2013,yes/no,African Development Bank,Is Montenegro a member?,-1
+2014,yes/no,African Development Bank,Is Montenegro a member?,-1
+2015,yes/no,African Development Bank,Is Montenegro a member?,-1
+2016,yes/no,African Development Bank,Is Montenegro a member?,-1
+2017,yes/no,African Development Bank,Is Montenegro a member?,-1
+2018,yes/no,African Development Bank,Is Montenegro a member?,-1
+2019,yes/no,African Development Bank,Is Montenegro a member?,-1
+2020,yes/no,African Development Bank,Is Montenegro a member?,-1
+2021,yes/no,African Development Bank,Is Montenegro a member?,-1
+2022,yes/no,African Development Bank,Is Montenegro a member?,-1
+2010,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2011,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2012,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2013,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2014,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2015,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2016,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2017,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2018,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2019,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2020,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2021,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2022,yes/no,Asian Development Bank,Is Montenegro a member?,-1
+2010,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2011,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2012,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2013,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2014,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2015,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2016,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2017,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2018,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2019,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2020,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2021,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2022,yes/no,Inter-American Development Bank,Is Montenegro a member?,-1
+2010,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2011,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2012,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2013,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2014,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2015,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2016,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2017,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2018,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2019,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2020,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2021,yes/no,Financial Stability Board,Is Montenegro a member?,-1
+2022,yes/no,Financial Stability Board,Is Montenegro a member?,-1
 2010,yes/no,UN General Assembly,Does Montenegro have the right to vote?,1
 2011,yes/no,UN General Assembly,Does Montenegro have the right to vote?,1
 2012,yes/no,UN General Assembly,Does Montenegro have the right to vote?,1
@@ -125,3 +177,55 @@ Year,Units,Institution,Category,Value
 2020,yes/no,World Trade Organization,Does Montenegro have the right to vote?,1
 2021,yes/no,World Trade Organization,Does Montenegro have the right to vote?,1
 2022,yes/no,World Trade Organization,Does Montenegro have the right to vote?,1
+2010,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2011,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2012,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2013,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2014,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2015,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2016,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2017,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2018,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2019,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2020,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2021,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2022,yes/no,African Development Bank,Does Montenegro have the right to vote?,-1
+2010,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2011,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2012,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2013,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2014,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2015,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2016,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2017,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2018,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2019,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2020,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2021,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2022,yes/no,Asian Development Bank,Does Montenegro have the right to vote?,-1
+2010,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2011,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2012,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2013,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2014,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2015,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2016,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2017,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2018,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2019,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2020,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2021,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2022,yes/no,Inter-American Development Bank,Does Montenegro have the right to vote?,-1
+2010,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2011,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2012,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2013,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2014,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2015,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2016,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2017,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2018,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2019,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2020,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2021,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1
+2022,yes/no,Financial Stability Board,Does Montenegro have the right to vote?,-1

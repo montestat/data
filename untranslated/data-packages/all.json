@@ -69,6 +69,8 @@
                 "Niksic UB",
                 "Pljevlja UB",
                 "Podgorica UB",
+                "Kotor",
+                "Bijelo Polje",
                 "Tivat UB",
                 ""
               ]
@@ -3300,6 +3302,9 @@
               "enum": [
                 "basel_convention_1",
                 "basel_convention_2",
+                "basel_convention_3",
+                "basel_convention_4",
+                "basel_convention_5",
                 "rotterdam_convention_1",
                 "rotterdam_convention_2",
                 "stockholm_convention_1",
@@ -3608,7 +3613,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_1000_life_births",
+                "per 1000 life births",
                 ""
               ]
             }
@@ -4087,6 +4092,10 @@
                 "international_monetary_fund",
                 "international_bank_for_reconstruction",
                 "world_trade_organization",
+                "african_development_bank",
+                "asian_development_bank",
+                "inter_american_development_bank",
+                "financial_stability_board",
                 ""
               ]
             }

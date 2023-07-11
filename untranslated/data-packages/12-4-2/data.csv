@@ -9,6 +9,7 @@ Year,Units,Category,Value
 2018,per_capita_kg,hazardous_waste,546.2
 2019,per_capita_kg,hazardous_waste,528.5
 2020,per_capita_kg,hazardous_waste,553.5
+2021,per_capita_kg,hazardous_waste,491.7
 2011,per_capita_kg,processed_hazardous_waste,112.6
 2012,per_capita_kg,processed_hazardous_waste,100.1
 2013,per_capita_kg,processed_hazardous_waste,99.5
@@ -19,6 +20,7 @@ Year,Units,Category,Value
 2018,per_capita_kg,processed_hazardous_waste,99.8
 2019,per_capita_kg,processed_hazardous_waste,111.5
 2020,per_capita_kg,processed_hazardous_waste,92.6
+2021,per_capita_kg,processed_hazardous_waste,103.8
 2011,%,waste_operation_r,0.5
 2012,%,waste_operation_r,1.4
 2013,%,waste_operation_r,1.9
@@ -29,6 +31,7 @@ Year,Units,Category,Value
 2018,%,waste_operation_r,0.6
 2019,%,waste_operation_r,0.3
 2020,%,waste_operation_r,0.3
+2021,%,waste_operation_r,0.97
 2011,%,waste_operation_d,96.7
 2012,%,waste_operation_d,98.2
 2013,%,waste_operation_d,97.3
@@ -39,6 +42,7 @@ Year,Units,Category,Value
 2018,%,waste_operation_d,98.8
 2019,%,waste_operation_d,88.6
 2020,%,waste_operation_d,99.2
+2021,%,waste_operation_d,92.26
 2011,%,waste_export,2.8
 2012,%,waste_export,0.4
 2013,%,waste_export,0.8
@@ -49,3 +53,4 @@ Year,Units,Category,Value
 2018,%,waste_export,0.6
 2019,%,waste_export,11.1
 2020,%,waste_export,0.5
+2021,%,waste_export,6.77

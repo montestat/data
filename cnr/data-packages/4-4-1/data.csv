@@ -15,12 +15,6 @@ Year,Units,Starost,Kategorija,Value
 2019,%,odrasli,Prenos datoteka između računara ili drugih uređaja,92.9
 2020,%,mladi,Prenos datoteka između računara ili drugih uređaja,96.5
 2020,%,odrasli,Prenos datoteka između računara ili drugih uređaja,90.8
-2021,%,mladi,Prenos datoteka između računara ili drugih uređaja,
-2021,%,odrasli,Prenos datoteka između računara ili drugih uređaja,
-2013,%,mladi,Instaliranje softvera ili aplikacija,
-2013,%,odrasli,Instaliranje softvera ili aplikacija,
-2014,%,mladi,Instaliranje softvera ili aplikacija,
-2014,%,odrasli,Instaliranje softvera ili aplikacija,
 2015,%,mladi,Instaliranje softvera ili aplikacija,39.3
 2015,%,odrasli,Instaliranje softvera ili aplikacija,31.9
 2016,%,mladi,Instaliranje softvera ili aplikacija,54.7
@@ -35,10 +29,8 @@ Year,Units,Starost,Kategorija,Value
 2020,%,odrasli,Instaliranje softvera ili aplikacija,58.5
 2021,%,mladi,Instaliranje softvera ili aplikacija,63.7
 2021,%,odrasli,Instaliranje softvera ili aplikacija,59.7
-2013,%,mladi,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",
-2013,%,odrasli,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",
-2014,%,mladi,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",
-2014,%,odrasli,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",
+2022,%,mladi,Instaliranje softvera ili aplikacija,61.5
+2022,%,odrasli,Instaliranje softvera ili aplikacija,56.9
 2015,%,mladi,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",7.9
 2015,%,odrasli,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",7.2
 2016,%,mladi,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",26.1
@@ -53,6 +45,8 @@ Year,Units,Starost,Kategorija,Value
 2020,%,odrasli,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",26.2
 2021,%,mladi,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",31.3
 2021,%,odrasli,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",27.2
+2022,%,mladi,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",36.0
+2022,%,odrasli,"Promjena postavki softvera, uključujući operativni sistem ili sigurnosne programe",29.5
 2013,%,mladi,Kopiranje ili premještanje datoteka ili foldera,83.4
 2013,%,odrasli,Kopiranje ili premještanje datoteka ili foldera,72.0
 2014,%,mladi,Kopiranje ili premještanje datoteka ili foldera,92.4
@@ -69,12 +63,6 @@ Year,Units,Starost,Kategorija,Value
 2019,%,odrasli,Kopiranje ili premještanje datoteka ili foldera,95.9
 2020,%,mladi,Kopiranje ili premještanje datoteka ili foldera,98.4
 2020,%,odrasli,Kopiranje ili premještanje datoteka ili foldera,94.8
-2021,%,mladi,Kopiranje ili premještanje datoteka ili foldera,
-2021,%,odrasli,Kopiranje ili premještanje datoteka ili foldera,
-2013,%,mladi,Korišćenje softvera za obradu teksta,
-2013,%,odrasli,Korišćenje softvera za obradu teksta,
-2014,%,mladi,Korišćenje softvera za obradu teksta,
-2014,%,odrasli,Korišćenje softvera za obradu teksta,
 2015,%,mladi,Korišćenje softvera za obradu teksta,75.9
 2015,%,odrasli,Korišćenje softvera za obradu teksta,64.6
 2016,%,mladi,Korišćenje softvera za obradu teksta,77.8
@@ -89,6 +77,8 @@ Year,Units,Starost,Kategorija,Value
 2020,%,odrasli,Korišćenje softvera za obradu teksta,70.2
 2021,%,mladi,Korišćenje softvera za obradu teksta,76.4
 2021,%,odrasli,Korišćenje softvera za obradu teksta,70.1
+2022,%,mladi,Korišćenje softvera za obradu teksta,78.4
+2022,%,odrasli,Korišćenje softvera za obradu teksta,70.6
 2013,%,mladi,presentations,27.8
 2013,%,odrasli,presentations,15.7
 2014,%,mladi,presentations,29.5
@@ -107,6 +97,8 @@ Year,Units,Starost,Kategorija,Value
 2020,%,odrasli,presentations,40.4
 2021,%,mladi,presentations,
 2021,%,odrasli,presentations,42.0
+2022,%,mladi,presentations,67.6
+2022,%,odrasli,presentations,43.8
 2013,%,mladi,Korišćenje softvera za tabelarnu obradu podataka,19.1
 2013,%,odrasli,Korišćenje softvera za tabelarnu obradu podataka,15.9
 2014,%,mladi,Korišćenje softvera za tabelarnu obradu podataka,29.7
@@ -125,10 +117,8 @@ Year,Units,Starost,Kategorija,Value
 2020,%,odrasli,Korišćenje softvera za tabelarnu obradu podataka,38.4
 2021,%,mladi,Korišćenje softvera za tabelarnu obradu podataka,54.7
 2021,%,odrasli,Korišćenje softvera za tabelarnu obradu podataka,40.2
-2013,%,mladi,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",
-2013,%,odrasli,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",
-2014,%,mladi,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",
-2014,%,odrasli,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",
+2022,%,mladi,Korišćenje softvera za tabelarnu obradu podataka,46.8
+2022,%,odrasli,Korišćenje softvera za tabelarnu obradu podataka,40.3
 2015,%,mladi,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",20.6
 2015,%,odrasli,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",13.4
 2016,%,mladi,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",29.0
@@ -143,10 +133,8 @@ Year,Units,Starost,Kategorija,Value
 2020,%,odrasli,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",23.3
 2021,%,mladi,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",38.6
 2021,%,odrasli,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",22.6
-2013,%,mladi,photos,
-2013,%,odrasli,photos,
-2014,%,mladi,photos,
-2014,%,odrasli,photos,
+2022,%,mladi,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",35.4
+2022,%,odrasli,"Upotreba naprednih funkcija softvera za tabelarnu obradu podataka za organiziranje i analizu podataka, kao što je sortiranje, filtriranje, korišćenje formula, kreiranje grafikona",22.2
 2015,%,mladi,photos,40.9
 2015,%,odrasli,photos,22.6
 2016,%,mladi,photos,31.0
@@ -161,10 +149,8 @@ Year,Units,Starost,Kategorija,Value
 2020,%,odrasli,photos,26.5
 2021,%,mladi,photos,37.8
 2021,%,odrasli,photos,25.6
-2013,%,mladi,programming,
-2013,%,odrasli,programming,
-2014,%,mladi,programming,
-2014,%,odrasli,programming,
+2022,%,mladi,photos,49.8
+2022,%,odrasli,photos,27.4
 2015,%,mladi,programming,3.8
 2015,%,odrasli,programming,1.7
 2016,%,mladi,programming,3.6
@@ -179,3 +165,5 @@ Year,Units,Starost,Kategorija,Value
 2020,%,odrasli,programming,7.5
 2021,%,mladi,programming,14.0
 2021,%,odrasli,programming,8.5
+2022,%,mladi,programming,9.4
+2022,%,odrasli,programming,9.0

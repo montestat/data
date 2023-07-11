@@ -11,6 +11,7 @@ Year,Units,Kategorija,Value
 2019,ukupno,filijale poslovnih banaka,111.0
 2020,ukupno,filijale poslovnih banaka,106.0
 2021,ukupno,filijale poslovnih banaka,110.0
+2022,ukupno,filijale poslovnih banaka,104.0
 2010,ukupno,bankomati,321.0
 2011,ukupno,bankomati,332.0
 2012,ukupno,bankomati,350.0
@@ -23,6 +24,7 @@ Year,Units,Kategorija,Value
 2019,ukupno,bankomati,413.0
 2020,ukupno,bankomati,416.0
 2021,ukupno,bankomati,419.0
+2022,ukupno,bankomati,413.0
 2010,ukupno,odraslih ljudi (15+),498032.0
 2011,ukupno,odraslih ljudi (15+),500653.0
 2012,ukupno,odraslih ljudi (15+),502698.0
@@ -35,6 +37,7 @@ Year,Units,Kategorija,Value
 2019,ukupno,odraslih ljudi (15+),510429.0
 2020,ukupno,odraslih ljudi (15+),510398.0
 2021,ukupno,odraslih ljudi (15+),509572.0
+2022,ukupno,odraslih ljudi (15+),509572.0
 2010,na 100 000 odraslih ljudi,filijale poslovnih banaka,17.07
 2011,na 100 000 odraslih ljudi,filijale poslovnih banaka,16.98
 2012,na 100 000 odraslih ljudi,filijale poslovnih banaka,17.51
@@ -47,6 +50,7 @@ Year,Units,Kategorija,Value
 2019,na 100 000 odraslih ljudi,filijale poslovnih banaka,21.75
 2020,na 100 000 odraslih ljudi,filijale poslovnih banaka,20.77
 2021,na 100 000 odraslih ljudi,filijale poslovnih banaka,21.59
+2022,na 100 000 odraslih ljudi,filijale poslovnih banaka,20.41
 2010,na 100 000 odraslih ljudi,bankomati,64.45
 2011,na 100 000 odraslih ljudi,bankomati,66.31
 2012,na 100 000 odraslih ljudi,bankomati,69.62
@@ -59,3 +63,4 @@ Year,Units,Kategorija,Value
 2019,na 100 000 odraslih ljudi,bankomati,80.91
 2020,na 100 000 odraslih ljudi,bankomati,81.51
 2021,na 100 000 odraslih ljudi,bankomati,82.23
+2022,na 100 000 odraslih ljudi,bankomati,81.05

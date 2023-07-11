@@ -45,6 +45,9 @@
               "enum": [
                 "basel_convention_1",
                 "basel_convention_2",
+                "basel_convention_3",
+                "basel_convention_4",
+                "basel_convention_5",
                 "rotterdam_convention_1",
                 "rotterdam_convention_2",
                 "stockholm_convention_1",

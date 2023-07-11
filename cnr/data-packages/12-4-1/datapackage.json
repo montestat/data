@@ -48,6 +48,9 @@
               "enum": [
                 "Označavanje kontakt osobe i jednu ili više nadležnih organa",
                 "Podnošenje godišnjih nacionalnih izvještaja tokom izvještajnog perioda",
+                "basel_convention_3",
+                "basel_convention_4",
+                "basel_convention_5",
                 "Označavanje nadležnih nacionalnih organa i zvanične kontakt tačke",
                 "Podnošenje import odgovora tokom izvještajnog perioda (0.2 boda po import odgovoru)",
                 "Označavanje zvanične kontakt tačke i nacionalne ključne tačke",

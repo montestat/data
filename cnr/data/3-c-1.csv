@@ -10,6 +10,8 @@ Year,Units,Brojnost,Gustina,Value
 2018,ukupno,ljekari,,1720.0
 2019,ukupno,ljekari,,1708.0
 2020,ukupno,ljekari,,1721.0
+2021,ukupno,ljekari,,1738.0
+2022,ukupno,ljekari,,1726.0
 2010,ukupno,medicinske sestre i babice,,3298.0
 2011,ukupno,medicinske sestre i babice,,3204.0
 2012,ukupno,medicinske sestre i babice,,3090.0
@@ -21,6 +23,8 @@ Year,Units,Brojnost,Gustina,Value
 2018,ukupno,medicinske sestre i babice,,3283.0
 2019,ukupno,medicinske sestre i babice,,3302.0
 2020,ukupno,medicinske sestre i babice,,3374.0
+2021,ukupno,medicinske sestre i babice,,3564.0
+2022,ukupno,medicinske sestre i babice,,3758.0
 2010,ukupno,stomatološko osoblje,,26.0
 2011,ukupno,stomatološko osoblje,,24.0
 2012,ukupno,stomatološko osoblje,,25.0
@@ -32,6 +36,8 @@ Year,Units,Brojnost,Gustina,Value
 2018,ukupno,stomatološko osoblje,,29.0
 2019,ukupno,stomatološko osoblje,,32.0
 2020,ukupno,stomatološko osoblje,,31.0
+2021,ukupno,stomatološko osoblje,,37.0
+2022,ukupno,stomatološko osoblje,,38.0
 2010,ukupno,farmaceutsko osoblje,,91.0
 2011,ukupno,farmaceutsko osoblje,,92.0
 2012,ukupno,farmaceutsko osoblje,,93.0
@@ -43,6 +49,8 @@ Year,Units,Brojnost,Gustina,Value
 2018,ukupno,farmaceutsko osoblje,,120.0
 2019,ukupno,farmaceutsko osoblje,,127.0
 2020,ukupno,farmaceutsko osoblje,,143.0
+2021,ukupno,farmaceutsko osoblje,,147.0
+2022,ukupno,farmaceutsko osoblje,,140.0
 2010,ukupno,populacija,,619428.0
 2011,ukupno,populacija,,620029.0
 2012,ukupno,populacija,,620029.0
@@ -54,6 +62,8 @@ Year,Units,Brojnost,Gustina,Value
 2018,ukupno,populacija,,620029.0
 2019,ukupno,populacija,,620029.0
 2020,ukupno,populacija,,620029.0
+2021,ukupno,populacija,,620029.0
+2022,ukupno,populacija,,620029.0
 2010,na 1000 ljudi,,ljekari,203.41
 2011,na 1000 ljudi,,ljekari,200.15
 2012,na 1000 ljudi,,ljekari,202.73
@@ -65,6 +75,8 @@ Year,Units,Brojnost,Gustina,Value
 2018,na 1000 ljudi,,ljekari,277.41
 2019,na 1000 ljudi,,ljekari,275.47
 2020,na 1000 ljudi,,ljekari,277.57
+2021,na 1000 ljudi,,ljekari,280.31
+2022,na 1000 ljudi,,ljekari,278.37
 2010,na 1000 ljudi,,medicinske sestre i babice,532.43
 2011,na 1000 ljudi,,medicinske sestre i babice,516.75
 2012,na 1000 ljudi,,medicinske sestre i babice,498.36
@@ -76,6 +88,8 @@ Year,Units,Brojnost,Gustina,Value
 2018,na 1000 ljudi,,medicinske sestre i babice,529.49
 2019,na 1000 ljudi,,medicinske sestre i babice,532.56
 2020,na 1000 ljudi,,medicinske sestre i babice,544.17
+2021,na 1000 ljudi,,medicinske sestre i babice,574.81
+2022,na 1000 ljudi,,medicinske sestre i babice,606.1
 2010,na 1000 ljudi,,stomatološko osoblje,4.2
 2011,na 1000 ljudi,,stomatološko osoblje,3.87
 2012,na 1000 ljudi,,stomatološko osoblje,4.03
@@ -87,6 +101,8 @@ Year,Units,Brojnost,Gustina,Value
 2018,na 1000 ljudi,,stomatološko osoblje,4.68
 2019,na 1000 ljudi,,stomatološko osoblje,5.16
 2020,na 1000 ljudi,,stomatološko osoblje,5.0
+2021,na 1000 ljudi,,stomatološko osoblje,5.97
+2022,na 1000 ljudi,,stomatološko osoblje,6.13
 2010,na 1000 ljudi,,farmaceutsko osoblje,14.69
 2011,na 1000 ljudi,,farmaceutsko osoblje,14.84
 2012,na 1000 ljudi,,farmaceutsko osoblje,15.0
@@ -98,3 +114,5 @@ Year,Units,Brojnost,Gustina,Value
 2018,na 1000 ljudi,,farmaceutsko osoblje,19.35
 2019,na 1000 ljudi,,farmaceutsko osoblje,20.48
 2020,na 1000 ljudi,,farmaceutsko osoblje,23.06
+2021,na 1000 ljudi,,farmaceutsko osoblje,23.71
+2022,na 1000 ljudi,,farmaceutsko osoblje,22.58

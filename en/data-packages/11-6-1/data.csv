@@ -62,3 +62,171 @@ Year,Units,Location,Category,Value
 2015,quantity,Tivat,processed waste + disposed waste in sanitary landfills + temporarily stored waste,5236
 2015,quantity,Ulcinj,processed waste + disposed waste in sanitary landfills + temporarily stored waste,9328
 2015,quantity,Žabljak,processed waste + disposed waste in sanitary landfills + temporarily stored waste,0
+2017,quantity,Andrijevica,collected waste,319
+2017,quantity,Bar,collected waste,23502
+2017,quantity,Berane (sa Petnjicom),collected waste,7837
+2017,quantity,Bijelo Polje,collected waste,8477
+2017,quantity,Budva,collected waste,14908
+2017,quantity,Cetinje,collected waste,7422
+2017,quantity,Danilovgrad,collected waste,3449
+2017,quantity,Herceg Novi,collected waste,19293
+2017,quantity,Kolašin,collected waste,1613
+2017,quantity,Kotor,collected waste,12451
+2017,quantity,Mojkovac,collected waste,3780
+2017,quantity,Nikšić,collected waste,25000
+2017,quantity,Plav (sa Gusinjem),collected waste,655
+2017,quantity,Pljevlja,collected waste,7096
+2017,quantity,Plužine,collected waste,413
+2017,quantity,Podgorica,collected waste,86956
+2017,quantity,Rožaje,collected waste,4563
+2017,quantity,Šavnik,collected waste,350
+2017,quantity,Tivat,collected waste,12327
+2017,quantity,Ulcinj,collected waste,12231
+2017,quantity,Žabljak,collected waste,1356
+2017,quantity,Andrijevica,produced waste,1196
+2017,quantity,Bar,produced waste,25978
+2017,quantity,Berane (sa Petnjicom),produced waste,8038
+2017,quantity,Bijelo Polje,produced waste,12150
+2017,quantity,Budva,produced waste,25004
+2017,quantity,Cetinje,produced waste,6581
+2017,quantity,Danilovgrad,produced waste,5042
+2017,quantity,Herceg Novi,produced waste,20048
+2017,quantity,Kolašin,produced waste,2318
+2017,quantity,Kotor,produced waste,10182
+2017,quantity,Mojkovac,produced waste,2258
+2017,quantity,Nikšić,produced waste,22037
+2017,quantity,Plav (sa Gusinjem),produced waste,3458
+2017,quantity,Pljevlja,produced waste,8600
+2017,quantity,Plužine,produced waste,401
+2017,quantity,Podgorica,produced waste,72092
+2017,quantity,Rožaje,produced waste,5975
+2017,quantity,Šavnik,produced waste,521
+2017,quantity,Tivat,produced waste,8768
+2017,quantity,Ulcinj,produced waste,12258
+2017,quantity,Žabljak,produced waste,1136
+2017,quantity,Andrijevica,processed waste + disposed waste in sanitary landfills + temporarily stored waste,319
+2017,quantity,Bar,processed waste + disposed waste in sanitary landfills + temporarily stored waste,23502
+2017,quantity,Berane (sa Petnjicom),processed waste + disposed waste in sanitary landfills + temporarily stored waste,7837
+2017,quantity,Bijelo Polje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,8477
+2017,quantity,Budva,processed waste + disposed waste in sanitary landfills + temporarily stored waste,14908
+2017,quantity,Cetinje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,7422
+2017,quantity,Danilovgrad,processed waste + disposed waste in sanitary landfills + temporarily stored waste,3449
+2017,quantity,Herceg Novi,processed waste + disposed waste in sanitary landfills + temporarily stored waste,19293
+2017,quantity,Kolašin,processed waste + disposed waste in sanitary landfills + temporarily stored waste,1613
+2017,quantity,Kotor,processed waste + disposed waste in sanitary landfills + temporarily stored waste,2269
+2017,quantity,Mojkovac,processed waste + disposed waste in sanitary landfills + temporarily stored waste,3780
+2017,quantity,Nikšić,processed waste + disposed waste in sanitary landfills + temporarily stored waste,25000
+2017,quantity,Plav (sa Gusinjem),processed waste + disposed waste in sanitary landfills + temporarily stored waste,655
+2017,quantity,Pljevlja,processed waste + disposed waste in sanitary landfills + temporarily stored waste,7906
+2017,quantity,Plužine,processed waste + disposed waste in sanitary landfills + temporarily stored waste,12
+2017,quantity,Podgorica,processed waste + disposed waste in sanitary landfills + temporarily stored waste,86956
+2017,quantity,Rožaje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,4563
+2017,quantity,Šavnik,processed waste + disposed waste in sanitary landfills + temporarily stored waste,350
+2017,quantity,Tivat,processed waste + disposed waste in sanitary landfills + temporarily stored waste,12327
+2017,quantity,Ulcinj,processed waste + disposed waste in sanitary landfills + temporarily stored waste,12231
+2017,quantity,Žabljak,processed waste + disposed waste in sanitary landfills + temporarily stored waste,3356
+2020,quantity,Andrijevica,collected waste,290
+2020,quantity,Bar,collected waste,19888
+2020,quantity,Berane (sa Petnjicom),collected waste,9340
+2020,quantity,Bijelo Polje,collected waste,9737
+2020,quantity,Budva,collected waste,21556
+2020,quantity,Cetinje,collected waste,5247
+2020,quantity,Danilovgrad,collected waste,5061
+2020,quantity,Herceg Novi,collected waste,19343
+2020,quantity,Kolašin,collected waste,1582
+2020,quantity,Kotor,collected waste,14136
+2020,quantity,Mojkovac,collected waste,1818
+2020,quantity,Nikšić,collected waste,25000
+2020,quantity,Plav (sa Gusinjem),collected waste,639
+2020,quantity,Pljevlja,collected waste,7156
+2020,quantity,Plužine,collected waste,389
+2020,quantity,Podgorica,collected waste,93348
+2020,quantity,Rožaje,collected waste,5515
+2020,quantity,Šavnik,collected waste,244
+2020,quantity,Tivat,collected waste,13211
+2020,quantity,Ulcinj,collected waste,12636
+2020,quantity,Žabljak,collected waste,1300
+2020,quantity,Andrijevica,produced waste,1205
+2020,quantity,Bar,produced waste,28120
+2020,quantity,Berane (sa Petnjicom),produced waste,8101
+2020,quantity,Bijelo Polje,produced waste,12247
+2020,quantity,Budva,produced waste,27065
+2020,quantity,Cetinje,produced waste,7124
+2020,quantity,Danilovgrad,produced waste,5458
+2020,quantity,Herceg Novi,produced waste,21700
+2020,quantity,Kolašin,produced waste,2337
+2020,quantity,Kotor,produced waste,14646
+2020,quantity,Mojkovac,produced waste,2276
+2020,quantity,Nikšić,produced waste,23854
+2020,quantity,Plav (sa Gusinjem),produced waste,3485
+2020,quantity,Pljevlja,produced waste,8669
+2020,quantity,Plužine,produced waste,1192
+2020,quantity,Podgorica,produced waste,72963
+2020,quantity,Rožaje,produced waste,6005
+2020,quantity,Šavnik,produced waste,525
+2020,quantity,Tivat,produced waste,9490
+2020,quantity,Ulcinj,produced waste,13621
+2020,quantity,Žabljak,produced waste,1145
+2020,quantity,Andrijevica,processed waste + disposed waste in sanitary landfills + temporarily stored waste,290
+2020,quantity,Bar,processed waste + disposed waste in sanitary landfills + temporarily stored waste,19888
+2020,quantity,Berane (sa Petnjicom),processed waste + disposed waste in sanitary landfills + temporarily stored waste,8540
+2020,quantity,Bijelo Polje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,9737
+2020,quantity,Budva,processed waste + disposed waste in sanitary landfills + temporarily stored waste,21556
+2020,quantity,Cetinje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,5247
+2020,quantity,Danilovgrad,processed waste + disposed waste in sanitary landfills + temporarily stored waste,5061
+2020,quantity,Herceg Novi,processed waste + disposed waste in sanitary landfills + temporarily stored waste,19341
+2020,quantity,Kolašin,processed waste + disposed waste in sanitary landfills + temporarily stored waste,1582
+2020,quantity,Kotor,processed waste + disposed waste in sanitary landfills + temporarily stored waste,14136
+2020,quantity,Mojkovac,processed waste + disposed waste in sanitary landfills + temporarily stored waste,1818
+2020,quantity,Nikšić,processed waste + disposed waste in sanitary landfills + temporarily stored waste,25000
+2020,quantity,Plav (sa Gusinjem),processed waste + disposed waste in sanitary landfills + temporarily stored waste,639
+2020,quantity,Pljevlja,processed waste + disposed waste in sanitary landfills + temporarily stored waste,7156
+2020,quantity,Plužine,processed waste + disposed waste in sanitary landfills + temporarily stored waste,389
+2020,quantity,Podgorica,processed waste + disposed waste in sanitary landfills + temporarily stored waste,93348
+2020,quantity,Rožaje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,5515
+2020,quantity,Šavnik,processed waste + disposed waste in sanitary landfills + temporarily stored waste,244
+2020,quantity,Tivat,processed waste + disposed waste in sanitary landfills + temporarily stored waste,13211
+2020,quantity,Ulcinj,processed waste + disposed waste in sanitary landfills + temporarily stored waste,9709
+2020,quantity,Žabljak,processed waste + disposed waste in sanitary landfills + temporarily stored waste,1300
+2021,quantity,Andrijevica,collected waste,285
+2021,quantity,Bar,collected waste,28622
+2021,quantity,Berane (sa Petnjicom),collected waste,7700
+2021,quantity,Bijelo Polje,collected waste,11945
+2021,quantity,Budva,collected waste,21510
+2021,quantity,Cetinje,collected waste,4996
+2021,quantity,Danilovgrad,collected waste,4570
+2021,quantity,Herceg Novi,collected waste,21828
+2021,quantity,Kolašin,collected waste,1750
+2021,quantity,Kotor,collected waste,14216
+2021,quantity,Mojkovac,collected waste,1980
+2021,quantity,Nikšić,collected waste,28000
+2021,quantity,Plav (sa Gusinjem),collected waste,661
+2021,quantity,Pljevlja,collected waste,5808
+2021,quantity,Plužine,collected waste,456
+2021,quantity,Podgorica,collected waste,85100
+2021,quantity,Rožaje,collected waste,6227
+2021,quantity,Šavnik,collected waste,239
+2021,quantity,Tivat,collected waste,15213
+2021,quantity,Ulcinj,collected waste,13496
+2021,quantity,Žabljak,collected waste,1500
+2021,quantity,Andrijevica,processed waste + disposed waste in sanitary landfills + temporarily stored waste,285
+2021,quantity,Bar,processed waste + disposed waste in sanitary landfills + temporarily stored waste,28622
+2021,quantity,Berane (sa Petnjicom),processed waste + disposed waste in sanitary landfills + temporarily stored waste,7690
+2021,quantity,Bijelo Polje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,11945
+2021,quantity,Budva,processed waste + disposed waste in sanitary landfills + temporarily stored waste,21510
+2021,quantity,Cetinje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,4996
+2021,quantity,Danilovgrad,processed waste + disposed waste in sanitary landfills + temporarily stored waste,4570
+2021,quantity,Herceg Novi,processed waste + disposed waste in sanitary landfills + temporarily stored waste,21828
+2021,quantity,Kolašin,processed waste + disposed waste in sanitary landfills + temporarily stored waste,1632
+2021,quantity,Kotor,processed waste + disposed waste in sanitary landfills + temporarily stored waste,14216
+2021,quantity,Mojkovac,processed waste + disposed waste in sanitary landfills + temporarily stored waste,1980
+2021,quantity,Nikšić,processed waste + disposed waste in sanitary landfills + temporarily stored waste,28000
+2021,quantity,Plav (sa Gusinjem),processed waste + disposed waste in sanitary landfills + temporarily stored waste,661
+2021,quantity,Pljevlja,processed waste + disposed waste in sanitary landfills + temporarily stored waste,5808
+2021,quantity,Plužine,processed waste + disposed waste in sanitary landfills + temporarily stored waste,456
+2021,quantity,Podgorica,processed waste + disposed waste in sanitary landfills + temporarily stored waste,85100
+2021,quantity,Rožaje,processed waste + disposed waste in sanitary landfills + temporarily stored waste,6227
+2021,quantity,Šavnik,processed waste + disposed waste in sanitary landfills + temporarily stored waste,239
+2021,quantity,Tivat,processed waste + disposed waste in sanitary landfills + temporarily stored waste,15213
+2021,quantity,Ulcinj,processed waste + disposed waste in sanitary landfills + temporarily stored waste,13496
+2021,quantity,Žabljak,processed waste + disposed waste in sanitary landfills + temporarily stored waste,1700

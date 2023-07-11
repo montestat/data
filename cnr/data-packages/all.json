@@ -74,6 +74,8 @@
                 "Nikšić UB",
                 "Pljevlja UB",
                 "Podgorica UB",
+                "Kotor",
+                "Bijelo Polje",
                 "Tivat UB",
                 ""
               ]
@@ -3601,6 +3603,9 @@
               "enum": [
                 "Označavanje kontakt osobe i jednu ili više nadležnih organa",
                 "Podnošenje godišnjih nacionalnih izvještaja tokom izvještajnog perioda",
+                "basel_convention_3",
+                "basel_convention_4",
+                "basel_convention_5",
                 "Označavanje nadležnih nacionalnih organa i zvanične kontakt tačke",
                 "Podnošenje import odgovora tokom izvještajnog perioda (0.2 boda po import odgovoru)",
                 "Označavanje zvanične kontakt tačke i nacionalne ključne tačke",
@@ -3937,7 +3942,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "na 1000 rođenih",
+                "per 1000 life births",
                 ""
               ]
             },
@@ -4460,6 +4465,10 @@
                 "Međunarodni monetarni fond",
                 "Međunarodna banka za rekonstrukciju i razvoj",
                 "Svjetska trgovinska organizacija",
+                "Afrička razvojna banka",
+                "Azijska razvojna banka",
+                "Interamerička razvojna banka",
+                "Odbor za finansijsku stabilnost",
                 ""
               ]
             },

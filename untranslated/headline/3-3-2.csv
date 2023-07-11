@@ -10,6 +10,8 @@ Year,Value,Units
 2018,84.0,total_infected
 2019,82.0,total_infected
 2020,40.0,total_infected
+2021,83.0,total_infected
+2022,71.0,total_infected
 2010,18.72,per_100000_population
 2011,19.19,per_100000_population
 2012,17.41,per_100000_population
@@ -21,3 +23,5 @@ Year,Value,Units
 2018,13.54,per_100000_population
 2019,13.22,per_100000_population
 2020,6.45,per_100000_population
+2021,13.39,per_100000_population
+2022,11.45,per_100000_population

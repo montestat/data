@@ -11,6 +11,8 @@ Year,Units,Location,Value
 2018,PM 10,Podgorica UT,40.3
 2019,PM 10,Podgorica UT,42.0
 2020,PM 10,Podgorica UT,42.0
+2021,PM 10,Podgorica UT,35.0
+2022,PM 10,Podgorica UT,35.0
 2009,PM 10,Bar UB,39.8
 2010,PM 10,Bar UB,33.5
 2011,PM 10,Bar UB,31.91
@@ -23,6 +25,8 @@ Year,Units,Location,Value
 2018,PM 10,Bar UB,27.86
 2019,PM 10,Bar UB,23.0
 2020,PM 10,Bar UB,17.0
+2021,PM 10,Bar UB,17.0
+2022,PM 10,Bar UB,18.0
 2009,PM 10,Nikšić UB,71.58
 2010,PM 10,Nikšić UB,58.29
 2011,PM 10,Nikšić UB,55.19
@@ -35,6 +39,8 @@ Year,Units,Location,Value
 2018,PM 10,Nikšić UB,41.25
 2019,PM 10,Nikšić UB,47.0
 2020,PM 10,Nikšić UB,37.0
+2021,PM 10,Nikšić UB,32.0
+2022,PM 10,Nikšić UB,30.0
 2009,PM 10,Pljevlja UB,81.89
 2010,PM 10,Pljevlja UB,66.83
 2011,PM 10,Pljevlja UB,95.61
@@ -47,7 +53,17 @@ Year,Units,Location,Value
 2018,PM 10,Pljevlja UB,58.77
 2019,PM 10,Pljevlja UB,58.0
 2020,PM 10,Pljevlja UB,58.0
+2021,PM 10,Pljevlja UB,50.0
+2022,PM 10,Pljevlja UB,56.0
 2020,PM 10,Podgorica UB,37.0
+2021,PM 10,Podgorica UB,30.0
+2022,PM 10,Podgorica UB,30.0
+2020,PM 10,Kotor,18.0
+2021,PM 10,Kotor,18.0
+2022,PM 10,Kotor,18.0
+2020,PM 10,Bijelo Polje,43.0
+2021,PM 10,Bijelo Polje,42.0
+2022,PM 10,Bijelo Polje,39.0
 2012,PM 2.5,Tivat UB,18.0
 2013,PM 2.5,Tivat UB,16.0
 2014,PM 2.5,Tivat UB,16.0
@@ -64,6 +80,8 @@ Year,Units,Location,Value
 2018,PM 2.5,Bar UB,19.77
 2019,PM 2.5,Bar UB,14.0
 2020,PM 2.5,Bar UB,12.0
+2021,PM 2.5,Bar UB,11.0
+2022,PM 2.5,Bar UB,10.0
 2012,PM 2.5,Nikšić UB,35.0
 2013,PM 2.5,Nikšić UB,26.0
 2014,PM 2.5,Nikšić UB,23.0
@@ -73,6 +91,7 @@ Year,Units,Location,Value
 2018,PM 2.5,Nikšić UB,25.04
 2019,PM 2.5,Nikšić UB,38.0
 2020,PM 2.5,Nikšić UB,31.0
+2021,PM 2.5,Nikšić UB,32.0
 2012,PM 2.5,Pljevlja UB,45.0
 2013,PM 2.5,Pljevlja UB,46.0
 2014,PM 2.5,Pljevlja UB,42.0
@@ -82,4 +101,9 @@ Year,Units,Location,Value
 2018,PM 2.5,Pljevlja UB,42.22
 2019,PM 2.5,Pljevlja UB,37.0
 2020,PM 2.5,Pljevlja UB,43.0
+2021,PM 2.5,Pljevlja UB,37.0
 2020,PM 2.5,Podgorica UB,28.0
+2021,PM 2.5,Podgorica UB,21.0
+2022,PM 2.5,Podgorica UB,20.0
+2020,PM 2.5,Bijelo Polje,34.0
+2021,PM 2.5,Bijelo Polje,32.0
