@@ -10,6 +10,8 @@ Year,Units,Age,Sex,Value
 2018,%,aged 15-24 years,,65.9
 2019,%,aged 15-24 years,,60.8
 2020,%,aged 15-24 years,,61.7
+2021,%,aged 15-24 years,,65.2
+2022,%,aged 15-24 years,,58.3
 2010,%,aged 15-24 years,Male,64.2
 2011,%,aged 15-24 years,Male,68
 2012,%,aged 15-24 years,Male,69.9
@@ -21,6 +23,8 @@ Year,Units,Age,Sex,Value
 2018,%,aged 15-24 years,Male,59.6
 2019,%,aged 15-24 years,Male,54.8
 2020,%,aged 15-24 years,Male,57.2
+2021,%,aged 15-24 years,Male,59.7
+2022,%,aged 15-24 years,Male,53.8
 2010,%,aged 15-24 years,Female,69.8
 2011,%,aged 15-24 years,Female,75.3
 2012,%,aged 15-24 years,Female,72.6
@@ -32,6 +36,8 @@ Year,Units,Age,Sex,Value
 2018,%,aged 15-24 years,Female,72.6
 2019,%,aged 15-24 years,Female,67.2
 2020,%,aged 15-24 years,Female,66.6
+2021,%,aged 15-24 years,Female,71
+2022,%,aged 15-24 years,Female,63.2
 2010,%,aged 25-64 years,,2.4
 2011,%,aged 25-64 years,,2.8
 2012,%,aged 25-64 years,,2.5
@@ -41,8 +47,10 @@ Year,Units,Age,Sex,Value
 2016,%,aged 25-64 years,,3.3
 2017,%,aged 25-64 years,,2.8
 2018,%,aged 25-64 years,,3.3
-2019,%,aged 25-64 years,,2.5 
-2020,%,aged 25-64 years,,2.7 
+2019,%,aged 25-64 years,,2.5
+2020,%,aged 25-64 years,,2.7
+2021,%,aged 25-64 years,,5.2
+2022,%,aged 25-64 years,,3.2
 2010,%,aged 25-64 years,Male,2.5
 2011,%,aged 25-64 years,Male,3.1
 2012,%,aged 25-64 years,Male,2.8
@@ -52,8 +60,10 @@ Year,Units,Age,Sex,Value
 2016,%,aged 25-64 years,Male,3.7
 2017,%,aged 25-64 years,Male,3.3
 2018,%,aged 25-64 years,Male,3.4
-2019,%,aged 25-64 years,Male,2.1 
-2020,%,aged 25-64 years,Male,2.6 
+2019,%,aged 25-64 years,Male,2.1
+2020,%,aged 25-64 years,Male,2.6
+2021,%,aged 25-64 years,Male,5
+2022,%,aged 25-64 years,Male,3
 2010,%,aged 25-64 years,Female,2.3
 2011,%,aged 25-64 years,Female,2.5
 2012,%,aged 25-64 years,Female,2.2
@@ -63,5 +73,7 @@ Year,Units,Age,Sex,Value
 2016,%,aged 25-64 years,Female,2.9
 2017,%,aged 25-64 years,Female,2.7
 2018,%,aged 25-64 years,Female,3.1
-2019,%,aged 25-64 years,Female,3.0 
-2020,%,aged 25-64 years,Female,2.8 
+2019,%,aged 25-64 years,Female,3
+2020,%,aged 25-64 years,Female,2.8
+2021,%,aged 25-64 years,Female,5.4
+2022,%,aged 25-64 years,Female,3.4

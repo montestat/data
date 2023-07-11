@@ -9,6 +9,7 @@ Year,Units,Category,Value
 2018,tons,recycled_waste,105281.5
 2019,tons,recycled_waste,183447.3
 2020,tons,recycled_waste,134864.8
+2021,tons,recycled_waste,214273.3
 2011,tons,total_waste,1132479.7
 2012,tons,total_waste,1027342.7
 2013,tons,total_waste,1117588.7
@@ -19,3 +20,4 @@ Year,Units,Category,Value
 2018,tons,total_waste,1261159.7
 2019,tons,total_waste,1276244.6
 2020,tons,total_waste,1314393.6
+2021,tons,total_waste,1477865.8
