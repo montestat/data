@@ -62,3 +62,171 @@ Year,Units,Location,Category,Value
 2015,quantity,Tivat,processed_waste,5236
 2015,quantity,Ulcinj,processed_waste,9328
 2015,quantity,Zabljak,processed_waste,0
+2017,quantity,Andrijevica,collected_waste,319
+2017,quantity,Bar,collected_waste,23502
+2017,quantity,Berane (sa Petnjicom),collected_waste,7837
+2017,quantity,Bijelo Polje,collected_waste,8477
+2017,quantity,Budva,collected_waste,14908
+2017,quantity,Cetinje,collected_waste,7422
+2017,quantity,Danilovgrad,collected_waste,3449
+2017,quantity,Herceg Novi,collected_waste,19293
+2017,quantity,Kolasin,collected_waste,1613
+2017,quantity,Kotor,collected_waste,12451
+2017,quantity,Mojkovac,collected_waste,3780
+2017,quantity,Niksic,collected_waste,25000
+2017,quantity,Plav (sa Gusinjem),collected_waste,655
+2017,quantity,Pljevlja,collected_waste,7096
+2017,quantity,Pluzine,collected_waste,413
+2017,quantity,Podgorica,collected_waste,86956
+2017,quantity,Rozaje,collected_waste,4563
+2017,quantity,savnik,collected_waste,350
+2017,quantity,Tivat,collected_waste,12327
+2017,quantity,Ulcinj,collected_waste,12231
+2017,quantity,Zabljak,collected_waste,1356
+2017,quantity,Andrijevica,produced_waste,1196
+2017,quantity,Bar,produced_waste,25978
+2017,quantity,Berane (sa Petnjicom),produced_waste,8038
+2017,quantity,Bijelo Polje,produced_waste,12150
+2017,quantity,Budva,produced_waste,25004
+2017,quantity,Cetinje,produced_waste,6581
+2017,quantity,Danilovgrad,produced_waste,5042
+2017,quantity,Herceg Novi,produced_waste,20048
+2017,quantity,Kolasin,produced_waste,2318
+2017,quantity,Kotor,produced_waste,10182
+2017,quantity,Mojkovac,produced_waste,2258
+2017,quantity,Niksic,produced_waste,22037
+2017,quantity,Plav (sa Gusinjem),produced_waste,3458
+2017,quantity,Pljevlja,produced_waste,8600
+2017,quantity,Pluzine,produced_waste,401
+2017,quantity,Podgorica,produced_waste,72092
+2017,quantity,Rozaje,produced_waste,5975
+2017,quantity,savnik,produced_waste,521
+2017,quantity,Tivat,produced_waste,8768
+2017,quantity,Ulcinj,produced_waste,12258
+2017,quantity,Zabljak,produced_waste,1136
+2017,quantity,Andrijevica,processed_waste,319
+2017,quantity,Bar,processed_waste,23502
+2017,quantity,Berane (sa Petnjicom),processed_waste,7837
+2017,quantity,Bijelo Polje,processed_waste,8477
+2017,quantity,Budva,processed_waste,14908
+2017,quantity,Cetinje,processed_waste,7422
+2017,quantity,Danilovgrad,processed_waste,3449
+2017,quantity,Herceg Novi,processed_waste,19293
+2017,quantity,Kolasin,processed_waste,1613
+2017,quantity,Kotor,processed_waste,2269
+2017,quantity,Mojkovac,processed_waste,3780
+2017,quantity,Niksic,processed_waste,25000
+2017,quantity,Plav (sa Gusinjem),processed_waste,655
+2017,quantity,Pljevlja,processed_waste,7906
+2017,quantity,Pluzine,processed_waste,12
+2017,quantity,Podgorica,processed_waste,86956
+2017,quantity,Rozaje,processed_waste,4563
+2017,quantity,savnik,processed_waste,350
+2017,quantity,Tivat,processed_waste,12327
+2017,quantity,Ulcinj,processed_waste,12231
+2017,quantity,Zabljak,processed_waste,3356
+2020,quantity,Andrijevica,collected_waste,290
+2020,quantity,Bar,collected_waste,19888
+2020,quantity,Berane (sa Petnjicom),collected_waste,9340
+2020,quantity,Bijelo Polje,collected_waste,9737
+2020,quantity,Budva,collected_waste,21556
+2020,quantity,Cetinje,collected_waste,5247
+2020,quantity,Danilovgrad,collected_waste,5061
+2020,quantity,Herceg Novi,collected_waste,19343
+2020,quantity,Kolasin,collected_waste,1582
+2020,quantity,Kotor,collected_waste,14136
+2020,quantity,Mojkovac,collected_waste,1818
+2020,quantity,Niksic,collected_waste,25000
+2020,quantity,Plav (sa Gusinjem),collected_waste,639
+2020,quantity,Pljevlja,collected_waste,7156
+2020,quantity,Pluzine,collected_waste,389
+2020,quantity,Podgorica,collected_waste,93348
+2020,quantity,Rozaje,collected_waste,5515
+2020,quantity,savnik,collected_waste,244
+2020,quantity,Tivat,collected_waste,13211
+2020,quantity,Ulcinj,collected_waste,12636
+2020,quantity,Zabljak,collected_waste,1300
+2020,quantity,Andrijevica,produced_waste,1205
+2020,quantity,Bar,produced_waste,28120
+2020,quantity,Berane (sa Petnjicom),produced_waste,8101
+2020,quantity,Bijelo Polje,produced_waste,12247
+2020,quantity,Budva,produced_waste,27065
+2020,quantity,Cetinje,produced_waste,7124
+2020,quantity,Danilovgrad,produced_waste,5458
+2020,quantity,Herceg Novi,produced_waste,21700
+2020,quantity,Kolasin,produced_waste,2337
+2020,quantity,Kotor,produced_waste,14646
+2020,quantity,Mojkovac,produced_waste,2276
+2020,quantity,Niksic,produced_waste,23854
+2020,quantity,Plav (sa Gusinjem),produced_waste,3485
+2020,quantity,Pljevlja,produced_waste,8669
+2020,quantity,Pluzine,produced_waste,1192
+2020,quantity,Podgorica,produced_waste,72963
+2020,quantity,Rozaje,produced_waste,6005
+2020,quantity,savnik,produced_waste,525
+2020,quantity,Tivat,produced_waste,9490
+2020,quantity,Ulcinj,produced_waste,13621
+2020,quantity,Zabljak,produced_waste,1145
+2020,quantity,Andrijevica,processed_waste,290
+2020,quantity,Bar,processed_waste,19888
+2020,quantity,Berane (sa Petnjicom),processed_waste,8540
+2020,quantity,Bijelo Polje,processed_waste,9737
+2020,quantity,Budva,processed_waste,21556
+2020,quantity,Cetinje,processed_waste,5247
+2020,quantity,Danilovgrad,processed_waste,5061
+2020,quantity,Herceg Novi,processed_waste,19341
+2020,quantity,Kolasin,processed_waste,1582
+2020,quantity,Kotor,processed_waste,14136
+2020,quantity,Mojkovac,processed_waste,1818
+2020,quantity,Niksic,processed_waste,25000
+2020,quantity,Plav (sa Gusinjem),processed_waste,639
+2020,quantity,Pljevlja,processed_waste,7156
+2020,quantity,Pluzine,processed_waste,389
+2020,quantity,Podgorica,processed_waste,93348
+2020,quantity,Rozaje,processed_waste,5515
+2020,quantity,savnik,processed_waste,244
+2020,quantity,Tivat,processed_waste,13211
+2020,quantity,Ulcinj,processed_waste,9709
+2020,quantity,Zabljak,processed_waste,1300
+2021,quantity,Andrijevica,collected_waste,285
+2021,quantity,Bar,collected_waste,28622
+2021,quantity,Berane (sa Petnjicom),collected_waste,7700
+2021,quantity,Bijelo Polje,collected_waste,11945
+2021,quantity,Budva,collected_waste,21510
+2021,quantity,Cetinje,collected_waste,4996
+2021,quantity,Danilovgrad,collected_waste,4570
+2021,quantity,Herceg Novi,collected_waste,21828
+2021,quantity,Kolasin,collected_waste,1750
+2021,quantity,Kotor,collected_waste,14216
+2021,quantity,Mojkovac,collected_waste,1980
+2021,quantity,Niksic,collected_waste,28000
+2021,quantity,Plav (sa Gusinjem),collected_waste,661
+2021,quantity,Pljevlja,collected_waste,5808
+2021,quantity,Pluzine,collected_waste,456
+2021,quantity,Podgorica,collected_waste,85100
+2021,quantity,Rozaje,collected_waste,6227
+2021,quantity,savnik,collected_waste,239
+2021,quantity,Tivat,collected_waste,15213
+2021,quantity,Ulcinj,collected_waste,13496
+2021,quantity,Zabljak,collected_waste,1500
+2021,quantity,Andrijevica,processed_waste,285
+2021,quantity,Bar,processed_waste,28622
+2021,quantity,Berane (sa Petnjicom),processed_waste,7690
+2021,quantity,Bijelo Polje,processed_waste,11945
+2021,quantity,Budva,processed_waste,21510
+2021,quantity,Cetinje,processed_waste,4996
+2021,quantity,Danilovgrad,processed_waste,4570
+2021,quantity,Herceg Novi,processed_waste,21828
+2021,quantity,Kolasin,processed_waste,1632
+2021,quantity,Kotor,processed_waste,14216
+2021,quantity,Mojkovac,processed_waste,1980
+2021,quantity,Niksic,processed_waste,28000
+2021,quantity,Plav (sa Gusinjem),processed_waste,661
+2021,quantity,Pljevlja,processed_waste,5808
+2021,quantity,Pluzine,processed_waste,456
+2021,quantity,Podgorica,processed_waste,85100
+2021,quantity,Rozaje,processed_waste,6227
+2021,quantity,savnik,processed_waste,239
+2021,quantity,Tivat,processed_waste,15213
+2021,quantity,Ulcinj,processed_waste,13496
+2021,quantity,Zabljak,processed_waste,1700

@@ -10,6 +10,8 @@ Year,Units,Count,Density,Value
 2018,total,health workers,,1720
 2019,total,health workers,,1708
 2020,total,health workers,,1721
+2021,total,health workers,,1738
+2022,total,health workers,,1726
 2010,total,nurses,,3298
 2011,total,nurses,,3204
 2012,total,nurses,,3090
@@ -21,6 +23,8 @@ Year,Units,Count,Density,Value
 2018,total,nurses,,3283
 2019,total,nurses,,3302
 2020,total,nurses,,3374
+2021,total,nurses,,3564
+2022,total,nurses,,3758
 2010,total,dental staff,,26
 2011,total,dental staff,,24
 2012,total,dental staff,,25
@@ -32,6 +36,8 @@ Year,Units,Count,Density,Value
 2018,total,dental staff,,29
 2019,total,dental staff,,32
 2020,total,dental staff,,31
+2021,total,dental staff,,37
+2022,total,dental staff,,38
 2010,total,pharmaceutical staff,,91
 2011,total,pharmaceutical staff,,92
 2012,total,pharmaceutical staff,,93
@@ -43,6 +49,8 @@ Year,Units,Count,Density,Value
 2018,total,pharmaceutical staff,,120
 2019,total,pharmaceutical staff,,127
 2020,total,pharmaceutical staff,,143
+2021,total,pharmaceutical staff,,147
+2022,total,pharmaceutical staff,,140
 2010,total,population,,619428
 2011,total,population,,620029
 2012,total,population,,620029
@@ -54,6 +62,8 @@ Year,Units,Count,Density,Value
 2018,total,population,,620029
 2019,total,population,,620029
 2020,total,population,,620029
+2021,total,population,,620029
+2022,total,population,,620029
 2010,per_1000_population,,health workers,203.41
 2011,per_1000_population,,health workers,200.15
 2012,per_1000_population,,health workers,202.73
@@ -65,6 +75,8 @@ Year,Units,Count,Density,Value
 2018,per_1000_population,,health workers,277.41
 2019,per_1000_population,,health workers,275.47
 2020,per_1000_population,,health workers,277.57
+2021,per_1000_population,,health workers,280.31
+2022,per_1000_population,,health workers,278.37
 2010,per_1000_population,,nurses,532.43
 2011,per_1000_population,,nurses,516.75
 2012,per_1000_population,,nurses,498.36
@@ -76,6 +88,8 @@ Year,Units,Count,Density,Value
 2018,per_1000_population,,nurses,529.49
 2019,per_1000_population,,nurses,532.56
 2020,per_1000_population,,nurses,544.17
+2021,per_1000_population,,nurses,574.81
+2022,per_1000_population,,nurses,606.1
 2010,per_1000_population,,dental staff,4.2
 2011,per_1000_population,,dental staff,3.87
 2012,per_1000_population,,dental staff,4.03
@@ -87,6 +101,8 @@ Year,Units,Count,Density,Value
 2018,per_1000_population,,dental staff,4.68
 2019,per_1000_population,,dental staff,5.16
 2020,per_1000_population,,dental staff,5
+2021,per_1000_population,,dental staff,5.97
+2022,per_1000_population,,dental staff,6.13
 2010,per_1000_population,,pharmaceutical staff,14.69
 2011,per_1000_population,,pharmaceutical staff,14.84
 2012,per_1000_population,,pharmaceutical staff,15
@@ -98,3 +114,5 @@ Year,Units,Count,Density,Value
 2018,per_1000_population,,pharmaceutical staff,19.35
 2019,per_1000_population,,pharmaceutical staff,20.48
 2020,per_1000_population,,pharmaceutical staff,23.06
+2021,per_1000_population,,pharmaceutical staff,23.71
+2022,per_1000_population,,pharmaceutical staff,22.58
