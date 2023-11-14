@@ -1,0 +1,16 @@
+SDG_GOAL__GLOBAL: global_goals.11-title
+SDG_TARGET__GLOBAL: global_targets.11-2-title
+SDG_INDICATOR__GLOBAL: global_indicators.11-2-1-a-title
+methodology_global: metadata_texts.11-2-1-a-global-methodology
+SDG_GOAL: global_goals.11-title
+SDG_TARGET: global_targets.11-2-title
+SDG_INDICATOR: global_indicators.11-2-1-a-title
+methodology_national: metadata_texts.11-2-1-a-national-methodology
+DATA_SOURCE: metadata_texts.11-2-1-a-national-datasource
+COVERAGE: metadata_texts.11-2-1-a-national-disaggregation
+REC_USE_LIM: metadata_texts.11-2-1-a-national-comment
+COMPARABILITY: metadata_texts.11-2-1-a-national-deviation
+methodology_start_date: ''
+indicator_introduction_plan: metadata_texts.11-2-1-a-national-introductioncomment
+source_active_1: true
+source_organisation_1: sources.Monstat

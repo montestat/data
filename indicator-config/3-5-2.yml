@@ -11,6 +11,6 @@ indicator_number: '3.5.2'
 national_geographical_coverage: custom.country_name
 precision:
   - unit: data.litres_pure_alcohol
-    decimals: 2
+  - decimals: 2
 reporting_status: complete
 standalone: false

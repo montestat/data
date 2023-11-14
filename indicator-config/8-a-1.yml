@@ -11,6 +11,6 @@ indicator_number: '8.a.1'
 national_geographical_coverage: custom.country_name
 precision:
   - unit: data.usd
-    decimals: 2
+  - decimals: 2
 reporting_status: complete
 standalone: false
