@@ -12,31 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Udio stanovništva sa velikim izdacima domaćinstva za zdravstvo (veći od 10%) kao udio u ukupnim rashodima ili prihodima domaćinstva",
-                "Udio stanovništva sa velikim izdacima domaćinstva za zdravstvo (veći od 25%) kao udio u ukupnim rashodima ili prihodima domaćinstva",
-                ""
-              ]
-            },
-            "title": "Kategorija"
           },
           {
             "name": "Value",

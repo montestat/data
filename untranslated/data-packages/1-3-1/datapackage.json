@@ -12,31 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1_3_1_cat_1",
-                "1_3_1_cat_2",
-                "1_3_1_cat_3",
-                "1_3_1_cat_4",
-                "1_3_1_cat_5",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
