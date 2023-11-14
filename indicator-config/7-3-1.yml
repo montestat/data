@@ -11,6 +11,6 @@ indicator_number: '7.3.3'
 national_geographical_coverage: custom.country_name
 precision:
   - unit: data.total
-    - decimals: 2
+  - decimals: 2
 reporting_status: complete
 standalone: false

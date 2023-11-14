@@ -11,7 +11,7 @@ indicator_number: '3.8.2.a'
 national_geographical_coverage: custom.country_name
 precision:
   - unit: percentage
-    - decimals: 2
+  - decimals: 2
 reporting_status: complete
 standalone: false
 tags:

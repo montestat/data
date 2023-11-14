@@ -11,6 +11,6 @@ indicator_number: '17.6.1'
 national_geographical_coverage: custom.country_name
 precision:
   - unit: data.per_100_population
-    - decimals: 2
+  - decimals: 2
 reporting_status: complete
 standalone: false
