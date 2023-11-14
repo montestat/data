@@ -11,6 +11,6 @@ indicator_number: '16.2.2'
 national_geographical_coverage: custom.country_name
 precision:
   - unit: data.count
-    decimals: 2
+    - decimals: 2
 reporting_status: complete
 standalone: false
