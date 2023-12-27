@@ -50,8 +50,8 @@ source_next_release_4: Next release
 source_next_release_5: Next release
 source_next_release_6: Next release
 # A label describing information - the name of any organization associated with some provided data
-source_organisation_1: Organisation
-source_organisation_2: Organisation
+source_organisation_1: Source
+source_organisation_2: Instititution in charge
 source_organisation_3: Organisation
 source_organisation_4: Organisation
 source_organisation_5: Organisation

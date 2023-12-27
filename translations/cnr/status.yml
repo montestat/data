@@ -2,7 +2,7 @@ reporting_status: 'Status izvještavanja'
 overall_reporting_status: 'Generalni status izvještavanja'
 reported_online: 'Prijavljeni podaci'
 statistics_in_progress: 'Statistika u toku'
-exploring_data_sources: 'Prikupljanje podataka'
+exploring_data_sources: 'Nema podataka'
 not_applicable: 'Nije primjenljivo'
 # Describing a section where the status is reported for each goal
 status_by_goal: 'Status po ciljevima'
