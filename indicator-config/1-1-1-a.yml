@@ -17,6 +17,13 @@ standalone: false
 tags:
   - custom.national
 
+
+# footer_fields:
+#   - label: My field label
+#     value: My field content
+#   - label: My other field label
+#     value: My other field content
+
 # progress_status: not_available
 # progress_status: challenges_remain
 # progress_status: approaching_target
