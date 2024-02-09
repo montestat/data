@@ -35,7 +35,7 @@
           }
         ]
       },
-      "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
+      "title": "Nivo nacionalnog poštovanja radnih prava (sloboda udruživanja i kolektivno pregovaranje) na osnovu tekstualnih izvora Međunarodne organizacije rada (ILO) i nacionalnog zakonodavstva, prema polu i statusu migranata"
     },
     {
       "path": "7-3-1/data.csv",
@@ -70,7 +70,7 @@
           }
         ]
       },
-      "title": "Energy intensity measured in terms of primary energy and GDP"
+      "title": "Energetski intenzitet mjeren u smislu primarne energije i BDP-a"
     },
     {
       "path": "16-2-1/data.csv",
@@ -116,7 +116,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
+      "title": "Procenat djece uzrasta od 1 do 17 godina koja su doživjela bilo kakvo fizičko kažnjavanje i/ili psihološku agresiju od strane staratelja u posljednjih mjesec dana"
     },
     {
       "path": "16-9-1/data.csv",
@@ -151,7 +151,7 @@
           }
         ]
       },
-      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+      "title": "Udio djece ispod 5 godina starosti čije je rođenje registrovano kod organa nadležnog za građanske registre, po godinama"
     },
     {
       "path": "4-c-1/data.csv",
@@ -198,7 +198,7 @@
           }
         ]
       },
-      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
+      "title": "Procenat nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou obrazovanja"
     },
     {
       "path": "8-6-1/data.csv",
@@ -233,7 +233,7 @@
           }
         ]
       },
-      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
+      "title": "Udio mladih (starosne dobi 15-24) koji nijesu obuhvaćeni obrazovanjem, zapošljavanjem ili obukom"
     },
     {
       "path": "10-4-1/data.csv",
@@ -268,7 +268,7 @@
           }
         ]
       },
-      "title": "Labour share of GDP"
+      "title": "Učešće rada u BDP-u"
     },
     {
       "path": "17-18-3/data.csv",
@@ -314,7 +314,7 @@
           }
         ]
       },
-      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+      "title": "Broj zemalja sa nacionalnim statističkim planom koji je u potpunosti finansiran i koji se sprovodi, prema izvoru finansiranja"
     },
     {
       "path": "8-4-2/data.csv",
@@ -365,7 +365,7 @@
           }
         ]
       },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+      "title": "Domaća materijalna potrošnja (DMC) i DMC po glavi stanovnika, po BDP-u"
     },
     {
       "path": "16-a-1/data.csv",
@@ -411,7 +411,7 @@
           }
         ]
       },
-      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
+      "title": "Postojanje nezavisnih nacionalnih institucija za zaštitu ljudskih prava u skladu sa Pariškim načelima"
     },
     {
       "path": "12-3-1/data.csv",
@@ -447,7 +447,7 @@
           }
         ]
       },
-      "title": "(a) Food loss index and (b) food waste index"
+      "title": "(a) Indeks gubitka hrane i (b) indeks otpada od hrane"
     },
     {
       "path": "11-2-1-a/data.csv",
@@ -541,7 +541,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Broj zemalja koje usvajaju i primjenjuju nacionalne strategije za smanjenje rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa 2015-2030"
     },
     {
       "path": "2-4-1-a/data.csv",
@@ -635,7 +635,7 @@
           }
         ]
       },
-      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+      "title": "Udio žena reproduktivne dobi (starosti 15-49 godina) čija je potreba za planiranjem porodice zadovoljena modernim metodama"
     },
     {
       "path": "3-9-1/data.csv",
@@ -686,7 +686,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to household and ambient air pollution"
+      "title": "Stopa mortaliteta pripisana zagađenju vazduha u domaćinstvu i okolini"
     },
     {
       "path": "3-2-1/data.csv",
@@ -721,7 +721,7 @@
           }
         ]
       },
-      "title": "Under‑5 mortality rate"
+      "title": "Stopa smrtnosti djece ispod 5 godina"
     },
     {
       "path": "5-3-1/data.csv",
@@ -779,7 +779,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+      "title": "Udio žena starosne dobi od 20-24 godina koje su bile u braku ili u zajednici prije 15. godine i prije 18. godine"
     },
     {
       "path": "7-2-1/data.csv",
@@ -814,7 +814,7 @@
           }
         ]
       },
-      "title": "Renewable energy share in the total final energy consumption"
+      "title": "Udio obnovljive energije u ukupnoj konačnoj potrošnji energije"
     },
     {
       "path": "9-a-1/data.csv",
@@ -849,7 +849,7 @@
           }
         ]
       },
-      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
+      "title": "Ukupna zvanična međunarodna podrška (zvanična razvojna pomoć plus drugi zvanični tokovi) infrastrukturi"
     },
     {
       "path": "1-2-2/data.csv",
@@ -909,7 +909,7 @@
           }
         ]
       },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+      "title": "Udio muškaraca, žena i djece svih uzrasta koji žive u siromaštvu u svim svojim dimenzijama prema nacionalnim definicijama"
     },
     {
       "path": "8-10-1/data.csv",
@@ -958,7 +958,7 @@
           }
         ]
       },
-      "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
+      "title": "(a) Broj filijala poslovnih banaka na 100000 odraslih osoba (b) broj bankomata na 100000 odraslih osoba"
     },
     {
       "path": "6-5-1/data.csv",
@@ -1008,7 +1008,7 @@
           }
         ]
       },
-      "title": "Degree of integrated water resources management"
+      "title": "Stepen integrisanog upravljanja vodenim resursima"
     },
     {
       "path": "16-8-1/data.csv",
@@ -1071,7 +1071,7 @@
           }
         ]
       },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
+      "title": "Udio članova i prava glasa zemalja u razvoju u međunarodnim organizacijama"
     },
     {
       "path": "5-2-1/data.csv",
@@ -1106,7 +1106,7 @@
           }
         ]
       },
-      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+      "title": "Procenat žena i djevojaka koje su imale partnera od 15 godina i više koje su bile izložene fizičkom, seksualnom ili psihičkom nasilju od strane sadašnjeg ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema obliku nasilja i prema godinama"
     },
     {
       "path": "3-c-1/data.csv",
@@ -1171,7 +1171,7 @@
           }
         ]
       },
-      "title": "Health worker density and distribution"
+      "title": "Gustina i distribucija zdravstvenih radnika"
     },
     {
       "path": "8-5-2/data.csv",
@@ -1218,7 +1218,7 @@
           }
         ]
       },
-      "title": "Unemployment rate, by sex, age and persons with disabilities"
+      "title": "Stopa nezaposlenosti, prema polu, starosti i osobama sa invaliditetom"
     },
     {
       "path": "15-3-1/data.csv",
@@ -1253,7 +1253,7 @@
           }
         ]
       },
-      "title": "Proportion of land that is degraded over total land area"
+      "title": "Udio zemljišta koje je degradirano u ukupnoj površini zemljišta"
     },
     {
       "path": "15-a-1/data.csv",
@@ -1288,7 +1288,7 @@
           }
         ]
       },
-      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+      "title": "(a) Zvanična razvojna pomoć za očuvanje i održivo korišćenje biodiverziteta; i (b) ostvareni prihodi i mobilisana finansijska sredstva iz ekonomskih instrumenata relevantnih za biodiverzitet"
     },
     {
       "path": "3-2-2/data.csv",
@@ -1323,7 +1323,7 @@
           }
         ]
       },
-      "title": "Neonatal mortality rate"
+      "title": "Stopa smrtnosti novorođenčadi"
     },
     {
       "path": "14-5-1/data.csv",
@@ -1370,7 +1370,7 @@
           }
         ]
       },
-      "title": "Coverage of protected areas in relation to marine areas"
+      "title": "Pokrivenost zaštićenih područja u odnosu na morska područja"
     },
     {
       "path": "10-5-1/data.csv",
@@ -1417,7 +1417,7 @@
           }
         ]
       },
-      "title": "Financial Soundness Indicators"
+      "title": "Indikatori finansijske stabilnosti"
     },
     {
       "path": "6-5-2/data.csv",
@@ -1465,7 +1465,7 @@
           }
         ]
       },
-      "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
+      "title": "Proporcija prekograničnog sliva sa operativnim aranžmanom za vodnu saradnju"
     },
     {
       "path": "4-2-2/data.csv",
@@ -1511,7 +1511,7 @@
           }
         ]
       },
-      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+      "title": "Stopa učešća u organizovanom učenju (godinu dana prije zvaničnog uzrasta za ulazak u osnovno obrazovanje), po polu"
     },
     {
       "path": "3-9-3/data.csv",
@@ -1546,7 +1546,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to unintentional poisoning"
+      "title": "Stopa smrtnosti koja se pripisuje nenamjernom trovanju"
     },
     {
       "path": "5-5-1/data.csv",
@@ -1593,7 +1593,7 @@
           }
         ]
       },
-      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
+      "title": "Procenat mjesta koje imaju žene u (a) nacionalnim parlamentima i (b) lokalnim samoupravama"
     },
     {
       "path": "14-6-1/data.csv",
@@ -1628,7 +1628,7 @@
           }
         ]
       },
-      "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+      "title": "Stepen implementacije međunarodnih instrumenata za borbu protiv nelegalnog, neprijavljenog i neregulisanog ribolova"
     },
     {
       "path": "9-2-2/data.csv",
@@ -1663,7 +1663,7 @@
           }
         ]
       },
-      "title": "Manufacturing employment as a proportion of total employment"
+      "title": "Zaposlenost u proizvodnoj industriji kao udio ukupne zaposlenosti"
     },
     {
       "path": "17-3-2/data.csv",
@@ -1698,7 +1698,7 @@
           }
         ]
       },
-      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
+      "title": "Obim doznaka (u američkim dolarima) kao proporcija ukupnog BDP-a"
     },
     {
       "path": "3-a-1/data.csv",
@@ -1733,7 +1733,7 @@
           }
         ]
       },
-      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+      "title": "Dobno standardizovana prevalencija trenutne upotrebe duvana kod osoba u starosnoj dobi od 15 godina i starijih"
     },
     {
       "path": "12-4-1/data.csv",
@@ -1807,7 +1807,7 @@
           }
         ]
       },
-      "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
+      "title": "Broj stranka potpisnica međunarodnih multilateralnih sporazuma o opasnom otpadu i drugim hemikalijama, koje ispunjavaju obaveze koje su na sebe preuzele i obaveze dostavljanja informacija koje se traže na osnovu svakog od relevatnih sporazuma"
     },
     {
       "path": "2-2-1/data.csv",
@@ -1853,7 +1853,7 @@
           }
         ]
       },
-      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
+      "title": "Procenat djece mlađe od 5 godina koja: (a)\tzaostaju za dvije standardne devijacije (umjereni i teški oblik zaostajanja u rastu) (b) zaostaju za tri standardne devijacije (teški oblik zaostajanja u rastu) u odnosu na srednju vrijednost tjelesne visine za dati uzrast, po standardu SZO."
     },
     {
       "path": "5-a-1/data.csv",
@@ -1900,7 +1900,7 @@
           }
         ]
       },
-      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
+      "title": "Udio ukupnog poljoprivrednog stanovništva sa vlasničkim ili sigurnim pravima nad poljoprivrednim zemljištem, po polu; i (b) udio žena među vlasnicima ili nosiocima prava nad poljoprivrednim zemljištem, prema vrsti svojine"
     },
     {
       "path": "11-6-2/data.csv",
@@ -1954,7 +1954,7 @@
           }
         ]
       },
-      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+      "title": "Godišnji srednji nivoi finih suspendovanih čestica (npr. PM2.5 i PM10) u gradovima (ponderisano stanovništvo)"
     },
     {
       "path": "6-3-2/data.csv",
@@ -2003,7 +2003,7 @@
           }
         ]
       },
-      "title": "Proportion of bodies of water with good ambient water quality"
+      "title": "Udio vodenih tijela sa dobrim kvalitetom okolne vode"
     },
     {
       "path": "6-3-1/data.csv",
@@ -2051,7 +2051,7 @@
           }
         ]
       },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
+      "title": "Udio kućnih i industrijskih otpadnih voda koje se bezbjedno tretiraju"
     },
     {
       "path": "15-4-1/data.csv",
@@ -2086,7 +2086,7 @@
           }
         ]
       },
-      "title": "Coverage by protected areas of important sites for mountain biodiversity"
+      "title": "Pokrivenost zaštićenim područjima važnih lokacija za biodiverzitet planina"
     },
     {
       "path": "2-3-1/data.csv",
@@ -2196,7 +2196,7 @@
           }
         ]
       },
-      "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
+      "title": "Obim proizvodnje po radnoj jedinici po klasama veličine poljoprivrednih/stočarskih/šumarskih preduzeća"
     },
     {
       "path": "9-c-1/data.csv",
@@ -2244,7 +2244,7 @@
           }
         ]
       },
-      "title": "Proportion of population covered by a mobile network, by technology"
+      "title": "Procenat stanovništva pokrivenog mobilnom mrežom, prema tehnologiji"
     },
     {
       "path": "17-4-1/data.csv",
@@ -2279,7 +2279,7 @@
           }
         ]
       },
-      "title": "Debt service as a proportion of exports of goods and services"
+      "title": "Otplata duga kao proporcija izvoza roba i usluga"
     },
     {
       "path": "3-7-2-a/data.csv",
@@ -2386,7 +2386,7 @@
           }
         ]
       },
-      "title": "Proportion of small-scale industries in total industry value added"
+      "title": "Udio malih industrijskih preduzeća u ukupnoj industrijskoj vrijednosti dodatoj finansijskim uslugama, uključujući povoljne kredite, i njihovu integraciju u lance vrijednosti i tržišta"
     },
     {
       "path": "16-2-2/data.csv",
@@ -2421,7 +2421,7 @@
           }
         ]
       },
-      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+      "title": "Broj žrtava trgovine ljudima na 100 000 stanovnika, prema polu, starosti i obliku eksploatacije"
     },
     {
       "path": "9-1-2/data.csv",
@@ -2471,7 +2471,7 @@
           }
         ]
       },
-      "title": "Passenger and freight volumes, by mode of transport"
+      "title": "Obim putničkog i teretnog saobraćaja, po vidu prevoza"
     },
     {
       "path": "8-7-1/data.csv",
@@ -2517,7 +2517,7 @@
           }
         ]
       },
-      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
+      "title": "Udio i broj djece uzrasta 5-17 godina angažovane na dječijem radu, po polu i starosti"
     },
     {
       "path": "16-3-2/data.csv",
@@ -2552,7 +2552,7 @@
           }
         ]
       },
-      "title": "Unsentenced detainees as a proportion of overall prison population"
+      "title": "Neosuđeni pritvorenici kao udio ukupne zatvorske populacije"
     },
     {
       "path": "11-6-1/data.csv",
@@ -2631,7 +2631,7 @@
           }
         ]
       },
-      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
+      "title": "Procenat urbanog čvrstog otpada koji se redovno prikuplja i koji se adekvatno konačno odlaže u odnosu na ukupni otpad koji nastaje u gradu"
     },
     {
       "path": "17-10-1/data.csv",
@@ -2678,7 +2678,7 @@
           }
         ]
       },
-      "title": "Worldwide weighted tariff-average"
+      "title": "Svjetski ponderisani tarifni prosjek"
     },
     {
       "path": "3-3-3/data.csv",
@@ -2714,7 +2714,7 @@
           }
         ]
       },
-      "title": "Malaria incidence per 1,000 population"
+      "title": "Incidencija malarije na 1000 stanovnika"
     },
     {
       "path": "6-4-1/data.csv",
@@ -2763,7 +2763,7 @@
           }
         ]
       },
-      "title": "Change in water-use efficiency over time"
+      "title": "Promjena efikasnosti korišćenja vode tokom vremena"
     },
     {
       "path": "16-1-4/data.csv",
@@ -2821,7 +2821,7 @@
           }
         ]
       },
-      "title": "Proportion of population that feel safe walking alone around the area they live"
+      "title": "Procenat stanovništva koji se osjeća bezbjedno šetajući samostalno po području u kojem živi"
     },
     {
       "path": "15-5-1/data.csv",
@@ -2856,7 +2856,7 @@
           }
         ]
       },
-      "title": "Red List Index"
+      "title": "Indeks crvene liste"
     },
     {
       "path": "9-5-1/data.csv",
@@ -2892,7 +2892,7 @@
           }
         ]
       },
-      "title": "Research and development expenditure as a proportion of GDP"
+      "title": "Potrošnja na istraživanje i razvoj kao udio BDP-a"
     },
     {
       "path": "8-5-1/data.csv",
@@ -2927,7 +2927,7 @@
           }
         ]
       },
-      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+      "title": "Prosječne zarade zaposlenih po satu, po polu, starosti, zanimanju i osobama sa invaliditetom"
     },
     {
       "path": "11-7-1/data.csv",
@@ -2962,7 +2962,7 @@
           }
         ]
       },
-      "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+      "title": "Prosječni udio izgrađenog područja gradova koji je otvoren prostor za javnu upotrebu za sve, prema polu, starosti i osobama s invaliditetom"
     },
     {
       "path": "3-8-2-a/data.csv",
@@ -3044,7 +3044,7 @@
           }
         ]
       },
-      "title": "Proportion of individuals using the Internet"
+      "title": "Udio osoba koje koriste internet"
     },
     {
       "path": "9-2-1/data.csv",
@@ -3091,7 +3091,7 @@
           }
         ]
       },
-      "title": "Manufacturing value added as a proportion of GDP and per capita"
+      "title": "Proizvodna vrijednost dodata kao udio BDP-a i po glavi stanovnika"
     },
     {
       "path": "8-10-2/data.csv",
@@ -3126,7 +3126,7 @@
           }
         ]
       },
-      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+      "title": "Procenat odraslih (15 godina i stariji) sa računom u banci ili drugoj finansijskoj instituciji ili kod pružaoca usluga mobilnog novca"
     },
     {
       "path": "16-5-2/data.csv",
@@ -3161,7 +3161,7 @@
           }
         ]
       },
-      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
+      "title": "Udio preduzeća koja su imala barem jedan kontakt sa javnim službenikom i koja su platila mito javnom službeniku ili su im ti javni službenici tražili mito tokom prethodnih 12 mjeseci"
     },
     {
       "path": "16-3-1/data.csv",
@@ -3219,7 +3219,7 @@
           }
         ]
       },
-      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+      "title": "Procenat žrtava nasilja u prethodnih 12 mjeseci koje su prijavile svoju viktimizaciju nadležnim organima ili drugim zvanično priznatim mehanizmima za rješavanje sukoba"
     },
     {
       "path": "15-2-1/data.csv",
@@ -3269,7 +3269,7 @@
           }
         ]
       },
-      "title": "Progress towards sustainable forest management"
+      "title": "Napredak u pravcu održivog upravljanja šumama"
     },
     {
       "path": "4-3-1/data.csv",
@@ -3328,7 +3328,7 @@
           }
         ]
       },
-      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+      "title": "Stopa učestvovanja mladih i odraslih u formalnom i neformalnom obrazovanju i osposobljavanju u prethodnih 12 mjeseci, po polu"
     },
     {
       "path": "4-4-1/data.csv",
@@ -3395,7 +3395,7 @@
           }
         ]
       },
-      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+      "title": "Udio mladih i odraslih osoba koje imaju informaciono-komunikacione vještine (ICT), prema vrsti vještine"
     },
     {
       "path": "3-8-1-a/data.csv",
@@ -3476,7 +3476,7 @@
           }
         ]
       },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+      "title": "Pretplate na fiksni širokopojasni internet na 100 stanovnika, po brzini"
     },
     {
       "path": "12-4-2/data.csv",
@@ -3527,7 +3527,7 @@
           }
         ]
       },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+      "title": "(a) Opasni otpad proizveden po glavi stanovnika, udio prerađenog opasnog otpada i po vrsti prerade"
     },
     {
       "path": "1-1-1-a/data.csv",
@@ -3625,7 +3625,7 @@
           }
         ]
       },
-      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+      "title": "Potrošnja alkohola po glavi stanovnika (starosti od 15 godina i više) u toku kalendarske godine u litrima čistog alkohola"
     },
     {
       "path": "17-18-2/data.csv",
@@ -3660,7 +3660,7 @@
           }
         ]
       },
-      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
+      "title": "Broj zemalja koje imaju domaće zakonodavstvo o statistici koje je usklađeno sa Osnovnim načelima zvanične statistike"
     },
     {
       "path": "6-b-1/data.csv",
@@ -3711,7 +3711,7 @@
           }
         ]
       },
-      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
+      "title": "Udio lokalnih administrativnih jedinica sa utvrđenim i operativnim politikama i procedurama za učešće lokalnih zajednica u upravljanju vodama i kanalizacijom"
     },
     {
       "path": "10-7-4/data.csv",
@@ -3746,7 +3746,7 @@
           }
         ]
       },
-      "title": "Proportion of the population who are refugees, by country of origin"
+      "title": "Procenat stanovništva koji su izbjeglice, prema zemlji porijekla"
     },
     {
       "path": "10-b-1/data.csv",
@@ -3781,7 +3781,7 @@
           }
         ]
       },
-      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+      "title": "Ukupni tokovi resursa za razvoj, od strane primaoca i zemalja donatora i vrste protoka (npr. Zvanična razvojna pomoć, direktna strana ulaganja i drugi tokovi)"
     },
     {
       "path": "6-1-1/data.csv",
@@ -3816,7 +3816,7 @@
           }
         ]
       },
-      "title": "Proportion of population using safely managed drinking water services"
+      "title": "Procenat stanovništva koji koristi bezbjedne servise za upravljane uslugama pijaće vode"
     },
     {
       "path": "3-4-1/data.csv",
@@ -3851,7 +3851,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+      "title": "Stopa smrtnosti koja se pripisuje kardiovaskularnim bolestima, raku, dijabetesu ili hroničnoj respiratornoj bolesti"
     },
     {
       "path": "10-1-1/data.csv",
@@ -3886,7 +3886,7 @@
           }
         ]
       },
-      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+      "title": "Stope rasta potrošnje domaćinstava ili prihoda po glavi stanovnika među donjih 40 procenata stanovništva i ukupnog stanovništva"
     },
     {
       "path": "1-3-1-a/data.csv",
@@ -3971,7 +3971,7 @@
           }
         ]
       },
-      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+      "title": "Prevalencija umjerene ili teške nesigurnosti hrane u populaciji, na osnovu skale iskustva u nebezbjednosti hrane (FIES)"
     },
     {
       "path": "7-1-2/data.csv",
@@ -4021,7 +4021,7 @@
           }
         ]
       },
-      "title": "Proportion of population with primary reliance on clean fuels and technology"
+      "title": "Procenat stanovništva koje se primarno oslanja na čista goriva i tehnologije"
     },
     {
       "path": "3-1-2/data.csv",
@@ -4067,7 +4067,7 @@
           }
         ]
       },
-      "title": "Proportion of births attended by skilled health personnel"
+      "title": "Procenat porođaja kojima je prisustvovalo obučeno zdravstveno osoblje"
     },
     {
       "path": "1-2-1/data.csv",
@@ -4130,7 +4130,7 @@
           }
         ]
       },
-      "title": "Proportion of population living below the national poverty line, by sex and age"
+      "title": "Procenat stanovništva koje živi ispod nacionalne granice siromaštva, po polu i starosti"
     },
     {
       "path": "16-10-2/data.csv",
@@ -4175,7 +4175,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
+      "title": "Broj zemalja koje usvajaju i primjenjuju ustavne, zakonske i/ili političke garancije za javni pristup informacijama"
     },
     {
       "path": "17-19-2/data.csv",
@@ -4234,7 +4234,7 @@
           }
         ]
       },
-      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
+      "title": "Udio zemalja koje su a) obavile makar jedan popis stanovništva i domaćinstava u prošlih deset godina, i b) ostvarile 100-procentni upis u matične knjige rođenih i 80-procentni upis u matične knjige umrlih"
     },
     {
       "path": "4-2-1-a/data.csv",
@@ -4327,7 +4327,7 @@
           }
         ]
       },
-      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+      "title": "Udio važnih lokaliteta za kopneni i slatkovodni biodiverzitet koji su pokriveni zaštićenim područjima, prema tipu ekosistema"
     },
     {
       "path": "16-1-1/data.csv",
@@ -4374,7 +4374,7 @@
           }
         ]
       },
-      "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
+      "title": "Broj žrtava namjernog ubistva na 100 000 stanovnika, prema polu i starosti"
     },
     {
       "path": "6-a-1/data.csv",
@@ -4425,7 +4425,7 @@
           }
         ]
       },
-      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
+      "title": "Iznos zvanične razvojne pomoći u vezi sa vodom i kanalizacijom koja je dio plana potrošnje kojim koordinira vlada"
     },
     {
       "path": "4-5-1/data.csv",
@@ -4496,7 +4496,7 @@
           }
         ]
       },
-      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+      "title": "Indeksi pariteta (žene/muškarci, ruralni/urbani, najniži/najviši kvintil bogatstva i drugi kao što su status invalidnosti, autohtoni narodi i ugroženi sukobima, kako podaci postanu dostupni) za sve indikatore obrazovanja na ovoj listi koji se mogu razdvojiti"
     },
     {
       "path": "17-9-1/data.csv",
@@ -4531,7 +4531,7 @@
           }
         ]
       },
-      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
+      "title": "Dolarska vrijednost finansijske i tehničke pomoći (kroz saradnju sjever-jug, jug-jug i trouglastu saradnju) posvećene zemljama u razvoju"
     },
     {
       "path": "2-2-2/data.csv",
@@ -4577,7 +4577,7 @@
           }
         ]
       },
-      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+      "title": "Procenat djece mlađe od 5 godina koja: (a)\tzaostaju za dvije standardne devijacije (umjereni i teški oblik zaostajanja u rastu) (b) zaostaju za tri standardne devijacije (teški oblik zaostajanja u rastu) u odnosu na srednju vrijednost tjelesne težine u odnosu na visinu, po standardu SZO."
     },
     {
       "path": "7-b-1/data.csv",
@@ -4612,7 +4612,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+      "title": "Instalirani kapaciteti za proizvodnju obnovljive energije u zemljama u razvoju (u vatima po glavi stanovnika)"
     },
     {
       "path": "15-4-2/data.csv",
@@ -4647,7 +4647,7 @@
           }
         ]
       },
-      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
+      "title": "Indeks zelenog pokrivača planine"
     },
     {
       "path": "2-a-1/data.csv",
@@ -4682,7 +4682,7 @@
           }
         ]
       },
-      "title": "The agriculture orientation index for government expenditures"
+      "title": "Indeks poljoprivredne orijentacije za državne rashode"
     },
     {
       "path": "4-1-1/data.csv",
@@ -4754,7 +4754,7 @@
           }
         ]
       },
-      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+      "title": "Udio djece i mladih: (a) u razredima 2/3; (B) na kraju osnovne škole; i (c) na kraju niže srednje škole koja postižu najmanje minimalni nivo poznavanja iz (i) čitanja i (ii) matematike, po polu"
     },
     {
       "path": "3-3-1-a/data.csv",
@@ -4825,7 +4825,7 @@
           }
         ]
       },
-      "title": "Suicide mortality rate"
+      "title": "Stopa smrtnosti od samoubistava"
     },
     {
       "path": "10-3-1/data.csv",
@@ -4883,7 +4883,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "Procenat stanovništva koje je prijavilo da se lično osjećalo diskriminisano ili uznemiravano u prethodnih 12 mjeseci po osnovu diskriminacije zabranjene međunarodnim pravom o ljudskim pravima"
     },
     {
       "path": "8-9-1/data.csv",
@@ -4918,7 +4918,7 @@
           }
         ]
       },
-      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
+      "title": "Fatalne i nefatalne povrede na radu na 100 000 radnika, prema polu i migrantskom statusu"
     },
     {
       "path": "8-a-1/data.csv",
@@ -4953,7 +4953,7 @@
           }
         ]
       },
-      "title": "Aid for Trade commitments and disbursements"
+      "title": "Pomoć za trgovinske obaveze i isplate"
     },
     {
       "path": "8-1-1/data.csv",
@@ -4987,7 +4987,7 @@
           }
         ]
       },
-      "title": "Annual growth rate of real GDP per capita"
+      "title": "Godišnja stopa rasta BDP-a po glavi stanovnika"
     },
     {
       "path": "9-4-1/data.csv",
@@ -5034,7 +5034,7 @@
           }
         ]
       },
-      "title": "CO2 emission per unit of value added"
+      "title": "Emisija CO2 po jedinici dodate vrijednosti"
     },
     {
       "path": "16-6-1/data.csv",
@@ -5142,7 +5142,7 @@
           }
         ]
       },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+      "title": "Udio primarnih budžetskih rashoda u prvobitno usvojenom budžetu, po sektoru (ili po kodovima budžetske klasifikacije ili slično)"
     },
     {
       "path": "5-5-2/data.csv",
@@ -5189,7 +5189,7 @@
           }
         ]
       },
-      "title": "Proportion of women in managerial positions"
+      "title": "Udio žena na rukovodećim pozicijama"
     },
     {
       "path": "2-5-2/data.csv",
@@ -5224,7 +5224,7 @@
           }
         ]
       },
-      "title": "Proportion of local breeds classified as being at risk of extinction"
+      "title": "Udeo lokalnih rasa koje su klasifikovane kao ugrožene izumiranjem"
     },
     {
       "path": "11-1-1/data.csv",
@@ -5259,7 +5259,7 @@
           }
         ]
       },
-      "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
+      "title": "Procenat gradskog stanovništva koje živi u sirotinjskim četvrtima, neformalnim naseljima ili neadekvatnim stanovanjima"
     },
     {
       "path": "3-1-1/data.csv",
@@ -5294,7 +5294,7 @@
           }
         ]
       },
-      "title": "Maternal mortality ratio"
+      "title": "Stopa smrtnosti majki"
     },
     {
       "path": "7-1-1/data.csv",
@@ -5340,7 +5340,7 @@
           }
         ]
       },
-      "title": "Proportion of population with access to electricity"
+      "title": "Udio stanovništva koji ima pristup električnoj energiji"
     },
     {
       "path": "15-1-1/data.csv",
@@ -5375,7 +5375,7 @@
           }
         ]
       },
-      "title": "Forest area as a proportion of total land area"
+      "title": "Površina šuma kao udio ukupne površine zemljišta"
     },
     {
       "path": "12-5-1/data.csv",
@@ -5422,7 +5422,7 @@
           }
         ]
       },
-      "title": "National recycling rate, tons of material recycled"
+      "title": "Nacionalna stopa recikliranja, tone recikliranog materijala"
     },
     {
       "path": "12-b-1/data.csv",
@@ -5467,7 +5467,7 @@
           }
         ]
       },
-      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
+      "title": "Implementacija standardnih računovodstvenih alata za praćenje ekonomskih i ekoloških aspekata održivosti turizma"
     },
     {
       "path": "8-2-1/data.csv",
@@ -5502,7 +5502,7 @@
           }
         ]
       },
-      "title": "Annual growth rate of real GDP per employed person"
+      "title": "Godišnja stopa rasta realnog BDP-a po zapošljenom licu"
     },
     {
       "path": "3-3-2/data.csv",
@@ -5538,7 +5538,7 @@
           }
         ]
       },
-      "title": "Tuberculosis incidence per 100,000 population"
+      "title": "Incidencija tuberkuloze na 100000 stanovnika"
     },
     {
       "path": "1-5-1/data.csv",
@@ -5585,7 +5585,7 @@
           }
         ]
       },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+      "title": "Broj umrlih, nestalih i direktno pogođenih osoba pripisanih katastrofama na 100 000 stanovnika"
     },
     {
       "path": "6-6-1/data.csv",
@@ -5620,7 +5620,7 @@
           }
         ]
       },
-      "title": "Change in the extent of water-related ecosystems over time"
+      "title": "Promjena obima ekosistema povezanih sa vodom tokom vremena"
     },
     {
       "path": "10-6-1/data.csv",
@@ -5687,7 +5687,7 @@
           }
         ]
       },
-      "title": "Proportion of members and voting rights of developing countries in international organizations"
+      "title": "Udio članova i prava glasa zemalja u razvoju u međunarodnim organizacijama"
     },
     {
       "path": "1-4-1/data.csv",
@@ -5747,7 +5747,7 @@
           }
         ]
       },
-      "title": "Proportion of population living in households with access to basic services"
+      "title": "Procenat stanovništva koje živi u domaćinstvima sa pristupom osnovnim potrebama"
     },
     {
       "path": "3-d-1/data.csv",
@@ -5794,7 +5794,7 @@
           }
         ]
       },
-      "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
+      "title": "Kapacitet međunarodnih zdravstvenih propisa (IHR) i spremnost za hitne zdravstvene situacije"
     },
     {
       "path": "6-2-1/data.csv",
@@ -5854,7 +5854,7 @@
           }
         ]
       },
-      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
+      "title": "Procenat stanovništva koji koristi (a) bezbjedno upravljane sanitarne usluge i (b) objekat za pranje ruku sapunom i vodom"
     },
     {
       "path": "9-5-2/data.csv",
@@ -5889,7 +5889,7 @@
           }
         ]
       },
-      "title": "Researchers (in full-time equivalent) per million inhabitants"
+      "title": "Broj istraživača (sa punim radnim vremenom) na milion stanovnika"
     },
     {
       "path": "16-b-1/data.csv",
@@ -5947,7 +5947,7 @@
           }
         ]
       },
-      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+      "title": "Udio stanovništva koje je prijavilo da se lično osjećalo diskriminisano ili uznemiravano u prethodnih 12 mjeseci na osnovu diskriminacije zabranjene međunarodnim pravom o ljudskim pravima"
     },
     {
       "path": "8-3-1/data.csv",
@@ -5971,7 +5971,7 @@
           }
         ]
       },
-      "title": "Proportion of informal employment in total employment, by sector and sex"
+      "title": "Udio neformalne zaposlenosti u ukupnoj zaposlenosti, po sektoru i polu"
     },
     {
       "path": "5-2-2/data.csv",
@@ -5995,7 +5995,7 @@
           }
         ]
       },
-      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+      "title": "Procenat žena i djevojčica od 15 godina i više koje su bile izložene seksualnom nasilju od strane osoba koje nisu intimni partner u prethodnih 12 mjeseci, prema starosti i mjestu događaja"
     },
     {
       "path": "4-b-1/data.csv",
@@ -6019,7 +6019,7 @@
           }
         ]
       },
-      "title": "Volume of official development assistance flows for scholarships by sector and type of study"
+      "title": "Obim tokova zvanične razvojne pomoći za stipendije po sektoru i vrsti studija"
     },
     {
       "path": "16-2-3/data.csv",
@@ -6043,7 +6043,7 @@
           }
         ]
       },
-      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
+      "title": "Procenat mladih žena i muškaraca starosti 18–29 godina koji su doživjeli seksualno nasilje do 18 godina"
     },
     {
       "path": "5-b-1/data.csv",
@@ -6067,7 +6067,7 @@
           }
         ]
       },
-      "title": "Proportion of individuals who own a mobile telephone, by sex"
+      "title": "Procenat pojedinaca koji posjeduju mobilni telefon, prema polu"
     },
     {
       "path": "15-c-1/data.csv",
@@ -6091,7 +6091,7 @@
           }
         ]
       },
-      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
+      "title": "Udio divljih životinja kojima se trguje i koje su bile krivolovljene ili se njima ilegalno trgovalo"
     },
     {
       "path": "5-c-1/data.csv",
@@ -6115,7 +6115,7 @@
           }
         ]
       },
-      "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
+      "title": "Procenat zemalja sa sistemima za praćenje i izdvajanje javnih sredstava za rodnu ravnopravnost i osnaživanje žena"
     },
     {
       "path": "1-b-1/data.csv",
@@ -6139,7 +6139,7 @@
           }
         ]
       },
-      "title": "Pro-poor public social spending"
+      "title": "Javna socijalna potrošnja u korist siromašnih"
     },
     {
       "path": "17-1-2/data.csv",
@@ -6163,7 +6163,7 @@
           }
         ]
       },
-      "title": "Proportion of domestic budget funded by domestic taxes"
+      "title": "Udio domaćeg budžeta koji se finansira domaćim porezima"
     },
     {
       "path": "16-4-1/data.csv",
@@ -6187,7 +6187,7 @@
           }
         ]
       },
-      "title": "Total value of inward and outward illicit financial flows (in current United States dollars)"
+      "title": "Ukupna vrijednost ulaznih i spoljnih nezakonitih finansijskih tokova (u tekućim američkim dolarima)"
     },
     {
       "path": "14-b-1/data.csv",
@@ -6211,7 +6211,7 @@
           }
         ]
       },
-      "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
+      "title": "Stepen primjene pravnog/regulatornog/političkog/institucionalnog okvira koji priznaje i štiti prava pristupa za malo ribarstvo"
     },
     {
       "path": "17-14-1/data.csv",
@@ -6235,7 +6235,7 @@
           }
         ]
       },
-      "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
+      "title": "Broj zemalja sa uspostavljenim mehanizmima za poboljšanje koherentnosti politika održivog razvoja"
     },
     {
       "path": "11-b-1/data.csv",
@@ -6259,7 +6259,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Broj zemalja koje usvajaju i provode nacionalne strategije za smanjenje rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa 2015-2030"
     },
     {
       "path": "3-b-3/data.csv",
@@ -6283,7 +6283,7 @@
           }
         ]
       },
-      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+      "title": "Udio zdravstvenih ustanova koje imaju osnovni set relevantnih esencijalnih ljekova dostupnih i pristupačnih na održivoj osnovi"
     },
     {
       "path": "1-1-1/data.csv",
@@ -6307,7 +6307,7 @@
           }
         ]
       },
-      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+      "title": "Udio stanovništva ispod međunarodne linije siromaštva, po polu, starosti, radnom statusu i geografskoj lokaciji (urbana/ruralna)"
     },
     {
       "path": "2-a-2/data.csv",
@@ -6331,7 +6331,7 @@
           }
         ]
       },
-      "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
+      "title": "Ukupni zvanični tokovi (zvanična razvojna pomoć plus drugi zvanični tokovi) u sektoru poljoprivrede"
     },
     {
       "path": "5-6-1/data.csv",
@@ -6355,7 +6355,7 @@
           }
         ]
       },
-      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+      "title": "Procenat žena starosti od 15 do 49 godina koje donose sopstvene i informisane odluke u vezi sa seksualnim odnosima, upotrebom kontraceptiva i reproduktivnom zdravstvenom zaštitom"
     },
     {
       "path": "3-3-1/data.csv",
@@ -6379,7 +6379,7 @@
           }
         ]
       },
-      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+      "title": "Broj HIV infekcija u odnosu na 1000 neinficiranih, po polu, starosnoj dobi i ključnim grupama populacije"
     },
     {
       "path": "3-3-4/data.csv",
@@ -6403,7 +6403,7 @@
           }
         ]
       },
-      "title": "Hepatitis B incidence per 100,000 population"
+      "title": "Incidencija hepatitisa B na 100000 stanovnika"
     },
     {
       "path": "2-5-1/data.csv",
@@ -6427,7 +6427,7 @@
           }
         ]
       },
-      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
+      "title": "Broj biljnih i životinjskih genetičkih resursa za hranu i poljoprivredu osiguranih u srednjoročnim ili dugoročnim objektima za konzervaciju"
     },
     {
       "path": "2-1-1/data.csv",
@@ -6451,7 +6451,7 @@
           }
         ]
       },
-      "title": "Prevalence of undernourishment"
+      "title": "Prevalencija pothranjenosti"
     },
     {
       "path": "15-9-1/data.csv",
@@ -6475,7 +6475,7 @@
           }
         ]
       },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
+      "title": "(a) Broj zemalja koje su postavile nacionalne ciljeve u skladu sa ili sličnim Cilju 2 za biodiverzitet iz Aičija iz Strateškog plana za biodiverzitet 2011–2020 u svojim nacionalnim strategijama i akcionim planovima za biodiverzitet i napretku koji je prijavljen ka ovim ciljevima; i (b) integraciju biodiverziteta u nacionalne sisteme računovodstva i izveštavanja, definisane kao implementacija Sistema ekološko-ekonomskog računovodstva"
     },
     {
       "path": "10-c-1/data.csv",
@@ -6499,7 +6499,7 @@
           }
         ]
       },
-      "title": "Remittance costs as a proportion of the amount remitted"
+      "title": "Troškovi doznake kao proporcija doznačenog iznosa"
     },
     {
       "path": "11-4-1/data.csv",
@@ -6523,7 +6523,7 @@
           }
         ]
       },
-      "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+      "title": "Ukupni izdaci po glavi stanovnika za očuvanje, zaštitu i očuvanje cjelokupnog kulturnog i prirodnog nasljeđa, prema izvoru finansiranja (javni, privatni), vrsti baštine (kulturno, prirodno) i nivou vlasti (nacionalna, regionalna i lokalna/opštinska)"
     },
     {
       "path": "10-7-1/data.csv",
@@ -6547,7 +6547,7 @@
           }
         ]
       },
-      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
+      "title": "Troškovi zapošljavanja koje snosi zaposleni kao proporcija mjesečnog prihoda zarađenog u zemlji odredišta"
     },
     {
       "path": "8-4-1/data.csv",
@@ -6571,7 +6571,7 @@
           }
         ]
       },
-      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
+      "title": "Materijalni otisak, materijalni otisak po glavi stanovnika i materijalni otisak po BDP-u"
     },
     {
       "path": "8-8-1/data.csv",
@@ -6595,7 +6595,7 @@
           }
         ]
       },
-      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+      "title": "Fatalne i nefatalne povrede na radu na 100 000 radnika, prema polu i migrantskom statusu"
     },
     {
       "path": "17-2-1/data.csv",
@@ -6619,7 +6619,7 @@
           }
         ]
       },
-      "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)"
+      "title": "Neto zvanična razvojna pomoć, ukupna i po manje razvijenim zemljama, kao proporcija u bruto nacionalnom dohotku donatora (BND) Komiteta za razvojnu pomoć Organizacije za ekonomsku saradnju i razvoj (OECD)"
     },
     {
       "path": "13-2-1/data.csv",
@@ -6643,7 +6643,7 @@
           }
         ]
       },
-      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "Broj zemalja s nacionalno utvrđenim doprinosima, dugoročnim strategijama, nacionalnim planovima adaptacije, strategijama kako je navedeno u komunikacijama o adaptaciji i nacionalnim komunikacijama"
     },
     {
       "path": "11-3-2/data.csv",
@@ -6667,7 +6667,7 @@
           }
         ]
       },
-      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
+      "title": "Udio gradova sa strukturom direktnog učešća civilnog društva u urbanističkom planiranju i upravljanju koji funkcionišu redovno i demokratski"
     },
     {
       "path": "17-13-1/data.csv",
@@ -6691,7 +6691,7 @@
           }
         ]
       },
-      "title": "Macroeconomic Dashboard"
+      "title": "Makroekonomska kontrolna tabla"
     },
     {
       "path": "14-4-1/data.csv",
@@ -6715,7 +6715,7 @@
           }
         ]
       },
-      "title": "Proportion of fish stocks within biologically sustainable levels"
+      "title": "Udio ribljeg fonda unutar biološki održivog nivoa"
     },
     {
       "path": "10-a-1/data.csv",
@@ -6739,7 +6739,7 @@
           }
         ]
       },
-      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
+      "title": "Udio tarifnih linija koje se primjenjuju na uvoz iz najmanje razvijenih zemalja i zemalja u razvoju sa nultom tarifom"
     },
     {
       "path": "4-1-2/data.csv",
@@ -6763,7 +6763,7 @@
           }
         ]
       },
-      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+      "title": "Stopa završetka (osnovno obrazovanje, niže srednje obrazovanje, više srednje obrazovanje)"
     },
     {
       "path": "6-4-2/data.csv",
@@ -6787,7 +6787,7 @@
           }
         ]
       },
-      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+      "title": "Nivo vodenog stresa: povlačenje slatke vode kao proporcija raspoloživih slatkovodnih resursa"
     },
     {
       "path": "17-17-1/data.csv",
@@ -6811,7 +6811,7 @@
           }
         ]
       },
-      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
+      "title": "Iznos u američkim dolarima posvećen javno-privatnim partnerstvima za infrastrukturu"
     },
     {
       "path": "17-5-1/data.csv",
@@ -6835,7 +6835,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+      "title": "Broj zemalja koje usvajaju i sprovode režime promocije investicija za zemlje u razvoju, uključujući manje razvijene zemlje"
     },
     {
       "path": "2-c-1/data.csv",
@@ -6859,7 +6859,7 @@
           }
         ]
       },
-      "title": "Indicator of food price anomalies"
+      "title": "Indikator anomalija cijena hrane"
     },
     {
       "path": "3-8-1/data.csv",
@@ -6883,7 +6883,7 @@
           }
         ]
       },
-      "title": "Coverage of essential health services"
+      "title": "Pokrivenost osnovnih zdravstvenih usluga"
     },
     {
       "path": "14-7-1/data.csv",
@@ -6907,7 +6907,7 @@
           }
         ]
       },
-      "title": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries"
+      "title": "Održivo ribarstvo kao udio BDP-a u malim ostrvskim državama u razvoju, manje razvijenim zemljama i svim zemljama"
     },
     {
       "path": "17-19-1/data.csv",
@@ -6931,7 +6931,7 @@
           }
         ]
       },
-      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
+      "title": "Dolarska vrijednost svih resursa stavljenih na raspolaganje za jačanje statističkih kapaciteta u zemljama u razvoju"
     },
     {
       "path": "16-7-2/data.csv",
@@ -6955,7 +6955,7 @@
           }
         ]
       },
-      "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
+      "title": "Udio stanovništva koji vjeruje da je donošenje odluka inkluzivno i odgovorno, prema polu, starosti, invalidnosti i grupi stanovništva"
     },
     {
       "path": "9-1-1/data.csv",
@@ -6979,7 +6979,7 @@
           }
         ]
       },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road"
+      "title": "Procenat seoskog stanovništva koje živi u krugu od 2 km od puta tokom svih godišnjih doba"
     },
     {
       "path": "8-b-1/data.csv",
@@ -7003,7 +7003,7 @@
           }
         ]
       },
-      "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+      "title": "Postojanje razvijene i operacionalizovane nacionalne strategije za zapošljavanje mladih, kao posebne strategije ili kao dijela nacionalne strategije zapošljavanja"
     },
     {
       "path": "4-6-1/data.csv",
@@ -7027,7 +7027,7 @@
           }
         ]
       },
-      "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
+      "title": "Proporcija stanovništva u datoj starosnoj grupi koja postiže barem fiksni nivo znanja u funkcionalnoj (a) pismenosti i (b) matematičkim vještinama, prema polu"
     },
     {
       "path": "3-5-1/data.csv",
@@ -7051,7 +7051,7 @@
           }
         ]
       },
-      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+      "title": "Pokrivenost intervencija liječenja (farmakoloških, psihosocijalnih i usluga rehabilitacije i naknadne njege) za poremećaje povezane sa upotrebom supstanci"
     },
     {
       "path": "17-16-1/data.csv",
@@ -7075,7 +7075,7 @@
           }
         ]
       },
-      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
+      "title": "Broj zemalja koje izvještavaju o napretku u okvirima za praćenje efektivnosti razvoja sa više zainteresovanih strana koji podržavaju postizanje ciljeva održivog razvoja"
     },
     {
       "path": "9-3-2/data.csv",
@@ -7099,7 +7099,7 @@
           }
         ]
       },
-      "title": "Proportion of small-scale industries with a loan or line of credit"
+      "title": "Procenat malih industrija koje imaju zajam ili kreditnu liniju"
     },
     {
       "path": "16-5-1/data.csv",
@@ -7123,7 +7123,7 @@
           }
         ]
       },
-      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+      "title": "Udio osoba koje su imale barem jedan kontakt sa javnim funkcionerom i koje su dale mito javnom funkcioneru, ili su im ti javni funkcioneri tražili mito u prethodnih 12 mjeseci"
     },
     {
       "path": "17-11-1/data.csv",
@@ -7147,7 +7147,7 @@
           }
         ]
       },
-      "title": "Developing countries’ and least developed countries’ share of global exports"
+      "title": "Udio zemalja u razvoju i manje razvijenih zemalja u globalnom izvozu"
     },
     {
       "path": "13-1-1/data.csv",
@@ -7171,7 +7171,7 @@
           }
         ]
       },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+      "title": "Broj umrlih, nestalih i direktno pogođenih osoba pripisanih katastrofama na 100 000 stanovnika"
     },
     {
       "path": "3-8-2/data.csv",
@@ -7195,7 +7195,7 @@
           }
         ]
       },
-      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
+      "title": "Udio stanovništva sa velikim izdacima domaćinstva za zdravstvo kao udio u ukupnim rashodima ili prihodima domaćinstva"
     },
     {
       "path": "1-a-1/data.csv",
@@ -7219,7 +7219,7 @@
           }
         ]
       },
-      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
+      "title": "Ukupni grantovi zvanične razvojne pomoći od svih donatora koji se fokusiraju na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca"
     },
     {
       "path": "17-1-1/data.csv",
@@ -7243,7 +7243,7 @@
           }
         ]
       },
-      "title": "Total government revenue as a proportion of GDP, by source"
+      "title": "Ukupni državni prihod kao udio BDP-a, prema izvoru"
     },
     {
       "path": "11-b-2/data.csv",
@@ -7267,7 +7267,7 @@
           }
         ]
       },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+      "title": "Udio lokalnih samouprava koje usvajaju i provode lokalne strategije smanjenja rizika od katastrofa u skladu sa nacionalnim strategijama smanjenja rizika od katastrofa"
     },
     {
       "path": "13-b-1/data.csv",
@@ -7291,7 +7291,7 @@
           }
         ]
       },
-      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+      "title": "Broj najnerazvijenijih zemalja i malih ostrvskih država u razvoju sa nacionalno određenim doprinosima, dugoročnim strategijama, nacionalnim planovima prilagođavanja, strategijama kako je navedeno u komunikacijama o prilagođavanju i nacionalnim komunikacijama"
     },
     {
       "path": "1-4-2/data.csv",
@@ -7315,7 +7315,7 @@
           }
         ]
       },
-      "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+      "title": "Procenat ukupnog odraslog stanovništva sa sigurnim zakupnim pravima na zemljište, (a) sa zakonski priznatom dokumentacijom i (b) koji svoja prava na zemljište doživljavaju sigurnim, prema polu i vrsti zakupa"
     },
     {
       "path": "3-6-1/data.csv",
@@ -7339,7 +7339,7 @@
           }
         ]
       },
-      "title": "Death rate due to road traffic injuries"
+      "title": "Stopa smrtnosti od povreda u saobraćaju"
     },
     {
       "path": "11-3-1/data.csv",
@@ -7363,7 +7363,7 @@
           }
         ]
       },
-      "title": "Ratio of land consumption rate to population growth rate"
+      "title": "Odnos stope potrošnje zemljišta i stope rasta stanovništva"
     },
     {
       "path": "4-7-1/data.csv",
@@ -7387,7 +7387,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "Mjera u kojoj su (i) obrazovanje o globalnom građanstvu i (ii) obrazovanje za održivi razvoj uključeni u (a) nacionalne obrazovne politike; (b) nastavne planove i programe; (c) obrazovanje nastavnika; i (d) ocjenjivanje učenika"
     },
     {
       "path": "1-5-2/data.csv",
@@ -7411,7 +7411,7 @@
           }
         ]
       },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+      "title": "Direktni ekonomski gubitak koji se pripisuje katastrofama u odnosu na globalni bruto domaći proizvod (BDP)"
     },
     {
       "path": "14-1-1/data.csv",
@@ -7435,7 +7435,7 @@
           }
         ]
       },
-      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
+      "title": "(a) Indeks priobalne eutrofikacije; i (b) gustina plastičnih ostataka"
     },
     {
       "path": "5-3-2/data.csv",
@@ -7459,7 +7459,7 @@
           }
         ]
       },
-      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age"
+      "title": "Procenat djevojaka i žena starosti od 15 do 49 godina koje su bile podvrgnute sakaćenju/rezanju ženskih genitalija, prema godinama"
     },
     {
       "path": "14-2-1/data.csv",
@@ -7483,7 +7483,7 @@
           }
         ]
       },
-      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
+      "title": "Broj zemalja koje koriste pristupe zasnovane na ekosistemima u upravljanju morskim područjima"
     },
     {
       "path": "17-18-1/data.csv",
@@ -7507,7 +7507,7 @@
           }
         ]
       },
-      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
+      "title": "Pokazatelj statističkih kapaciteta za praćenje ciljeva održivog razvoja"
     },
     {
       "path": "16-6-2/data.csv",
@@ -7531,7 +7531,7 @@
           }
         ]
       },
-      "title": "Proportion of population satisfied with their last experience of public services"
+      "title": "Udio stanovništva zadovoljnog svojim posljednjim iskustvom javnih usluga"
     },
     {
       "path": "12-a-1/data.csv",
@@ -7555,7 +7555,7 @@
           }
         ]
       },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+      "title": "Instalirani kapaciteti za proizvodnju obnovljive energije u zemljama u razvoju (u vatima po glavi stanovnika)"
     },
     {
       "path": "13-1-3/data.csv",
@@ -7579,7 +7579,7 @@
           }
         ]
       },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+      "title": "Udio lokalnih samouprava koje usvajaju i sprovode lokalne strategije smanjenja rizika od katastrofa u skladu sa nacionalnim strategijama smanjenja rizika od katastrofa"
     },
     {
       "path": "2-4-1/data.csv",
@@ -7603,7 +7603,7 @@
           }
         ]
       },
-      "title": "Proportion of agricultural area under productive and sustainable agriculture"
+      "title": "Udio poljoprivrednih površina koje se koriste za produktivnu i održivu poljoprivredu"
     },
     {
       "path": "16-10-1/data.csv",
@@ -7627,7 +7627,7 @@
           }
         ]
       },
-      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+      "title": "Broj verifikovanih slučajeva ubistva, otmice, prisilnog nestanka, proizvoljnog pritvaranja i mučenja novinara, povezanih medijskih kadrova, sindikalaca i zagovornika ljudskih prava u prethodnih 12 mjeseci"
     },
     {
       "path": "3-d-2/data.csv",
@@ -7651,7 +7651,7 @@
           }
         ]
       },
-      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
+      "title": "Procenat infekcija krvotoka zbog odabranih organizama otpornih na antimikrobne ljekove"
     },
     {
       "path": "11-2-1/data.csv",
@@ -7675,7 +7675,7 @@
           }
         ]
       },
-      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+      "title": "Procenat stanovništva koje ima povoljan pristup javnom prevozu, prema polu, starosti i osobama sa invaliditetom"
     },
     {
       "path": "13-2-2/data.csv",
@@ -7699,7 +7699,7 @@
           }
         ]
       },
-      "title": "Total greenhouse gas emissions per year"
+      "title": "Ukupna emisija gasova staklene bašte godišnje"
     },
     {
       "path": "13-a-1/data.csv",
@@ -7723,7 +7723,7 @@
           }
         ]
       },
-      "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
+      "title": "Iznosi osigurani i mobilizovani u američkim dolarima po godini u odnosu na stalni postojeći cilj kolektivne mobilizacije od 100 milijardi dolara do 2025. godine"
     },
     {
       "path": "3-7-2/data.csv",
@@ -7747,7 +7747,7 @@
           }
         ]
       },
-      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
+      "title": "Stopa nataliteta adolescenata (10-14 godina; 15-19 godina) na 1000 žena u toj starosnoj grupi"
     },
     {
       "path": "12-2-1/data.csv",
@@ -7771,7 +7771,7 @@
           }
         ]
       },
-      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
+      "title": "Materijalni otisak, materijalni otisak po glavi stanovnika i materijalni otisak po BDP-u"
     },
     {
       "path": "5-6-2/data.csv",
@@ -7795,7 +7795,7 @@
           }
         ]
       },
-      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+      "title": "Broj zemalja sa zakonima i propisima koji garantuju pun i jednak pristup ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj zaštiti, informacijama i obrazovanju"
     },
     {
       "path": "14-c-1/data.csv",
@@ -7819,7 +7819,7 @@
           }
         ]
       },
-      "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources"
+      "title": "Broj zemalja koje ostvaruju napredak u ratifikaciji, prihvatanju i implementaciji kroz pravne, političke i institucionalne okvire, instrumenata vezanih za okeane koji sprovode međunarodno pravo, kako je navedeno u Konvenciji Ujedinjenih nacija o pravu mora, za očuvanje i održivo korišćenje okeana i njihovih resursa"
     },
     {
       "path": "7-a-1/data.csv",
@@ -7843,7 +7843,7 @@
           }
         ]
       },
-      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
+      "title": "Međunarodni finansijski tokovi prema zemljama u razvoju kao podrška istraživanju i razvoju čiste energije i proizvodnji obnovljive energije, uključujući i hibridne sisteme"
     },
     {
       "path": "11-7-2/data.csv",
@@ -7867,7 +7867,7 @@
           }
         ]
       },
-      "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+      "title": "Udio osoba koje su bile žrtve fizičkog ili seksualnog uznemiravanja, prema polu, starosti, statusu invaliditeta i mjestu događaja, u prethodnih 12 mjeseci"
     },
     {
       "path": "12-2-2/data.csv",
@@ -7891,7 +7891,7 @@
           }
         ]
       },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+      "title": "Domaća potrošnja materijala, domaća potrošnja materijala po glavi stanovnika i domaća potrošnja materijala po BDP-u"
     },
     {
       "path": "1-3-1/data.csv",
@@ -7915,7 +7915,7 @@
           }
         ]
       },
-      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+      "title": "Procenat stanovništva obuhvaćenog nivoima/sistemima socijalne zaštite, po polu, po izdvajanju dece, nezaposlenih, starijih, osoba sa invaliditetom, trudnica, novorođenčadi, žrtava povreda na radu i siromašnih i ugroženih"
     },
     {
       "path": "17-12-1/data.csv",
@@ -7939,7 +7939,7 @@
           }
         ]
       },
-      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+      "title": "Ponderisane prosječne tarife sa kojima se suočavaju zemlje u razvoju, manje razvijene zemlje i male ostrvske države u razvoju"
     },
     {
       "path": "13-1-2/data.csv",
@@ -7963,7 +7963,7 @@
           }
         ]
       },
-      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+      "title": "Broj zemalja koje usvajaju i sprovode nacionalne strategije za smanjenje rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa 2015-2030"
     },
     {
       "path": "4-2-1/data.csv",
@@ -7987,7 +7987,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
+      "title": "Udio djece ispod 5 godina starosti koja su razvojno na dobrom putu u pogledu zdravlja, učenja i psihosocijalnog blagostanja, po polu"
     },
     {
       "path": "16-4-2/data.csv",
@@ -8011,7 +8011,7 @@
           }
         ]
       },
-      "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
+      "title": "Udeo zaplijenjenog, pronađenog ili predatog oružja čije je nezakonito porijeklo ili kontekst utvrdio nadležni organ u skladu sa međunarodnim instrumentima"
     },
     {
       "path": "10-4-2/data.csv",
@@ -8035,7 +8035,7 @@
           }
         ]
       },
-      "title": "Redistributive impact of fiscal policy"
+      "title": "Redistributivni uticaj fiskalne politike"
     },
     {
       "path": "15-7-1/data.csv",
@@ -8059,7 +8059,7 @@
           }
         ]
       },
-      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
+      "title": "Udio divljih životinja kojima se trguje koje su bile krivolovljene ili se njima ilegalno trgovalo"
     },
     {
       "path": "14-3-1/data.csv",
@@ -8083,7 +8083,7 @@
           }
         ]
       },
-      "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+      "title": "Prosječna morska kisjelost (pH) izmjerena na dogovorenom skupu reprezentativnih stanica za uzorkovanje"
     },
     {
       "path": "17-7-1/data.csv",
@@ -8107,7 +8107,7 @@
           }
         ]
       },
-      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+      "title": "Ukupan iznos sredstava za zemlje u razvoju za promovisanje razvoja, prenosa i širenja ekološki prihvatljivih tehnologija"
     },
     {
       "path": "13-3-1/data.csv",
@@ -8131,7 +8131,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "U kojoj su mjeri (i) obrazovanje za globalno građanstvo i (ii) obrazovanje za održivi razvoj uključeni u (a) nacionalne obrazovne politike; (b) nastavne planove i programe; (c) obrazovanje nastavnika; i (d) ocjenjivanje studenata"
     },
     {
       "path": "3-b-2/data.csv",
@@ -8155,7 +8155,7 @@
           }
         ]
       },
-      "title": "Total net official development assistance to medical research and basic health sectors"
+      "title": "Ukupna neto službena razvojna pomoć medicinskim istraživanjima i osnovnim zdravstvenim sektorima"
     },
     {
       "path": "12-6-1/data.csv",
@@ -8179,7 +8179,7 @@
           }
         ]
       },
-      "title": "Number of companies publishing sustainability reports"
+      "title": "Broj kompanija koje objavljuju izvještaje o održivosti"
     },
     {
       "path": "2-3-2/data.csv",
@@ -8203,7 +8203,7 @@
           }
         ]
       },
-      "title": "Average income of small-scale food producers, by sex and indigenous status"
+      "title": "Prosječan prihod malih proizvođača hrane, prema polu i statusu starosjedioca"
     },
     {
       "path": "11-a-1/data.csv",
@@ -8227,7 +8227,7 @@
           }
         ]
       },
-      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
+      "title": "Broj zemalja koje imaju nacionalne urbane politike ili regionalne razvojne planove koji (a) odgovaraju dinamici stanovništva; (b) osiguravaju uravnotežen teritorijalni razvoj; i (c) povećavaju lokalni fiskalni prostor"
     },
     {
       "path": "16-7-1/data.csv",
@@ -8251,7 +8251,7 @@
           }
         ]
       },
-      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+      "title": "Proporcije pozicija u nacionalnim i lokalnim institucijama, uključujući (a) zakonodavna tijela; (b) javne službe; i (c) pravosuđe, u poređenju sa nacionalnom distribucijom, prema polu, starosti, osobama sa invaliditetom i grupama stanovništva"
     },
     {
       "path": "16-3-3/data.csv",
@@ -8275,7 +8275,7 @@
           }
         ]
       },
-      "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
+      "title": "Procenat stanovništva koji je doživeo spor u posljednje dvije godine i koji je pristupio formalnom ili neformalnom mehanizmu za rješavanje sporova, prema vrsti mehanizma"
     },
     {
       "path": "5-a-2/data.csv",
@@ -8299,7 +8299,7 @@
           }
         ]
       },
-      "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control"
+      "title": "Procenat zemalja u kojima pravni okvir (uključujući običajno pravo) garantuje ženama jednaka prava na vlasništvo nad zemljom i/ili kontrolu"
     },
     {
       "path": "11-5-2/data.csv",
@@ -8323,7 +8323,7 @@
           }
         ]
       },
-      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+      "title": "Direktan ekonomski gubitak u odnosu na globalni BDP, šteta na kritičnoj infrastrukturi i broj poremećaja osnovnih usluga, koji se pripisuju katastrofama"
     },
     {
       "path": "2-2-3/data.csv",
@@ -8347,7 +8347,7 @@
           }
         ]
       },
-      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+      "title": "Prevalencija anemije kod žena starosti od 15 do 49 godina, prema statusu trudnoće (procenat)"
     },
     {
       "path": "3-9-2/data.csv",
@@ -8371,7 +8371,7 @@
           }
         ]
       },
-      "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
+      "title": "Stopa smrtnosti koja se pripisuje nesigurnoj vodi, nesigurnoj sanitaciji i nedostatku higijene (izloženost uslugama nesigurne vode, sanitacije i higijene za sve (WASH))"
     },
     {
       "path": "15-8-1/data.csv",
@@ -8395,7 +8395,7 @@
           }
         ]
       },
-      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+      "title": "Udio zemalja koje usvajaju relevantno nacionalno zakonodavstvo i adekvatne resurse za prevenciju ili kontrolu invazivnih stranih vrsta"
     },
     {
       "path": "10-7-2/data.csv",
@@ -8419,7 +8419,7 @@
           }
         ]
       },
-      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+      "title": "Broj zemalja sa migracionim politikama koje omogućavaju urednu, sigurnu, redovnu i odgovornu migraciju i mobilnost ljudi"
     },
     {
       "path": "16-1-2/data.csv",
@@ -8443,7 +8443,7 @@
           }
         ]
       },
-      "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
+      "title": "Smrtni slučajevi uzrokovani sukobima na 100 000 stanovnika, prema polu, starosti i uzroku"
     },
     {
       "path": "12-c-1/data.csv",
@@ -8467,7 +8467,7 @@
           }
         ]
       },
-      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
+      "title": "Iznos subvencija za fosilna goriva po jedinici BDP-a (proizvodnja i potrošnja)"
     },
     {
       "path": "15-6-1/data.csv",
@@ -8491,7 +8491,7 @@
           }
         ]
       },
-      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+      "title": "Broj zemalja koje su usvojile zakonodavne, administrativne i političke okvire kako bi osigurale pravednu i pravičnu podjelu koristi"
     },
     {
       "path": "1-5-4/data.csv",
@@ -8515,7 +8515,7 @@
           }
         ]
       },
-      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+      "title": "Procenat lokalnih samouprava koje usvajaju i primjenjuju lokalne strategije smanjenja rizika od katastrofa u skladu sa nacionalnim strategijama smanjenja rizika od katastrofa"
     },
     {
       "path": "12-7-1/data.csv",
@@ -8539,7 +8539,7 @@
           }
         ]
       },
-      "title": "Number of countries implementing sustainable public procurement policies and action plans"
+      "title": "Stepen implementacije održivih politika javnih nabavki i akcionog plana"
     },
     {
       "path": "5-1-1/data.csv",
@@ -8563,7 +8563,7 @@
           }
         ]
       },
-      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
+      "title": "Postojanje pravnih okvira za promovisanje, sprovođenje i praćenje jednakosti i nediskriminacije na osnovu pola"
     },
     {
       "path": "1-a-2/data.csv",
@@ -8587,7 +8587,7 @@
           }
         ]
       },
-      "title": "Proportion of total government spending on essential services (education, health and social protection)"
+      "title": "Udio ukupne državne potrošnje na osnovne usluge (obrazovanje, zdravstvo i socijalna zaštita)"
     },
     {
       "path": "10-2-1/data.csv",
@@ -8611,7 +8611,7 @@
           }
         ]
       },
-      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+      "title": "Procenat ljudi koji žive ispod 50 odsto srednjeg prihoda, prema polu, starosti i osobama sa invaliditetom"
     },
     {
       "path": "9-b-1/data.csv",
@@ -8635,7 +8635,7 @@
           }
         ]
       },
-      "title": "Proportion of medium and high-tech industry value added in total value added"
+      "title": "Udio dodate vrijednosti srednje i visokotehnološke industrije u ukupnoj dodatoj vrijednosti"
     },
     {
       "path": "5-4-1/data.csv",
@@ -8659,7 +8659,7 @@
           }
         ]
       },
-      "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
+      "title": "Procenat vremena provedenog na neplaćenim poslovima u kući i njezi, prema polu, starosti i lokaciji"
     },
     {
       "path": "2-b-1/data.csv",
@@ -8683,7 +8683,7 @@
           }
         ]
       },
-      "title": "Agricultural export subsidies"
+      "title": "Subvencije za izvoz poljoprivrednih proizvoda"
     },
     {
       "path": "14-a-1/data.csv",
@@ -8707,7 +8707,7 @@
           }
         ]
       },
-      "title": "Proportion of total research budget allocated to research in the field of marine technology"
+      "title": "Udio od ukupnog budžeta za istraživanje koji se izdvaja za istraživanja u oblasti pomorske tehnologije"
     },
     {
       "path": "17-3-1/data.csv",
@@ -8731,7 +8731,7 @@
           }
         ]
       },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
+      "title": "Direktne strane investicije, zvanična razvojna pomoć i saradnja jug-jug kao proporcija bruto nacionalnog dohotka"
     },
     {
       "path": "16-1-3/data.csv",
@@ -8755,7 +8755,7 @@
           }
         ]
       },
-      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
+      "title": "Procenat stanovništva koji je bio izložen (a) fizičkom nasilju, (b) psihičkom nasilju i (c) seksualnom nasilju u prethodnih 12 mjeseci"
     },
     {
       "path": "10-7-3/data.csv",
@@ -8779,7 +8779,7 @@
           }
         ]
       },
-      "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
+      "title": "Broj ljudi koji su umrli ili nestali u procesu migracije prema međunarodnoj destinaciji"
     },
     {
       "path": "12-8-1/data.csv",
@@ -8803,7 +8803,7 @@
           }
         ]
       },
-      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+      "title": "Stepen do kojeg su (i) obrazovanje o globalnom građanstvu i (ii) obrazovanje za održivi razvoj uključeni u (a) nacionalne obrazovne politike; (b) nastavni planovi i programi; (c) obrazovanje nastavnika; i (d) ocjenjivanje učenika"
     },
     {
       "path": "3-b-1/data.csv",
@@ -8827,7 +8827,7 @@
           }
         ]
       },
-      "title": "Proportion of the target population covered by all vaccines included in their national programme"
+      "title": "Udio ciljne populacije obuhvaćene svim vakcinama uključenim u njihov nacionalni program"
     },
     {
       "path": "15-b-1/data.csv",
@@ -8851,7 +8851,7 @@
           }
         ]
       },
-      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
+      "title": "(a) Zvanična razvojna pomoć za očuvanje i održivo korišćenje biodiverziteta; i (b) ostvareni prihodi i mobilisana finansijska sredstva iz ekonomskih instrumenata relevantnih za biodiverzitet"
     },
     {
       "path": "4-a-1/data.csv",
@@ -8875,7 +8875,7 @@
           }
         ]
       },
-      "title": "Proportion of schools offering basic services, by type of service"
+      "title": "Procenat škola koje nude osnovne usluge, prema vrsti usluga"
     },
     {
       "path": "17-15-1/data.csv",
@@ -8899,7 +8899,7 @@
           }
         ]
       },
-      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
+      "title": "Obim upotrebe okvira rezultata i alata za planiranje u vlasništvu države od strane pružalaca razvojne saradnje"
     },
     {
       "path": "3-3-5/data.csv",
@@ -8923,7 +8923,7 @@
           }
         ]
       },
-      "title": "Number of people requiring interventions against neglected tropical diseases"
+      "title": "Broj ljudi kojima su potrebne intervencije protiv zanemarenih tropskih bolesti"
     },
     {
       "path": "12-1-1/data.csv",
@@ -8947,55 +8947,7 @@
           }
         ]
       },
-      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
-    },
-    {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
-    },
-    {
-      "path": "11-5-1/data.csv",
-      "name": "11-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+      "title": "Broj zemalja koje razvijaju, usvajaju ili provode instrumente politike čiji je cilj da podrže prelazak na održivu potrošnju i proizvodnju"
     }
   ]
 }
