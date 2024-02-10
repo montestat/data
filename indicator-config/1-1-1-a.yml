@@ -18,6 +18,10 @@ tags:
   - custom.national
 
 
+# data_footnote: my_translations.1-1-1-footnote
+# data_notice_heading: my_translations.important_note
+# data_notice_text: my_translations.1-1-1-data-notice
+
 # footer_fields:
 #   - label: My field label
 #     value: My field content

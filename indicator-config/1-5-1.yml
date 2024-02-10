@@ -11,3 +11,4 @@ indicator_number: '1-5-1'
 national_geographical_coverage: custom.country_name
 reporting_status: complete
 standalone: false
+data_footnote: data.institution_footnote
