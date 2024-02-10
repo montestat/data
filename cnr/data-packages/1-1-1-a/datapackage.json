@@ -55,6 +55,18 @@
             "title": "Starost"
           },
           {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gradsko",
+                "Ostalo",
+                ""
+              ]
+            },
+            "title": "Lokacija"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

@@ -3231,6 +3231,17 @@
             }
           },
           {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
