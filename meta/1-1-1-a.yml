@@ -14,5 +14,3 @@ methodology_start_date: '2013'
 indicator_introduction_plan: ''
 source_active_1: true
 source_organisation_1: sources.Monstat
-source_active_2: true
-source_organisation_2: sources.test_institution
