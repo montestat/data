@@ -3,9 +3,9 @@ african_development_bank,2,1
 asian_development_bank,2,1
 financial_stability_board,2,1
 inter_american_development_bank,2,1
-international_bank_for_reconstruction,1,1
-international_monetary_fund,1,1
-un_economic_social_council,2,1
-un_general_assembly,2,1
-un_security_council,2,1
-world_trade_organization,2,1
+international_bank_for_reconstruction,2,2
+international_monetary_fund,2,2
+un_economic_social_council,4,2
+un_general_assembly,4,2
+un_security_council,4,2
+world_trade_organization,4,2

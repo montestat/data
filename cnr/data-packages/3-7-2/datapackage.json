@@ -12,8 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "na 1000 žena",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Romska naselja",
+                ""
+              ]
+            },
+            "title": "Lokacija"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 10-14 years",
+                "aged 15-19 years",
+                ""
+              ]
+            },
+            "title": "Starost"
           },
           {
             "name": "Value",
@@ -26,5 +60,5 @@
   ],
   "profile": "data-package",
   "name": "3-7-2",
-  "title": "Stopa nataliteta adolescenata (10-14 godina; 15-19 godina) na 1000 žena u toj starosnoj grupi"
+  "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
 }

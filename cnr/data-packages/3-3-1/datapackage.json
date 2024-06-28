@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno novoinficiranih",
+                "ukupno novoinficiranih na 1000 neinficiranih",
+                ""
+              ]
+            },
+            "title": "Jedinica"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-1",
-  "title": "Broj HIV infekcija u odnosu na 1000 neinficiranih, po polu, starosnoj dobi i ključnim grupama populacije"
+  "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
 }
