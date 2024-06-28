@@ -31,7 +31,7 @@ unit_of_measurement: 'Jedinica mjere'
 # A shorter version of the "Unit" label.
 unit: 'Jedinica'
 # A label describing information - any general information about a dataset - displayed below the data visualization on the page
-footnote: 'Fusnota'
+footnote: 'Objašnjenje za izvore podataka'
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
 units_type: 'Tip jedinica'
 # The label of a widget that allows the user to change the series that is being represented in a data visualization
