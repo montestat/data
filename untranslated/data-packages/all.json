@@ -5153,15 +5153,14 @@
                 "Bothsex",
                 "Female",
                 "Male",
-                "3",
-                "2",
+                "allages",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

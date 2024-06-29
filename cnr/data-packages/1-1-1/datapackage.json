@@ -78,8 +78,7 @@
                 "Oba pola",
                 "Žene",
                 "Muškarci",
-                "3",
-                "2",
+                "sva godišta",
                 ""
               ]
             },
@@ -87,7 +86,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
