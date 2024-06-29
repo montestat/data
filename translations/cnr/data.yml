@@ -5,6 +5,7 @@ Age: Starost
 Value: Vrijednost
 Male: Muškarci
 Female: Žene
+Bothsex: Oba pola
 Location: Lokacija
 Count: Brojnost
 Density: Gustina
@@ -20,16 +21,22 @@ Administrative head: Administrativna cjelina
 Economic head: Ekonomska cjelina
 Summary sheet 1: Sumirano - Obračunski list za dimenzije PI-1.1, PI-2.1 i PI-2.3
 Summary sheet 2: Sumirano - Obračun rashoda po varijansama ekonomske klasifikacije PI-2.2
-aged 0-17 years: Manje od 18 godina
+aged 0-17 years: manje od 18 godina
+aged 0-15 years: manje od 15 godina
 aged 18-24 years: 18-24 godine
 aged 25-54 years: 25-54 godine
 aged 55-64 years: 55-64 godine
 aged over 65 years: 65 ili više godina
 aged 18-64 years: 18-64 godine
 aged 15-24 years: 15-24 godine
+aged 15-64 years: 15-64 godine
 aged 25-64 years: 25-64 godine
 aged 0-15 years: manje od 15 godina
 aged 0-18 years: manje od 18 godina
+aged more 15 years: više od 15 godina
+aged more 25 years: više od 25 godina
+aged 65 years: 65 godina
+allages: sva godišta
 Roma settlements: Romska naselja
 per_1000_life_births: na 1000 rođenih
 per_100000_life_births: na 100 000 rođenih
@@ -298,6 +305,7 @@ tonnes_per_hectare: 'tona po hektaru'
 15_2_1_cat_3: 'Udio šumske površine sa dugoročnim planom upravljanja'
 15_2_1_cat_4: 'Udio šumske površine unutar zakonom utvrđenih zaštićenih područja'
 info_15_8_1: 'Crna Gora je 2019. godine donijela Zakon o stranim i invazivnim stranim vrstama, biljaka, životinja i gljiva, čija je primjena počela u martu 2021. godine. Takođe, od 2018. godine, Crna Gora je članica Evropske organizacije za zaštitu biljaka (Europian Plant Protection Organisation - EPPO), koja ima definisan postupak procjene rizika, kojim se procjenjuje potencijalna invazivnost strane vrste u slučaju njenog unosa u područje u kojem nije prirodna.'
+millions_constant_usd_2021: 'miliona dolara (2021)'
 millions_constant_usd_2020: 'miliona dolara (2020)'
 millions_constant_usd_2017: 'miliona dolara (2017)'
 16_6_1_cat_1: 'Primarni državni rashodi kao proporcija prvobitno odobrenog budžeta'
@@ -309,4 +317,11 @@ inter_american_development_bank: 'Interamerička razvojna banka'
 financial_stability_board: 'Odbor za finansijsku stabilnost'
 urban: 'Gradsko'
 rural: 'Ostalo'
+allarea: 'Sve lokacije'
 institution_footnote: 'Prvi navedeni izvor predstavlja instituciju odakle su podaci za navedeni indikator preuzeti. Drugi navedeni izvor je prepoznat kao nadležna institucija/proizvođač indikatora u skladu sa Nacionalnom strategijom održivog razvoja do 2030. godine.'
+1_1_1_cat_1: 'Udio stanovništva ispod međunarodne linije siromaštva'
+1_1_1_cat_2: 'Zaposleno stanovništvo ispod međunarodne linije siromaštva'
+cat_b: 'vađenje rude i kamena'
+cat_c: 'prerađivačka industrija'
+cat_d: 'snadbijevanje električnom energijom, gasom, parom i klimatizacija'
+cat_e: 'snadbijevanje vodom, upravljanjem otpadnim vodama, kontrolisanje procesa uklanjanja otpada i slične aktivnosti'

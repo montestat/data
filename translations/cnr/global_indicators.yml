@@ -1,5 +1,4 @@
 1-1-1-title: 'Stopa rizika od siromaštva'
-1-1-1-a-title: 'Stopa rizika od siromaštva'
 1-2-1-title: 'Procenat stanovništva koje živi ispod nacionalne granice siromaštva, po polu i starosti'
 1-2-2-title: 'Udio muškaraca, žena i djece svih uzrasta koji žive u siromaštvu u svim svojim dimenzijama prema nacionalnim definicijama'
 1-3-1-title: 'Procenat stanovništva obuhvaćenog nivoima/sistemima socijalne zaštite,
@@ -32,7 +31,7 @@
 10-3-1-title: 'Procenat stanovništva koje je prijavilo da se lično osjećalo diskriminisano
   ili uznemiravano u prethodnih 12 mjeseci po osnovu diskriminacije zabranjene međunarodnim
   pravom o ljudskim pravima'
-10-4-1-title: 'Učešće rada u BDP-u'
+10-4-1-title: 'Učešće rada u BDP-u, uključujući plate i transfere socijalne zaštite'
 10-4-2-title: 'Redistributivni uticaj fiskalne politike'
 10-5-1-title: 'Indikatori finansijske stabilnosti'
 10-6-1-title: 'Udio članova i prava glasa zemalja u razvoju u međunarodnim organizacijama'
@@ -206,7 +205,7 @@
   vrsti mehanizma'
 16-4-1-title: 'Ukupna vrijednost ulaznih i spoljnih nezakonitih finansijskih tokova
   (u tekućim američkim dolarima)'
-16-4-2-title: 'Udeo zaplijenjenog, pronađenog ili predatog oružja čije je nezakonito
+16-4-2-title: 'Udio zaplijenjenog, pronađenog ili predatog oružja čije je nezakonito
   porijeklo ili kontekst utvrdio nadležni organ u skladu sa međunarodnim instrumentima'
 16-5-1-title: 'Udio osoba koje su imale barem jedan kontakt sa javnim funkcionerom
   i koje su dale mito javnom funkcioneru, ili su im ti javni funkcioneri tražili mito
@@ -267,20 +266,19 @@
 17-8-1-title: 'Udio osoba koje koriste internet'
 17-9-1-title: 'Dolarska vrijednost finansijske i tehničke pomoći (kroz saradnju sjever-jug,
   jug-jug i trouglastu saradnju) posvećene zemljama u razvoju'
-2-1-1-title: 'Prevalencija pothranjenosti'
-2-1-2-title: 'Prevalencija umjerene ili teške nesigurnosti hrane u populaciji, na
-  osnovu skale iskustva u nebezbjednosti hrane (FIES)'
+2-1-1-title: 'Rasprostranjenost pothranjenosti'
+2-1-2-title: 'Rasprostranjenost umjerenog ili visokog nedostatka uhranjeosti u populaciji'
 2-2-1-title: 'Procenat djece mlađe od 5 godina koja: (a)	zaostaju za dvije standardne devijacije (umjereni i teški oblik zaostajanja u rastu) (b) zaostaju za tri standardne devijacije (teški oblik zaostajanja u rastu) u odnosu na srednju vrijednost tjelesne visine za dati uzrast, po standardu SZO.'
 2-2-2-title: 'Procenat djece mlađe od 5 godina koja: (a)	zaostaju za dvije standardne devijacije (umjereni i teški oblik zaostajanja u rastu) (b) zaostaju za tri standardne devijacije (teški oblik zaostajanja u rastu) u odnosu na srednju vrijednost tjelesne težine u odnosu na visinu, po standardu SZO.'
-2-2-3-title: 'Prevalencija anemije kod žena starosti od 15 do 49 godina, prema statusu
+2-2-3-title: 'Rasprostranjenost anemije kod žena starosti od 15 do 49 godina, prema statusu
   trudnoće (procenat)'
 2-3-1-title: 'Obim proizvodnje po radnoj jedinici po klasama veličine poljoprivrednih/stočarskih/šumarskih preduzeća'
 2-3-2-title: 'Prosječan prihod malih proizvođača hrane, prema polu i statusu starosjedioca'
-2-4-1-title: 'Udio poljoprivrednih površina koje se koriste za produktivnu i održivu poljoprivredu'
-2-4-1-a-title: 'Udio poljoprivrednih površina koje se koriste za produktivnu i održivu poljoprivredu'
+2-4-1-title: 'Površine poljoprivrednog zemljišta po načinu obrade'
+2-4-1-a-title: 'Površine poljoprivrednog zemljišta po načinu obrade'
 2-5-1-title: 'Broj biljnih i životinjskih genetičkih resursa za hranu i poljoprivredu
   osiguranih u srednjoročnim ili dugoročnim objektima za konzervaciju'
-2-5-2-title: 'Udeo lokalnih rasa koje su klasifikovane kao ugrožene izumiranjem'
+2-5-2-title: 'Udio lokalnih rasa klasifikovanih kao ugroženih, kao udio lokalnih rasa sa poznatim nivoom rizika od izumiranja'
 2-a-1-title: 'Indeks poljoprivredne orijentacije za državne rashode'
 2-a-2-title: 'Ukupni zvanični tokovi (zvanična razvojna pomoć plus drugi zvanični
   tokovi) u sektoru poljoprivrede'
@@ -320,7 +318,7 @@
   i nedostatku higijene (izloženost uslugama nesigurne vode, sanitacije i higijene
   za sve (WASH))'
 3-9-3-title: 'Stopa smrtnosti koja se pripisuje nenamjernom trovanju'
-3-a-1-title: 'Dobno standardizovana prevalencija trenutne upotrebe duvana kod osoba u starosnoj dobi od 15 godina i starijih'
+3-a-1-title: 'Dobno standardizovana rasprostranjenost trenutne upotrebe duvana kod osoba u starosnoj dobi od 15 godina i starijih'
 3-b-1-title: 'Udio ciljne populacije obuhvaćene svim vakcinama uključenim u njihov
   nacionalni program'
 3-b-2-title: 'Ukupna neto službena razvojna pomoć medicinskim istraživanjima i osnovnim
@@ -336,7 +334,7 @@
 koja postižu najmanje minimalni nivo poznavanja iz (i) čitanja i (ii) matematike, po polu'
 4-1-2-title: 'Stopa završetka (osnovno obrazovanje, niže srednje obrazovanje, više
   srednje obrazovanje)'
-4-2-1-title: 'Udio djece ispod 5 godina starosti koja su razvojno na dobrom putu u pogledu zdravlja, učenja i psihosocijalnog blagostanja, po polu'
+4-2-1-title: 'Procenat djece starosti 36–59 mjeseci koja su dostigla očekivani nivo razvoja u najmanje tri od sljedeće četiri oblasti: pismenost/poznavanje brojeva, fizički razvoj, socijalno-emocionalni domen i učenje'
 4-2-1-a-title: 'Udio djece ispod 5 godina starosti koja su razvojno na dobrom putu u pogledu zdravlja, učenja i psihosocijalnog blagostanja, po polu'
 4-2-2-title: 'Stopa učešća u organizovanom učenju (godinu dana prije zvaničnog uzrasta
   za ulazak u osnovno obrazovanje), po polu'
@@ -355,7 +353,7 @@ koja postižu najmanje minimalni nivo poznavanja iz (i) čitanja i (ii) matemati
 4-a-1-title: 'Procenat škola koje nude osnovne usluge, prema vrsti usluga'
 4-b-1-title: 'Obim tokova zvanične razvojne pomoći za stipendije po sektoru i vrsti
   studija'
-4-c-1-title: 'Procenat nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou
+4-c-1-title: 'Broj nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou
   obrazovanja'
 5-1-1-title: 'Postojanje pravnih okvira za promovisanje, sprovođenje i praćenje jednakosti
   i nediskriminacije na osnovu pola'

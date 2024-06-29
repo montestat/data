@@ -5,6 +5,7 @@ Age: Age
 Value: Value
 Male: Male
 Female: Female
+Bothsex: Both sexes
 Location: Location
 Count: Count
 Density: Density
@@ -21,15 +22,21 @@ Economic head: Economic head
 Summary sheet 1: Summary - Calculation Sheet for Dimensions PI-1.1, PI-2.1 and PI-2.3
 Summary sheet 2: Summary - Calculation Sheet for Expenditure by Economic Classification Variance PI-2.2
 aged 0-17 years: aged 0-17 years
+aged 0-15 years: aged 0-15 years
 aged 18-24 years: aged 18-24 years
 aged 25-54 years: aged 25-54 years
 aged 55-64 years: aged 55-64 years
 aged over 65 years: aged over 65 years
 aged 18-64 years: aged 18-64 years
 aged 15-24 years: aged 15-24 years
+aged 15-64 years: aged 15-64 years
 aged 25-64 years: aged 25-64 years
 aged 0-15 years: less than 15 years
 aged 0-18 years: less than 18 years
+aged 65 years: aged 65 years
+aged more 15 years: more than 15 years
+aged more 25 years: more than 25 years
+allage: all ages
 Roma settlements: Roma settlements
 per_1000_life_births: per 1000 life births
 per_100000_life_births: per 100 000 life births
@@ -298,6 +305,7 @@ tonnes_per_hectare: 'tonnes per hectare'
 15_2_1_cat_3: 'Proportion of forest area with a long-term management plan'
 15_2_1_cat_4: 'Proportion of forest area within legally established protected areas'
 info_15_8_1: 'In 2019, Montenegro adopted the Law on Foreign and Invasive Species, Plants, Animals and Mushrooms, the application of which began in March 2021. Also, since 2018, Montenegro is a member of the European Plant Protection Organization (EPPO), which defined the risk assessment procedure, which assesses the potential invasiveness of a foreign species in the event of its introduction into an area where it is not natural.'
+millions_constant_usd_2021: 'millions USD (2021)'
 millions_constant_usd_2020: 'millions USD (2020)'
 millions_constant_usd_2017: 'millions USD (2017)'
 16_6_1_cat_1: 'Primary government expenditures as a proportion of original approved budget'
@@ -309,4 +317,11 @@ inter_american_development_bank: 'Inter-American Development Bank'
 financial_stability_board: 'Financial Stability Board'
 urban: 'Urban'
 rural: 'Other'
+allarea: 'All area'
 institution_footnote: 'The first listed source represents the institution from where the data for the indicated indicator was taken. The second mentioned source is recognized as a competent institution/producer of indicator in accordance with the National Strategy for Sustainable Development until 2030.'
+1_1_1_cat_1: 'Proportion of population below international poverty line'
+1_1_1_cat_2: 'Employed population below international poverty line'
+cat_b: 'ore and stone extraction'
+cat_c: 'manufacturing industry'
+cat_d: 'electricity, gas, steam and air conditioning supply'
+cat_e: 'water supply, waste water management, control of waste removal processes and similar activities'

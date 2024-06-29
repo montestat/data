@@ -8,9 +8,9 @@ SDG_INDICATOR: global_indicators.2-a-1-title
 methodology_national: ''
 DATA_SOURCE: 'UNECE: https://w3.unece.org/SDG/'
 COVERAGE: ''
-REC_USE_LIM: metadata_texts.2-a-1-national-comment
+REC_USE_LIM: ''
 COMPARABILITY: ''
 methodology_start_date: ''
 indicator_introduction_plan: ''
 source_active_1: true
-source_organisation_1: sources.MinFinance
+source_organisation_1: sources.UNECE
