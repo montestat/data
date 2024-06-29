@@ -6,7 +6,7 @@ SDG_GOAL: global_goals.7-title
 SDG_TARGET: global_targets.7-1-title
 SDG_INDICATOR: global_indicators.7-1-2-title
 methodology_national: metadata_texts.7-1-2-national-methodology
-DATA_SOURCE: metadata_texts.7-1-2-national-datasource
+DATA_SOURCE: ''
 COVERAGE: metadata_texts.7-1-2-national-disaggregation
 REC_USE_LIM: metadata_texts.7-1-2-national-comment
 COMPARABILITY: metadata_texts.7-1-2-national-deviation

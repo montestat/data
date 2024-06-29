@@ -1,0 +1,16 @@
+SDG_GOAL__GLOBAL: global_goals.2-title
+SDG_TARGET__GLOBAL: global_targets.2-c-title
+SDG_INDICATOR__GLOBAL: global_indicators.2-c-1-title
+methodology_global: ''
+SDG_GOAL: global_goals.2-title
+SDG_TARGET: global_targets.2-c-title
+SDG_INDICATOR: global_indicators.2-c-1-title
+methodology_national: ''
+DATA_SOURCE: 'FAO'
+COVERAGE: ''
+REC_USE_LIM: ''
+COMPARABILITY: ''
+methodology_start_date: ''
+indicator_introduction_plan: ''
+source_active_1: true
+source_organisation_1: sources.FAO

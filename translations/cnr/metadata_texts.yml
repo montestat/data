@@ -5,6 +5,13 @@
 1-1-1-national-comment: 'Ovaj indikator se računa na osnovu metodologije propisane od strane Eurostata na osnovu regulative - Regulation (EC) No 1177/2003.'
 1-1-1-national-deviation: 'Pokazatelj se temelji na konceptu relativnog siromaštva i stopa rizika od siromaštva se računa na osnovu relativne linije siromaštva koja zavisi od srednje vrijednosti (medijane) ekvivalentnog raspoloživog dohotka. Odnosno, ta vrijednost zavisi od distribucije dohotka, tj promjenjiva je, nije data unaprijed i fiksirana u vremenu.'
 1-1-1-national-introductioncomment: 'Od 2013. godine, Uprava za statistiku je usvojila koncept relativnog siromaštva na osnovu dohotka domaćinstva kao zvaničnu metodologiju za mjerenje siromaštva u skladu sa dinamikom koja je definisana zajedničkom pregovaračkom pozicijom za Poglavlje 18 Statistika. Uprava za statistiku je bila u obavezi da uvede EU metodologiju za praćenje siromaštva po kojoj se siromaštvo izražava relativno, u odnosu na čitavo stanovništvo Crne Gore i to na osnovu ukupnog dohotka domaćinstva.'
+1-1-1-a-global-methodology: 'Ovaj indikator pruža informacije o udjelu ukupnog broja stanovništva i udjelu zaposlenog dijela populacije koji žive u domaćinstvima čija je potrošnja ili doprinos po osobi (članu domaćinstva) ispod međunarodne linije siromaštva - 1.25 američkih dolara. Ovaj indikator se računa dijeljenjem ukupnog broja osoba koje žive u domaćinstvima ispod linije siromaštva (razdvojeno po polu, godinama starosti i radnom statusu) sa ukupnim brojem stanovništva (razdvojeno po polu, godinama starosti i radnom statusu).'
+1-1-1-a-national-methodology: ""
+1-1-1-a-national-datasource: ""
+1-1-1-a-national-disaggregation: ""
+1-1-1-a-national-comment: ""
+1-1-1-a-national-deviation: ""
+1-1-1-a-national-introductioncomment: ""
 1-2-1-global-methodology: 'Ovaj indikator pruža informacije o udjelu ukupnog broja stanovništva i udjelu zaposlenog dijela populacije koji žive u domaćinstvima čija je potrošnja ili doprinos po osobi (članu domaćinstva) ispod nacionalne linije siromaštva. Ovaj indikator se računa dijeljenjem ukupnog broja osoba koje žive u domaćinstvima ispod linije siromaštva (razdvojeno po polu, godinama starosti i radnom statusu) sa ukupnim brojem stanovništva (razdvojeno po polu, godinama starosti i radnom statusu).'
 1-2-1-national-methodology: 'Stopa rizika od siromaštva predstavlja udio lica (u ukupnoj populaciji) čiji je raspoloživi ekvivalentni dohodak manji od relativne linije siromaštva, koja se nalazi na 60% od izračunate srednje vrijednosti (medijane) ekvivalentnog raspoloživog dohotka.'
 1-2-1-national-datasource: 'Domaćinstva, Anketa o dohotku i uslovima života EU-SILC'
@@ -357,7 +364,7 @@
 1-4-1-national-introductioncomment: ""
 2-2-1-global-methodology: ""
 2-2-1-national-methodology: ""
-2-2-1-national-datasource: "MICS istraživanje"
+2-2-1-national-datasource: "MICS za 2018. za romska naselja"
 2-2-1-national-disaggregation: ""
 2-2-1-national-comment: ""
 2-2-1-national-deviation: ""

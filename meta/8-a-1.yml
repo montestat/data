@@ -6,7 +6,7 @@ SDG_GOAL: global_goals.8-title
 SDG_TARGET: global_targets.8-a-title
 SDG_INDICATOR: global_indicators.8-a-1-title
 methodology_national: ''
-DATA_SOURCE: 'UNECE: https://w3.unece.org/SDG/'
+DATA_SOURCE: 'WB https://data.worldbank.org/indicator/DT.ODA.ODAT.CD?locations=ME'
 COVERAGE: ''
 REC_USE_LIM: metadata_texts.8-a-1-national-comment
 COMPARABILITY: ''

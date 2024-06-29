@@ -6,11 +6,11 @@ SDG_GOAL: global_goals.7-title
 SDG_TARGET: global_targets.7-1-title
 SDG_INDICATOR: global_indicators.7-1-1-title
 methodology_national: metadata_texts.7-1-1-national-methodology
-DATA_SOURCE: metadata_texts.7-1-1-national-datasource
+DATA_SOURCE: ''
 COVERAGE: metadata_texts.7-1-1-national-disaggregation
-REC_USE_LIM: metadata_texts.7-1-1-national-comment
+REC_USE_LIM: ''
 COMPARABILITY: metadata_texts.7-1-1-national-deviation
 methodology_start_date: ''
 indicator_introduction_plan: metadata_texts.7-1-1-national-introductioncomment
 source_active_1: true
-source_organisation_1: sources.Monstat
+source_organisation_1: sources.UNECE
