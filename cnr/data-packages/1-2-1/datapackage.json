@@ -43,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Manje od 18 godina",
+                "manje od 18 godina",
                 "18-24 godine",
                 "25-54 godine",
                 "55-64 godine",
@@ -53,6 +53,18 @@
               ]
             },
             "title": "Starost"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gradsko",
+                "Ostalo",
+                ""
+              ]
+            },
+            "title": "Lokacija"
           },
           {
             "name": "Value",

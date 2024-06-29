@@ -12,12 +12,82 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population below international poverty line",
+                "Employed population below international poverty line",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 65 years",
+                "allages",
+                "aged 15-64 years",
+                "less than 15 years",
+                "All area",
+                "aged 15-24 years",
+                "more than 15 years",
+                "more than 25 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All area",
+                "Urban",
+                "Other",
+                "Both sexes",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Female",
+                "Male",
+                "3",
+                "2",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

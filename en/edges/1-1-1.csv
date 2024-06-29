@@ -1,1 +1,5 @@
 From,To
+Category,Unit
+Unit,Age
+Age,Sex
+Sex,Location

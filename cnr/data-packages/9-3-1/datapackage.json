@@ -31,10 +31,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "cat_b",
-                "cat_c",
-                "cat_d",
-                "cat_e",
+                "vađenje rude i kamena",
+                "prerađivačka industrija",
+                "snadbijevanje električnom energijom, gasom, parom i klimatizacija",
+                "snadbijevanje vodom, upravljanjem otpadnim vodama, kontrolisanje procesa uklanjanja otpada i slične aktivnosti",
                 ""
               ]
             },

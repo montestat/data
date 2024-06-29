@@ -12,12 +12,82 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Udio stanovništva ispod međunarodne linije siromaštva",
+                "Zaposleno stanovništvo ispod međunarodne linije siromaštva",
+                ""
+              ]
+            },
+            "title": "Kategorija"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "65 godina",
+                "sva godišta",
+                "15-64 godine",
+                "manje od 15 godina",
+                "Sve lokacije",
+                "15-24 godine",
+                "više od 15 godina",
+                "više od 25 godina",
+                ""
+              ]
+            },
+            "title": "Starost"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sve lokacije",
+                "Gradsko",
+                "Ostalo",
+                "Oba pola",
+                ""
+              ]
+            },
+            "title": "Lokacija"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba pola",
+                "Žene",
+                "Muškarci",
+                "3",
+                "2",
+                ""
+              ]
+            },
+            "title": "Pol"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]

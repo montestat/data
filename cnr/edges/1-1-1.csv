@@ -1,1 +1,5 @@
 From,To
+Kategorija,Unit
+Unit,Starost
+Starost,Pol
+Pol,Lokacija

@@ -12,14 +12,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Bothsex",
+                "Female",
+                "Male",
                 ""
               ]
             }

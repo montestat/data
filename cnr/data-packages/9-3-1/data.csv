@@ -1,17 +1,17 @@
 Year,Units,Kategorija,Value
-2012,%,cat_b,6
-2013,%,cat_b,11
-2014,%,cat_b,12
-2015,%,cat_b,9
-2012,%,cat_c,42
-2013,%,cat_c,41
-2014,%,cat_c,40
-2015,%,cat_c,45
-2012,%,cat_d,1
-2013,%,cat_d,0
-2014,%,cat_d,0
-2015,%,cat_d,1
-2012,%,cat_e,14
-2013,%,cat_e,12
-2014,%,cat_e,13
-2015,%,cat_e,14
+2012,%,vađenje rude i kamena,6
+2013,%,vađenje rude i kamena,11
+2014,%,vađenje rude i kamena,12
+2015,%,vađenje rude i kamena,9
+2012,%,prerađivačka industrija,42
+2013,%,prerađivačka industrija,41
+2014,%,prerađivačka industrija,40
+2015,%,prerađivačka industrija,45
+2012,%,"snadbijevanje električnom energijom, gasom, parom i klimatizacija",1
+2013,%,"snadbijevanje električnom energijom, gasom, parom i klimatizacija",0
+2014,%,"snadbijevanje električnom energijom, gasom, parom i klimatizacija",0
+2015,%,"snadbijevanje električnom energijom, gasom, parom i klimatizacija",1
+2012,%,"snadbijevanje vodom, upravljanjem otpadnim vodama, kontrolisanje procesa uklanjanja otpada i slične aktivnosti",14
+2013,%,"snadbijevanje vodom, upravljanjem otpadnim vodama, kontrolisanje procesa uklanjanja otpada i slične aktivnosti",12
+2014,%,"snadbijevanje vodom, upravljanjem otpadnim vodama, kontrolisanje procesa uklanjanja otpada i slične aktivnosti",13
+2015,%,"snadbijevanje vodom, upravljanjem otpadnim vodama, kontrolisanje procesa uklanjanja otpada i slične aktivnosti",14

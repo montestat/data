@@ -1,9 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
+allarea,6,1
 Andrijevica,3,1
 Bar UB,2,1
 Bar,3,1
 Berane (sa Petnjicom),3,1
 Bijelo Polje,5,2
+Bothsex,2,1
 Budva,3,1
 Cetinje,3,1
 Danilovgrad,3,1
@@ -22,10 +24,10 @@ Podgorica UT,1,1
 Podgorica,3,1
 Roma settlements,35,19
 Rozaje,3,1
-rural,1,1
+rural,2,2
 savnik,3,1
 Tivat UB,1,1
 Tivat,3,1
 Ulcinj,3,1
-urban,1,1
+urban,2,2
 Zabljak,3,1

@@ -12,11 +12,76 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_1_1_cat_1",
+                "1_1_1_cat_2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 65 years",
+                "allages",
+                "aged 15-64 years",
+                "aged 0-15 years",
+                "allarea",
+                "aged 15-24 years",
+                "aged more 15 years",
+                "aged more 25 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "allarea",
+                "urban",
+                "rural",
+                "Bothsex",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bothsex",
+                "Female",
+                "Male",
+                "3",
+                "2",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

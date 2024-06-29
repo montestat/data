@@ -1,17 +1,23 @@
 Value,Disaggregation combinations using this value,Number of indicators
 adult,10,1
-aged 0-15 years,2,1
+aged 0-15 years,3,2
 aged 0-17 years,2,2
 aged 0-18 years,2,1
 aged 10-14 years,1,1
 aged 15-19 years,1,1
-aged 15-24 years,3,1
+aged 15-24 years,6,2
+aged 15-64 years,1,1
 aged 18-24 years,1,1
 aged 18-64 years,2,2
 aged 25-54 years,1,1
 aged 25-64 years,3,1
 aged 55-64 years,1,1
+aged 65 years,1,1
+aged more 15 years,3,1
+aged more 25 years,3,1
 aged over 65 years,2,2
+allages,5,1
+allarea,2,1
 class_2_3,4,1
 lower_high_school,10,2
 primary_school,10,2
