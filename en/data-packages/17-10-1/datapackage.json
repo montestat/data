@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions USD (2017)",
+                "millions_constant_usd_2017",
                 ""
               ]
             },
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Worldwide weighted tariff-average, most-favoured-nation status, all products",
-                "Worldwide weighted tariff-average, preferential status, all products",
+                "17_10_1_cat_1",
+                "17_10_1_cat_2",
                 ""
               ]
             },

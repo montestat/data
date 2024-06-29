@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "calculation indicator for households",
-                "calculation indicator for industry",
-                "calculation indicator total",
+                "water_waste_cat_1",
+                "water_waste_cat_2",
+                "water_waste_cat_total",
                 ""
               ]
             },

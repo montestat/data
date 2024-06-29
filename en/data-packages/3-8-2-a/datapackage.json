@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,",
-                "Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income",
+                "3_8_2_cat_1",
+                "3_8_2_cat_2",
                 ""
               ]
             },

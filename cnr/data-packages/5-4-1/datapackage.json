@@ -12,8 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "procenat stanovništva starosti 20-64 godine",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Neaktivno stanovništvo zbog obaveza njege",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

@@ -1,23 +1,23 @@
 Year,Units,Category,Value
-2011,tons,Recycled amounts of waste (R2-R11 + export),62408.5
-2012,tons,Recycled amounts of waste (R2-R11 + export),83782.8
-2013,tons,Recycled amounts of waste (R2-R11 + export),95912.5
-2014,tons,Recycled amounts of waste (R2-R11 + export),85900.3
-2015,tons,Recycled amounts of waste (R2-R11 + export),57390.9
-2016,tons,Recycled amounts of waste (R2-R11 + export),65469.6
-2017,tons,Recycled amounts of waste (R2-R11 + export),80158.7
-2018,tons,Recycled amounts of waste (R2-R11 + export),105281.5
-2019,tons,Recycled amounts of waste (R2-R11 + export),183447.3
-2020,tons,Recycled amounts of waste (R2-R11 + export),134864.8
-2021,tons,Recycled amounts of waste (R2-R11 + export),214273.3
-2011,tons,Total generated amounts of waste,1132479.7
-2012,tons,Total generated amounts of waste,1027342.7
-2013,tons,Total generated amounts of waste,1117588.7
-2014,tons,Total generated amounts of waste,1103608.6
-2015,tons,Total generated amounts of waste,1148148.7
-2016,tons,Total generated amounts of waste,1153331.4
-2017,tons,Total generated amounts of waste,1135054.5
-2018,tons,Total generated amounts of waste,1261159.7
-2019,tons,Total generated amounts of waste,1276244.6
-2020,tons,Total generated amounts of waste,1314393.6
-2021,tons,Total generated amounts of waste,1477865.8
+2011,tons,recycled_waste,62408.5
+2012,tons,recycled_waste,83782.8
+2013,tons,recycled_waste,95912.5
+2014,tons,recycled_waste,85900.3
+2015,tons,recycled_waste,57390.9
+2016,tons,recycled_waste,65469.6
+2017,tons,recycled_waste,80158.7
+2018,tons,recycled_waste,105281.5
+2019,tons,recycled_waste,183447.3
+2020,tons,recycled_waste,134864.8
+2021,tons,recycled_waste,214273.3
+2011,tons,total_waste,1132479.7
+2012,tons,total_waste,1027342.7
+2013,tons,total_waste,1117588.7
+2014,tons,total_waste,1103608.6
+2015,tons,total_waste,1148148.7
+2016,tons,total_waste,1153331.4
+2017,tons,total_waste,1135054.5
+2018,tons,total_waste,1261159.7
+2019,tons,total_waste,1276244.6
+2020,tons,total_waste,1314393.6
+2021,tons,total_waste,1477865.8

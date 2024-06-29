@@ -1,13 +1,13 @@
 Year,Units,Location,Age,Category,Value
-2018,total,,primary school,parity index,1.0
-2018,total,,primary school,wealth,0.95
-2018,total,,primary school,territory,0.99
-2018,total,,lower secondary school,parity index,1.06
-2018,total,,lower secondary school,wealth,0.66
-2018,total,,lower secondary school,territory,1.02
-2018,total,Roma settlements,primary school,parity index,1.06
-2018,total,Roma settlements,primary school,wealth,0.58
-2018,total,Roma settlements,primary school,territory,0.99
-2018,total,Roma settlements,lower secondary school,parity index,0.86
-2018,total,Roma settlements,lower secondary school,wealth,0.09
-2018,total,Roma settlements,lower secondary school,territory,0.58
+2018,total,,primary_school,parity_index,1.0
+2018,total,,primary_school,wealth,0.95
+2018,total,,primary_school,territory,0.99
+2018,total,,lower_high_school,parity_index,1.06
+2018,total,,lower_high_school,wealth,0.66
+2018,total,,lower_high_school,territory,1.02
+2018,total,Roma settlements,primary_school,parity_index,1.06
+2018,total,Roma settlements,primary_school,wealth,0.58
+2018,total,Roma settlements,primary_school,territory,0.99
+2018,total,Roma settlements,lower_high_school,parity_index,0.86
+2018,total,Roma settlements,lower_high_school,wealth,0.09
+2018,total,Roma settlements,lower_high_school,territory,0.58

@@ -32,10 +32,10 @@
             "constraints": {
               "enum": [
                 "total",
-                "railway traffic",
-                "road traffic",
-                "air traffic",
-                "maritime traffic",
+                "railway_traffic",
+                "road_traffic",
+                "air_traffic",
+                "maritime_traffic",
                 ""
               ]
             },

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million kW",
+                "million_kw",
                 ""
               ]
             },

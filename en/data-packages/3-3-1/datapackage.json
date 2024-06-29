@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total infected",
-                "per 1000 uninfected population",
+                "total_infected",
+                "per_1000_uninfected_population",
                 ""
               ]
             },

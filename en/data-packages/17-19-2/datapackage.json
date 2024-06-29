@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes/no",
+                "yes_no",
                 "%",
                 ""
               ]
@@ -32,23 +32,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population and household census",
+                "population_census",
                 ""
               ]
             },
-            "title": "Population and household census"
+            "title": "Census"
           },
           {
             "name": "Register",
             "type": "string",
             "constraints": {
               "enum": [
-                "Entry in the register of births",
-                "Entry in the death register",
+                "register_of_births",
+                "register_of_deaths",
                 ""
               ]
             },
-            "title": "Register of births/deaths"
+            "title": "Register"
           },
           {
             "name": "Value",

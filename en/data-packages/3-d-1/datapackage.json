@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "International Health Regulations (IHR) capacity, State Party Self-Assessment Annual Report (SPAR), Legislation and financing",
-                "International Health Regulations (IHR) capacity, State Party Self-Assessment Annual Report (SPAR), IHR Coordination and National IHR Focal Point Functions",
+                "3_d_1_cat_1",
+                "3_d_1_cat_2",
                 ""
               ]
             },

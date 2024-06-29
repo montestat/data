@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Both sexes",
+                "Bothsex",
                 "Female",
                 "Male",
                 ""

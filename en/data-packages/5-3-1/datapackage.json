@@ -42,8 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "less than 15 years",
-                "less than 18 years",
+                "aged 0-15 years",
+                "aged 0-18 years",
                 ""
               ]
             },

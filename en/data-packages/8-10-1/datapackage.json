@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "total",
-                "per 100 000 adults",
+                "per_100000_adults",
                 ""
               ]
             },
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "branches of commercial banks",
-                "ATMs",
-                "adults (15+)",
+                "branches_of_commercial_banks",
+                "atms",
+                "adults_15",
                 ""
               ]
             },

@@ -31,10 +31,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "bodies of water",
-                "groundwater bodies",
-                "open water bodies",
-                "river water bodies",
+                "6_3_2_cat_1",
+                "6_3_2_cat_2",
+                "6_3_2_cat_3",
+                "6_3_2_cat_4",
                 ""
               ]
             },

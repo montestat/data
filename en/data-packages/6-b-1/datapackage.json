@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "level of participation (1 - low, 2 - moderate, 3 - high)",
+                "level_of_participation",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "drinking water - urban",
-                "drinking water - rural",
-                "sanitation - urban",
-                "sanitation - rural",
-                "hygiene promotion",
-                "water resources planning and management",
+                "6_b_1_cat_1",
+                "6_b_1_cat_2",
+                "6_b_1_cat_3",
+                "6_b_1_cat_4",
+                "6_b_1_cat_5",
+                "6_b_1_cat_6",
                 ""
               ]
             },

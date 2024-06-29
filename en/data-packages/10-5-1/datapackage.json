@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-performing loans net of provisions to capital",
-                "Non-performing loans to total gross loans",
+                "10_5_1_cat_1",
+                "10_5_1_cat_2",
                 ""
               ]
             },

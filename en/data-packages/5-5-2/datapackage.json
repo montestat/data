@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "managerial positions",
-                "senior and middle management positions",
+                "5_5_2_cat_1",
+                "5_5_2_cat_2",
                 ""
               ]
             },

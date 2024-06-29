@@ -1,7 +1,7 @@
 Year,Units,Category,Value
-2019,per 1000 population,Age-standardized mortality rate attributed to ambient air pollution,60
-2019,per 1000 population,Age-standardized mortality rate attributed to household air pollution,66
-2019,per 1000 population,Age-standardized mortality rate attributed to household and ambient air pollution,115
-2019,per 1000 population,Crude death rate attributed to ambient air pollution,77
-2019,per 1000 population,Crude death rate attributed to household and ambient air pollution,140
-2019,per 1000 population,Crude death rate attributed to household air pollution,71
+2019,per_1000_population,3_9_1_cat_1,60
+2019,per_1000_population,3_9_1_cat_2,66
+2019,per_1000_population,3_9_1_cat_3,115
+2019,per_1000_population,3_9_1_cat_4,77
+2019,per_1000_population,3_9_1_cat_5,140
+2019,per_1000_population,3_9_1_cat_6,71

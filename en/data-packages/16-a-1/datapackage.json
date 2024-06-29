@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "accreditation  (1 is equivalent to accreditation type A)",
+                "accreditation",
                 ""
               ]
             },

@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones)",
+                "14_5_1_cat_1",
+                "14_5_1_cat_2",
                 ""
               ]
             },

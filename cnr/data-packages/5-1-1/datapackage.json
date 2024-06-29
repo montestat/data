@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "bodovi",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stepen do kojeg pravni okviri promovišu, sprovode i prate rodnu ravnopravnost u javnom životu, na skali od 0 do 100",
+                "Stepen do kojeg pravni okviri promovišu, sprovode i prate rodnu ravnopravnost u pogledu nasilja nad ženama, na skali od 0 do 100.",
+                "Stepen do kojeg pravni okviri promovišu, sprovode i prate rodnu ravnopravnost u pogledu zapošljavanja i ekonomskih koristi, na skali od 0 do 100.",
+                "Stepen do kojeg pravni okviri promovišu, sprovode i prate rodnu ravnopravnost u pogledu bračnih i porodičnih beneficija, na skali od 0 do 100.",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

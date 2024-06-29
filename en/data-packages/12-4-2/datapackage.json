@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg per capita",
+                "per_capita_kg",
                 "%",
                 ""
               ]
@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hazardous waste generated",
-                "Processed hazardous waste in the total amount of hazardous waste generated",
-                "Share of operations R in total processing",
-                "Share of operations D in total processing",
-                "Share of exports in total processing",
+                "hazardous_waste",
+                "processed_hazardous_waste",
+                "waste_operation_r",
+                "waste_operation_d",
+                "waste_export",
                 ""
               ]
             },

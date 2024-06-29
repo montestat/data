@@ -32,8 +32,8 @@
             "constraints": {
               "enum": [
                 "total",
-                "river and lake basins",
-                "aquifers",
+                "6_5_2_cat_1",
+                "6_5_2_cat_2",
                 ""
               ]
             },

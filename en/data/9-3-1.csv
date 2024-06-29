@@ -1,17 +1,17 @@
 Year,Units,Category,Value
-2012,%,ore and stone extraction,6
-2013,%,ore and stone extraction,11
-2014,%,ore and stone extraction,12
-2015,%,ore and stone extraction,9
-2012,%,manufacturing industry,42
-2013,%,manufacturing industry,41
-2014,%,manufacturing industry,40
-2015,%,manufacturing industry,45
-2012,%,"electricity, gas, steam and air conditioning supply",1
-2013,%,"electricity, gas, steam and air conditioning supply",0
-2014,%,"electricity, gas, steam and air conditioning supply",0
-2015,%,"electricity, gas, steam and air conditioning supply",1
-2012,%,"water supply, waste water management, control of waste removal processes and similar activities",14
-2013,%,"water supply, waste water management, control of waste removal processes and similar activities",12
-2014,%,"water supply, waste water management, control of waste removal processes and similar activities",13
-2015,%,"water supply, waste water management, control of waste removal processes and similar activities",14
+2012,%,cat_b,6
+2013,%,cat_b,11
+2014,%,cat_b,12
+2015,%,cat_b,9
+2012,%,cat_c,42
+2013,%,cat_c,41
+2014,%,cat_c,40
+2015,%,cat_c,45
+2012,%,cat_d,1
+2013,%,cat_d,0
+2014,%,cat_d,0
+2015,%,cat_d,1
+2012,%,cat_e,14
+2013,%,cat_e,12
+2014,%,cat_e,13
+2015,%,cat_e,14

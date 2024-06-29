@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "millions_constant_usd_2021",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions USD",
+                "million_usd",
                 ""
               ]
             },
@@ -32,11 +32,11 @@
             "constraints": {
               "enum": [
                 "total",
-                "Hydro-electric power plants",
-                "Waste management/disposal",
-                "Water resources conservation (including data collection)",
-                "Water supply and sanitation - large systems",
-                "Government",
+                "6_a_1_cat_1",
+                "6_a_1_cat_2",
+                "6_a_1_cat_3",
+                "6_a_1_cat_4",
+                "government",
                 ""
               ]
             },

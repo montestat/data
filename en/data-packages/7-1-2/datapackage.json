@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of population using clean fuels and technologies for cooking",
-                "Share of population using clean fuels and technologies for heating",
-                "Share of population using clean fuels and technologies for lighting",
-                "Share of population using clean fuels and technologies for cooking, heating and lighting",
-                "Share of population using clean fuels and technologies",
+                "clean_tech_cat_1",
+                "clean_tech_cat_2",
+                "clean_tech_cat_3",
+                "clean_tech_cat_4",
+                "clean_tech_cat_5",
                 ""
               ]
             },

@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Recycled amounts of waste (R2-R11 + export)",
-                "Total generated amounts of waste",
+                "recycled_waste",
+                "total_waste",
                 ""
               ]
             },

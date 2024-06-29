@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100 000 population",
+                "per_100000_population",
                 ""
               ]
             },
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of deaths and missing persons attributed to disasters",
-                "Number of directly affected persons attributed to disasters",
+                "1_5_1_cat_1",
+                "1_5_1_cat_2",
                 ""
               ]
             },

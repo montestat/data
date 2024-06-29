@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basel convention",
-                "Rotterdam convention",
-                "Stockholm convention",
-                "Montreal convention",
-                "Minamata convention",
+                "basel_convention",
+                "rotterdam_convention",
+                "stockholm_convention",
+                "montreal_convention",
+                "minamata_convention",
                 ""
               ]
             },
@@ -46,20 +46,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Designation of the contact person and one or more competent authorities",
-                "Submission of annual national reports during the reporting period",
+                "basel_convention_1",
+                "basel_convention_2",
                 "basel_convention_3",
                 "basel_convention_4",
                 "basel_convention_5",
-                "Designation of competent national authorities and official contact points",
-                "Submitting an import response during the reporting period (0.2 points per import response)",
-                "Designation of official contact point and national focal point",
-                "Submission of the national implementation plan",
-                "Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan)",
-                "Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol",
-                "Submission of information on licensing systems under Article 4B of the Montreal Protocol",
-                "Designation of the national key point (Article 17)",
-                "Submitting a national report (Article 21)",
+                "rotterdam_convention_1",
+                "rotterdam_convention_2",
+                "stockholm_convention_1",
+                "stockholm_convention_2",
+                "stockholm_convention_3",
+                "montreal_convention_1",
+                "montreal_convention_2",
+                "minamata_convention_1",
+                "minamata_convention_2",
                 ""
               ]
             },

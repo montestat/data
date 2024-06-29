@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "grades 2/3",
-                "primary school",
-                "lower secondary school",
+                "class_2_3",
+                "primary_school",
+                "lower_high_school",
                 ""
               ]
             },
@@ -57,7 +57,7 @@
             "constraints": {
               "enum": [
                 "reading",
-                "mathematics",
+                "maths",
                 ""
               ]
             },

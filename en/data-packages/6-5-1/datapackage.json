@@ -32,10 +32,10 @@
             "constraints": {
               "enum": [
                 "total",
-                "enabling environment",
-                "institutions and participation",
-                "management instruments",
-                "financing",
+                "6_5_1_cat_1",
+                "6_5_1_cat_2",
+                "6_5_1_cat_3",
+                "6_5_1_cat_4",
                 ""
               ]
             },

@@ -59,8 +59,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Other",
+                "urban",
+                "rural",
                 ""
               ]
             },

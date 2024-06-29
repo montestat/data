@@ -1,13 +1,13 @@
 Year,Units,Category,Value
-2019,"level of participation (1 - low, 2 - moderate, 3 - high)",drinking water - urban,2
-2019,"level of participation (1 - low, 2 - moderate, 3 - high)",drinking water - rural,2
-2019,"level of participation (1 - low, 2 - moderate, 3 - high)",sanitation - urban,2
-2019,"level of participation (1 - low, 2 - moderate, 3 - high)",sanitation - rural,2
-2019,"level of participation (1 - low, 2 - moderate, 3 - high)",hygiene promotion,2
-2019,"level of participation (1 - low, 2 - moderate, 3 - high)",water resources planning and management,2
-2021,"level of participation (1 - low, 2 - moderate, 3 - high)",drinking water - urban,2
-2021,"level of participation (1 - low, 2 - moderate, 3 - high)",drinking water - rural,2
-2021,"level of participation (1 - low, 2 - moderate, 3 - high)",sanitation - urban,2
-2021,"level of participation (1 - low, 2 - moderate, 3 - high)",sanitation - rural,2
-2021,"level of participation (1 - low, 2 - moderate, 3 - high)",hygiene promotion,2
-2021,"level of participation (1 - low, 2 - moderate, 3 - high)",water resources planning and management,2
+2019,level_of_participation,6_b_1_cat_1,2
+2019,level_of_participation,6_b_1_cat_2,2
+2019,level_of_participation,6_b_1_cat_3,2
+2019,level_of_participation,6_b_1_cat_4,2
+2019,level_of_participation,6_b_1_cat_5,2
+2019,level_of_participation,6_b_1_cat_6,2
+2021,level_of_participation,6_b_1_cat_1,2
+2021,level_of_participation,6_b_1_cat_2,2
+2021,level_of_participation,6_b_1_cat_3,2
+2021,level_of_participation,6_b_1_cat_4,2
+2021,level_of_participation,6_b_1_cat_5,2
+2021,level_of_participation,6_b_1_cat_6,2

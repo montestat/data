@@ -1,76 +1,76 @@
-Year,Units,Category,Economic size classes of farms in 2010,Class size according to used agricultural land (ha),LSU,Value
-2010,total,total,Number of farms,,,48824.0
-2010,total,total,< 2000,,,31769.0
-2010,total,total,2000-4000,,,9462.0
-2010,total,total,4000-8000,,,5216.0
-2010,total,total, 8000-15000,,,1783.0
-2010,total,total,15000-25000,,,426.0
-2010,total,total,> 25000,,,168.0
-2010,total,< 1 GJR,Number of farms,,,28986.0
-2010,total,< 1 GJR,< 2000,,,23768.0
-2010,total,< 1 GJR,2000-4000,,,3695.0
-2010,total,< 1 GJR,4000-8000,,,1195.0
-2010,total,< 1 GJR, 8000-15000,,,245.0
-2010,total,< 1 GJR,15000-25000,,,54.0
-2010,total,< 1 GJR,> 25000,,,29.0
-2010,total,1-2 GJR,Number of farms,,,12744.0
-2010,total,1-2 GJR,< 2000,,,6184.0
-2010,total,1-2 GJR,2000-4000,,,3743.0
-2010,total,1-2 GJR,4000-8000,,,2048.0
-2010,total,1-2 GJR, 8000-15000,,,605.0
-2010,total,1-2 GJR,15000-25000,,,111.0
-2010,total,1-2 GJR,> 25000,,,53.0
-2010,total,2-3 GJR,Number of farms,,,5459.0
-2010,total,2-3 GJR,< 2000,,,1544.0
-2010,total,2-3 GJR,2000-4000,,,1656.0
-2010,total,2-3 GJR,4000-8000,,,1470.0
-2010,total,2-3 GJR, 8000-15000,,,602.0
-2010,total,2-3 GJR,15000-25000,,,143.0
-2010,total,2-3 GJR,> 25000,,,44.0
-2010,total,> 3 GJR,Number of farms,,,1635.0
-2010,total,> 3 GJR,< 2000,,,273.0
-2010,total,> 3 GJR,2000-4000,,,368.0
-2010,total,> 3 GJR,4000-8000,,,503.0
-2010,total,> 3 GJR, 8000-15000,,,331.0
-2010,total,> 3 GJR,15000-25000,,,118.0
-2010,total,> 3 GJR,> 25000,,,42.0
-2016,total,Farms SPG 2016 - hectares,,Without land,,311.0
-2016,total,Farms SPG 2016 - hectares,,<0.10,,1560.0
-2016,total,Farms SPG 2016 - hectares,,0.10-0.50,,10590.0
-2016,total,Farms SPG 2016 - hectares,,0.50-1.00,,5815.0
-2016,total,Farms SPG 2016 - hectares,,1.00-2.00,,7363.0
-2016,total,Farms SPG 2016 - hectares,,2.00-3.00,,3895.0
-2016,total,Farms SPG 2016 - hectares,,3.00-4.00,,2511.0
-2016,total,Farms SPG 2016 - hectares,,4.00-5.00,,1600.0
-2016,total,Farms SPG 2016 - hectares,,5.00-6.00,,1462.0
-2016,total,Farms SPG 2016 - hectares,,6.00-8.00,,2164.0
-2016,total,Farms SPG 2016 - hectares,,8.00-10.00,,1082.0
-2016,total,Farms SPG 2016 - hectares,,10.00-15.00,,1584.0
-2016,total,Farms SPG 2016 - hectares,,15.00-20.00,,1042.0
-2016,total,Farms SPG 2016 - hectares,,20.00-30.00,,1029.0
-2016,total,Farms SPG 2016 - hectares,,30.00-50.00,,900.0
-2016,total,Farms SPG 2016 - hectares,,50.00-100.00,,587.0
-2016,total,Farms SPG 2016 - hectares,,>100.00,,296.0
-2010,total,Farms PP 2010 - hectares,,Without land,,593.0
-2010,total,Farms PP 2010 - hectares,,<0.10,,2515.0
-2010,total,Farms PP 2010 - hectares,,0.10-0.50,,15418.0
-2010,total,Farms PP 2010 - hectares,,0.50-1.00,,8467.0
-2010,total,Farms PP 2010 - hectares,,1.00-2.00,,8867.0
-2010,total,Farms PP 2010 - hectares,,2.00-3.00,,4081.0
-2010,total,Farms PP 2010 - hectares,,3.00-4.00,,2258.0
-2010,total,Farms PP 2010 - hectares,,4.00-5.00,,1288.0
-2010,total,Farms PP 2010 - hectares,,5.00-6.00,,1057.0
-2010,total,Farms PP 2010 - hectares,,6.00-8.00,,1067.0
-2010,total,Farms PP 2010 - hectares,,8.00-10.00,,588.0
-2010,total,Farms PP 2010 - hectares,,10.00-15.00,,815.0
-2010,total,Farms PP 2010 - hectares,,15.00-20.00,,342.0
-2010,total,Farms PP 2010 - hectares,,20.00-30.00,,329.0
-2010,total,Farms PP 2010 - hectares,,30.00-50.00,,313.0
-2010,total,Farms PP 2010 - hectares,,50.00-100.00,,441.0
-2010,total,Farms PP 2010 - hectares,,>100.00,,431.0
-2010,total,,,,Farms,32675.0
-2010,total,,,,LSU,117753.1
-2010,total,Family farms,,,Farms,32656.0
-2010,total,Family farms,,,LSU,112861.9
-2010,total,Companies,,,Farms,19.0
-2010,total,Companies,,,LSU,4891.2
+Year,Units,Category,Economic class,Size class,LSU class,Value
+2010,total,total,number_of_farms,,,48824.0
+2010,total,total,economic_class_less_2000,,,31769.0
+2010,total,total,economic_class_2000_4000,,,9462.0
+2010,total,total,economic_class_4000_8000,,,5216.0
+2010,total,total,economic_class_8000_15000,,,1783.0
+2010,total,total,economic_class_15000_25000,,,426.0
+2010,total,total,economic_class_more_25000,,,168.0
+2010,total,less_1_gjr,number_of_farms,,,28986.0
+2010,total,less_1_gjr,economic_class_less_2000,,,23768.0
+2010,total,less_1_gjr,economic_class_2000_4000,,,3695.0
+2010,total,less_1_gjr,economic_class_4000_8000,,,1195.0
+2010,total,less_1_gjr,economic_class_8000_15000,,,245.0
+2010,total,less_1_gjr,economic_class_15000_25000,,,54.0
+2010,total,less_1_gjr,economic_class_more_25000,,,29.0
+2010,total,1_2_gjr,number_of_farms,,,12744.0
+2010,total,1_2_gjr,economic_class_less_2000,,,6184.0
+2010,total,1_2_gjr,economic_class_2000_4000,,,3743.0
+2010,total,1_2_gjr,economic_class_4000_8000,,,2048.0
+2010,total,1_2_gjr,economic_class_8000_15000,,,605.0
+2010,total,1_2_gjr,economic_class_15000_25000,,,111.0
+2010,total,1_2_gjr,economic_class_more_25000,,,53.0
+2010,total,2_3_gjr,number_of_farms,,,5459.0
+2010,total,2_3_gjr,economic_class_less_2000,,,1544.0
+2010,total,2_3_gjr,economic_class_2000_4000,,,1656.0
+2010,total,2_3_gjr,economic_class_4000_8000,,,1470.0
+2010,total,2_3_gjr,economic_class_8000_15000,,,602.0
+2010,total,2_3_gjr,economic_class_15000_25000,,,143.0
+2010,total,2_3_gjr,economic_class_more_25000,,,44.0
+2010,total,more_3_gjr,number_of_farms,,,1635.0
+2010,total,more_3_gjr,economic_class_less_2000,,,273.0
+2010,total,more_3_gjr,economic_class_2000_4000,,,368.0
+2010,total,more_3_gjr,economic_class_4000_8000,,,503.0
+2010,total,more_3_gjr,economic_class_8000_15000,,,331.0
+2010,total,more_3_gjr,economic_class_15000_25000,,,118.0
+2010,total,more_3_gjr,economic_class_more_25000,,,42.0
+2016,total,farms_spg_2016,,without_land,,311.0
+2016,total,farms_spg_2016,,size_class_less_0.10,,1560.0
+2016,total,farms_spg_2016,,size_class_0.10_0.50,,10590.0
+2016,total,farms_spg_2016,,size_class_0.50_1.00,,5815.0
+2016,total,farms_spg_2016,,size_class_1.00_2.00,,7363.0
+2016,total,farms_spg_2016,,size_class_2.00_3.00,,3895.0
+2016,total,farms_spg_2016,,size_class_3.00_4.00,,2511.0
+2016,total,farms_spg_2016,,size_class_4.00_5.00,,1600.0
+2016,total,farms_spg_2016,,size_class_5.00_6.00,,1462.0
+2016,total,farms_spg_2016,,size_class_6.00_8.00,,2164.0
+2016,total,farms_spg_2016,,size_class_8.00_10.00,,1082.0
+2016,total,farms_spg_2016,,size_class_10.00_15.00,,1584.0
+2016,total,farms_spg_2016,,size_class_15.00_20.00,,1042.0
+2016,total,farms_spg_2016,,size_class_20.00_30.00,,1029.0
+2016,total,farms_spg_2016,,size_class_30.00_50.00,,900.0
+2016,total,farms_spg_2016,,size_class_50.00_100.00,,587.0
+2016,total,farms_spg_2016,,size_class_more_100.00,,296.0
+2010,total,farms_pp_2010,,without_land,,593.0
+2010,total,farms_pp_2010,,size_class_less_0.10,,2515.0
+2010,total,farms_pp_2010,,size_class_0.10_0.50,,15418.0
+2010,total,farms_pp_2010,,size_class_0.50_1.00,,8467.0
+2010,total,farms_pp_2010,,size_class_1.00_2.00,,8867.0
+2010,total,farms_pp_2010,,size_class_2.00_3.00,,4081.0
+2010,total,farms_pp_2010,,size_class_3.00_4.00,,2258.0
+2010,total,farms_pp_2010,,size_class_4.00_5.00,,1288.0
+2010,total,farms_pp_2010,,size_class_5.00_6.00,,1057.0
+2010,total,farms_pp_2010,,size_class_6.00_8.00,,1067.0
+2010,total,farms_pp_2010,,size_class_8.00_10.00,,588.0
+2010,total,farms_pp_2010,,size_class_10.00_15.00,,815.0
+2010,total,farms_pp_2010,,size_class_15.00_20.00,,342.0
+2010,total,farms_pp_2010,,size_class_20.00_30.00,,329.0
+2010,total,farms_pp_2010,,size_class_30.00_50.00,,313.0
+2010,total,farms_pp_2010,,size_class_50.00_100.00,,441.0
+2010,total,farms_pp_2010,,size_class_more_100.00,,431.0
+2010,total,,,,farms,32675.0
+2010,total,,,,lsu,117753.1
+2010,total,family_agriculture,,,farms,32656.0
+2010,total,family_agriculture,,,lsu,112861.9
+2010,total,companies,,,farms,19.0
+2010,total,companies,,,lsu,4891.2

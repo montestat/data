@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes/no",
+                "yes_no",
                 ""
               ]
             },
@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Implementation of the strategy for the introduction of the national statistical plan",
+                "national_stat_plan_strategy",
                 ""
               ]
             },

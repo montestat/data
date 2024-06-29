@@ -1,89 +1,89 @@
 Year,Units,Age,Sex,Category,Value
-2016,total,grades 2/3,Female,reading,7538
-2017,total,grades 2/3,Female,reading,7567
-2018,total,grades 2/3,Female,reading,7690
-2019,total,grades 2/3,Female,reading,7435
-2020,total,grades 2/3,Female,reading,7308
-2021,total,grades 2/3,Female,reading,7204
-2022,total,grades 2/3,Female,reading,7261
-2023,total,grades 2/3,Female,reading,7388
-2016,total,grades 2/3,Female,mathematics,7538
-2017,total,grades 2/3,Female,mathematics,7567
-2018,total,grades 2/3,Female,mathematics,7690
-2019,total,grades 2/3,Female,mathematics,7435
-2020,total,grades 2/3,Female,mathematics,7308
-2021,total,grades 2/3,Female,mathematics,7204
-2022,total,grades 2/3,Female,mathematics,7261
-2023,total,grades 2/3,Female,mathematics,7388
-2016,total,grades 2/3,Male,reading,8421
-2017,total,grades 2/3,Male,reading,8451
-2018,total,grades 2/3,Male,reading,8491
-2019,total,grades 2/3,Male,reading,8094
-2020,total,grades 2/3,Male,reading,7882
-2021,total,grades 2/3,Male,reading,7768
-2022,total,grades 2/3,Male,reading,7925
-2023,total,grades 2/3,Male,reading,8034
-2016,total,grades 2/3,Male,mathematics,8421
-2017,total,grades 2/3,Male,mathematics,8451
-2018,total,grades 2/3,Male,mathematics,8491
-2019,total,grades 2/3,Male,mathematics,8094
-2020,total,grades 2/3,Male,mathematics,7882
-2021,total,grades 2/3,Male,mathematics,7768
-2022,total,grades 2/3,Male,mathematics,7925
-2023,total,grades 2/3,Male,mathematics,8034
-2016,total,primary school,Female,reading,3754
-2017,total,primary school,Female,reading,3696
-2018,total,primary school,Female,reading,3540
-2019,total,primary school,Female,reading,3447
-2020,total,primary school,Female,reading,3303
-2021,total,primary school,Female,reading,3337
-2022,total,primary school,Female,reading,3515
-2016,total,primary school,Female,mathematics,3754
-2017,total,primary school,Female,mathematics,3696
-2018,total,primary school,Female,mathematics,3540
-2019,total,primary school,Female,mathematics,3447
-2020,total,primary school,Female,mathematics,3303
-2021,total,primary school,Female,mathematics,3337
-2022,total,primary school,Female,mathematics,3515
-2016,total,primary school,Male,reading,3947
-2017,total,primary school,Male,reading,4051
-2018,total,primary school,Male,reading,3810
-2019,total,primary school,Male,reading,3531
-2020,total,primary school,Male,reading,3682
-2021,total,primary school,Male,reading,3618
-2022,total,primary school,Male,reading,3798
-2016,total,primary school,Male,mathematics,3947
-2017,total,primary school,Male,mathematics,4051
-2018,total,primary school,Male,mathematics,3810
-2019,total,primary school,Male,mathematics,3531
-2020,total,primary school,Male,mathematics,3682
-2021,total,primary school,Male,mathematics,3618
-2022,total,primary school,Male,mathematics,3798
-2016,total,lower secondary school,Female,reading,3603
-2017,total,lower secondary school,Female,reading,3185
-2018,total,lower secondary school,Female,reading,3110
-2019,total,lower secondary school,Female,reading,3209
-2020,total,lower secondary school,Female,reading,3373
-2021,total,lower secondary school,Female,reading,3549
-2022,total,lower secondary school,Female,reading,3233
-2016,total,lower secondary school,Female,mathematics,3603
-2017,total,lower secondary school,Female,mathematics,3185
-2018,total,lower secondary school,Female,mathematics,3110
-2019,total,lower secondary school,Female,mathematics,3209
-2020,total,lower secondary school,Female,mathematics,3373
-2021,total,lower secondary school,Female,mathematics,3549
-2022,total,lower secondary school,Female,mathematics,3233
-2016,total,lower secondary school,Male,reading,3595
-2017,total,lower secondary school,Male,reading,3235
-2018,total,lower secondary school,Male,reading,3238
-2019,total,lower secondary school,Male,reading,3200
-2020,total,lower secondary school,Male,reading,3423
-2021,total,lower secondary school,Male,reading,4065
-2022,total,lower secondary school,Male,reading,3324
-2016,total,lower secondary school,Male,mathematics,3595
-2017,total,lower secondary school,Male,mathematics,3235
-2018,total,lower secondary school,Male,mathematics,3238
-2019,total,lower secondary school,Male,mathematics,3200
-2020,total,lower secondary school,Male,mathematics,3423
-2021,total,lower secondary school,Male,mathematics,4065
-2022,total,lower secondary school,Male,mathematics,3324
+2016,total,class_2_3,Female,reading,7538
+2017,total,class_2_3,Female,reading,7567
+2018,total,class_2_3,Female,reading,7690
+2019,total,class_2_3,Female,reading,7435
+2020,total,class_2_3,Female,reading,7308
+2021,total,class_2_3,Female,reading,7204
+2022,total,class_2_3,Female,reading,7261
+2023,total,class_2_3,Female,reading,7388
+2016,total,class_2_3,Female,maths,7538
+2017,total,class_2_3,Female,maths,7567
+2018,total,class_2_3,Female,maths,7690
+2019,total,class_2_3,Female,maths,7435
+2020,total,class_2_3,Female,maths,7308
+2021,total,class_2_3,Female,maths,7204
+2022,total,class_2_3,Female,maths,7261
+2023,total,class_2_3,Female,maths,7388
+2016,total,class_2_3,Male,reading,8421
+2017,total,class_2_3,Male,reading,8451
+2018,total,class_2_3,Male,reading,8491
+2019,total,class_2_3,Male,reading,8094
+2020,total,class_2_3,Male,reading,7882
+2021,total,class_2_3,Male,reading,7768
+2022,total,class_2_3,Male,reading,7925
+2023,total,class_2_3,Male,reading,8034
+2016,total,class_2_3,Male,maths,8421
+2017,total,class_2_3,Male,maths,8451
+2018,total,class_2_3,Male,maths,8491
+2019,total,class_2_3,Male,maths,8094
+2020,total,class_2_3,Male,maths,7882
+2021,total,class_2_3,Male,maths,7768
+2022,total,class_2_3,Male,maths,7925
+2023,total,class_2_3,Male,maths,8034
+2016,total,primary_school,Female,reading,3754
+2017,total,primary_school,Female,reading,3696
+2018,total,primary_school,Female,reading,3540
+2019,total,primary_school,Female,reading,3447
+2020,total,primary_school,Female,reading,3303
+2021,total,primary_school,Female,reading,3337
+2022,total,primary_school,Female,reading,3515
+2016,total,primary_school,Female,maths,3754
+2017,total,primary_school,Female,maths,3696
+2018,total,primary_school,Female,maths,3540
+2019,total,primary_school,Female,maths,3447
+2020,total,primary_school,Female,maths,3303
+2021,total,primary_school,Female,maths,3337
+2022,total,primary_school,Female,maths,3515
+2016,total,primary_school,Male,reading,3947
+2017,total,primary_school,Male,reading,4051
+2018,total,primary_school,Male,reading,3810
+2019,total,primary_school,Male,reading,3531
+2020,total,primary_school,Male,reading,3682
+2021,total,primary_school,Male,reading,3618
+2022,total,primary_school,Male,reading,3798
+2016,total,primary_school,Male,maths,3947
+2017,total,primary_school,Male,maths,4051
+2018,total,primary_school,Male,maths,3810
+2019,total,primary_school,Male,maths,3531
+2020,total,primary_school,Male,maths,3682
+2021,total,primary_school,Male,maths,3618
+2022,total,primary_school,Male,maths,3798
+2016,total,lower_high_school,Female,reading,3603
+2017,total,lower_high_school,Female,reading,3185
+2018,total,lower_high_school,Female,reading,3110
+2019,total,lower_high_school,Female,reading,3209
+2020,total,lower_high_school,Female,reading,3373
+2021,total,lower_high_school,Female,reading,3549
+2022,total,lower_high_school,Female,reading,3233
+2016,total,lower_high_school,Female,maths,3603
+2017,total,lower_high_school,Female,maths,3185
+2018,total,lower_high_school,Female,maths,3110
+2019,total,lower_high_school,Female,maths,3209
+2020,total,lower_high_school,Female,maths,3373
+2021,total,lower_high_school,Female,maths,3549
+2022,total,lower_high_school,Female,maths,3233
+2016,total,lower_high_school,Male,reading,3595
+2017,total,lower_high_school,Male,reading,3235
+2018,total,lower_high_school,Male,reading,3238
+2019,total,lower_high_school,Male,reading,3200
+2020,total,lower_high_school,Male,reading,3423
+2021,total,lower_high_school,Male,reading,4065
+2022,total,lower_high_school,Male,reading,3324
+2016,total,lower_high_school,Male,maths,3595
+2017,total,lower_high_school,Male,maths,3235
+2018,total,lower_high_school,Male,maths,3238
+2019,total,lower_high_school,Male,maths,3200
+2020,total,lower_high_school,Male,maths,3423
+2021,total,lower_high_school,Male,maths,4065
+2022,total,lower_high_school,Male,maths,3324

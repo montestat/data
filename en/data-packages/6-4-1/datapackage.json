@@ -32,9 +32,9 @@
             "constraints": {
               "enum": [
                 "total",
-                "agriculture",
-                "industries",
-                "services",
+                "6_4_1_cat_2",
+                "6_4_1_cat_3",
+                "6_4_1_cat_4",
                 ""
               ]
             },

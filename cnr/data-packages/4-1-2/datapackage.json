@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stopa završetka nižeg srednjeg obrazovanja",
+                ""
+              ]
+            },
+            "title": "Jedinica"
           },
           {
             "name": "Value",

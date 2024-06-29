@@ -1,9 +1,9 @@
 Year,Units,Category,Value
-2017,%,bodies of water,94.1
-2020,%,bodies of water,88.1
-2017,%,groundwater bodies,0.0
-2020,%,groundwater bodies,100.0
-2017,%,open water bodies,100.0
-2020,%,open water bodies,90.9
-2017,%,river water bodies,100.0
-2020,%,river water bodies,86.7
+2017,%,6_3_2_cat_1,94.1
+2020,%,6_3_2_cat_1,88.1
+2017,%,6_3_2_cat_2,0.0
+2020,%,6_3_2_cat_2,100.0
+2017,%,6_3_2_cat_3,100.0
+2020,%,6_3_2_cat_3,90.9
+2017,%,6_3_2_cat_4,100.0
+2020,%,6_3_2_cat_4,86.7

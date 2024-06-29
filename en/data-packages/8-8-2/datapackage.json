@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Score 1-10",
+                "score_1_10",
                 ""
               ]
             },

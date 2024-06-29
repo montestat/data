@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes/no",
+                "yes_no",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UN General Assembly",
-                "UN Security Council",
-                "UN Economic and Social Council",
-                "International Monetary Fund",
-                "International Bank for Reconstruction and Development",
-                "World Trade Organization",
+                "un_general_assembly",
+                "un_security_council",
+                "un_economic_social_council",
+                "international_monetary_fund",
+                "international_bank_for_reconstruction",
+                "world_trade_organization",
                 ""
               ]
             },
@@ -47,8 +47,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Is Montenegro a member?",
-                "Does Montenegro have the right to vote?",
+                "mne_member",
+                "mne_vote",
                 ""
               ]
             },

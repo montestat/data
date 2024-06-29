@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Litres of pure alcohol",
+                "litres_pure_alcohol",
                 ""
               ]
             },

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percent of GDP",
-                "per capita, in EUR",
+                "percent_of_gdp",
+                "per_capita_in_eur",
                 ""
               ]
             },
@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "manufacturing value",
+                "manufacturing_value",
                 ""
               ]
             },

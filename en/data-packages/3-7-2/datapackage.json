@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 1000 women",
+                "per_1000_women",
                 ""
               ]
             },

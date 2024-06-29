@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg per capita per year",
-                "tonnes per year",
+                "kg_capita_year",
+                "tonnes_year",
                 ""
               ]
             },

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes per hectare",
+                "tonnes_per_hectare",
                 "%",
                 ""
               ]
@@ -32,10 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Above-ground biomass in forest",
-                "Annual forest area change rate",
-                "Proportion of forest area with a long-term management plan",
-                "Proportion of forest area within legally established protected areas",
+                "15_2_1_cat_1",
+                "15_2_1_cat_2",
+                "15_2_1_cat_3",
+                "15_2_1_cat_4",
                 ""
               ]
             },
