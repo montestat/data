@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "IND",
+                "CLO",
+                "TEX",
+                "ALP",
+                "ARM",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

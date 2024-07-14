@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "IND",
+                "CLO",
+                "TEX",
+                "ALP",
+                "ARM",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

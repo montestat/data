@@ -97,7 +97,10 @@ Value,Disaggregation combinations using this value,Number of indicators
 9_c_1_cat_3,1,1
 adults_15,1,1
 advanced_spread_sheets,2,1
+AGR,1,1
 air_traffic,1,1
+ALP,1,1
+ARM,1,1
 atms,2,1
 basel_convention_1,1,1
 basel_convention_2,1,1
@@ -115,6 +118,7 @@ clean_tech_cat_2,1,1
 clean_tech_cat_3,1,1
 clean_tech_cat_4,1,1
 clean_tech_cat_5,1,1
+CLO,1,1
 co2_emission_cat_1,1,1
 co2_emission_cat_2,1,1
 collected_waste,21,1
@@ -126,6 +130,7 @@ farms_pp_2010,17,1
 farms_spg_2016,17,1
 government,1,1
 hazardous_waste,1,1
+IND,1,1
 install_software,2,1
 less_1_gjr,7,1
 manufacturing_value,2,1
@@ -166,6 +171,7 @@ stockholm_convention_3,1,1
 teacher_class_1,1,1
 teacher_class_2,1,1
 territory,4,1
+TEX,1,1
 total,12,6
 total_waste,1,1
 traditional_agriculture,1,1
