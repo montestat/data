@@ -1,231 +1,231 @@
-Year: Year
-Units: Units
-Sex: Sex
-Age: Age
-Value: Value
-Male: Male
-Female: Female
-Bothsex: Both sexes
-Location: Location
-Count: Count
-Density: Density
-Category: Category
-Convention: Convention
-Institution: Institution
-Census: Population and household census
-Register: Register of births/deaths
-Economic class: Economic size classes of farms in 2010
-Size class: Class size according to used agricultural land (ha)
-LSU class: LSU
-Administrative head: Administrative head
-Economic head: Economic head
-Summary sheet 1: Summary - Calculation Sheet for Dimensions PI-1.1, PI-2.1 and PI-2.3
-Summary sheet 2: Summary - Calculation Sheet for Expenditure by Economic Classification Variance PI-2.2
-aged 0-17 years: aged 0-17 years
-aged 0-15 years: aged 0-15 years
-aged 18-24 years: aged 18-24 years
-aged 25-54 years: aged 25-54 years
-aged 55-64 years: aged 55-64 years
-aged over 65 years: aged over 65 years
-aged 18-64 years: aged 18-64 years
-aged 15-24 years: aged 15-24 years
-aged 15-64 years: aged 15-64 years
-aged 25-64 years: aged 25-64 years
-aged 0-15 years: less than 15 years
-aged 0-18 years: less than 18 years
-aged 65 years: aged 65 years
-aged more 15 years: more than 15 years
-aged more 25 years: more than 25 years
-allage: all ages
-Roma settlements: Roma settlements
-per_1000_life_births: per 1000 life births
-per_100000_life_births: per 100 000 life births
-total_infected: total infected
-per_1000_uninfected_population: per 1000 uninfected population
-per_100000_population: per 100 000 population
-per_1000000_population: per 1 000 000 population
-per_100000_adults: per 100 000 adults
-per_1000_women: per 1000 women
-health workers: health workers
-nurses: nurses
-dental staff: dental staff
-pharmaceutical staff: pharmaceutical staff
-population: population
-total: total
-per_1000_population: per 1000 population
-per_100_population: per 100 population
-class_2_3: grades 2/3
-primary_school: primary school
-lower_high_school: lower secondary school
-reading: reading
-maths: mathematics
-youth: youth
-adult: adult
-transfer_files: Transferring files between computers or other devices
-install_software: Installing software or applications (apps)
-change_settings: Changing the settings of any software, including operational system or security programs
-copy_files: Copying or moving files or folders
-word_processing: Using word processing software
-presentations: Creating presentations or documents integrating text, pictures, tables or charts
-spread_sheets: Using spread sheet software
-advanced_spread_sheets: Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts
-photos: Using software to edit photos, video or audio files
-programming: Writing code in a programming language
-teacher_class_1: The number of teachers in pre-school, primary, general secondary education and general vocational education subjects who have attended at least the minimum organized teacher training (e.g. pedagogical training) before employment or in the workplace required to teach at the appropriate level in a given country
-teacher_class_2: The number of teachers in secondary vocational education who have attended at least the minimum organized teacher training (e.g. pedagogic training) before employment or on the job required to teach at the appropriate level in a given country
-tons: tons
-tons_per_capita: tons per capita
-adults_15: adults (15+)
-atms: ATMs
-branches_of_commercial_banks: branches of commercial banks
-railway_traffic: railway traffic
-road_traffic: road traffic
-air_traffic: air traffic
-maritime_traffic: maritime traffic
-manufacturing_value: manufacturing value
-percent_of_gdp: percent of GDP
-per_capita_in_eur: per capita, in EUR
-eur: EUR
-quantity: quantity
-collected_waste: collected waste
-produced_waste: produced waste
-processed_waste: processed waste + disposed waste in sanitary landfills + temporarily stored waste
-Andrijevica: Andrijevica
-Bar: Bar
-Berane (sa Petnjicom): Berane (sa Petnjicom)
-Berane: Berane
-Bijelo Polje: Bijelo Polje
-Budva: Budva
-Cetinje: Cetinje
-Danilovgrad: Danilovgrad
-Herceg Novi: Herceg Novi
-Kolasin: Kolašin
-Kotor: Kotor
-Mojkovac: Mojkovac
-Niksic: Nikšić
-Plav (sa Gusinjem): Plav (sa Gusinjem)
-Pljevlja: Pljevlja
-Pluzine: Plužine
-Podgorica: Podgorica
-Rozaje: Rožaje
-savnik: Šavnik
-Tivat: Tivat
-Ulcinj: Ulcinj
-Zabljak: Žabljak
-Podgorica UT: Podgorica UT
-Bar UB: Bar UB
-Niksic UB: Nikšić UB
-Pljevlja UB: Pljevlja UB
-Podgorica UB: Podgorica UB
-pm10: PM 10
-pm2.5: PM 2.5
-points: points
-basel_convention: Basel convention
-rotterdam_convention: Rotterdam convention
-stockholm_convention: Stockholm convention
-montreal_convention: Montreal convention
-minamata_convention: Minamata convention
-basel_convention_1: Designation of the contact person and one or more competent authorities
-basel_convention_2: Submission of annual national reports during the reporting period
-rotterdam_convention_1: Designation of competent national authorities and official contact points
-rotterdam_convention_2: Submitting an import response during the reporting period (0.2 points per import response)
-stockholm_convention_1: Designation of official contact point and national focal point
-stockholm_convention_2: Submission of the national implementation plan
-stockholm_convention_3: Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan)
-montreal_convention_1: Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol
-montreal_convention_2: Submission of information on licensing systems under Article 4B of the Montreal Protocol
-minamata_convention_1: Designation of the national key point (Article 17)
-minamata_convention_2: Submitting a national report (Article 21)
-hazardous_waste: Hazardous waste generated
-processed_hazardous_waste: Processed hazardous waste in the total amount of hazardous waste generated
-waste_operation_r: Share of operations R in total processing
-waste_operation_d: Share of operations D in total processing
-waste_export: Share of exports in total processing
-per_capita_kg: kg per capita
-recycled_waste: Recycled amounts of waste (R2-R11 + export)
-total_waste: Total generated amounts of waste
-accreditation: accreditation  (1 is equivalent to accreditation type A)
-ombudsman: ombudsman
-yes_no: yes/no
-national_stat_plan_strategy: Implementation of the strategy for the introduction of the national statistical plan
-population_census: population and household census
-register_of_births: Entry in the register of births
-register_of_deaths: Entry in the death register
-less_1_gjr: "< 1 GJR"
-1_2_gjr: "1-2 GJR"
-2_3_gjr: "2-3 GJR"
-more_3_gjr: "> 3 GJR"
-number_of_farms: "Number of farms"
-economic_class_less_2000: "< 2000"
-economic_class_2000_4000: "2000-4000"
-economic_class_4000_8000: "4000-8000"
-economic_class_8000_15000: " 8000-15000"
-economic_class_15000_25000: "15000-25000"
-economic_class_more_25000: "> 25000"
-without_land: "Without land"
-size_class_less_0.10: "<0.10"
-size_class_0.10_0.50: "0.10-0.50"
-size_class_0.50_1.00: "0.50-1.00"
-size_class_1.00_2.00: "1.00-2.00"
-size_class_2.00_3.00: "2.00-3.00"
-size_class_3.00_4.00: "3.00-4.00"
-size_class_4.00_5.00: "4.00-5.00"
-size_class_5.00_6.00: "5.00-6.00"
-size_class_6.00_8.00: "6.00-8.00"
-size_class_8.00_10.00: "8.00-10.00"
-size_class_10.00_15.00: "10.00-15.00"
-size_class_15.00_20.00: "15.00-20.00"
-size_class_20.00_30.00: "20.00-30.00"
-size_class_30.00_50.00: "30.00-50.00"
-size_class_50.00_100.00: "50.00-100.00"
-size_class_more_100.00: ">100.00"
-farms_spg_2016: "Farms SPG 2016 - hectares"
-farms_pp_2010: "Farms PP 2010 - hectares"
-family_agriculture: "Family farms"
-companies: "Companies"
-farms: "Farms"
-lsu: "LSU"
-hectares: hectares
-traditional_agriculture: Traditional agriculture
-conventional_agriculture: Conventional agriculture
-without_agriculture: Without agriculture
-un_general_assembly: UN General Assembly
-un_security_council: UN Security Council
-un_economic_social_council: UN Economic and Social Council
-international_monetary_fund: International Monetary Fund
-international_bank_for_reconstruction: International Bank for Reconstruction and Development
-world_trade_organization: World Trade Organization
-mne_member: Is Montenegro a member?
-mne_vote: Does Montenegro have the right to vote?
-pi_1: aggregate outturn (PI-1)
-pi_2: composition (PI-2) variance
-share_of_budget: contingency share of budget
-compensation_employees: Compensation of employees
-goods_services: Use of goods and services
-fixed_capital: Consumption of fixed capital
-interest: Interest
-subsidies: Subsidies
-grants: Grants
-social_benefits: Social benefits
-other_expenses: Other expenses
-composition_variance: composition variance
-parity_index: parity index
-wealth: wealth
-territory: territory
+Year: 'Year'
+Units: 'Units'
+Sex: 'Sex'
+Age: 'Age'
+Value: 'Value'
+Male: 'Male'
+Female: 'Female'
+Bothsex: Both 'sexes'
+Location: 'Location'
+Count: 'Count'
+Density: 'Density'
+Category: 'Category'
+Convention: 'Convention'
+Institution: 'Institution'
+Census: 'Population and household census'
+Register: 'Register of births/deaths'
+Economic class: 'Economic size classes of farms in 2010'
+Size class: 'Class size according to used agricultural land (ha)'
+LSU class: 'LSU'
+Administrative head: 'Administrative head'
+Economic head: 'Economic head'
+Summary sheet 1: 'Summary - Calculation Sheet for Dimensions PI-1.1, PI-2.1 and PI-2.3'
+Summary sheet 2: 'Summary - Calculation Sheet for Expenditure by Economic Classification Variance PI-2.2'
+aged 0-17 years: 'aged 0-17 years'
+aged 0-15 years: 'aged 0-15 years'
+aged 18-24 years: 'aged 18-24 years'
+aged 25-54 years: 'aged 25-54 years'
+aged 55-64 years: 'aged 55-64 years'
+aged over 65 years: 'aged over 65 years'
+aged 18-64 years: 'aged 18-64 years'
+aged 15-24 years: 'aged 15-24 years'
+aged 15-64 years: 'aged 15-64 years'
+aged 25-64 years: 'aged 25-64 years'
+aged 0-15 years: 'less than 15 years'
+aged 0-18 years: 'less than 18 years'
+aged 65 years: 'aged 65 years'
+aged more 15 years: 'more than 15 years'
+aged more 25 years: 'more than 25 years'
+aged 15-19 and 10-14 years: 'aged 15-19 and 10-14 years'
+allage: 'all ages'
+Roma settlements: 'Roma settlements'
+per_1000_life_births: 'per 1000 life births'
+per_100000_life_births: 'per 100 000 life births'
+total_infected: 'total infected'
+per_1000_uninfected_population: 'per 1000 uninfected population'
+per_100000_population: 'per 100 000 population'
+per_1000000_population: 'per 1 000 000 population'
+per_100000_adults: 'per 100 000 adults'
+per_1000_women: 'per 1000 women'
+health w'orkers: health workers'
+nurses: 'nurses'
+dental s'taff: dental staff'
+pharmaceutical s'taff: pharmaceutical staff'
+population: 'population'
+total: 'total'
+per_1000_population: 'per 1000 population'
+per_100_population: 'per 100 population'
+class_2_3: 'grades 2/3'
+primary_school: 'primary school'
+lower_high_school: 'lower secondary school'
+reading: 'reading'
+maths: 'mathematics'
+youth: 'youth'
+adult: 'adult'
+transfer_files: 'Transferring files between computers or other devices'
+install_software: 'Installing software or applications (apps)'
+change_settings: 'Changing the settings of any software, including operational system or security programs'
+copy_files: 'Copying or moving files or folders'
+word_processing: 'Using word processing software'
+presentations: 'Creating presentations or documents integrating text, pictures, tables or charts'
+spread_sheets: 'Using spread sheet software'
+advanced_spread_sheets: 'Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts'
+photos: 'Using software to edit photos, video or audio files'
+programming: 'Writing code in a programming language'
+teacher_class_1: 'The number of teachers in pre-school, primary, general secondary education and general vocational education subjects who have attended at least the minimum organized teacher training (e.g. pedagogical training) before employment or in the workplace required to teach at the appropriate level in a given country'
+teacher_class_2: 'The number of teachers in secondary vocational education who have attended at least the minimum organized teacher training (e.g. pedagogic training) before employment or on the job required to teach at the appropriate level in a given country'
+tons: 'tons'
+tons_per_capita: 'tons per capita'
+adults_15: 'adults (15+)'
+atms: 'ATMs'
+branches_of_commercial_banks: 'branches of commercial banks'
+railway_traffic: 'railway traffic'
+road_traffic: 'road traffic'
+air_traffic: 'air traffic'
+maritime_traffic: 'maritime traffic'
+manufacturing_value: 'manufacturing value'
+percent_of_gdp: 'percent of GDP'
+per_capita_in_eur: 'per capita, in EUR'
+eur: 'EUR'
+quantity: 'quantity'
+collected_waste: 'collected waste'
+produced_waste: 'produced waste'
+processed_waste: 'processed waste + disposed waste in sanitary landfills + temporarily stored waste'
+Andrijevica: 'Andrijevica'
+Bar: 'Bar'
+Berane (sa Petnjicom): 'Berane (sa Petnjicom)'
+Berane: 'Berane'
+Bijelo Polje: 'Bijelo Polje'
+Budva: 'Budva'
+Cetinje: 'Cetinje'
+Danilovgrad: 'Danilovgrad'
+Herceg Novi: 'Herceg Novi'
+Kolasin: 'Kolašin'
+Kotor: 'Kotor'
+Mojkovac: 'Mojkovac'
+Niksic: 'Nikšić'
+Plav (sa Gusinjem): 'Plav (sa Gusinjem)'
+Pljevlja: 'Pljevlja'
+Pluzine: 'Plužine'
+Podgorica: 'Podgorica'
+Rozaje: 'Rožaje'
+savnik: 'Šavnik'
+Tivat: 'Tivat'
+Ulcinj: 'Ulcinj'
+Zabljak: 'Žabljak'
+Podgorica UT: 'Podgorica UT'
+Bar UB: 'Bar UB'
+Niksic UB: 'Nikšić UB'
+Pljevlja UB: 'Pljevlja UB'
+Podgorica UB: 'Podgorica UB'
+pm10: 'PM 10'
+pm2.5: PM 2.5'
+points: 'points'
+basel_convention: 'Basel convention'
+rotterdam_convention: 'Rotterdam convention'
+stockholm_convention: 'Stockholm convention'
+montreal_convention: 'Montreal convention'
+minamata_convention: 'Minamata convention'
+basel_convention_1: 'Designation of the contact person and one or more competent authorities'
+basel_convention_2: 'Submission of annual national reports during the reporting period'
+rotterdam_convention_1: 'Designation of competent national authorities and official contact points'
+rotterdam_convention_2: 'Submitting an import response during the reporting period (0.2 points per import response)'
+stockholm_convention_1: 'Designation of official contact point and national focal point'
+stockholm_convention_2: 'Submission of the national implementation plan'
+stockholm_convention_3: 'Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan)'
+montreal_convention_1: 'Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol'
+montreal_convention_2: 'Submission of information on licensing systems under Article 4B of the Montreal Protocol'
+minamata_convention_1: 'Designation of the national key point (Article 17)'
+minamata_convention_2: 'Submitting a national report (Article 21)'
+hazardous_waste: 'Hazardous waste generated'
+processed_hazardous_waste: 'Processed hazardous waste in the total amount of hazardous waste generated'
+waste_operation_r: 'Share of operations R in total processing'
+waste_operation_d: 'Share of operations D in total processing'
+waste_export: 'Share of exports in total processing'
+per_capita_kg: 'kg per capita'
+recycled_waste: 'Recycled amounts of waste (R2-R11 + export)'
+total_waste: 'Total generated amounts of waste'
+accreditation: 'accreditation  (1 is equivalent to accreditation type A)'
+ombudsman: 'ombudsman'
+yes_no: 'yes/no'
+national_stat_plan_strategy: 'Implementation of the strategy for the introduction of the national statistical plan'
+population_census: 'population and household census'
+register_of_births: 'Entry in the register of births'
+register_of_deaths: 'Entry in the death register'
+less_1_gjr: '< 1 GJR'
+1_2_gjr: '1-2 GJR'
+2_3_gjr: '2-3 GJR'
+more_3_gjr: '> 3 GJR'
+number_of_farms: 'Number of farms'
+economic_class_less_2000: '< 2000'
+economic_class_2000_4000: '2000-4000'
+economic_class_4000_8000: '4000-8000'
+economic_class_8000_15000: '8000-15000'
+economic_class_15000_25000: '15000-25000'
+economic_class_more_25000: '> 25000'
+without_land: 'Without land'
+size_class_less_0.10: '<0.10'
+size_class_0.10_0.50: '0.10-0.50'
+size_class_0.50_1.00: '0.50-1.00'
+size_class_1.00_2.00: '1.00-2.00'
+size_class_2.00_3.00: '2.00-3.00'
+size_class_3.00_4.00: '3.00-4.00'
+size_class_4.00_5.00: '4.00-5.00'
+size_class_5.00_6.00: '5.00-6.00'
+size_class_6.00_8.00: '6.00-8.00'
+size_class_8.00_10.00: '8.00-10.00'
+size_class_10.00_15.00: '10.00-15.00'
+size_class_15.00_20.00: '15.00-20.00'
+size_class_20.00_30.00: '20.00-30.00'
+size_class_30.00_50.00: '30.00-50.00'
+size_class_50.00_100.00: '50.00-100.00'
+size_class_more_100.00: '>100.00'
+farms_spg_2016: 'Farms SPG 2016 - hectares'
+farms_pp_2010: 'Farms PP 2010 - hectares'
+family_agriculture: 'Family farms'
+companies: 'Companies'
+farms: 'Farms'
+lsu: 'LSU'
+hectares: 'hectares'
+traditional_agriculture: 'Traditional agriculture'
+conventional_agriculture: 'Conventional agriculture'
+without_agriculture: 'Without agriculture'
+un_general_assembly: 'UN General Assembly'
+un_security_council: 'UN Security Council'
+un_economic_social_council: 'UN Economic and Social Council'
+international_monetary_fund: 'International Monetary Fund'
+international_bank_for_reconstruction: 'International Bank for Reconstruction and Development'
+world_trade_organization: 'World Trade Organization'
+mne_member: 'Is Montenegro a member?'
+mne_vote: 'Does Montenegro have the right to vote?'
+pi_1: 'aggregate outturn (PI-1)'
+pi_2: 'composition (PI-2) variance'
+share_of_budget: 'contingency share of budget'
+compensation_employees: 'Compensation of employees'
+goods_services: 'Use of goods and services'
+fixed_capital: 'Consumption of fixed capital'
+interest: 'Interest'
+subsidies: 'Subsidies'
+grants: 'Grants'
+social_benefits: 'Social benefits'
+other_expenses: 'Other expenses'
+composition_variance: 'composition variance'
+parity_index: 'parity index'
+wealth: 'wealth'
+territory: 'territory'
 sanitation_cat_1: 'household members with a handwashing room with water and soap or detergent'
 sanitation_cat_2: 'household members using improved sanitation facilities that they do not share with others'
 sanitation_cat_3: 'household members who use improved sanitary facilities where it is not possible to release water into the common sewer where waste is not emptied'
 sanitation_cat_4: 'household members who use improved sanitary facilities where it is not possible to let water into the common sewer, but the waste is emptied'
 water_waste_cat_1: 'calculation indicator for households'
 water_waste_cat_2: 'calculation indicator for industry'
+water_waste_cat_3: 'proportion of safely treated domestic wastewater flows'
 water_waste_cat_total: 'calculation indicator total'
 clean_tech_cat_1: 'Share of population using clean fuels and technologies for cooking'
 clean_tech_cat_2: 'Share of population using clean fuels and technologies for heating'
 clean_tech_cat_3: 'Share of population using clean fuels and technologies for lighting'
 clean_tech_cat_4: 'Share of population using clean fuels and technologies for cooking, heating and lighting'
 clean_tech_cat_5: 'Share of population using clean fuels and technologies'
-co2_emission_cat_1: 'CO2 emission per unit of value added for the whole economy'
-co2_emission_cat_2: 'CO2 emission per unit of value added from manufacturing industries'
 public_transport_cat_1: 'Value of calculated indicator, total - Capital Podgorica'
 public_transport_cat_2: 'Indicator value - number of inhabitants who have obstacles in performing daily activities'
 1_3_1_cat_1: 'Proportion of mothers with newborns receiving maternity cash benefit'
@@ -316,8 +316,11 @@ asian_development_bank: 'Asian Development Bank'
 inter_american_development_bank: 'Inter-American Development Bank'
 financial_stability_board: 'Financial Stability Board'
 urban: 'Urban'
-rural: 'Other'
+URBAN: 'Urban'
+rural: 'Rural'
+RURAL: 'Rural'
 allarea: 'All area'
+ALLAREA: 'All area'
 institution_footnote: 'The first listed source represents the institution from where the data for the indicated indicator was taken. The second mentioned source is recognized as a competent institution/producer of indicator in accordance with the National Strategy for Sustainable Development until 2030.'
 1_1_1_cat_1: 'Proportion of population below international poverty line'
 1_1_1_cat_2: 'Employed population below international poverty line'
@@ -354,7 +357,7 @@ percent_of_aged_20-64: 'percent of population aged 20-64'
 5_6_2_cat_16: 'the extent to which country laws and regulations guarantee full and equal access to contraceptive and family planning to women and men aged 15 years and older'
 5_6_2_cat_17: 'the extent to which country laws and regulations guarantee full and equal access to sexuality education to women and men aged 15 years and older'
 5_6_2_cat_18: 'the extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education on HIV and HPV to women and men aged 15 years and older'
-5_a_2_cat_1: 'the degree to which the legal framework (including customary law) guarantees women's equal rights to land ownership and/or control, on a 1-6 scale'
+5_a_2_cat_1: 'the degree to which the legal framework (including customary law) guarantees women equal rights to land ownership and/or control, on a 1-6 scale'
 AGR: 'AGR'
 IND: 'IND'
 CLO: 'CLO'
@@ -362,3 +365,16 @@ TEX: 'TEX'
 ALP: 'ALP'
 ARM: 'ARM'
 million_tonnes: 'million tonnes'
+17_18_3_cat_2: 'Statistical Performance Index'
+co2_emission_cat_1: 'Carbon dioxide emissions from fuel combustion, millions of tonnes'
+co2_emission_cat_2: 'Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD'
+co2_emission_cat_3: 'Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD'
+MARINE: 'marine'
+HYDROPOWER: 'hydropower'
+BIOENERGY: 'bioenergy'
+ALL: 'all'
+WIND: 'wind'
+SOLAR: 'solar'
+MULTIPLE: 'multiple'
+GEOTHERMAL: 'geothermal'
+ratio: 'ratio'

@@ -8,7 +8,7 @@ graph_titles: []
 graph_type: bar
 indicator_name: global_indicators.11-7-1-title
 indicator_number: '11.7.1'
-national_geographical_coverage: custom.country_name
+national_geographical_coverage: custom.podgorica
 precision:
   - unit: percentage
   - decimals: 2
