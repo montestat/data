@@ -9,7 +9,7 @@ graph_type: line
 indicator_name: global_indicators.3-8-2-title
 indicator_number: '3.8.2'
 national_geographical_coverage: custom.country_name
-precision:`
+precision:
   - unit: percentage
   - decimals: 2
 reporting_status: complete
