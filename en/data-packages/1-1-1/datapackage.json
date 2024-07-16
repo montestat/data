@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1_1_1_cat_1",
-                "1_1_1_cat_2",
+                "Proportion of population below international poverty line",
+                "Employed population below international poverty line",
                 ""
               ]
             },
@@ -46,11 +46,11 @@
                 "aged 65 years",
                 "allages",
                 "aged 15-64 years",
-                "aged 0-15 years",
-                "allarea",
+                "less than 15 years",
+                "All area",
                 "aged 15-24 years",
-                "aged more 15 years",
-                "aged more 25 years",
+                "more than 15 years",
+                "more than 25 years",
                 ""
               ]
             },
@@ -61,10 +61,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "allarea",
-                "urban",
-                "rural",
-                "Bothsex",
+                "All area",
+                "Urban",
+                "Rural",
+                "Both 'sexes'",
                 ""
               ]
             },
@@ -75,7 +75,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bothsex",
+                "Both 'sexes'",
                 "Female",
                 "Male",
                 "allages",

@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "yes_no",
+                "index",
                 ""
               ]
             }
@@ -30,13 +31,14 @@
             "constraints": {
               "enum": [
                 "national_stat_plan_strategy",
+                "17_18_3_cat_2",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

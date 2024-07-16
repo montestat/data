@@ -20,7 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes_no",
+                "yes/no",
+                "Index",
                 ""
               ]
             },
@@ -31,7 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "national_stat_plan_strategy",
+                "Implementation of the strategy for the introduction of the national statistical plan",
+                "Statistical Performance Index",
                 ""
               ]
             },
@@ -39,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

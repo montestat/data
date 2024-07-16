@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3_b_1_cat_1",
-                "3_b_1_cat_2",
+                "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3)",
+                "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2)",
                 ""
               ]
             },

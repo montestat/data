@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "km_sq",
+                "squared kilometers",
                 ""
               ]
             },

@@ -1,8 +1,4 @@
 Year,Units,Kategorija,Value
-2018,%,Udio stanovništva koje koristi čista goriva i tehnologije za kuvanje,63.8
-2018,%,Udio stanovništva koje koristi čista goriva i tehnologije za grijanje,29.7
-2018,%,Udio stanovništva koja koriste čista goriva i tehnologije za osvjetljenje,99.6
-2018,%,"Udio stanovništva koja koriste čista goriva i tehnologije za kuvanje, grijanje i osvjetljenje",28.0
 2008,%,Udio stanovništva koja koriste čista goriva i tehnologije,77.0
 2009,%,Udio stanovništva koja koriste čista goriva i tehnologije,42.0
 2010,%,Udio stanovništva koja koriste čista goriva i tehnologije,75.0
@@ -13,7 +9,80 @@ Year,Units,Kategorija,Value
 2015,%,Udio stanovništva koja koriste čista goriva i tehnologije,42.0
 2016,%,Udio stanovništva koja koriste čista goriva i tehnologije,72.0
 2017,%,Udio stanovništva koja koriste čista goriva i tehnologije,62.0
+2018,%,Udio stanovništva koje koristi čista goriva i tehnologije za kuvanje,63.8
+2018,%,Udio stanovništva koje koristi čista goriva i tehnologije za grijanje,29.7
+2018,%,Udio stanovništva koja koriste čista goriva i tehnologije za osvjetljenje,99.6
+2018,%,"Udio stanovništva koja koriste čista goriva i tehnologije za kuvanje, grijanje i osvjetljenje",28.0
 2018,%,Udio stanovništva koja koriste čista goriva i tehnologije,42.0
 2019,%,Udio stanovništva koja koriste čista goriva i tehnologije,71.0
 2020,%,Udio stanovništva koja koriste čista goriva i tehnologije,62.0
 2021,%,Udio stanovništva koja koriste čista goriva i tehnologije,62.0
+2000,%,Ruralno,45.1
+2000,%,Sve lokacije,67.1
+2000,%,Gradsko,83.1
+2001,%,Sve lokacije,67.4
+2001,%,Gradsko,82.6
+2001,%,Ruralno,44.9
+2002,%,Ruralno,44.4
+2002,%,Gradsko,82.0
+2002,%,Sve lokacije,66.9
+2003,%,Sve lokacije,66.8
+2003,%,Ruralno,43.6
+2003,%,Gradsko,81.3
+2004,%,Gradsko,80.7
+2004,%,Ruralno,43.6
+2004,%,Sve lokacije,66.3
+2005,%,Gradsko,79.5
+2005,%,Ruralno,43.1
+2005,%,Sve lokacije,65.8
+2006,%,Gradsko,78.7
+2006,%,Ruralno,42.5
+2006,%,Sve lokacije,65.45
+2007,%,Gradsko,77.7
+2007,%,Ruralno,42.3
+2007,%,Sve lokacije,64.8
+2008,%,Gradsko,77.0
+2008,%,Ruralno,41.4
+2008,%,Sve lokacije,64.2
+2009,%,Gradsko,75.8
+2009,%,Ruralno,41.5
+2009,%,Sve lokacije,63.65
+2010,%,Gradsko,75.0
+2010,%,Sve lokacije,63.0
+2010,%,Ruralno,41.5
+2011,%,Sve lokacije,62.8
+2011,%,Gradsko,74.3
+2011,%,Ruralno,41.15
+2012,%,Sve lokacije,62.2
+2012,%,Gradsko,73.5
+2012,%,Ruralno,41.1
+2013,%,Gradsko,73.0
+2013,%,Ruralno,41.1
+2013,%,Sve lokacije,61.9
+2014,%,Gradsko,72.3
+2014,%,Ruralno,41.2
+2014,%,Sve lokacije,61.8
+2015,%,Ruralno,41.4
+2015,%,Gradsko,72.2
+2015,%,Sve lokacije,61.4
+2016,%,Ruralno,41.7
+2016,%,Gradsko,71.6
+2016,%,Sve lokacije,61.6
+2017,%,Ruralno,42.3
+2017,%,Sve lokacije,61.6
+2017,%,Gradsko,71.6
+2018,%,Gradsko,71.2
+2018,%,Ruralno,42.7
+2018,%,Sve lokacije,61.75
+2019,%,Sve lokacije,61.85
+2019,%,Gradsko,71.2
+2019,%,Ruralno,43.0
+2020,%,Sve lokacije,62.1
+2020,%,Gradsko,71.3
+2020,%,Ruralno,43.8
+2021,%,Ruralno,44.0
+2021,%,Sve lokacije,62.3
+2021,%,Gradsko,71.1
+2022,%,Ruralno,44.7
+2022,%,Sve lokacije,62.6
+2022,%,Gradsko,71.5

@@ -1,27 +1,27 @@
 Year,Value,Units
-2010,116.0,total_infected
-2011,119.0,total_infected
-2012,108.0,total_infected
-2013,120.0,total_infected
-2014,113.0,total_infected
-2015,80.0,total_infected
-2016,87.0,total_infected
-2017,72.0,total_infected
-2018,84.0,total_infected
-2019,82.0,total_infected
-2020,40.0,total_infected
-2021,83.0,total_infected
-2022,71.0,total_infected
-2010,18.72,per_100000_population
-2011,19.19,per_100000_population
-2012,17.41,per_100000_population
-2013,19.35,per_100000_population
-2014,18.22,per_100000_population
-2015,12.9,per_100000_population
-2016,14.03,per_100000_population
-2017,11.61,per_100000_population
-2018,13.54,per_100000_population
-2019,13.22,per_100000_population
-2020,6.45,per_100000_population
-2021,13.39,per_100000_population
-2022,11.45,per_100000_population
+2010,116.0,total infected
+2011,119.0,total infected
+2012,108.0,total infected
+2013,120.0,total infected
+2014,113.0,total infected
+2015,80.0,total infected
+2016,87.0,total infected
+2017,72.0,total infected
+2018,84.0,total infected
+2019,82.0,total infected
+2020,40.0,total infected
+2021,83.0,total infected
+2022,71.0,total infected
+2010,18.72,per 100 000 population
+2011,19.19,per 100 000 population
+2012,17.41,per 100 000 population
+2013,19.35,per 100 000 population
+2014,18.22,per 100 000 population
+2015,12.9,per 100 000 population
+2016,14.03,per 100 000 population
+2017,11.61,per 100 000 population
+2018,13.54,per 100 000 population
+2019,13.22,per 100 000 population
+2020,6.45,per 100 000 population
+2021,13.39,per 100 000 population
+2022,11.45,per 100 000 population

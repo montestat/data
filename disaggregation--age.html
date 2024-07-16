@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">Disaggregation: Age</h1>
                     <div>
@@ -76,12 +102,12 @@
             
         <div class="my-3">
             <a href="values--disaggregation--age.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--age">Download CSV of values used in this disaggregation</a>
-            <div id="values--disaggregation--age" class="download-info">Size: 511 Bytes</div>
+            <div id="values--disaggregation--age" class="download-info">Size: 500 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">23</span>
+                    Total rows: <span class="total">22</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
@@ -113,12 +139,7 @@
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--aged-10-14-years.html">aged 10-14 years</a></td>
-      <td>1</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td><a href="disaggregation-value--aged-15-19-years.html">aged 15-19 years</a></td>
+      <td><a href="disaggregation-value--aged-15-19-and-10-14-years.html">aged 15-19 and 10-14 years</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -212,7 +233,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--adult.html\">adult<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-0-15-years.html\">aged 0-15 years<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--aged-0-17-years.html\">aged 0-17 years<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--aged-0-18-years.html\">aged 0-18 years<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-10-14-years.html\">aged 10-14 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-15-19-years.html\">aged 15-19 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-15-24-years.html\">aged 15-24 years<\/a>","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--aged-15-64-years.html\">aged 15-64 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-18-24-years.html\">aged 18-24 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-18-64-years.html\">aged 18-64 years<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--aged-25-54-years.html\">aged 25-54 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-25-64-years.html\">aged 25-64 years<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-55-64-years.html\">aged 55-64 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-65-years.html\">aged 65 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-more-15-years.html\">aged more 15 years<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-more-25-years.html\">aged more 25 years<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-over-65-years.html\">aged over 65 years<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--allages.html\">allages<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--allarea_.html\">allarea<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--class_2_3.html\">class_2_3<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lower_high_school.html\">lower_high_school<\/a>","Disaggregation combinations using this value":10,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--primary_school.html\">primary_school<\/a>","Disaggregation combinations using this value":10,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--youth.html\">youth<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1}];
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--adult.html\">adult<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-0-15-years.html\">aged 0-15 years<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--aged-0-17-years.html\">aged 0-17 years<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--aged-0-18-years.html\">aged 0-18 years<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-15-19-and-10-14-years.html\">aged 15-19 and 10-14 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-15-24-years.html\">aged 15-24 years<\/a>","Disaggregation combinations using this value":6,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--aged-15-64-years.html\">aged 15-64 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-18-24-years.html\">aged 18-24 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-18-64-years.html\">aged 18-64 years<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--aged-25-54-years.html\">aged 25-54 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-25-64-years.html\">aged 25-64 years<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-55-64-years.html\">aged 55-64 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-65-years.html\">aged 65 years<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-more-15-years.html\">aged more 15 years<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-more-25-years.html\">aged more 25 years<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--aged-over-65-years.html\">aged over 65 years<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--allages.html\">allages<\/a>","Disaggregation combinations using this value":5,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--allarea_.html\">allarea<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--class_2_3.html\">class_2_3<\/a>","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--lower_high_school.html\">lower_high_school<\/a>","Disaggregation combinations using this value":10,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--primary_school.html\">primary_school<\/a>","Disaggregation combinations using this value":10,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--youth.html\">youth<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1}];
             </script>
             
         </div>

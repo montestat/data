@@ -51,27 +51,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pi_1",
-                "pi_2",
-                "share_of_budget",
+                "aggregate outturn (PI-1)",
+                "composition (PI-2) variance",
+                "contingency share of budget",
                 ""
               ]
             },
-            "title": "Summary sheet 1"
+            "title": "Summary - Calculation Sheet for Dimensions PI-1.1, PI-2.1 and PI-2.3"
           },
           {
             "name": "Economic head",
             "type": "string",
             "constraints": {
               "enum": [
-                "compensation_employees",
-                "goods_services",
-                "fixed_capital",
-                "interest",
-                "subsidies",
-                "grants",
-                "social_benefits",
-                "other_expenses",
+                "Compensation of employees",
+                "Use of goods and services",
+                "Consumption of fixed capital",
+                "Interest",
+                "Subsidies",
+                "Grants",
+                "Social benefits",
+                "Other expenses",
                 ""
               ]
             },
@@ -82,18 +82,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "composition_variance",
+                "composition variance",
                 ""
               ]
             },
-            "title": "Summary sheet 2"
+            "title": "Summary - Calculation Sheet for Expenditure by Economic Classification Variance PI-2.2"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "16_6_1_cat_1",
+                "Primary government expenditures as a proportion of original approved budget",
                 ""
               ]
             },

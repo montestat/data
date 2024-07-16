@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "da/ne",
+                "Indeks",
                 ""
               ]
             },
@@ -32,6 +33,7 @@
             "constraints": {
               "enum": [
                 "Implementiranje strategije za uvođenje nacionalnog statističkog plana",
+                "Indeks statističkih performansi",
                 ""
               ]
             },
@@ -39,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

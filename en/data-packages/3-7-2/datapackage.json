@@ -20,30 +20,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_1000_women",
+                "per 1000 women",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Roma settlements",
-                ""
-              ]
-            },
-            "title": "Location"
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 10-14 years",
-                "aged 15-19 years",
+                "aged 15-19 and 10-14 years",
                 ""
               ]
             },

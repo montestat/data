@@ -27,6 +27,19 @@
             "title": "Jedinica"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Pol"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

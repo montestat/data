@@ -63,7 +63,7 @@
               "enum": [
                 "Sve lokacije",
                 "Gradsko",
-                "Ostalo",
+                "Ruralno",
                 "Oba pola",
                 ""
               ]

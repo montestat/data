@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">Disaggregation: Location</h1>
                     <div>
@@ -76,12 +102,12 @@
             
         <div class="my-3">
             <a href="values--disaggregation--location.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--location">Download CSV of values used in this disaggregation</a>
-            <div id="values--disaggregation--location" class="download-info">Size: 511 Bytes</div>
+            <div id="values--disaggregation--location" class="download-info">Size: 543 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">32</span>
+                    Total rows: <span class="total">35</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
@@ -94,7 +120,12 @@
   <tbody>
     <tr>
       <td><a href="disaggregation-value--allarea.html">allarea</a></td>
-      <td>6</td>
+      <td>7</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--allarea_.html">ALLAREA</a></td>
+      <td>1</td>
       <td>1</td>
     </tr>
     <tr>
@@ -209,8 +240,8 @@
     </tr>
     <tr>
       <td><a href="disaggregation-value--roma-settlements.html">Roma settlements</a></td>
-      <td>35</td>
-      <td>19</td>
+      <td>33</td>
+      <td>17</td>
     </tr>
     <tr>
       <td><a href="disaggregation-value--rozaje.html">Rozaje</a></td>
@@ -219,8 +250,13 @@
     </tr>
     <tr>
       <td><a href="disaggregation-value--rural.html">rural</a></td>
-      <td>2</td>
-      <td>2</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--rural_.html">RURAL</a></td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td><a href="disaggregation-value--savnik.html">savnik</a></td>
@@ -244,8 +280,13 @@
     </tr>
     <tr>
       <td><a href="disaggregation-value--urban.html">urban</a></td>
-      <td>2</td>
-      <td>2</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--urban_.html">URBAN</a></td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <td><a href="disaggregation-value--zabljak.html">Zabljak</a></td>
@@ -257,7 +298,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--allarea.html\">allarea<\/a>","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--andrijevica.html\">Andrijevica<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bar-ub.html\">Bar UB<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bar.html\">Bar<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--berane-sa-petnjicom.html\">Berane (sa Petnjicom)<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bijelo-polje.html\">Bijelo Polje<\/a>","Disaggregation combinations using this value":5,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--bothsex_.html\">Bothsex<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--budva.html\">Budva<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cetinje.html\">Cetinje<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--danilovgrad.html\">Danilovgrad<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--herceg-novi.html\">Herceg Novi<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kolasin.html\">Kolasin<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kotor.html\">Kotor<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mojkovac.html\">Mojkovac<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--niksic-ub.html\">Niksic UB<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--niksic.html\">Niksic<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--plav-sa-gusinjem.html\">Plav (sa Gusinjem)<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--pljevlja-ub.html\">Pljevlja UB<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--pljevlja.html\">Pljevlja<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--pluzine.html\">Pluzine<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--podgorica-ub.html\">Podgorica UB<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--podgorica-ut.html\">Podgorica UT<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--podgorica.html\">Podgorica<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--roma-settlements.html\">Roma settlements<\/a>","Disaggregation combinations using this value":35,"Number of indicators":19},{"Value":"<a href=\"disaggregation-value--rozaje.html\">Rozaje<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--rural.html\">rural<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--savnik.html\">savnik<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--tivat-ub.html\">Tivat UB<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--tivat.html\">Tivat<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ulcinj.html\">Ulcinj<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--urban.html\">urban<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--zabljak.html\">Zabljak<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1}];
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--allarea.html\">allarea<\/a>","Disaggregation combinations using this value":7,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--allarea_.html\">ALLAREA<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--andrijevica.html\">Andrijevica<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bar-ub.html\">Bar UB<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bar.html\">Bar<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--berane-sa-petnjicom.html\">Berane (sa Petnjicom)<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bijelo-polje.html\">Bijelo Polje<\/a>","Disaggregation combinations using this value":5,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--bothsex_.html\">Bothsex<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--budva.html\">Budva<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cetinje.html\">Cetinje<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--danilovgrad.html\">Danilovgrad<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--herceg-novi.html\">Herceg Novi<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kolasin.html\">Kolasin<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kotor.html\">Kotor<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mojkovac.html\">Mojkovac<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--niksic-ub.html\">Niksic UB<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--niksic.html\">Niksic<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--plav-sa-gusinjem.html\">Plav (sa Gusinjem)<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--pljevlja-ub.html\">Pljevlja UB<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--pljevlja.html\">Pljevlja<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--pluzine.html\">Pluzine<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--podgorica-ub.html\">Podgorica UB<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--podgorica-ut.html\">Podgorica UT<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--podgorica.html\">Podgorica<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--roma-settlements.html\">Roma settlements<\/a>","Disaggregation combinations using this value":33,"Number of indicators":17},{"Value":"<a href=\"disaggregation-value--rozaje.html\">Rozaje<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--rural.html\">rural<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--rural_.html\">RURAL<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--savnik.html\">savnik<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--tivat-ub.html\">Tivat UB<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--tivat.html\">Tivat<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ulcinj.html\">Ulcinj<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--urban.html\">urban<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--urban_.html\">URBAN<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--zabljak.html\">Zabljak<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1}];
             </script>
             
         </div>
@@ -266,12 +307,12 @@
             
         <div class="my-3">
             <a href="indicators--disaggregation--location.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--location">Download CSV of indicators using this disaggregation</a>
-            <div id="indicators--disaggregation--location" class="download-info">Size: 180 Bytes</div>
+            <div id="indicators--disaggregation--location" class="download-info">Size: 164 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
-                    Total rows: <span class="total">23</span>
+                    Total rows: <span class="total">21</span>
                 </div>
                 <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
@@ -323,12 +364,6 @@
       <td>#3-7-1</td>
     </tr>
     <tr>
-      <td>#3-7-2</td>
-    </tr>
-    <tr>
-      <td>#3-8-1-a</td>
-    </tr>
-    <tr>
       <td>#4-2-1</td>
     </tr>
     <tr>
@@ -354,7 +389,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-1-1"},{"Indicator":"#1-2-1"},{"Indicator":"#1-4-1"},{"Indicator":"#10-3-1"},{"Indicator":"#11-6-1"},{"Indicator":"#11-6-2"},{"Indicator":"#16-1-4"},{"Indicator":"#16-2-1"},{"Indicator":"#16-3-1"},{"Indicator":"#16-b-1"},{"Indicator":"#2-2-1"},{"Indicator":"#2-2-2"},{"Indicator":"#3-1-2"},{"Indicator":"#3-7-1"},{"Indicator":"#3-7-2"},{"Indicator":"#3-8-1-a"},{"Indicator":"#4-2-1"},{"Indicator":"#4-2-2"},{"Indicator":"#4-5-1"},{"Indicator":"#5-3-1"},{"Indicator":"#6-2-1"},{"Indicator":"#7-1-1"},{"Indicator":"#8-7-1"}];
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-1-1"},{"Indicator":"#1-2-1"},{"Indicator":"#1-4-1"},{"Indicator":"#10-3-1"},{"Indicator":"#11-6-1"},{"Indicator":"#11-6-2"},{"Indicator":"#16-1-4"},{"Indicator":"#16-2-1"},{"Indicator":"#16-3-1"},{"Indicator":"#16-b-1"},{"Indicator":"#2-2-1"},{"Indicator":"#2-2-2"},{"Indicator":"#3-1-2"},{"Indicator":"#3-7-1"},{"Indicator":"#4-2-1"},{"Indicator":"#4-2-2"},{"Indicator":"#4-5-1"},{"Indicator":"#5-3-1"},{"Indicator":"#6-2-1"},{"Indicator":"#7-1-1"},{"Indicator":"#8-7-1"}];
             </script>
             
         </div>

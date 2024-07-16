@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "total",
+                "ratio",
                 ""
               ]
             },
@@ -42,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary_school",
-                "lower_high_school",
+                "primary school",
+                "lower secondary school",
                 ""
               ]
             },
@@ -54,7 +55,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "parity_index",
+                "parity index",
                 "wealth",
                 "territory",
                 ""

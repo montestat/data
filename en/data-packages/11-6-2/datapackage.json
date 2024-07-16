@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pm10",
-                "pm2.5",
+                "PM 10",
+                "PM 2.5'",
                 ""
               ]
             },
@@ -34,7 +34,7 @@
               "enum": [
                 "Podgorica UT",
                 "Bar UB",
-                "Niksic UB",
+                "Nikšić UB",
                 "Pljevlja UB",
                 "Podgorica UB",
                 "Kotor",

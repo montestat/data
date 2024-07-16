@@ -1,56 +1,56 @@
 Year,Units,Category,Value
-2011,per_capita_kg,hazardous_waste,252.1
-2012,per_capita_kg,hazardous_waste,338.2
-2013,per_capita_kg,hazardous_waste,398.5
-2014,per_capita_kg,hazardous_waste,436.3
-2015,per_capita_kg,hazardous_waste,475.6
-2016,per_capita_kg,hazardous_waste,525.0
-2017,per_capita_kg,hazardous_waste,483.4
-2018,per_capita_kg,hazardous_waste,546.2
-2019,per_capita_kg,hazardous_waste,528.5
-2020,per_capita_kg,hazardous_waste,553.5
-2021,per_capita_kg,hazardous_waste,491.7
-2011,per_capita_kg,processed_hazardous_waste,112.6
-2012,per_capita_kg,processed_hazardous_waste,100.1
-2013,per_capita_kg,processed_hazardous_waste,99.5
-2014,per_capita_kg,processed_hazardous_waste,99.1
-2015,per_capita_kg,processed_hazardous_waste,102.4
-2016,per_capita_kg,processed_hazardous_waste,99.7
-2017,per_capita_kg,processed_hazardous_waste,99.9
-2018,per_capita_kg,processed_hazardous_waste,99.8
-2019,per_capita_kg,processed_hazardous_waste,111.5
-2020,per_capita_kg,processed_hazardous_waste,92.6
-2021,per_capita_kg,processed_hazardous_waste,103.8
-2011,%,waste_operation_r,0.5
-2012,%,waste_operation_r,1.4
-2013,%,waste_operation_r,1.9
-2014,%,waste_operation_r,1.5
-2015,%,waste_operation_r,1.7
-2016,%,waste_operation_r,0.8
-2017,%,waste_operation_r,0.6
-2018,%,waste_operation_r,0.6
-2019,%,waste_operation_r,0.3
-2020,%,waste_operation_r,0.3
-2021,%,waste_operation_r,0.97
-2011,%,waste_operation_d,96.7
-2012,%,waste_operation_d,98.2
-2013,%,waste_operation_d,97.3
-2014,%,waste_operation_d,97.8
-2015,%,waste_operation_d,97.5
-2016,%,waste_operation_d,98.8
-2017,%,waste_operation_d,98.7
-2018,%,waste_operation_d,98.8
-2019,%,waste_operation_d,88.6
-2020,%,waste_operation_d,99.2
-2021,%,waste_operation_d,92.26
-2011,%,waste_export,2.8
-2012,%,waste_export,0.4
-2013,%,waste_export,0.8
-2014,%,waste_export,0.7
-2015,%,waste_export,0.8
-2016,%,waste_export,0.4
-2017,%,waste_export,0.7
-2018,%,waste_export,0.6
-2019,%,waste_export,11.1
-2020,%,waste_export,0.5
-2021,%,waste_export,6.77
+2011,kg per capita,Hazardous waste generated,252.1
+2012,kg per capita,Hazardous waste generated,338.2
+2013,kg per capita,Hazardous waste generated,398.5
+2014,kg per capita,Hazardous waste generated,436.3
+2015,kg per capita,Hazardous waste generated,475.6
+2016,kg per capita,Hazardous waste generated,525.0
+2017,kg per capita,Hazardous waste generated,483.4
+2018,kg per capita,Hazardous waste generated,546.2
+2019,kg per capita,Hazardous waste generated,528.5
+2020,kg per capita,Hazardous waste generated,553.5
+2021,kg per capita,Hazardous waste generated,491.7
+2011,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,112.6
+2012,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,100.1
+2013,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,99.5
+2014,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,99.1
+2015,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,102.4
+2016,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,99.7
+2017,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,99.9
+2018,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,99.8
+2019,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,111.5
+2020,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,92.6
+2021,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,103.8
+2011,%,Share of operations R in total processing,0.5
+2012,%,Share of operations R in total processing,1.4
+2013,%,Share of operations R in total processing,1.9
+2014,%,Share of operations R in total processing,1.5
+2015,%,Share of operations R in total processing,1.7
+2016,%,Share of operations R in total processing,0.8
+2017,%,Share of operations R in total processing,0.6
+2018,%,Share of operations R in total processing,0.6
+2019,%,Share of operations R in total processing,0.3
+2020,%,Share of operations R in total processing,0.3
+2021,%,Share of operations R in total processing,0.97
+2011,%,Share of operations D in total processing,96.7
+2012,%,Share of operations D in total processing,98.2
+2013,%,Share of operations D in total processing,97.3
+2014,%,Share of operations D in total processing,97.8
+2015,%,Share of operations D in total processing,97.5
+2016,%,Share of operations D in total processing,98.8
+2017,%,Share of operations D in total processing,98.7
+2018,%,Share of operations D in total processing,98.8
+2019,%,Share of operations D in total processing,88.6
+2020,%,Share of operations D in total processing,99.2
+2021,%,Share of operations D in total processing,92.26
+2011,%,Share of exports in total processing,2.8
+2012,%,Share of exports in total processing,0.4
+2013,%,Share of exports in total processing,0.8
+2014,%,Share of exports in total processing,0.7
+2015,%,Share of exports in total processing,0.8
+2016,%,Share of exports in total processing,0.4
+2017,%,Share of exports in total processing,0.7
+2018,%,Share of exports in total processing,0.6
+2019,%,Share of exports in total processing,11.1
+2020,%,Share of exports in total processing,0.5
+2021,%,Share of exports in total processing,6.77

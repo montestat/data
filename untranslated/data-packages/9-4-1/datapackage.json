@@ -31,6 +31,7 @@
               "enum": [
                 "co2_emission_cat_1",
                 "co2_emission_cat_2",
+                "co2_emission_cat_3",
                 ""
               ]
             }

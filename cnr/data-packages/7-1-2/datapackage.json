@@ -31,11 +31,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Udio stanovništva koja koriste čista goriva i tehnologije",
                 "Udio stanovništva koje koristi čista goriva i tehnologije za kuvanje",
                 "Udio stanovništva koje koristi čista goriva i tehnologije za grijanje",
                 "Udio stanovništva koja koriste čista goriva i tehnologije za osvjetljenje",
                 "Udio stanovništva koja koriste čista goriva i tehnologije za kuvanje, grijanje i osvjetljenje",
-                "Udio stanovništva koja koriste čista goriva i tehnologije",
+                "Ruralno",
+                "Sve lokacije",
+                "Gradsko",
                 ""
               ]
             },

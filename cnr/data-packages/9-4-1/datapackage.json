@@ -31,8 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju",
-                "Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija",
+                "Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",
+                "Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",
+                "Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",
                 ""
               ]
             },

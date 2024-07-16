@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "traditional_agriculture",
-                "conventional_agriculture",
-                "without_agriculture",
+                "Traditional agriculture",
+                "Conventional agriculture",
+                "Without agriculture",
                 ""
               ]
             },

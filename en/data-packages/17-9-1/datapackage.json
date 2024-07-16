@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions_constant_usd_2017",
+                "millions USD (2017)",
                 ""
               ]
             },

@@ -22,8 +22,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total_infected",
-                "per_100000_population",
+                "total infected",
+                "per 100 000 population",
                 ""
               ]
             },
@@ -37,6 +37,59 @@
         ]
       },
       "title": "Malaria incidence per 1,000 population"
+    },
+    {
+      "path": "7-a-1/data.csv",
+      "name": "7-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "millions USD (2020)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "marine",
+                "hydropower",
+                "bioenergy",
+                "all",
+                "wind",
+                "solar",
+                "multiple",
+                "geothermal",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
     },
     {
       "path": "17-18-2/data.csv",
@@ -58,7 +111,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes_no",
+                "yes/no",
                 ""
               ]
             },
@@ -104,7 +157,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4_a_1_cat_1",
+                "Proportion of primary schools with access to computers for pedagogical purposes",
                 ""
               ]
             },
@@ -161,8 +214,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 0-15 years",
-                "aged 0-18 years",
+                "less than 15 years",
+                "less than 18 years",
                 ""
               ]
             },
@@ -209,6 +262,9 @@
             "constraints": {
               "enum": [
                 "Roma settlements",
+                "Rural",
+                "All area",
+                "Urban",
                 ""
               ]
             },
@@ -254,11 +310,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "clean_tech_cat_1",
-                "clean_tech_cat_2",
-                "clean_tech_cat_3",
-                "clean_tech_cat_4",
-                "clean_tech_cat_5",
+                "Share of population using clean fuels and technologies",
+                "Share of population using clean fuels and technologies for cooking",
+                "Share of population using clean fuels and technologies for heating",
+                "Share of population using clean fuels and technologies for lighting",
+                "Share of population using clean fuels and technologies for cooking, heating and lighting",
+                "Rural",
+                "All area",
+                "Urban",
                 ""
               ]
             },
@@ -293,7 +352,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes_no",
+                "yes/no",
                 ""
               ]
             },
@@ -304,12 +363,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "un_general_assembly",
-                "un_security_council",
-                "un_economic_social_council",
-                "international_monetary_fund",
-                "international_bank_for_reconstruction",
-                "world_trade_organization",
+                "UN General Assembly",
+                "UN Security Council",
+                "UN Economic and Social Council",
+                "International Monetary Fund",
+                "International Bank for Reconstruction and Development",
+                "World Trade Organization",
                 ""
               ]
             },
@@ -320,8 +379,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mne_member",
-                "mne_vote",
+                "Is Montenegro a member?",
+                "Does Montenegro have the right to vote?",
                 ""
               ]
             },
@@ -449,8 +508,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pm10",
-                "pm2.5",
+                "PM 10",
+                "PM 2.5'",
                 ""
               ]
             },
@@ -463,7 +522,7 @@
               "enum": [
                 "Podgorica UT",
                 "Bar UB",
-                "Niksic UB",
+                "Nikšić UB",
                 "Pljevlja UB",
                 "Podgorica UB",
                 "Kotor",
@@ -538,7 +597,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions_constant_usd_2021",
+                "millions USD (2021)",
                 ""
               ]
             },
@@ -654,10 +713,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6_3_2_cat_1",
-                "6_3_2_cat_2",
-                "6_3_2_cat_3",
-                "6_3_2_cat_4",
+                "bodies of water",
+                "groundwater bodies",
+                "open water bodies",
+                "river water bodies",
                 ""
               ]
             },
@@ -794,10 +853,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "sanitation_cat_1",
-                "sanitation_cat_2",
-                "sanitation_cat_3",
-                "sanitation_cat_4",
+                "household members with a handwashing room with water and soap or detergent",
+                "household members using improved sanitation facilities that they do not share with others",
+                "household members who use improved sanitary facilities where it is not possible to release water into the common sewer where waste is not emptied",
+                "household members who use improved sanitary facilities where it is not possible to let water into the common sewer, but the waste is emptied",
                 ""
               ]
             },
@@ -832,7 +891,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_capita_kg",
+                "kg per capita",
                 "%",
                 ""
               ]
@@ -844,11 +903,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hazardous_waste",
-                "processed_hazardous_waste",
-                "waste_operation_r",
-                "waste_operation_d",
-                "waste_export",
+                "Hazardous waste generated",
+                "Processed hazardous waste in the total amount of hazardous waste generated",
+                "Share of operations R in total processing",
+                "Share of operations D in total processing",
+                "Share of exports in total processing",
                 ""
               ]
             },
@@ -894,10 +953,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5_1_1_cat_1",
-                "5_1_1_cat_2",
-                "5_1_1_cat_3",
-                "5_1_1_cat_4",
+                "The degree to which legal frameworks promote, enforce and monitor gender equality in public life, on a 0-100 scale",
+                "The degree to which legal frameworks promote, enforce and monitor gender equality with respect to violence against women, on a 0-100 scale.",
+                "The degree to which legal frameworks promote, enforce and monitor gender equality with respect to employment and economic benefits, on a 0-100 scale.",
+                "The degree to which legal frameworks promote, enforce and monitor gender equality with respect to marriage and family benefits, on a 0-100 scale.",
                 ""
               ]
             },
@@ -943,9 +1002,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "9_c_1_cat_1",
-                "9_c_1_cat_2",
-                "9_c_1_cat_3",
+                "at least 2G",
+                "at least 3G",
+                "at least 4G",
                 ""
               ]
             },
@@ -1039,8 +1098,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percent_of_gdp",
-                "per_capita_in_eur",
+                "percent of GDP",
+                "per capita, in EUR",
                 ""
               ]
             },
@@ -1051,7 +1110,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "manufacturing_value",
+                "manufacturing value",
                 ""
               ]
             },
@@ -1191,7 +1250,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bothsex",
+                "Both 'sexes'",
                 "Female",
                 "Male",
                 ""
@@ -1239,8 +1298,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "14_5_1_cat_1",
-                "14_5_1_cat_2",
+                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas",
+                "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones)",
                 ""
               ]
             },
@@ -1254,53 +1313,6 @@
         ]
       },
       "title": "Coverage of protected areas in relation to marine areas"
-    },
-    {
-      "path": "3-8-2-a/data.csv",
-      "name": "3-8-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3_8_2_cat_1",
-                "3_8_2_cat_2",
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of persons covered by health insurance or public health system per 1,000 inhabitants"
     },
     {
       "path": "17-3-2/data.csv",
@@ -1357,8 +1369,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total_infected",
-                "per_1000_uninfected_population",
+                "total infected",
+                "per 1000 uninfected population",
                 ""
               ]
             },
@@ -1393,7 +1405,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "index",
+                "Index",
                 ""
               ]
             },
@@ -1504,6 +1516,21 @@
             "title": "Location"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "67.0",
+                "36.4",
+                "Both 'sexes'",
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1532,7 +1559,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "km_sq",
+                "squared kilometers",
                 ""
               ]
             },
@@ -1567,7 +1594,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4_1_2_cat_1",
+                "Lower secondary completion rate",
                 ""
               ]
             },
@@ -1614,9 +1641,9 @@
             "constraints": {
               "enum": [
                 "total",
-                "6_4_1_cat_2",
-                "6_4_1_cat_3",
-                "6_4_1_cat_4",
+                "agriculture",
+                "industries",
+                "services",
                 ""
               ]
             },
@@ -1651,7 +1678,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes_no",
+                "yes/no",
+                "Index",
                 ""
               ]
             },
@@ -1662,7 +1690,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "national_stat_plan_strategy",
+                "Implementation of the strategy for the introduction of the national statistical plan",
+                "Statistical Performance Index",
                 ""
               ]
             },
@@ -1670,7 +1699,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1823,7 +1852,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "litres_pure_alcohol",
+                "Litres of pure alcohol",
                 ""
               ]
             },
@@ -1877,19 +1906,19 @@
                 "Cetinje",
                 "Danilovgrad",
                 "Herceg Novi",
-                "Kolasin",
+                "Kolašin",
                 "Kotor",
                 "Mojkovac",
-                "Niksic",
+                "Nikšić",
                 "Plav (sa Gusinjem)",
                 "Pljevlja",
-                "Pluzine",
+                "Plužine",
                 "Podgorica",
-                "Rozaje",
-                "savnik",
+                "Rožaje",
+                "Šavnik",
                 "Tivat",
                 "Ulcinj",
-                "Zabljak",
+                "Žabljak",
                 ""
               ]
             },
@@ -1900,9 +1929,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "collected_waste",
-                "produced_waste",
-                "processed_waste",
+                "collected waste",
+                "produced waste",
+                "processed waste + disposed waste in sanitary landfills + temporarily stored waste",
                 ""
               ]
             },
@@ -1968,27 +1997,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pi_1",
-                "pi_2",
-                "share_of_budget",
+                "aggregate outturn (PI-1)",
+                "composition (PI-2) variance",
+                "contingency share of budget",
                 ""
               ]
             },
-            "title": "Summary sheet 1"
+            "title": "Summary - Calculation Sheet for Dimensions PI-1.1, PI-2.1 and PI-2.3"
           },
           {
             "name": "Economic head",
             "type": "string",
             "constraints": {
               "enum": [
-                "compensation_employees",
-                "goods_services",
-                "fixed_capital",
-                "interest",
-                "subsidies",
-                "grants",
-                "social_benefits",
-                "other_expenses",
+                "Compensation of employees",
+                "Use of goods and services",
+                "Consumption of fixed capital",
+                "Interest",
+                "Subsidies",
+                "Grants",
+                "Social benefits",
+                "Other expenses",
                 ""
               ]
             },
@@ -1999,18 +2028,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "composition_variance",
+                "composition variance",
                 ""
               ]
             },
-            "title": "Summary sheet 2"
+            "title": "Summary - Calculation Sheet for Expenditure by Economic Classification Variance PI-2.2"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "16_6_1_cat_1",
+                "Primary government expenditures as a proportion of original approved budget",
                 ""
               ]
             },
@@ -2092,7 +2121,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eur",
+                "EUR",
                 "%",
                 ""
               ]
@@ -2174,11 +2203,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1_3_1_cat_1",
-                "1_3_1_cat_2",
-                "1_3_1_cat_3",
-                "1_3_1_cat_4",
-                "1_3_1_cat_5",
+                "Proportion of mothers with newborns receiving maternity cash benefit",
+                "Proportion of population above statutory pensionable age receiving a pension",
+                "Proportion of unemployed persons receiving unemployment cash benefit",
+                "Proportion of population with severe disabilities receiving disability cash benefit",
+                "Proportion of population covered by at least one social protection benefit",
                 ""
               ]
             },
@@ -2213,7 +2242,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million_kw",
+                "million kW",
                 ""
               ]
             },
@@ -2259,7 +2288,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5_a_2_cat_1",
+                "the degree to which the legal framework (including customary law) guarantees women equal rights to land ownership and/or control, on a 1-6 scale",
                 ""
               ]
             },
@@ -2295,6 +2324,7 @@
             "constraints": {
               "enum": [
                 "total",
+                "ratio",
                 ""
               ]
             },
@@ -2316,8 +2346,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "primary_school",
-                "lower_high_school",
+                "primary school",
+                "lower secondary school",
                 ""
               ]
             },
@@ -2328,7 +2358,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "parity_index",
+                "parity index",
                 "wealth",
                 "territory",
                 ""
@@ -2562,9 +2592,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "water_waste_cat_1",
-                "water_waste_cat_2",
-                "water_waste_cat_total",
+                "calculation indicator for households",
+                "calculation indicator for industry",
+                "calculation indicator total",
+                "proportion of safely treated domestic wastewater flows",
                 ""
               ]
             },
@@ -2695,8 +2726,8 @@
             "constraints": {
               "enum": [
                 "tons",
-                "tons_per_capita",
-                "kg_per_constant_usd_2015",
+                "tons per capita",
+                "kilograms per constant 2015 USD",
                 ""
               ]
             },
@@ -2707,10 +2738,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "8_4_2_cat_1",
-                "8_4_2_cat_2",
-                "8_4_2_cat_3",
-                "8_4_2_cat_4",
+                "biomass",
+                "fossil fuels",
+                "metal ores",
+                "non-metallic minerals",
                 ""
               ]
             },
@@ -2745,7 +2776,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes_per_hectare",
+                "tonnes per hectare",
                 "%",
                 ""
               ]
@@ -2757,10 +2788,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15_2_1_cat_1",
-                "15_2_1_cat_2",
-                "15_2_1_cat_3",
-                "15_2_1_cat_4",
+                "Above-ground biomass in forest",
+                "Annual forest area change rate",
+                "Proportion of forest area with a long-term management plan",
+                "Proportion of forest area within legally established protected areas",
                 ""
               ]
             },
@@ -2795,7 +2826,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eur",
+                "EUR",
                 ""
               ]
             },
@@ -2841,9 +2872,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "traditional_agriculture",
-                "conventional_agriculture",
-                "without_agriculture",
+                "Traditional agriculture",
+                "Conventional agriculture",
+                "Without agriculture",
                 ""
               ]
             },
@@ -2878,7 +2909,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_1000000_population",
+                "per 1 000 000 population",
                 ""
               ]
             },
@@ -2952,8 +2983,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
@@ -3023,7 +3054,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million_tonnes",
+                "million tonnes",
                 ""
               ]
             },
@@ -3105,10 +3136,10 @@
             "constraints": {
               "enum": [
                 "total",
-                "railway_traffic",
-                "road_traffic",
-                "air_traffic",
-                "maritime_traffic",
+                "railway traffic",
+                "road traffic",
+                "air traffic",
+                "maritime traffic",
                 ""
               ]
             },
@@ -3143,7 +3174,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_1000_population",
+                "per 1000 population",
                 ""
               ]
             },
@@ -3154,12 +3185,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3_9_1_cat_1",
-                "3_9_1_cat_2",
-                "3_9_1_cat_3",
-                "3_9_1_cat_4",
-                "3_9_1_cat_5",
-                "3_9_1_cat_6",
+                "Age-standardized mortality rate attributed to ambient air pollution",
+                "Age-standardized mortality rate attributed to household air pollution",
+                "Age-standardized mortality rate attributed to household and ambient air pollution",
+                "Crude death rate attributed to ambient air pollution",
+                "Crude death rate attributed to household and ambient air pollution",
+                "Crude death rate attributed to household air pollution",
                 ""
               ]
             },
@@ -3205,8 +3236,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "teacher_class_1",
-                "teacher_class_2",
+                "The number of teachers in pre-school, primary, general secondary education and general vocational education subjects who have attended at least the minimum organized teacher training (e.g. pedagogical training) before employment or in the workplace required to teach at the appropriate level in a given country",
+                "The number of teachers in secondary vocational education who have attended at least the minimum organized teacher training (e.g. pedagogic training) before employment or on the job required to teach at the appropriate level in a given country",
                 ""
               ]
             },
@@ -3241,7 +3272,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "index",
+                "Index",
                 ""
               ]
             },
@@ -3277,7 +3308,7 @@
             "constraints": {
               "enum": [
                 "total",
-                "per_1000_population",
+                "per 1000 population",
                 ""
               ]
             },
@@ -3341,7 +3372,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions_constant_usd_2021",
+                "millions USD (2021)",
                 ""
               ]
             },
@@ -3352,7 +3383,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4_b_1_cat_1",
+                "Total official flows for scholarships, by recipient countries",
                 ""
               ]
             },
@@ -3398,8 +3429,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5_5_1_cat_1",
-                "5_5_1_cat_2",
+                "national parliament",
+                "local governments",
                 ""
               ]
             },
@@ -3434,7 +3465,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percent_of_aged_20-64",
+                "percent of population aged 20-64",
                 ""
               ]
             },
@@ -3445,7 +3476,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5_4_1_cat_1",
+                "Population inactive due to caring responsibilities",
                 ""
               ]
             },
@@ -3526,10 +3557,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "cat_b",
-                "cat_c",
-                "cat_d",
-                "cat_e",
+                "ore and stone extraction",
+                "manufacturing industry",
+                "electricity, gas, steam and air conditioning supply",
+                "water supply, waste water management, control of waste removal processes and similar activities",
                 ""
               ]
             },
@@ -3564,7 +3595,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions_constant_usd_2020",
+                "millions USD (2020)",
                 ""
               ]
             },
@@ -3615,6 +3646,41 @@
       "title": "Manufacturing employment as a proportion of total employment"
     },
     {
+      "path": "3-8-1/data.csv",
+      "name": "3-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Coverage of essential health services"
+    },
+    {
       "path": "9-4-1/data.csv",
       "name": "9-4-1",
       "profile": "tabular-data-resource",
@@ -3645,8 +3711,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "co2_emission_cat_1",
-                "co2_emission_cat_2",
+                "Carbon dioxide emissions from fuel combustion, millions of tonnes",
+                "Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",
+                "Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",
                 ""
               ]
             },
@@ -3716,7 +3783,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "index",
+                "Index",
                 ""
               ]
             },
@@ -3762,9 +3829,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "class_2_3",
-                "primary_school",
-                "lower_high_school",
+                "grades 2/3",
+                "primary school",
+                "lower secondary school",
                 ""
               ]
             },
@@ -3788,7 +3855,7 @@
             "constraints": {
               "enum": [
                 "reading",
-                "maths",
+                "mathematics",
                 ""
               ]
             },
@@ -3823,7 +3890,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "accreditation",
+                "accreditation  (1 is equivalent to accreditation type A)",
                 ""
               ]
             },
@@ -3950,7 +4017,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_100000_population",
+                "per 100 000 population",
                 ""
               ]
             },
@@ -3997,7 +4064,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "score_1_5",
+                "Score 1-5",
                 ""
               ]
             },
@@ -4114,14 +4181,14 @@
             "constraints": {
               "enum": [
                 "total",
-                "less_1_gjr",
-                "1_2_gjr",
-                "2_3_gjr",
-                "more_3_gjr",
-                "farms_spg_2016",
-                "farms_pp_2010",
-                "family_agriculture",
-                "companies",
+                "< 1 GJR",
+                "1-2 GJR",
+                "2-3 GJR",
+                "> 3 GJR",
+                "Farms SPG 2016 - hectares",
+                "Farms PP 2010 - hectares",
+                "Family farms",
+                "Companies",
                 ""
               ]
             },
@@ -4132,56 +4199,56 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number_of_farms",
-                "economic_class_less_2000",
-                "economic_class_2000_4000",
-                "economic_class_4000_8000",
-                "economic_class_8000_15000",
-                "economic_class_15000_25000",
-                "economic_class_more_25000",
+                "Number of farms",
+                "< 2000",
+                "2000-4000",
+                "4000-8000",
+                "8000-15000",
+                "15000-25000",
+                "> 25000",
                 ""
               ]
             },
-            "title": "Economic class"
+            "title": "Economic size classes of farms in 2010"
           },
           {
             "name": "Size class",
             "type": "string",
             "constraints": {
               "enum": [
-                "without_land",
-                "size_class_less_0.10",
-                "size_class_0.10_0.50",
-                "size_class_0.50_1.00",
-                "size_class_1.00_2.00",
-                "size_class_2.00_3.00",
-                "size_class_3.00_4.00",
-                "size_class_4.00_5.00",
-                "size_class_5.00_6.00",
-                "size_class_6.00_8.00",
-                "size_class_8.00_10.00",
-                "size_class_10.00_15.00",
-                "size_class_15.00_20.00",
-                "size_class_20.00_30.00",
-                "size_class_30.00_50.00",
-                "size_class_50.00_100.00",
-                "size_class_more_100.00",
+                "Without land",
+                "<0.10",
+                "0.10-0.50",
+                "0.50-1.00",
+                "1.00-2.00",
+                "2.00-3.00",
+                "3.00-4.00",
+                "4.00-5.00",
+                "5.00-6.00",
+                "6.00-8.00",
+                "8.00-10.00",
+                "10.00-15.00",
+                "15.00-20.00",
+                "20.00-30.00",
+                "30.00-50.00",
+                "50.00-100.00",
+                ">100.00",
                 ""
               ]
             },
-            "title": "Size class"
+            "title": "Class size according to used agricultural land (ha)"
           },
           {
             "name": "LSU class",
             "type": "string",
             "constraints": {
               "enum": [
-                "farms",
-                "lsu",
+                "Farms",
+                "LSU",
                 ""
               ]
             },
-            "title": "LSU class"
+            "title": "LSU"
           },
           {
             "name": "Value",
@@ -4270,7 +4337,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million_usd",
+                "millions USD",
                 ""
               ]
             },
@@ -4282,11 +4349,11 @@
             "constraints": {
               "enum": [
                 "total",
-                "6_a_1_cat_1",
-                "6_a_1_cat_2",
-                "6_a_1_cat_3",
-                "6_a_1_cat_4",
-                "government",
+                "Hydro-electric power plants",
+                "Waste management/disposal",
+                "Water resources conservation (including data collection)",
+                "Water supply and sanitation - large systems",
+                "Government",
                 ""
               ]
             },
@@ -4332,24 +4399,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5_6_2_cat_1",
-                "5_6_2_cat_2",
-                "5_6_2_cat_3",
-                "5_6_2_cat_4",
-                "5_6_2_cat_5",
-                "5_6_2_cat_6",
-                "5_6_2_cat_7",
-                "5_6_2_cat_8",
-                "5_6_2_cat_9",
-                "5_6_2_cat_10",
-                "5_6_2_cat_11",
-                "5_6_2_cat_12",
-                "5_6_2_cat_13",
-                "5_6_2_cat_14",
-                "5_6_2_cat_15",
-                "5_6_2_cat_16",
-                "5_6_2_cat_17",
-                "5_6_2_cat_18",
+                "the extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education on maternity care to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to HIV counseling and test services to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to HIV treatment and care services to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to HIV confidentiality to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to HPV vaccine to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education on life saving commodities to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to abortion to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to post-abortion care to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to contraceptive services to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to contraceptive consent to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to emergency contraception to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to sexuality education curriculum laws to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to sexuality education curriculum topics to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education on maternity care to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to contraceptive and family planning to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to sexuality education to women and men aged 15 years and older",
+                "the extent to which country laws and regulations guarantee full and equal access to sexual and reproductive health care, information and education on HIV and HPV to women and men aged 15 years and older",
                 ""
               ]
             },
@@ -4363,6 +4430,41 @@
         ]
       },
       "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+    },
+    {
+      "path": "17-19-1/data.csv",
+      "name": "17-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "USD",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
     },
     {
       "path": "16-3-2/data.csv",
@@ -4454,7 +4556,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_100_population",
+                "per 100 population",
                 ""
               ]
             },
@@ -4489,7 +4591,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions_constant_usd_2021",
+                "millions USD (2021)",
                 ""
               ]
             },
@@ -4559,7 +4661,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "score_1_10",
+                "Score 1-10",
                 ""
               ]
             },
@@ -4687,7 +4789,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "usd",
+                "USD",
                 ""
               ]
             },
@@ -4722,7 +4824,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "level_of_participation",
+                "level of participation (1 - low, 2 - moderate, 3 - high)",
                 ""
               ]
             },
@@ -4733,12 +4835,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6_b_1_cat_1",
-                "6_b_1_cat_2",
-                "6_b_1_cat_3",
-                "6_b_1_cat_4",
-                "6_b_1_cat_5",
-                "6_b_1_cat_6",
+                "drinking water - urban",
+                "drinking water - rural",
+                "sanitation - urban",
+                "sanitation - rural",
+                "hygiene promotion",
+                "water resources planning and management",
                 ""
               ]
             },
@@ -4773,7 +4875,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_1000_life_births",
+                "per 1000 life births",
                 ""
               ]
             },
@@ -4870,8 +4972,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15_1_2_cat_1",
-                "15_1_2_cat_2",
+                "freshwater",
+                "terrestrial",
                 ""
               ]
             },
@@ -4906,7 +5008,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "index",
+                "Index",
                 ""
               ]
             },
@@ -4976,7 +5078,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes_no",
+                "yes/no",
                 ""
               ]
             },
@@ -4987,16 +5089,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "un_general_assembly",
-                "un_security_council",
-                "un_economic_social_council",
-                "international_monetary_fund",
-                "international_bank_for_reconstruction",
-                "world_trade_organization",
-                "african_development_bank",
-                "asian_development_bank",
-                "inter_american_development_bank",
-                "financial_stability_board",
+                "UN General Assembly",
+                "UN Security Council",
+                "UN Economic and Social Council",
+                "International Monetary Fund",
+                "International Bank for Reconstruction and Development",
+                "World Trade Organization",
+                "African Development Bank",
+                "Asian Development Bank",
+                "Inter-American Development Bank",
+                "Financial Stability Board",
                 ""
               ]
             },
@@ -5007,8 +5109,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mne_member",
-                "mne_vote",
+                "Is Montenegro a member?",
+                "Does Montenegro have the right to vote?",
                 ""
               ]
             },
@@ -5078,8 +5180,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg_capita_year",
-                "tonnes_year",
+                "kg per capita per year",
+                "tonnes per year",
                 ""
               ]
             },
@@ -5150,7 +5252,7 @@
             "constraints": {
               "enum": [
                 "total",
-                "per_100000_adults",
+                "per 100 000 adults",
                 ""
               ]
             },
@@ -5161,9 +5263,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "branches_of_commercial_banks",
-                "atms",
-                "adults_15",
+                "branches of commercial banks",
+                "ATMs",
+                "adults (15+)",
                 ""
               ]
             },
@@ -5301,8 +5403,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "public_transport_cat_1",
-                "public_transport_cat_2",
+                "Value of calculated indicator, total - Capital Podgorica",
+                "Indicator value - number of inhabitants who have obstacles in performing daily activities",
                 ""
               ]
             },
@@ -5360,8 +5462,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3_d_1_cat_1",
-                "3_d_1_cat_2",
+                "International Health Regulations (IHR) capacity, State Party Self-Assessment Annual Report (SPAR), Legislation and financing",
+                "International Health Regulations (IHR) capacity, State Party Self-Assessment Annual Report (SPAR), IHR Coordination and National IHR Focal Point Functions",
                 ""
               ]
             },
@@ -5396,7 +5498,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions_constant_usd_2017",
+                "millions USD (2017)",
                 ""
               ]
             },
@@ -5407,8 +5509,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "17_10_1_cat_1",
-                "17_10_1_cat_2",
+                "Worldwide weighted tariff-average, most-favoured-nation status, all products",
+                "Worldwide weighted tariff-average, preferential status, all products",
                 ""
               ]
             },
@@ -5454,11 +5556,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "basel_convention",
-                "rotterdam_convention",
-                "stockholm_convention",
-                "montreal_convention",
-                "minamata_convention",
+                "Basel convention",
+                "Rotterdam convention",
+                "Stockholm convention",
+                "Montreal convention",
+                "Minamata convention",
                 ""
               ]
             },
@@ -5469,20 +5571,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "basel_convention_1",
-                "basel_convention_2",
+                "Designation of the contact person and one or more competent authorities",
+                "Submission of annual national reports during the reporting period",
                 "basel_convention_3",
                 "basel_convention_4",
                 "basel_convention_5",
-                "rotterdam_convention_1",
-                "rotterdam_convention_2",
-                "stockholm_convention_1",
-                "stockholm_convention_2",
-                "stockholm_convention_3",
-                "montreal_convention_1",
-                "montreal_convention_2",
-                "minamata_convention_1",
-                "minamata_convention_2",
+                "Designation of competent national authorities and official contact points",
+                "Submitting an import response during the reporting period (0.2 points per import response)",
+                "Designation of official contact point and national focal point",
+                "Submission of the national implementation plan",
+                "Submission of the revised national plan/implementation plans related to the adopted amendments and additions by the Conference of the Parties in the reporting period (1 point per revised and updated plan)",
+                "Compliance with reporting requirements for production and consumption of ozone-depleting substances under Article 7 of the Montreal Protocol",
+                "Submission of information on licensing systems under Article 4B of the Montreal Protocol",
+                "Designation of the national key point (Article 17)",
+                "Submitting a national report (Article 21)",
                 ""
               ]
             },
@@ -5528,8 +5630,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5_5_2_cat_1",
-                "5_5_2_cat_2",
+                "managerial positions",
+                "senior and middle management positions",
                 ""
               ]
             },
@@ -5564,7 +5666,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million_usd",
+                "millions USD",
                 ""
               ]
             },
@@ -5657,10 +5759,10 @@
             "constraints": {
               "enum": [
                 "total",
-                "6_5_1_cat_1",
-                "6_5_1_cat_2",
-                "6_5_1_cat_3",
-                "6_5_1_cat_4",
+                "enabling environment",
+                "institutions and participation",
+                "management instruments",
+                "financing",
                 ""
               ]
             },
@@ -5695,7 +5797,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes_no",
+                "yes/no",
                 "%",
                 ""
               ]
@@ -5707,23 +5809,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population_census",
+                "population and household census",
                 ""
               ]
             },
-            "title": "Census"
+            "title": "Population and household census"
           },
           {
             "name": "Register",
             "type": "string",
             "constraints": {
               "enum": [
-                "register_of_births",
-                "register_of_deaths",
+                "Entry in the register of births",
+                "Entry in the death register",
                 ""
               ]
             },
-            "title": "Register"
+            "title": "Register of births/deaths"
           },
           {
             "name": "Value",
@@ -5754,30 +5856,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_1000_women",
+                "per 1000 women",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Roma settlements",
-                ""
-              ]
-            },
-            "title": "Location"
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged 10-14 years",
-                "aged 15-19 years",
+                "aged 15-19 and 10-14 years",
                 ""
               ]
             },
@@ -5812,7 +5902,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_100000_population",
+                "per 100 000 population",
                 ""
               ]
             },
@@ -5859,8 +5949,8 @@
             "constraints": {
               "enum": [
                 "total",
-                "6_5_2_cat_1",
-                "6_5_2_cat_2",
+                "river and lake basins",
+                "aquifers",
                 ""
               ]
             },
@@ -5907,6 +5997,9 @@
             "constraints": {
               "enum": [
                 "Roma settlements",
+                "Urban",
+                "All area",
+                "Rural",
                 ""
               ]
             },
@@ -5917,10 +6010,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "sanitation_cat_1",
-                "sanitation_cat_2",
-                "sanitation_cat_3",
-                "sanitation_cat_4",
+                "household members with a handwashing room with water and soap or detergent",
+                "household members using improved sanitation facilities that they do not share with others",
+                "household members who use improved sanitary facilities where it is not possible to release water into the common sewer where waste is not emptied",
+                "household members who use improved sanitary facilities where it is not possible to let water into the common sewer, but the waste is emptied",
                 ""
               ]
             },
@@ -6013,16 +6106,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "transfer_files",
-                "install_software",
-                "change_settings",
-                "copy_files",
-                "word_processing",
-                "presentations",
-                "spread_sheets",
-                "advanced_spread_sheets",
-                "photos",
-                "programming",
+                "Transferring files between computers or other devices",
+                "Installing software or applications (apps)",
+                "Changing the settings of any software, including operational system or security programs",
+                "Copying or moving files or folders",
+                "Using word processing software",
+                "Creating presentations or documents integrating text, pictures, tables or charts",
+                "Using spread sheet software",
+                "Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",
+                "Using software to edit photos, video or audio files",
+                "Writing code in a programming language",
                 ""
               ]
             },
@@ -6036,6 +6129,41 @@
         ]
       },
       "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+    },
+    {
+      "path": "14-1-1/data.csv",
+      "name": "14-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
     },
     {
       "path": "8-1-1/data.csv",
@@ -6149,8 +6277,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total_infected",
-                "per_100000_population",
+                "total infected",
+                "per 100 000 population",
                 ""
               ]
             },
@@ -6227,6 +6355,19 @@
             "title": "Units"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -6255,8 +6396,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1_1_1_cat_1",
-                "1_1_1_cat_2",
+                "Proportion of population below international poverty line",
+                "Employed population below international poverty line",
                 ""
               ]
             },
@@ -6281,11 +6422,11 @@
                 "aged 65 years",
                 "allages",
                 "aged 15-64 years",
-                "aged 0-15 years",
-                "allarea",
+                "less than 15 years",
+                "All area",
                 "aged 15-24 years",
-                "aged more 15 years",
-                "aged more 25 years",
+                "more than 15 years",
+                "more than 25 years",
                 ""
               ]
             },
@@ -6296,10 +6437,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "allarea",
-                "urban",
-                "rural",
-                "Bothsex",
+                "All area",
+                "Urban",
+                "Rural",
+                "Both 'sexes'",
                 ""
               ]
             },
@@ -6310,7 +6451,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bothsex",
+                "Both 'sexes'",
                 "Female",
                 "Male",
                 "allages",
@@ -6394,8 +6535,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "10_5_1_cat_1",
-                "10_5_1_cat_2",
+                "Non-performing loans net of provisions to capital",
+                "Non-performing loans to total gross loans",
                 ""
               ]
             },
@@ -6409,52 +6550,6 @@
         ]
       },
       "title": "Financial Soundness Indicators"
-    },
-    {
-      "path": "3-8-1-a/data.csv",
-      "name": "3-8-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Roma settlements",
-                ""
-              ]
-            },
-            "title": "Location"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Coverage of essential health services"
     },
     {
       "path": "3-b-1/data.csv",
@@ -6487,8 +6582,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3_b_1_cat_1",
-                "3_b_1_cat_2",
+                "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3)",
+                "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2)",
                 ""
               ]
             },
@@ -6534,8 +6629,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "recycled_waste",
-                "total_waste",
+                "Recycled amounts of waste (R2-R11 + export)",
+                "Total generated amounts of waste",
                 ""
               ]
             },
@@ -6605,7 +6700,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_100000_life_births",
+                "per 100 000 life births",
                 ""
               ]
             },
@@ -6640,7 +6735,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions_constant_usd_2017",
+                "millions USD (2017)",
                 ""
               ]
             },
@@ -6745,7 +6840,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_100000_population",
+                "per 100 000 population",
                 ""
               ]
             },
@@ -6780,11 +6875,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_1000_population",
+                "per 1000 population",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -6862,7 +6970,7 @@
             "constraints": {
               "enum": [
                 "Male",
-                "Bothsex",
+                "Both 'sexes'",
                 "FEMale",
                 ""
               ]
@@ -6877,6 +6985,41 @@
         ]
       },
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    },
+    {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "millions USD",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "2-c-1/data.csv",
@@ -6898,7 +7041,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "index",
+                "Index",
                 ""
               ]
             },
@@ -6912,6 +7055,53 @@
         ]
       },
       "title": "Indicator of food price anomalies"
+    },
+    {
+      "path": "3-8-2/data.csv",
+      "name": "3-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,",
+                "Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
     },
     {
       "path": "1-5-1/data.csv",
@@ -6933,7 +7123,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_100000_population",
+                "per 100 000 population",
                 ""
               ]
             },
@@ -6944,8 +7134,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1_5_1_cat_1",
-                "1_5_1_cat_2",
+                "Number of deaths and missing persons attributed to disasters",
+                "Number of directly affected persons attributed to disasters",
                 ""
               ]
             },
@@ -7055,30 +7245,6 @@
         ]
       },
       "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
-    },
-    {
-      "path": "3-8-1/data.csv",
-      "name": "3-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Coverage of essential health services"
     },
     {
       "path": "16-3-3/data.csv",
@@ -7537,54 +7703,6 @@
       "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
     },
     {
-      "path": "14-1-1/data.csv",
-      "name": "14-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
-    },
-    {
-      "path": "17-19-1/data.csv",
-      "name": "17-19-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
-    },
-    {
       "path": "17-14-1/data.csv",
       "name": "17-14-1",
       "profile": "tabular-data-resource",
@@ -7775,30 +7893,6 @@
         ]
       },
       "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
-    },
-    {
-      "path": "3-8-2/data.csv",
-      "name": "3-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
     },
     {
       "path": "13-2-1/data.csv",
@@ -8063,30 +8157,6 @@
         ]
       },
       "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
-    },
-    {
-      "path": "7-a-1/data.csv",
-      "name": "7-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
     },
     {
       "path": "11-3-1/data.csv",
@@ -8399,30 +8469,6 @@
         ]
       },
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
-    },
-    {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "11-5-2/data.csv",

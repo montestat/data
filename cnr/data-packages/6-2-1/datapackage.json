@@ -32,6 +32,9 @@
             "constraints": {
               "enum": [
                 "Romska naselja",
+                "Gradsko",
+                "Sve lokacije",
+                "Ruralno",
                 ""
               ]
             },

@@ -43,16 +43,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "transfer_files",
-                "install_software",
-                "change_settings",
-                "copy_files",
-                "word_processing",
-                "presentations",
-                "spread_sheets",
-                "advanced_spread_sheets",
-                "photos",
-                "programming",
+                "Transferring files between computers or other devices",
+                "Installing software or applications (apps)",
+                "Changing the settings of any software, including operational system or security programs",
+                "Copying or moving files or folders",
+                "Using word processing software",
+                "Creating presentations or documents integrating text, pictures, tables or charts",
+                "Using spread sheet software",
+                "Using advanced functions of spread sheet software to organise and analyse data, such as sorting, filtering, using formulas, creating charts",
+                "Using software to edit photos, video or audio files",
+                "Writing code in a programming language",
                 ""
               ]
             },

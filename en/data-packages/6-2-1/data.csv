@@ -1,9 +1,60 @@
 Year,Units,Location,Category,Value
-2018,%,,sanitation_cat_1,99.6
-2018,%,Roma settlements,sanitation_cat_1,94.3
-2018,%,,sanitation_cat_2,96.0
-2018,%,Roma settlements,sanitation_cat_2,84.6
-2018,%,,sanitation_cat_3,73.7
-2018,%,Roma settlements,sanitation_cat_3,83.9
-2018,%,,sanitation_cat_4,12.8
-2018,%,Roma settlements,sanitation_cat_4,7.9
+2018,%,,household members with a handwashing room with water and soap or detergent,99.6
+2018,%,Roma settlements,household members with a handwashing room with water and soap or detergent,94.3
+2018,%,,household members using improved sanitation facilities that they do not share with others,96.0
+2018,%,Roma settlements,household members using improved sanitation facilities that they do not share with others,84.6
+2018,%,,household members who use improved sanitary facilities where it is not possible to release water into the common sewer where waste is not emptied,73.7
+2018,%,Roma settlements,household members who use improved sanitary facilities where it is not possible to release water into the common sewer where waste is not emptied,83.9
+2018,%,,"household members who use improved sanitary facilities where it is not possible to let water into the common sewer, but the waste is emptied",12.8
+2018,%,Roma settlements,"household members who use improved sanitary facilities where it is not possible to let water into the common sewer, but the waste is emptied",7.9
+2006,%,Urban,,19.61326
+2006,%,All area,,23.94933
+2006,%,Rural,,31.27029
+2007,%,All area,,26.26775
+2007,%,Urban,,22.71833
+2007,%,Rural,,32.34753
+2008,%,All area,,28.55996
+2008,%,Urban,,25.78911
+2008,%,Rural,,33.37529
+2009,%,All area,,30.826
+2009,%,Rural,,34.35324
+2009,%,Urban,,28.82535
+2010,%,All area,,33.06549
+2010,%,Rural,,35.28103
+2010,%,Urban,,31.8268
+2011,%,All area,,35.27822
+2011,%,Urban,,34.79323
+2011,%,Rural,,36.15833
+2012,%,Rural,,36.9848
+2012,%,Urban,,37.72438
+2012,%,All area,,37.46407
+2013,%,All area,,39.62295
+2013,%,Urban,,40.62
+2013,%,Rural,,37.7601
+2014,%,All area,,41.7548
+2014,%,Urban,,43.47985
+2014,%,Rural,,38.4839
+2015,%,All area,,43.85956
+2015,%,Urban,,46.30369
+2015,%,Rural,,39.15586
+2016,%,Urban,,49.09126
+2016,%,Rural,,39.77563
+2016,%,All area,,45.93708
+2017,%,All area,,47.98737
+2017,%,Urban,,51.84233
+2017,%,Rural,,40.3429
+2018,%,All area,,50.00739
+2018,%,Rural,,40.8573
+2018,%,Urban,,54.55237
+2019,%,Rural,,41.31852
+2019,%,Urban,,56.82465
+2019,%,All area,,51.73089
+2020,%,All area,,53.4151
+2020,%,Rural,,41.70282
+2020,%,Urban,,59.05743
+2021,%,Rural,,42.377
+2021,%,All area,,55.40115
+2021,%,Urban,,61.57929
+2022,%,Urban,,64.10116
+2022,%,Rural,,43.05118
+2022,%,All area,,57.39968

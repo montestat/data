@@ -5,7 +5,7 @@ Year,Kategorija,Unit,Starost,Lokacija,Pol,Value
 2012,Udio stanovništva ispod međunarodne linije siromaštva,%,15-64 godine,Sve lokacije,Oba pola,2.65721
 2012,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Gradsko,Oba pola,1.65522
 2012,Udio stanovništva ispod međunarodne linije siromaštva,%,manje od 15 godina,Sve lokacije,Oba pola,6.09358
-2012,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ostalo,Oba pola,5.54259
+2012,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ruralno,Oba pola,5.54259
 2012,Udio stanovništva ispod međunarodne linije siromaštva,%,Sve lokacije,Oba pola,sva godišta,3.0
 2013,Udio stanovništva ispod međunarodne linije siromaštva,%,Sve lokacije,Oba pola,sva godišta,3.0
 2014,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Oba pola,1.6
@@ -13,7 +13,7 @@ Year,Kategorija,Unit,Starost,Lokacija,Pol,Value
 2015,Udio stanovništva ispod međunarodne linije siromaštva,%,65 godina,Sve lokacije,Oba pola,0.31506
 2015,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Žene,1.34876
 2015,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Muškarci,1.39571
-2015,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ostalo,Oba pola,2.03857
+2015,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ruralno,Oba pola,2.03857
 2015,Udio stanovništva ispod međunarodne linije siromaštva,%,manje od 15 godina,Sve lokacije,Oba pola,2.50301
 2015,Udio stanovništva ispod međunarodne linije siromaštva,%,15-64 godine,Sve lokacije,Oba pola,1.29925
 2015,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Gradsko,Oba pola,1.00371
@@ -22,12 +22,12 @@ Year,Kategorija,Unit,Starost,Lokacija,Pol,Value
 2016,Udio stanovništva ispod međunarodne linije siromaštva,%,65 godina,Sve lokacije,Oba pola,0.76936
 2016,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Žene,2.73793
 2016,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Muškarci,3.09465
-2016,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ostalo,Oba pola,4.82791
+2016,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ruralno,Oba pola,4.82791
 2016,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Gradsko,Oba pola,1.87255
 2016,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Oba pola,2.5
 2017,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Oba pola,3.3
 2017,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Muškarci,3.83513
-2017,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ostalo,Oba pola,5.92658
+2017,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ruralno,Oba pola,5.92658
 2017,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Gradsko,Oba pola,2.91836
 2017,Udio stanovništva ispod međunarodne linije siromaštva,%,manje od 15 godina,Sve lokacije,Oba pola,6.32738
 2017,Udio stanovništva ispod međunarodne linije siromaštva,%,15-64 godine,Sve lokacije,Oba pola,3.90099
@@ -38,7 +38,7 @@ Year,Kategorija,Unit,Starost,Lokacija,Pol,Value
 2018,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Žene,2.87483
 2018,Udio stanovništva ispod međunarodne linije siromaštva,%,65 godina,Sve lokacije,Oba pola,0.67567
 2018,Udio stanovništva ispod međunarodne linije siromaštva,%,15-64 godine,Sve lokacije,Oba pola,2.86565
-2018,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ostalo,Oba pola,4.9446
+2018,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ruralno,Oba pola,4.9446
 2018,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Gradsko,Oba pola,1.76243
 2018,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Oba pola,2.8
 2019,Udio stanovništva ispod međunarodne linije siromaštva,%,Sve lokacije,Oba pola,sva godišta,2.0
@@ -46,7 +46,7 @@ Year,Kategorija,Unit,Starost,Lokacija,Pol,Value
 2019,Udio stanovništva ispod međunarodne linije siromaštva,%,manje od 15 godina,Sve lokacije,Oba pola,3.56185
 2019,Udio stanovništva ispod međunarodne linije siromaštva,%,65 godina,Sve lokacije,Oba pola,0.6276
 2019,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Gradsko,Oba pola,1.15808
-2019,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ostalo,Oba pola,3.53123
+2019,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ruralno,Oba pola,3.53123
 2019,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Muškarci,2.02484
 2019,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Žene,1.97049
 2020,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Muškarci,1.84162
@@ -55,13 +55,13 @@ Year,Kategorija,Unit,Starost,Lokacija,Pol,Value
 2020,Udio stanovništva ispod međunarodne linije siromaštva,%,65 godina,Sve lokacije,Oba pola,0.22752
 2020,Udio stanovništva ispod međunarodne linije siromaštva,%,manje od 15 godina,Sve lokacije,Oba pola,4.14755
 2020,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Gradsko,Oba pola,0.9289
-2020,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ostalo,Oba pola,3.69736
+2020,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ruralno,Oba pola,3.69736
 2020,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Oba pola,1.8
 2021,Udio stanovništva ispod međunarodne linije siromaštva,%,Sve lokacije,Oba pola,sva godišta,2.0
 2021,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Gradsko,Oba pola,1.68161
 2021,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Žene,1.95119
 2021,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Sve lokacije,Muškarci,2.2606
-2021,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ostalo,Oba pola,2.85668
+2021,Udio stanovništva ispod međunarodne linije siromaštva,%,sva godišta,Ruralno,Oba pola,2.85668
 2021,Udio stanovništva ispod međunarodne linije siromaštva,%,65 godina,Sve lokacije,Oba pola,0.42038
 2021,Udio stanovništva ispod međunarodne linije siromaštva,%,15-64 godine,Sve lokacije,Oba pola,1.67483
 2021,Udio stanovništva ispod međunarodne linije siromaštva,%,manje od 15 godina,Sve lokacije,Oba pola,5.25161

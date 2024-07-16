@@ -1,27 +1,27 @@
 Year,Value,Units
-2010,23.0,total_infected
-2011,24.0,total_infected
-2012,25.0,total_infected
-2013,26.0,total_infected
-2014,27.0,total_infected
-2015,27.0,total_infected
-2016,26.0,total_infected
-2017,25.0,total_infected
-2018,24.0,total_infected
-2019,22.0,total_infected
-2020,20.0,total_infected
-2021,18.0,total_infected
-2022,15.0,total_infected
-2010,0.04,per_1000_uninfected_population
-2011,0.04,per_1000_uninfected_population
-2012,0.04,per_1000_uninfected_population
-2013,0.04,per_1000_uninfected_population
-2014,0.04,per_1000_uninfected_population
-2015,0.04,per_1000_uninfected_population
-2016,0.04,per_1000_uninfected_population
-2017,0.04,per_1000_uninfected_population
-2018,0.04,per_1000_uninfected_population
-2019,0.03,per_1000_uninfected_population
-2020,0.03,per_1000_uninfected_population
-2021,0.03,per_1000_uninfected_population
-2022,0.02,per_1000_uninfected_population
+2010,23.0,total infected
+2011,24.0,total infected
+2012,25.0,total infected
+2013,26.0,total infected
+2014,27.0,total infected
+2015,27.0,total infected
+2016,26.0,total infected
+2017,25.0,total infected
+2018,24.0,total infected
+2019,22.0,total infected
+2020,20.0,total infected
+2021,18.0,total infected
+2022,15.0,total infected
+2010,0.04,per 1000 uninfected population
+2011,0.04,per 1000 uninfected population
+2012,0.04,per 1000 uninfected population
+2013,0.04,per 1000 uninfected population
+2014,0.04,per 1000 uninfected population
+2015,0.04,per 1000 uninfected population
+2016,0.04,per 1000 uninfected population
+2017,0.04,per 1000 uninfected population
+2018,0.04,per 1000 uninfected population
+2019,0.03,per 1000 uninfected population
+2020,0.03,per 1000 uninfected population
+2021,0.03,per 1000 uninfected population
+2022,0.02,per 1000 uninfected population

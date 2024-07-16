@@ -1,24 +1,34 @@
 Year,Units,Kategorija,Value
-2006,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.58
-2007,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.53
-2008,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.63
-2009,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.43
-2010,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.62
-2011,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.59
-2012,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.56
-2013,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.53
-2014,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.51
-2015,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.52
-2016,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.45
-2017,ukupno,Emisija CO2 po jedinici dodate vrijednosti za cijelu ekonomiju,0.45
-2006,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,0.88
-2007,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,1.51
-2008,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,1.7
-2009,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,1.24
-2010,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,0.62
-2011,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,0.49
-2012,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,0.58
-2013,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,0.86
-2014,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,0.86
-2015,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,0.82
-2016,ukupno,Emisija CO2 po jedinici dodate vrijednosti iz proizvodnih industrija,0.8
+2010,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.58
+2011,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.54
+2012,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.33
+2013,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.27
+2014,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.22
+2015,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.36
+2016,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.15
+2017,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.27
+2018,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.5
+2019,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.6
+2020,ukupno,"Emisija ugljen-dioksida iz sagorijevanja goriva, milioni tona",2.53
+2010,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.249
+2011,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.237
+2012,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.224
+2013,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.21
+2014,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.202
+2015,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.208
+2016,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.184
+2017,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.185
+2018,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.194
+2019,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.194
+2020,ukupno,"Emisije ugljen-dioksida po jedinici BDP-a, kg CO2 po konstanti 2010 USD",0.223
+2010,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",0.772
+2011,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",0.581
+2012,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",0.734
+2013,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",1.065
+2014,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",1.023
+2015,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",0.966
+2016,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",0.944
+2017,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",0.977
+2018,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",0.844
+2019,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",0.905
+2020,ukupno,"Emisije ugljen-dioksida po jedinici dodate vrijednosti proizvodnje, kg CO2 po konstanti 2010 USD",0.91

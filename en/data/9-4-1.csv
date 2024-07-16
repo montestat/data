@@ -1,24 +1,34 @@
 Year,Units,Category,Value
-2006,total,co2_emission_cat_1,0.58
-2007,total,co2_emission_cat_1,0.53
-2008,total,co2_emission_cat_1,0.63
-2009,total,co2_emission_cat_1,0.43
-2010,total,co2_emission_cat_1,0.62
-2011,total,co2_emission_cat_1,0.59
-2012,total,co2_emission_cat_1,0.56
-2013,total,co2_emission_cat_1,0.53
-2014,total,co2_emission_cat_1,0.51
-2015,total,co2_emission_cat_1,0.52
-2016,total,co2_emission_cat_1,0.45
-2017,total,co2_emission_cat_1,0.45
-2006,total,co2_emission_cat_2,0.88
-2007,total,co2_emission_cat_2,1.51
-2008,total,co2_emission_cat_2,1.7
-2009,total,co2_emission_cat_2,1.24
-2010,total,co2_emission_cat_2,0.62
-2011,total,co2_emission_cat_2,0.49
-2012,total,co2_emission_cat_2,0.58
-2013,total,co2_emission_cat_2,0.86
-2014,total,co2_emission_cat_2,0.86
-2015,total,co2_emission_cat_2,0.82
-2016,total,co2_emission_cat_2,0.8
+2010,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.58
+2011,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.54
+2012,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.33
+2013,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.27
+2014,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.22
+2015,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.36
+2016,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.15
+2017,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.27
+2018,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.5
+2019,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.6
+2020,total,"Carbon dioxide emissions from fuel combustion, millions of tonnes",2.53
+2010,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.249
+2011,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.237
+2012,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.224
+2013,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.21
+2014,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.202
+2015,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.208
+2016,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.184
+2017,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.185
+2018,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.194
+2019,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.194
+2020,total,"Carbon dioxide emissions per unit of GDP, kg of CO2 per constant 2010 USD",0.223
+2010,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",0.772
+2011,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",0.581
+2012,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",0.734
+2013,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",1.065
+2014,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",1.023
+2015,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",0.966
+2016,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",0.944
+2017,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",0.977
+2018,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",0.844
+2019,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",0.905
+2020,total,"Carbon dioxide emissions per unit of manufacturing value added, kg of CO2 per constant 2010 USD",0.91

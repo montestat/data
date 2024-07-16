@@ -1,19 +1,88 @@
 Year,Units,Category,Value
-2018,%,clean_tech_cat_1,63.8
-2018,%,clean_tech_cat_2,29.7
-2018,%,clean_tech_cat_3,99.6
-2018,%,clean_tech_cat_4,28.0
-2008,%,clean_tech_cat_5,77.0
-2009,%,clean_tech_cat_5,42.0
-2010,%,clean_tech_cat_5,75.0
-2011,%,clean_tech_cat_5,74.0
-2012,%,clean_tech_cat_5,74.0
-2013,%,clean_tech_cat_5,73.0
-2014,%,clean_tech_cat_5,73.0
-2015,%,clean_tech_cat_5,42.0
-2016,%,clean_tech_cat_5,72.0
-2017,%,clean_tech_cat_5,62.0
-2018,%,clean_tech_cat_5,42.0
-2019,%,clean_tech_cat_5,71.0
-2020,%,clean_tech_cat_5,62.0
-2021,%,clean_tech_cat_5,62.0
+2008,%,Share of population using clean fuels and technologies,77.0
+2009,%,Share of population using clean fuels and technologies,42.0
+2010,%,Share of population using clean fuels and technologies,75.0
+2011,%,Share of population using clean fuels and technologies,74.0
+2012,%,Share of population using clean fuels and technologies,74.0
+2013,%,Share of population using clean fuels and technologies,73.0
+2014,%,Share of population using clean fuels and technologies,73.0
+2015,%,Share of population using clean fuels and technologies,42.0
+2016,%,Share of population using clean fuels and technologies,72.0
+2017,%,Share of population using clean fuels and technologies,62.0
+2018,%,Share of population using clean fuels and technologies for cooking,63.8
+2018,%,Share of population using clean fuels and technologies for heating,29.7
+2018,%,Share of population using clean fuels and technologies for lighting,99.6
+2018,%,"Share of population using clean fuels and technologies for cooking, heating and lighting",28.0
+2018,%,Share of population using clean fuels and technologies,42.0
+2019,%,Share of population using clean fuels and technologies,71.0
+2020,%,Share of population using clean fuels and technologies,62.0
+2021,%,Share of population using clean fuels and technologies,62.0
+2000,%,Rural,45.1
+2000,%,All area,67.1
+2000,%,Urban,83.1
+2001,%,All area,67.4
+2001,%,Urban,82.6
+2001,%,Rural,44.9
+2002,%,Rural,44.4
+2002,%,Urban,82.0
+2002,%,All area,66.9
+2003,%,All area,66.8
+2003,%,Rural,43.6
+2003,%,Urban,81.3
+2004,%,Urban,80.7
+2004,%,Rural,43.6
+2004,%,All area,66.3
+2005,%,Urban,79.5
+2005,%,Rural,43.1
+2005,%,All area,65.8
+2006,%,Urban,78.7
+2006,%,Rural,42.5
+2006,%,All area,65.45
+2007,%,Urban,77.7
+2007,%,Rural,42.3
+2007,%,All area,64.8
+2008,%,Urban,77.0
+2008,%,Rural,41.4
+2008,%,All area,64.2
+2009,%,Urban,75.8
+2009,%,Rural,41.5
+2009,%,All area,63.65
+2010,%,Urban,75.0
+2010,%,All area,63.0
+2010,%,Rural,41.5
+2011,%,All area,62.8
+2011,%,Urban,74.3
+2011,%,Rural,41.15
+2012,%,All area,62.2
+2012,%,Urban,73.5
+2012,%,Rural,41.1
+2013,%,Urban,73.0
+2013,%,Rural,41.1
+2013,%,All area,61.9
+2014,%,Urban,72.3
+2014,%,Rural,41.2
+2014,%,All area,61.8
+2015,%,Rural,41.4
+2015,%,Urban,72.2
+2015,%,All area,61.4
+2016,%,Rural,41.7
+2016,%,Urban,71.6
+2016,%,All area,61.6
+2017,%,Rural,42.3
+2017,%,All area,61.6
+2017,%,Urban,71.6
+2018,%,Urban,71.2
+2018,%,Rural,42.7
+2018,%,All area,61.75
+2019,%,All area,61.85
+2019,%,Urban,71.2
+2019,%,Rural,43.0
+2020,%,All area,62.1
+2020,%,Urban,71.3
+2020,%,Rural,43.8
+2021,%,Rural,44.0
+2021,%,All area,62.3
+2021,%,Urban,71.1
+2022,%,Rural,44.7
+2022,%,All area,62.6
+2022,%,Urban,71.5

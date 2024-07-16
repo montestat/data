@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5_a_2_cat_1",
+                "the degree to which the legal framework (including customary law) guarantees women equal rights to land ownership and/or control, on a 1-6 scale",
                 ""
               ]
             },

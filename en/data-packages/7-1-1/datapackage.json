@@ -32,6 +32,9 @@
             "constraints": {
               "enum": [
                 "Roma settlements",
+                "Rural",
+                "All area",
+                "Urban",
                 ""
               ]
             },

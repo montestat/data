@@ -39,19 +39,19 @@
                 "Cetinje",
                 "Danilovgrad",
                 "Herceg Novi",
-                "Kolasin",
+                "Kolašin",
                 "Kotor",
                 "Mojkovac",
-                "Niksic",
+                "Nikšić",
                 "Plav (sa Gusinjem)",
                 "Pljevlja",
-                "Pluzine",
+                "Plužine",
                 "Podgorica",
-                "Rozaje",
-                "savnik",
+                "Rožaje",
+                "Šavnik",
                 "Tivat",
                 "Ulcinj",
-                "Zabljak",
+                "Žabljak",
                 ""
               ]
             },
@@ -62,9 +62,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "collected_waste",
-                "produced_waste",
-                "processed_waste",
+                "collected waste",
+                "produced waste",
+                "processed waste + disposed waste in sanitary landfills + temporarily stored waste",
                 ""
               ]
             },

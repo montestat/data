@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_100_population",
+                "per 100 population",
                 ""
               ]
             },

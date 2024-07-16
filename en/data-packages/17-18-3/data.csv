@@ -1,10 +1,14 @@
 Year,Units,Category,Value
-2014,yes_no,national_stat_plan_strategy,1
-2015,yes_no,national_stat_plan_strategy,1
-2016,yes_no,national_stat_plan_strategy,1
-2017,yes_no,national_stat_plan_strategy,1
-2018,yes_no,national_stat_plan_strategy,1
-2019,yes_no,national_stat_plan_strategy,1
-2020,yes_no,national_stat_plan_strategy,1
-2021,yes_no,national_stat_plan_strategy,1
-2022,yes_no,national_stat_plan_strategy,1
+2014,yes/no,Implementation of the strategy for the introduction of the national statistical plan,1.0
+2015,yes/no,Implementation of the strategy for the introduction of the national statistical plan,1.0
+2016,yes/no,Implementation of the strategy for the introduction of the national statistical plan,1.0
+2017,yes/no,Implementation of the strategy for the introduction of the national statistical plan,1.0
+2018,yes/no,Implementation of the strategy for the introduction of the national statistical plan,1.0
+2019,yes/no,Implementation of the strategy for the introduction of the national statistical plan,1.0
+2020,yes/no,Implementation of the strategy for the introduction of the national statistical plan,1.0
+2021,yes/no,Implementation of the strategy for the introduction of the national statistical plan,1.0
+2022,yes/no,Implementation of the strategy for the introduction of the national statistical plan,1.0
+2016,Index,Statistical Performance Index,56.93
+2017,Index,Statistical Performance Index,59.96
+2018,Index,Statistical Performance Index,64.74
+2019,Index,Statistical Performance Index,67.02

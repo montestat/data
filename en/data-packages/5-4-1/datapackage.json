@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percent_of_aged_20-64",
+                "percent of population aged 20-64",
                 ""
               ]
             },
@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5_4_1_cat_1",
+                "Population inactive due to caring responsibilities",
                 ""
               ]
             },

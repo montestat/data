@@ -12,7 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "millions_constant_usd_2020",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MARINE",
+                "HYDROPOWER",
+                "BIOENERGY",
+                "ALL",
+                "WIND",
+                "SOLAR",
+                "MULTIPLE",
+                "GEOTHERMAL",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

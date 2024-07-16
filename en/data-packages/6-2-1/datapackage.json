@@ -32,6 +32,9 @@
             "constraints": {
               "enum": [
                 "Roma settlements",
+                "Urban",
+                "All area",
+                "Rural",
                 ""
               ]
             },
@@ -42,10 +45,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "sanitation_cat_1",
-                "sanitation_cat_2",
-                "sanitation_cat_3",
-                "sanitation_cat_4",
+                "household members with a handwashing room with water and soap or detergent",
+                "household members using improved sanitation facilities that they do not share with others",
+                "household members who use improved sanitary facilities where it is not possible to release water into the common sewer where waste is not emptied",
+                "household members who use improved sanitary facilities where it is not possible to let water into the common sewer, but the waste is emptied",
                 ""
               ]
             },

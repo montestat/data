@@ -1,1 +1,1 @@
-{"data":{"Year":[2017,2017,2017],"Units":["%","%","%"],"Category":["water_waste_cat_1","water_waste_cat_2","water_waste_cat_total"],"Value":[76.2,56.2,74.4]},"edges":[]}
+{"data":{"Year":[2017,2017,2017,2020,2022],"Units":["%","%","%","%","%"],"Category":["water_waste_cat_1","water_waste_cat_2","water_waste_cat_total","water_waste_cat_3","water_waste_cat_3"],"Value":[76.2,56.2,74.4,45.0727,55.27942]},"edges":[]}

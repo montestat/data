@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "millions_constant_usd_2021",
+                "millions USD (2021)",
                 ""
               ]
             },
@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4_b_1_cat_1",
+                "Total official flows for scholarships, by recipient countries",
                 ""
               ]
             },

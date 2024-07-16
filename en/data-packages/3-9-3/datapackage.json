@@ -20,11 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per_1000_population",
+                "per 1000 population",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

@@ -31,10 +31,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5_1_1_cat_1",
-                "5_1_1_cat_2",
-                "5_1_1_cat_3",
-                "5_1_1_cat_4",
+                "The degree to which legal frameworks promote, enforce and monitor gender equality in public life, on a 0-100 scale",
+                "The degree to which legal frameworks promote, enforce and monitor gender equality with respect to violence against women, on a 0-100 scale.",
+                "The degree to which legal frameworks promote, enforce and monitor gender equality with respect to employment and economic benefits, on a 0-100 scale.",
+                "The degree to which legal frameworks promote, enforce and monitor gender equality with respect to marriage and family benefits, on a 0-100 scale.",
                 ""
               ]
             },

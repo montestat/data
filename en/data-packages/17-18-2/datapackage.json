@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "yes_no",
+                "yes/no",
                 ""
               ]
             },

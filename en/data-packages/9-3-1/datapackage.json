@@ -31,10 +31,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "cat_b",
-                "cat_c",
-                "cat_d",
-                "cat_e",
+                "ore and stone extraction",
+                "manufacturing industry",
+                "electricity, gas, steam and air conditioning supply",
+                "water supply, waste water management, control of waste removal processes and similar activities",
                 ""
               ]
             },

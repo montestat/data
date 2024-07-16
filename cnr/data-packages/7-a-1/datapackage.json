@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "miliona dolara (2020)",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "energija mora",
+                "hidro-energija",
+                "bio-energija",
+                "sve",
+                "vjetar",
+                "solarno",
+                "više izvora",
+                "geotermalno",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",
