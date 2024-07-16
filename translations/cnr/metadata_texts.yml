@@ -76,10 +76,10 @@
 3-7-1-national-deviation: ""
 3-7-1-national-introductioncomment: 'Vremenski plan: u 2018.godini i svakoj narednoj rundi MICS istraživanja.'
 3-7-2-global-methodology: 'Godišnji broj porođaja žena između 15 i 49 godina starosti na 1000 žena u datoj starosnoj grupi. Takođe se naziva i starosno specifična stopa fertiliteta kod žena između 15 i 49 godina starosti. Stopa porođaja kod adolescentkinja se obično računa kao srazmjera. Brojilac je broj živorođenčadi žena između 15 i 49 godina starosti, dok je imenilac procjena izloženosti rađanju žena između 15 i 49 godina starosti. Brojilac i imenilac se računaju različito za civilnu registraciju i za podatke anketa i popisa.'
-3-7-2-national-methodology: 'Godišnji broj porođaja žena između 15 i 49 godina starosti na 1000 žena u datoj starosnoj grupi'
-3-7-2-national-datasource: 'Zavod za statistiku.'
+3-7-2-national-methodology: ''
+3-7-2-national-datasource: ''
 3-7-2-national-disaggregation: ""
-3-7-2-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-02.pdf'
+3-7-2-national-comment: ''
 3-7-2-national-deviation: ""
 3-7-2-national-introductioncomment: ""
 3-a-1-global-methodology: 'Indikator je definisan kao procenat stanovništva starosne dobi od 15 i više godina, koji trenutno koristi bilo koji duvanski proizvod (dimljeni i/ili bez dima) na dnevnoj ili van dnevnoj osnovi.'
@@ -483,7 +483,7 @@
 11-2-1-national-introductioncomment: ""
 11-7-1-global-methodology: ""
 11-7-1-national-methodology: 'Javni prostor, odnosno površina podrazumijeva prostor koji je u vlasništvu javnosti ili se može javno koristiti (svaki građanin mu može besplatno pristupiti i uživati u njemu). Indikator 11.7.1 =((ukupna površina otvorenih javnih prostora+ukupna površina pod ulicama))/(ukupna izgrađena površina grada)*100. Ukupna površina otvorenih javnih prostora uključuje: parkove, područja za rekreaciju (igrališta, riječne obale, morske obale, javne plaže), trgove, plaže, skverove, kao i površinu pod ulicama.Smanjenje površine javnog prostora negativno utiče na kvalitet života, socijalnu integraciju, razvoj infrastrukture, održivost i produktivnost. Ulice predstavljaju osnovni element urbanog prostora, tj. javni prostor namijenjen kolskom i pješačkom saobraćaju. Ukupna izgrađena površina grada predstavlja područje koje zauzimaju zgrade i druge nepropusne površine. Shodno UN metodologiji, vremenska učestalost obračuna indikatora 11.7.1 je u razmaku od tri do pet godina. Praćenje u navedenim godišnjim vremenskim razmacima, omogućit će gradovima da utvrde da li se udio otvorenih javnih prostora izgrađenim područjima gradova povećava tokom vremena.'
-11-7-1-national-datasource: 'MICS'
+11-7-1-national-datasource: ''
 11-7-1-national-disaggregation: ""
 11-7-1-national-comment: 'Ukupna vrijednost indikatora = (Ukupna površina otvorenih javnih prostora / Ukupna izgrađena površina grada) * 100. Ključni dokumenti i baza podataka, kao i posebni svodni setovi podataka i anlitičke tabele, kartografsko-grafičke podloge .dwg fajlovi Atlas 1 i 2 -  iz kojih su se izveli proračuni za Indikatora 11.7.1. odnose se na dokumentacionu osnovu Prostornog i urbanističkog plana (PUP) Glavnog grada Podgorica, kao i Generalnog urbanističkog rješenja (GUR) Glavnog grada Podgorica iz 2014. godine. Zato je ovaj indikator bilo moguće obračunati samo za ovu godinu.'
 11-7-1-national-deviation: ""
