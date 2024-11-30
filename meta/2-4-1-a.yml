@@ -1,10 +1,10 @@
 SDG_GOAL__GLOBAL: global_goals.2-title
 SDG_TARGET__GLOBAL: global_targets.2-4-title
-SDG_INDICATOR__GLOBAL: global_indicators.2-4-1-a-title
-methodology_global: metadata_texts.2-4-1-a-global-methodology
+SDG_INDICATOR__GLOBAL: global_indicators.2-4-1-N-title
+methodology_global: metadata_texts.2-4-1-N-global-methodology
 SDG_GOAL: global_goals.2-title
 SDG_TARGET: global_targets.2-4-title
-SDG_INDICATOR: global_indicators.2-4-1-a-title
+SDG_INDICATOR: global_indicators.2-4-1-N-title
 methodology_national: ''
 DATA_SOURCE: ''
 COVERAGE: ''
