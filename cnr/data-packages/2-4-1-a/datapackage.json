@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "hektari",
-                ""
-              ]
-            },
-            "title": "Jedinica"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tradicionalna obrada",
-                "Konvencionalna obrada",
-                "Bez obrade",
-                ""
-              ]
-            },
-            "title": "Kategorija"
           },
           {
             "name": "Value",
@@ -50,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-4-1-a",
-  "title": "Površine poljoprivrednog zemljišta po načinu obrade"
+  "title": "Udio poljoprivrednih površina koje se koriste za produktivnu i održivu poljoprivredu"
 }
