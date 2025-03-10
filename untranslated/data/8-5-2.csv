@@ -12,6 +12,7 @@ Year,Units,Sex,Value
 2020,%,,17.9
 2021,%,,16.6
 2022,%,,14.7
+2023,%,,13.1
 2010,%,Male,18.9
 2011,%,Male,19.5
 2012,%,Male,19.3
@@ -25,6 +26,7 @@ Year,Units,Sex,Value
 2020,%,Male,17.5
 2021,%,Male,17.1
 2022,%,Male,16.2
+2023,%,Male,12.2
 2010,%,Female,20.7
 2011,%,Female,20.0
 2012,%,Female,20.3
@@ -38,3 +40,4 @@ Year,Units,Sex,Value
 2020,%,Female,18.4
 2021,%,Female,15.8
 2022,%,Female,12.8
+2023,%,Female,14.0

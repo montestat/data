@@ -28,7 +28,7 @@
             "title": "Kategorija"
           },
           {
-            "name": "Unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,7 +36,7 @@
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Jedinica"
           },
           {
             "name": "Age",

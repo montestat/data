@@ -10,6 +10,8 @@ Year,Units,Category,Value
 2019,tons,Recycled amounts of waste (R2-R11 + export),183447.3
 2020,tons,Recycled amounts of waste (R2-R11 + export),134864.8
 2021,tons,Recycled amounts of waste (R2-R11 + export),214273.3
+2022,tons,Recycled amounts of waste (R2-R11 + export),238409.9
+2023,tons,Recycled amounts of waste (R2-R11 + export),264103.7
 2011,tons,Total generated amounts of waste,1132479.7
 2012,tons,Total generated amounts of waste,1027342.7
 2013,tons,Total generated amounts of waste,1117588.7
@@ -21,3 +23,5 @@ Year,Units,Category,Value
 2019,tons,Total generated amounts of waste,1276244.6
 2020,tons,Total generated amounts of waste,1314393.6
 2021,tons,Total generated amounts of waste,1477865.8
+2022,tons,Total generated amounts of waste,1411673.7
+2023,tons,Total generated amounts of waste,1314292.4

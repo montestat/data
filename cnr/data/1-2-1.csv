@@ -8,6 +8,8 @@ Year,Units,Pol,Starost,Lokacija,Value
 2019,%,,,,24.5
 2020,%,,,,22.6
 2021,%,,,,21.2
+2022,%,,,,20.3
+2023,%,,,,20.1
 2013,%,Muškarci,,,24.9
 2014,%,Muškarci,,,24.2
 2015,%,Muškarci,,,24.4
@@ -17,6 +19,8 @@ Year,Units,Pol,Starost,Lokacija,Value
 2019,%,Muškarci,,,24.9
 2020,%,Muškarci,,,23.0
 2021,%,Muškarci,,,21.1
+2022,%,Muškarci,,,20.0
+2023,%,Muškarci,,,20.2
 2013,%,Žene,,,25.4
 2014,%,Žene,,,23.9
 2015,%,Žene,,,24.5
@@ -26,6 +30,8 @@ Year,Units,Pol,Starost,Lokacija,Value
 2019,%,Žene,,,24.0
 2020,%,Žene,,,22.2
 2021,%,Žene,,,21.3
+2022,%,Žene,,,20.6
+2023,%,Žene,,,19.9
 2013,%,,manje od 18 godina,,34.7
 2014,%,,manje od 18 godina,,31.8
 2015,%,,manje od 18 godina,,32.6
@@ -35,6 +41,8 @@ Year,Units,Pol,Starost,Lokacija,Value
 2019,%,,manje od 18 godina,,33.7
 2020,%,,manje od 18 godina,,32.6
 2021,%,,manje od 18 godina,,30.5
+2022,%,,manje od 18 godina,,28.4
+2023,%,,manje od 18 godina,,27.3
 2013,%,,18-24 godine,,27.7
 2014,%,,18-24 godine,,30.8
 2015,%,,18-24 godine,,28.0
@@ -44,6 +52,8 @@ Year,Units,Pol,Starost,Lokacija,Value
 2019,%,,18-24 godine,,30.5
 2020,%,,18-24 godine,,25.2
 2021,%,,18-24 godine,,24.7
+2022,%,,18-24 godine,,25.8
+2023,%,,18-24 godine,,24.4
 2013,%,,25-54 godine,,24.4
 2014,%,,25-54 godine,,23.3
 2015,%,,25-54 godine,,23.4
@@ -53,6 +63,8 @@ Year,Units,Pol,Starost,Lokacija,Value
 2019,%,,25-54 godine,,22.5
 2020,%,,25-54 godine,,20.4
 2021,%,,25-54 godine,,19.6
+2022,%,,25-54 godine,,18.6
+2023,%,,25-54 godine,,18.3
 2013,%,,55-64 godine,,16.0
 2014,%,,55-64 godine,,16.3
 2015,%,,55-64 godine,,19.9
@@ -62,6 +74,8 @@ Year,Units,Pol,Starost,Lokacija,Value
 2019,%,,55-64 godine,,19.0
 2020,%,,55-64 godine,,17.3
 2021,%,,55-64 godine,,15.5
+2022,%,,55-64 godine,,13.4
+2023,%,,55-64 godine,,14.9
 2013,%,,65 ili više godina,,15.6
 2014,%,,65 ili više godina,,13.1
 2015,%,,65 ili više godina,,14.9
@@ -71,6 +85,8 @@ Year,Units,Pol,Starost,Lokacija,Value
 2019,%,,65 ili više godina,,15.1
 2020,%,,65 ili više godina,,15.5
 2021,%,,65 ili više godina,,13.8
+2022,%,,65 ili više godina,,14.3
+2023,%,,65 ili više godina,,13.8
 2013,%,,18-64 godine,,23.3
 2014,%,,18-64 godine,,23.2
 2015,%,,18-64 godine,,23.4
@@ -80,6 +96,8 @@ Year,Units,Pol,Starost,Lokacija,Value
 2019,%,,18-64 godine,,23.0
 2020,%,,18-64 godine,,20.5
 2021,%,,18-64 godine,,19.6
+2022,%,,18-64 godine,,18.7
+2023,%,,18-64 godine,,18.6
 2013,%,,,Gradsko,19.0
 2014,%,,,Gradsko,18.7
 2015,%,,,Gradsko,17.8

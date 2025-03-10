@@ -31,6 +31,8 @@ Year,Units,Age,Category,Value
 2021,%,adult,install_software,59.7
 2022,%,youth,install_software,61.5
 2022,%,adult,install_software,56.9
+2023,%,youth,install_software,61.7
+2023,%,adult,install_software,57.6
 2015,%,youth,change_settings,7.9
 2015,%,adult,change_settings,7.2
 2016,%,youth,change_settings,26.1
@@ -47,6 +49,8 @@ Year,Units,Age,Category,Value
 2021,%,adult,change_settings,27.2
 2022,%,youth,change_settings,36.0
 2022,%,adult,change_settings,29.5
+2023,%,youth,change_settings,36.6
+2023,%,adult,change_settings,29.4
 2013,%,youth,copy_files,83.4
 2013,%,adult,copy_files,72.0
 2014,%,youth,copy_files,92.4
@@ -79,6 +83,8 @@ Year,Units,Age,Category,Value
 2021,%,adult,word_processing,70.1
 2022,%,youth,word_processing,78.4
 2022,%,adult,word_processing,70.6
+2023,%,youth,word_processing,84.7
+2023,%,adult,word_processing,70.1
 2013,%,youth,presentations,27.8
 2013,%,adult,presentations,15.7
 2014,%,youth,presentations,29.5
@@ -99,6 +105,8 @@ Year,Units,Age,Category,Value
 2021,%,adult,presentations,42.0
 2022,%,youth,presentations,67.6
 2022,%,adult,presentations,43.8
+2023,%,youth,presentations,57.7
+2023,%,adult,presentations,43.2
 2013,%,youth,spread_sheets,19.1
 2013,%,adult,spread_sheets,15.9
 2014,%,youth,spread_sheets,29.7
@@ -119,6 +127,8 @@ Year,Units,Age,Category,Value
 2021,%,adult,spread_sheets,40.2
 2022,%,youth,spread_sheets,46.8
 2022,%,adult,spread_sheets,40.3
+2023,%,youth,spread_sheets,47.2
+2023,%,adult,spread_sheets,41.3
 2015,%,youth,advanced_spread_sheets,20.6
 2015,%,adult,advanced_spread_sheets,13.4
 2016,%,youth,advanced_spread_sheets,29.0
@@ -135,6 +145,8 @@ Year,Units,Age,Category,Value
 2021,%,adult,advanced_spread_sheets,22.6
 2022,%,youth,advanced_spread_sheets,35.4
 2022,%,adult,advanced_spread_sheets,22.2
+2023,%,youth,advanced_spread_sheets,28.8
+2023,%,adult,advanced_spread_sheets,23.4
 2015,%,youth,photos,40.9
 2015,%,adult,photos,22.6
 2016,%,youth,photos,31.0
@@ -151,6 +163,8 @@ Year,Units,Age,Category,Value
 2021,%,adult,photos,25.6
 2022,%,youth,photos,49.8
 2022,%,adult,photos,27.4
+2023,%,youth,photos,40.9
+2023,%,adult,photos,28.6
 2015,%,youth,programming,3.8
 2015,%,adult,programming,1.7
 2016,%,youth,programming,3.6
@@ -167,3 +181,5 @@ Year,Units,Age,Category,Value
 2021,%,adult,programming,8.5
 2022,%,youth,programming,9.4
 2022,%,adult,programming,9.0
+2023,%,youth,programming,9.9
+2023,%,adult,programming,9.7
