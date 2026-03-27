@@ -14,4 +14,3 @@ precision:
   - decimals: 1
 reporting_status: complete
 standalone: false
-auto_progress_calculation: true

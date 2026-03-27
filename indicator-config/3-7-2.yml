@@ -12,4 +12,3 @@ reporting_status: complete
 standalone: false
 tags:
   - custom.national
-auto_progress_calculation: true

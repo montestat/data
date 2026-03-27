@@ -11,6 +11,5 @@ indicator_number: '3.3.1'
 national_geographical_coverage: custom.country_name
 reporting_status: complete
 standalone: false
-auto_progress_calculation: true
 # tags:
   # - custom.national
