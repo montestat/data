@@ -10,3 +10,4 @@ indicator_number: '8.10.1'
 national_geographical_coverage: custom.country_name
 reporting_status: complete
 standalone: false
+auto_progress_calculation: true
