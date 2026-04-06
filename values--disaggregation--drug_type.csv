@@ -1,0 +1,12 @@
+Value,Disaggregation combinations using this value,Number of indicators
+any_drug,9,1
+buprenorphine_abuse,1,1
+cannabis_plant,2,1
+cannabis_type,2,1
+cocaine_hydrochloride,5,1
+cocaine_type,5,1
+fentanyl_abuse,1,1
+heroin,7,1
+opioids,8,1
+sedatives_non_medical,2,1
+unknown_opioid,1,1

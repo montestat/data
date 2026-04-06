@@ -12,12 +12,63 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ukupno",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Drug_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bilo koja droga",
+                "Droge tipa kanabisa",
+                "Biljka kanabisa (marihuana)",
+                "Opioidi, uključujući opijate i sintetičke opioide",
+                "Heroin",
+                "Zloupotreba buprenorfina",
+                "Zloupotreba fentanila",
+                "Nepoznato (opioid)",
+                "Droge tipa kokaina",
+                "Kokain hidrohlorid",
+                "Nemedicinska upotreba sedativa i trankvilizera",
+                ""
+              ]
+            },
+            "title": "Klasa/Vrsta droge"
+          },
+          {
+            "name": "Treatment_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kombinovana psihosocijalna i medikamentna terapija",
+                "Tretman nije započeo",
+                "Farmakološki tretman",
+                "Psihosocijalne i bihejvioralne intervencije",
+                "Rehabilitacija i resocijalizacija (upravljanje oporavkom i socijalna podrška)",
+                "Upućivanje na bolničko liječenje",
+                "Nepoznato (tretman)",
+                "Upućivanje specijalisti za bolesti zavisnosti",
+                "Upućivanje u drugi centar za liječenje",
+                ""
+              ]
+            },
+            "title": "Vrsta tretmana"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

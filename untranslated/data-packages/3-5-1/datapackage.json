@@ -12,11 +12,59 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Drug_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "any_drug",
+                "cannabis_type",
+                "cannabis_plant",
+                "opioids",
+                "heroin",
+                "buprenorphine_abuse",
+                "fentanyl_abuse",
+                "unknown_opioid",
+                "cocaine_type",
+                "cocaine_hydrochloride",
+                "sedatives_non_medical",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Treatment_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "combined_psychosocial_medication",
+                "treatment_not_started",
+                "pharmacological_treatment",
+                "psychosocial_behavioral",
+                "rehabilitation_resocialization",
+                "referral_hospital",
+                "unknown_treatment",
+                "referral_addiction_specialist",
+                "referral_treatment_center",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

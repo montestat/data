@@ -12,12 +12,63 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Drug_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Any drug",
+                "Cannabis-type drugs",
+                "Cannabis plant (marijuana)",
+                "Opioids, including opiates and synthetic opioids",
+                "Heroin",
+                "Buprenorphine misuse",
+                "Fentanyl misuse",
+                "Unknown (opioid)",
+                "Cocaine-type drugs",
+                "Cocaine hydrochloride",
+                "Non-medical use of sedatives and tranquilizers",
+                ""
+              ]
+            },
+            "title": "Drug class/type"
+          },
+          {
+            "name": "Treatment_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Combined psychosocial and medication-assisted treatment",
+                "Treatment not started",
+                "Pharmacological treatment",
+                "Psychosocial and behavioural interventions",
+                "Rehabilitation and resocialization (recovery management and social support)",
+                "Referral to inpatient treatment",
+                "Unknown (treatment)",
+                "Referral to addiction specialist",
+                "Referral to another treatment centre",
+                ""
+              ]
+            },
+            "title": "Type of treatment"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

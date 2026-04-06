@@ -1,34 +1,38 @@
 Year,Units,Category,Value
-2006,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),90
-2007,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),92
-2008,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),95
-2009,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),92
-2010,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),94
-2011,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),95
-2012,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),94
-2013,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),94
-2014,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),91
-2015,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),89
-2016,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),89
-2017,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),87
-2018,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),86
-2019,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),85
-2020,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),84
-2021,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),83
-2022,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),80
-2007,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),95
-2008,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),96
-2009,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),96
-2010,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),97
-2011,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),97
-2012,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),97
-2013,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),94
-2014,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),95
-2015,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),94
-2016,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),86
-2017,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),83
-2018,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),86
-2019,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),81
-2020,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),76
-2021,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),79
-2022,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),70
+2006,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),90.0
+2007,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),92.0
+2008,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),95.0
+2009,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),92.0
+2010,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),94.0
+2011,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),95.0
+2012,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),94.0
+2013,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),94.0
+2014,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),91.0
+2015,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),89.0
+2016,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),89.0
+2017,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),87.0
+2018,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),86.0
+2019,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),85.0
+2020,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),84.0
+2021,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),83.0
+2022,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),80.0
+2023,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),81.23
+2024,%,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),81.0
+2007,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),95.0
+2008,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),96.0
+2009,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),96.0
+2010,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),97.0
+2011,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),97.0
+2012,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),97.0
+2013,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),94.0
+2014,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),95.0
+2015,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),94.0
+2016,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),86.0
+2017,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),83.0
+2018,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),86.0
+2019,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),81.0
+2020,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),76.0
+2021,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),79.0
+2022,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),70.0
+2023,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),68.62
+2024,%,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),68.4

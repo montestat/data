@@ -52,7 +52,6 @@
             "constraints": {
               "enum": [
                 "Is Montenegro a member?",
-                "Does Montenegro have the right to vote?",
                 ""
               ]
             },

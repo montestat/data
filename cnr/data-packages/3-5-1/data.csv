@@ -1,1 +1,44 @@
-Year,Value
+Year,Units,Klasa/Vrsta droge,Vrsta tretmana,Value
+2023,ukupno,Bilo koja droga,Kombinovana psihosocijalna i medikamentna terapija,7
+2023,ukupno,Bilo koja droga,Tretman nije započeo,12
+2023,ukupno,Bilo koja droga,Farmakološki tretman,700
+2023,ukupno,Bilo koja droga,Psihosocijalne i bihejvioralne intervencije,2
+2023,ukupno,Bilo koja droga,Rehabilitacija i resocijalizacija (upravljanje oporavkom i socijalna podrška),1
+2023,ukupno,Bilo koja droga,Upućivanje na bolničko liječenje,2
+2023,ukupno,Bilo koja droga,Nepoznato (tretman),23
+2023,ukupno,Bilo koja droga,Upućivanje specijalisti za bolesti zavisnosti,2
+2023,ukupno,Bilo koja droga,Upućivanje u drugi centar za liječenje,1
+2023,ukupno,Droge tipa kanabisa,Nepoznato (tretman),4
+2023,ukupno,Droge tipa kanabisa,Upućivanje specijalisti za bolesti zavisnosti,1
+2023,ukupno,Biljka kanabisa (marihuana),Nepoznato (tretman),4
+2023,ukupno,Biljka kanabisa (marihuana),Upućivanje specijalisti za bolesti zavisnosti,1
+2023,ukupno,"Opioidi, uključujući opijate i sintetičke opioide",Kombinovana psihosocijalna i medikamentna terapija,4
+2023,ukupno,"Opioidi, uključujući opijate i sintetičke opioide",Tretman nije započeo,11
+2023,ukupno,"Opioidi, uključujući opijate i sintetičke opioide",Farmakološki tretman,698
+2023,ukupno,"Opioidi, uključujući opijate i sintetičke opioide",Psihosocijalne i bihejvioralne intervencije,1
+2023,ukupno,"Opioidi, uključujući opijate i sintetičke opioide",Rehabilitacija i resocijalizacija (upravljanje oporavkom i socijalna podrška),1
+2023,ukupno,"Opioidi, uključujući opijate i sintetičke opioide",Upućivanje na bolničko liječenje,2
+2023,ukupno,"Opioidi, uključujući opijate i sintetičke opioide",Nepoznato (tretman),13
+2023,ukupno,"Opioidi, uključujući opijate i sintetičke opioide",Upućivanje specijalisti za bolesti zavisnosti,1
+2023,ukupno,Heroin,Kombinovana psihosocijalna i medikamentna terapija,4
+2023,ukupno,Heroin,Tretman nije započeo,11
+2023,ukupno,Heroin,Farmakološki tretman,698
+2023,ukupno,Heroin,Psihosocijalne i bihejvioralne intervencije,1
+2023,ukupno,Heroin,Rehabilitacija i resocijalizacija (upravljanje oporavkom i socijalna podrška),1
+2023,ukupno,Heroin,Upućivanje na bolničko liječenje,2
+2023,ukupno,Heroin,Upućivanje specijalisti za bolesti zavisnosti,1
+2023,ukupno,Zloupotreba buprenorfina,Nepoznato (tretman),10
+2023,ukupno,Zloupotreba fentanila,Nepoznato (tretman),1
+2023,ukupno,Nepoznato (opioid),Nepoznato (tretman),2
+2023,ukupno,Droge tipa kokaina,Kombinovana psihosocijalna i medikamentna terapija,3
+2023,ukupno,Droge tipa kokaina,Tretman nije započeo,1
+2023,ukupno,Droge tipa kokaina,Psihosocijalne i bihejvioralne intervencije,1
+2023,ukupno,Droge tipa kokaina,Nepoznato (tretman),5
+2023,ukupno,Droge tipa kokaina,Upućivanje u drugi centar za liječenje,1
+2023,ukupno,Kokain hidrohlorid,Kombinovana psihosocijalna i medikamentna terapija,3
+2023,ukupno,Kokain hidrohlorid,Tretman nije započeo,1
+2023,ukupno,Kokain hidrohlorid,Psihosocijalne i bihejvioralne intervencije,1
+2023,ukupno,Kokain hidrohlorid,Nepoznato (tretman),5
+2023,ukupno,Kokain hidrohlorid,Upućivanje u drugi centar za liječenje,1
+2023,ukupno,Nemedicinska upotreba sedativa i trankvilizera,Farmakološki tretman,2
+2023,ukupno,Nemedicinska upotreba sedativa i trankvilizera,Nepoznato (tretman),1

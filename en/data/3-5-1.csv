@@ -1,1 +1,44 @@
-Year,Value
+Year,Units,Drug class/type,Type of treatment,Value
+2023,total,Any drug,Combined psychosocial and medication-assisted treatment,7
+2023,total,Any drug,Treatment not started,12
+2023,total,Any drug,Pharmacological treatment,700
+2023,total,Any drug,Psychosocial and behavioural interventions,2
+2023,total,Any drug,Rehabilitation and resocialization (recovery management and social support),1
+2023,total,Any drug,Referral to inpatient treatment,2
+2023,total,Any drug,Unknown (treatment),23
+2023,total,Any drug,Referral to addiction specialist,2
+2023,total,Any drug,Referral to another treatment centre,1
+2023,total,Cannabis-type drugs,Unknown (treatment),4
+2023,total,Cannabis-type drugs,Referral to addiction specialist,1
+2023,total,Cannabis plant (marijuana),Unknown (treatment),4
+2023,total,Cannabis plant (marijuana),Referral to addiction specialist,1
+2023,total,"Opioids, including opiates and synthetic opioids",Combined psychosocial and medication-assisted treatment,4
+2023,total,"Opioids, including opiates and synthetic opioids",Treatment not started,11
+2023,total,"Opioids, including opiates and synthetic opioids",Pharmacological treatment,698
+2023,total,"Opioids, including opiates and synthetic opioids",Psychosocial and behavioural interventions,1
+2023,total,"Opioids, including opiates and synthetic opioids",Rehabilitation and resocialization (recovery management and social support),1
+2023,total,"Opioids, including opiates and synthetic opioids",Referral to inpatient treatment,2
+2023,total,"Opioids, including opiates and synthetic opioids",Unknown (treatment),13
+2023,total,"Opioids, including opiates and synthetic opioids",Referral to addiction specialist,1
+2023,total,Heroin,Combined psychosocial and medication-assisted treatment,4
+2023,total,Heroin,Treatment not started,11
+2023,total,Heroin,Pharmacological treatment,698
+2023,total,Heroin,Psychosocial and behavioural interventions,1
+2023,total,Heroin,Rehabilitation and resocialization (recovery management and social support),1
+2023,total,Heroin,Referral to inpatient treatment,2
+2023,total,Heroin,Referral to addiction specialist,1
+2023,total,Buprenorphine misuse,Unknown (treatment),10
+2023,total,Fentanyl misuse,Unknown (treatment),1
+2023,total,Unknown (opioid),Unknown (treatment),2
+2023,total,Cocaine-type drugs,Combined psychosocial and medication-assisted treatment,3
+2023,total,Cocaine-type drugs,Treatment not started,1
+2023,total,Cocaine-type drugs,Psychosocial and behavioural interventions,1
+2023,total,Cocaine-type drugs,Unknown (treatment),5
+2023,total,Cocaine-type drugs,Referral to another treatment centre,1
+2023,total,Cocaine hydrochloride,Combined psychosocial and medication-assisted treatment,3
+2023,total,Cocaine hydrochloride,Treatment not started,1
+2023,total,Cocaine hydrochloride,Psychosocial and behavioural interventions,1
+2023,total,Cocaine hydrochloride,Unknown (treatment),5
+2023,total,Cocaine hydrochloride,Referral to another treatment centre,1
+2023,total,Non-medical use of sedatives and tranquilizers,Pharmacological treatment,2
+2023,total,Non-medical use of sedatives and tranquilizers,Unknown (treatment),1

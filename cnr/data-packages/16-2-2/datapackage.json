@@ -21,14 +21,54 @@
             "constraints": {
               "enum": [
                 "count",
+                "na 100 000 ljudi",
                 ""
               ]
             },
             "title": "Jedinica"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Žene",
+                "Muškarci",
+                ""
+              ]
+            },
+            "title": "Pol"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "manje od 18 godina",
+                "18-35 godina",
+                "preko 35 godina",
+                ""
+              ]
+            },
+            "title": "Starost"
+          },
+          {
+            "name": "Exploitation_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "prinudno prosjačenje",
+                "radna eksploatacija",
+                "seksualna eksploatacija",
+                "ugovoreni brak",
+                ""
+              ]
+            },
+            "title": "Oblik eksploatacije"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

@@ -49,7 +49,6 @@
             "constraints": {
               "enum": [
                 "mne_member",
-                "mne_vote",
                 ""
               ]
             }

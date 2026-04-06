@@ -20,13 +20,50 @@
             "constraints": {
               "enum": [
                 "count",
+                "per_100000_population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 0-17 years",
+                "aged 18-35 years",
+                "aged over 35 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Exploitation_Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "forced_begging",
+                "labour_exploitation",
+                "sexual_exploitation",
+                "forced_marriage",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

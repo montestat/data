@@ -1,0 +1,10 @@
+Value,Disaggregation combinations using this value,Number of indicators
+combined_psychosocial_medication,5,1
+pharmacological_treatment,4,1
+psychosocial_behavioral,5,1
+referral_addiction_specialist,5,1
+referral_hospital,3,1
+referral_treatment_center,3,1
+rehabilitation_resocialization,3,1
+treatment_not_started,5,1
+unknown_treatment,10,1

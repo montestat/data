@@ -1,11 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
-african_development_bank,2,1
-asian_development_bank,2,1
-financial_stability_board,2,1
-inter_american_development_bank,2,1
+african_development_bank,1,1
+asian_development_bank,1,1
+financial_stability_board,1,1
+inter_american_development_bank,1,1
 international_bank_for_reconstruction,2,2
 international_monetary_fund,2,2
-un_economic_social_council,4,2
-un_general_assembly,4,2
-un_security_council,4,2
-world_trade_organization,4,2
+un_economic_social_council,3,2
+un_general_assembly,3,2
+un_security_council,3,2
+world_trade_organization,3,2

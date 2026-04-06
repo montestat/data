@@ -52,7 +52,6 @@
             "constraints": {
               "enum": [
                 "Da li je CG član?",
-                "Da li ima pravo glasa?",
                 ""
               ]
             },
