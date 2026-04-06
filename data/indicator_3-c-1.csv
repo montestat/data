@@ -12,6 +12,8 @@ Year,Units,Count,Density,Value
 2020,total,health workers,,1721
 2021,total,health workers,,1738
 2022,total,health workers,,1726
+2023,total,health workers,,1764
+2024,total,health workers,,1778
 2010,total,nurses,,3298
 2011,total,nurses,,3204
 2012,total,nurses,,3090
@@ -25,6 +27,8 @@ Year,Units,Count,Density,Value
 2020,total,nurses,,3374
 2021,total,nurses,,3564
 2022,total,nurses,,3758
+2023,total,nurses,,3852
+2024,total,nurses,,3857
 2010,total,dental staff,,26
 2011,total,dental staff,,24
 2012,total,dental staff,,25
@@ -38,6 +42,8 @@ Year,Units,Count,Density,Value
 2020,total,dental staff,,31
 2021,total,dental staff,,37
 2022,total,dental staff,,38
+2023,total,dental staff,,37
+2024,total,dental staff,,31
 2010,total,pharmaceutical staff,,91
 2011,total,pharmaceutical staff,,92
 2012,total,pharmaceutical staff,,93
@@ -51,6 +57,8 @@ Year,Units,Count,Density,Value
 2020,total,pharmaceutical staff,,143
 2021,total,pharmaceutical staff,,147
 2022,total,pharmaceutical staff,,140
+2023,total,pharmaceutical staff,,174
+2024,total,pharmaceutical staff,,178
 2010,total,population,,619428
 2011,total,population,,620029
 2012,total,population,,620029

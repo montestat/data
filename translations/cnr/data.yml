@@ -21,7 +21,36 @@ Administrative head: Administrativna cjelina
 Economic head: Ekonomska cjelina
 Summary sheet 1: Sumirano - Obračunski list za dimenzije PI-1.1, PI-2.1 i PI-2.3
 Summary sheet 2: Sumirano - Obračun rashoda po varijansama ekonomske klasifikacije PI-2.2
+Drug_Type: Klasa/Vrsta droge
+Treatment_Type: Vrsta tretmana
+any_drug: Bilo koja droga
+cannabis_type: Droge tipa kanabisa
+cannabis_plant: Biljka kanabisa (marihuana)
+opioids: Opioidi, uključujući opijate i sintetičke opioide
+heroin: Heroin
+buprenorphine_abuse: Zloupotreba buprenorfina
+fentanyl_abuse: Zloupotreba fentanila
+unknown_opioid: Nepoznato (opioid)
+cocaine_type: Droge tipa kokaina
+cocaine_hydrochloride: Kokain hidrohlorid
+sedatives_non_medical: Nemedicinska upotreba sedativa i trankvilizera
+combined_psychosocial_medication: Kombinovana psihosocijalna i medikamentna terapija
+treatment_not_started: Tretman nije započeo
+pharmacological_treatment: Farmakološki tretman
+psychosocial_behavioral: Psihosocijalne i bihejvioralne intervencije
+rehabilitation_resocialization: Rehabilitacija i resocijalizacija (upravljanje oporavkom i socijalna podrška)
+referral_hospital: Upućivanje na bolničko liječenje
+unknown_treatment: Nepoznato (tretman)
+referral_addiction_specialist: Upućivanje specijalisti za bolesti zavisnosti
+referral_treatment_center: Upućivanje u drugi centar za liječenje
+Exploitation_Type: Oblik eksploatacije
 aged 0-17 years: manje od 18 godina
+aged 18-35 years: 18-35 godina
+aged over 35 years: preko 35 godina
+forced_begging: prinudno prosjačenje
+labour_exploitation: radna eksploatacija
+sexual_exploitation: seksualna eksploatacija
+forced_marriage: ugovoreni brak
 aged 0-15 years: manje od 15 godina
 aged 18-24 years: 18-24 godine
 aged 25-54 years: 25-54 godine

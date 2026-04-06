@@ -1,8 +1,11 @@
-﻿computation_units: data.count
+﻿computation_units: data.per_100000_population
 data_non_statistical: false
 data_show_map: false
 data_start_values: []
-expected_disaggregations: []
+expected_disaggregations:
+  - Sex
+  - Age
+  - Exploitation_Type
 graph_title: global_indicators.16-2-2-title
 graph_titles: []
 graph_type: line
@@ -10,7 +13,7 @@ indicator_name: global_indicators.16-2-2-title
 indicator_number: '16.2.2'
 national_geographical_coverage: custom.country_name
 precision:
-  - unit: data.count
+  - unit: data.per_100000_population
   - decimals: 2
 reporting_status: complete
 standalone: false
