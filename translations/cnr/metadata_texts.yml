@@ -68,6 +68,13 @@
 3-3-3-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-03.pdf'
 3-3-3-national-deviation: ""
 3-3-3-national-introductioncomment: ""
+3-3-4-global-methodology: 'Incidencija hepatitisa definisana je kao broj novih slučajeva hepatitisa na 1.000 stanovnika godišnje.'
+3-3-4-national-methodology: ""
+3-3-4-national-datasource: 'Institut za javno zdravlje Crne Gore (IJZCG)'
+3-3-4-national-disaggregation: ""
+3-3-4-national-comment: 'Jedini dostupni podaci se odnose na broj novoregistrovanih slučajeva hepatitisa B na 100 000 stanovnika.'
+3-3-4-national-deviation: ""
+3-3-4-national-introductioncomment: ""
 3-7-1-global-methodology: 'Procenat žena u reproduktivnom dobu (između 15-49 godina starosti) koje su seksualno aktivne i koje su svoju potrebu za planiranjem porodice zadovoljile modernim metodama. Ankete domaćinstava uključuju niz pitanja koja mjere stopu rasprostranjenosti modernih kontraceptivnih sredstava kao i potražnju (potrebu) za planiranjem porodice. Ukupna potražnja (potreba) za planiranjem porodice se definiše kao zbir ukupnog broja žena u reproduktivnom dobu (između 15-49 godina starosti) koje su udate ili u zajednici i koje trenutno koriste ili čiji seksualni partner trenutno koristi, makar jedno kontraceptivno sredstvo, i nezadovoljene potrebe za planiranjem porodice. Nezadovoljena potreba za planiranjem porodice je proporcija ukupnog broja žena u reproduktivnom dobu (između 15-49 godina starosti) koje su ili udate ili žive u sporazumnoj zajednici, koje su plodne i seksualno aktivne i ne koriste nikakve kontraceptivne metode (moderne ili tradicionalne), i koje naglašavaju da ne žele više djece ili žele da odgode rađanje narednog djeteta za najmanje dvije godine. Ovdje ubrajamo: (i) sve trudnice (udate ili u sporazumnoj zajednici) čije su trudnoće neželjene ili začete u pogrešnom trenutku; (ii) sve porodilje čija menstruacija i dalje izostaje (udate ili u sporazumnoj zajednici) koje ne planiraju porodicu i čiji je prethodni porođaj bio neželjen ili je dijete začeto u pogrešnom trenutku; (iii) sve plodne žene (udate ili u sporazumnoj zajednici) koje nisu ni trudne niti su porodilje, i koje ne žele više djece (žele da ograniče veličinu svoje porodice) ili žele da odgode rađanje narednog djeteta za najmanje dvije godine ili ne znaju da li i kada žele da rode još jedno dijete (žele da naprave veći razmak između rađanja djece), a koje ne koriste nijedno kontraceptivno sredstvo.'
 3-7-1-national-methodology: 'Broj žena u reproduktivnom dobu (15 do 49 godina) koje su svoju potrebu za planiranjem porodice zadovoljile modernim metodama, podijeljen s ukupnim brojem žena starosti od 15 do 49 godina koje su trenutno u braku ili zajednici.'
 3-7-1-national-datasource: 'MICS/UNICEF'
@@ -497,6 +504,13 @@
 3-1-1-national-comment: ""
 3-4-1-national-comment: ""
 3-4-2-national-comment: ""
+3-5-1-global-methodology: 'Obuhvat tretmanskih intervencija za poremećaje upotrebe supstanci mjeri udio osoba sa poremećajima upotrebe supstanci koje su primile tretman u odnosu na ukupan broj osoba kojima je tretman potreban. Podaci se prikupljaju prema vrsti droge i vrsti tretmanske intervencije.'
+3-5-1-national-methodology: 'Podaci se odnose na broj osoba koje su bile obuhvaćene tretmanskim intervencijama (farmakološke, psihosocijalne i rehabilitacione i postintervencione usluge) za poremećaje upotrebe supstanci, razvrstanih prema klasi/vrsti droge i vrsti tretmana.'
+3-5-1-national-datasource: 'Institut za javno zdravlje Crne Gore (IJZCG), Odjeljenje za borbu protiv droga'
+3-5-1-national-disaggregation: 'Podaci su razvrstani prema klasi/vrsti droge i vrsti tretmanske intervencije.'
+3-5-1-national-comment: ""
+3-5-1-national-deviation: ""
+3-5-1-national-introductioncomment: ""
 3-5-2-national-comment: ""
 3-8-2-national-comment: ""
 3-9-1-national-comment: ""
