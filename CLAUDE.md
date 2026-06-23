@@ -148,3 +148,4 @@ git checkout develop
 5. **Academic year convention for education** — use the end year (2021/22 → 2022)
 6. **UNECE minor revisions** — UNECE sometimes revises old values slightly; don't update existing rows, just append new years
 7. **`%` key in YAML** — must be quoted: `'%': 'procenat'`
+8. **Mixed units in one file** — all rows in a CSV must use the same Units value (the progress calculator groups by Units and throws an error if it finds multiple). Never append `yes_no` rows to a file that already uses `index` or any other unit — match the existing unit instead.
