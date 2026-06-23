@@ -139,6 +139,23 @@ git push https://nikolabetf@github.com/montestat/data.git master
 git checkout develop
 ```
 
+## Deployment (Site Repo)
+
+After pushing data changes, the **site repo** (`montestat/site`, local path `../site/`) must also be updated to trigger a production deployment. Make a cosmetic change to `_config.yml` (update the date comment on line 2), then push both branches:
+
+```
+# In ../site/
+# Edit _config.yml line 2: # Last data refresh: YYYY-MM-DD
+git add _config.yml
+git commit -m "refresh prod YYYY-MM-DD"
+git push https://nikolabetf@github.com/montestat/site.git develop
+git checkout master && git merge develop
+git push https://nikolabetf@github.com/montestat/site.git master
+git checkout develop
+```
+
+The master push triggers the GitHub Actions deployment pipeline.
+
 ## Common Pitfalls
 
 1. **Edit tool requires reading first** — always Read a file before using Edit on it
