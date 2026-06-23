@@ -1,6 +1,6 @@
 Year,Units,Location,Sex,Value
-2018,%,,67.0
-2018,%,Roma settlements,36.4
+2018,%,,,67.0
+2018,%,Roma settlements,,36.4
 2003,%,,Bothsex,66.77273
 2005,%,,Bothsex,71.85972
 2006,%,,Bothsex,89.66021
@@ -15,8 +15,7 @@ Year,Units,Location,Sex,Value
 2017,%,,Bothsex,71.57668
 2017,%,,Female,71.77828
 2017,%,,Male,71.39169
-2018,%,,Male,76.19764
-2018,%,,Female,72.72479
+
 2018,%,,Bothsex,74.5357
 2019,%,,Bothsex,74.42893
 2019,%,,Female,73.70713
@@ -30,4 +29,8 @@ Year,Units,Location,Sex,Value
 2022,%,,Male,75.78105
 2022,%,,Female,80.07031
 2022,%,,Bothsex,77.84128
+2018,%,,Male,71.3
+2018,%,,Female,62.8
+2018,%,Roma settlements,Male,40.5
+2018,%,Roma settlements,Female,31.0
 

@@ -1,4 +1,4 @@
-Year,Units,Value
+Year,Units,Sex,Value
 2000,%,Bothsex,20.8
 2000,%,Female,11.2
 2000,%,Male,30.7
@@ -14,3 +14,5 @@ Year,Units,Value
 2019,%,Bothsex,21
 2019,%,Female,10.4
 2019,%,Male,31.7
+2021,%,Bothsex,11.3
+2022,%,Bothsex,7.69

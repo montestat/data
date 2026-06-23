@@ -64,3 +64,7 @@ Year,Units,Category,Value
 2021,%,waste_export,6.77
 2022,%,waste_export,7.3
 2023,%,waste_export,7.5
+2024,per_capita_kg,hazardous_waste,473.7
+2024,%,waste_operation_r,0.2
+2024,%,waste_operation_d,99.0
+2024,%,waste_export,0.8
