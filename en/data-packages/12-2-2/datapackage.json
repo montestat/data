@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "kg per USD (constant 2015 prices)",
+                "tonnes",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DMC per unit of GDP",
+                "DMC per capita",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

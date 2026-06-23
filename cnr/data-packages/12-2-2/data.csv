@@ -1,1 +1,29 @@
-Year,Value
+Year,Units,Kategorija,Value
+2011,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,1.8
+2012,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,1.8
+2013,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,1.7
+2014,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,1.7
+2015,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,1.6
+2016,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,1.5
+2017,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,2.2
+2018,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,2.4
+2019,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,2.3
+2020,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,2.7
+2021,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,2.5
+2022,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,2.4
+2023,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,2.3
+2024,kg po USD (konstantne cijene 2015),DMC po jedinici BDP-a,2.3
+2011,tone,DMC po stanovniku,12.8701
+2012,tone,DMC po stanovniku,12.5426
+2013,tone,DMC po stanovniku,12.066
+2014,tone,DMC po stanovniku,12.7135
+2015,tone,DMC po stanovniku,12.3694
+2016,tone,DMC po stanovniku,11.7088
+2017,tone,DMC po stanovniku,17.7078
+2018,tone,DMC po stanovniku,20.9139
+2019,tone,DMC po stanovniku,20.7276
+2020,tone,DMC po stanovniku,20.6967
+2021,tone,DMC po stanovniku,21.7671
+2022,tone,DMC po stanovniku,22.1741
+2023,tone,DMC po stanovniku,22.217
+2024,tone,DMC po stanovniku,22.7535

@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "kg po USD (konstantne cijene 2015)",
+                "tone",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DMC po jedinici BDP-a",
+                "DMC po stanovniku",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

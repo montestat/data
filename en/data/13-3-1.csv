@@ -1,1 +1,5 @@
-Year,Value
+Year,Units,Category,Value
+2025,yes/no,National education policies,1
+2025,yes/no,Curricula,1
+2025,yes/no,Teacher education,1
+2025,yes/no,Student assessment,1
