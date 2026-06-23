@@ -1,16 +1,18 @@
 Year,Units,Pol,Value
-2000,na 1000 ljudi,BOTHSEX,0.9
-2000,na 1000 ljudi,FEMALE,0.6
-2000,na 1000 ljudi,MALE,1.2
-2005,na 1000 ljudi,FEMALE,0.4
-2005,na 1000 ljudi,MALE,1.0
-2005,na 1000 ljudi,BOTHSEX,0.7
-2010,na 1000 ljudi,FEMALE,0.4
-2010,na 1000 ljudi,MALE,0.8
-2010,na 1000 ljudi,BOTHSEX,0.6
-2015,na 1000 ljudi,BOTHSEX,0.6
-2015,na 1000 ljudi,FEMALE,0.4
-2015,na 1000 ljudi,MALE,0.8
-2019,na 1000 ljudi,BOTHSEX,0.6
-2019,na 1000 ljudi,FEMALE,0.4
-2019,na 1000 ljudi,MALE,0.8
+2000,na 1000 ljudi,Oba pola,0.9
+2000,na 1000 ljudi,Žene,0.6
+2000,na 1000 ljudi,Muškarci,1.2
+2005,na 1000 ljudi,Žene,0.4
+2005,na 1000 ljudi,Muškarci,1.0
+2005,na 1000 ljudi,Oba pola,0.7
+2010,na 1000 ljudi,Žene,0.4
+2010,na 1000 ljudi,Muškarci,0.8
+2010,na 1000 ljudi,Oba pola,0.6
+2015,na 1000 ljudi,Oba pola,0.6
+2015,na 1000 ljudi,Žene,0.4
+2015,na 1000 ljudi,Muškarci,0.8
+2019,na 1000 ljudi,Oba pola,0.6
+2019,na 1000 ljudi,Žene,0.4
+2019,na 1000 ljudi,Muškarci,0.8
+2021,na 1000 ljudi,Oba pola,0.3
+2022,na 1000 ljudi,Oba pola,0.0

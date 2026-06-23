@@ -42,6 +42,7 @@
               "enum": [
                 "primary_school",
                 "lower_high_school",
+                "upper_high_school",
                 ""
               ]
             }

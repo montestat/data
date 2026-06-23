@@ -25,42 +25,46 @@ Year,Units,Category,Value
 2021,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,103.8
 2022,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,98.3
 2023,kg per capita,Processed hazardous waste in the total amount of hazardous waste generated,106.9
-2011,%,Share of operations R in total processing,0.5
-2012,%,Share of operations R in total processing,1.4
-2013,%,Share of operations R in total processing,1.9
-2014,%,Share of operations R in total processing,1.5
-2015,%,Share of operations R in total processing,1.7
-2016,%,Share of operations R in total processing,0.8
-2017,%,Share of operations R in total processing,0.6
-2018,%,Share of operations R in total processing,0.6
-2019,%,Share of operations R in total processing,0.3
-2020,%,Share of operations R in total processing,0.3
-2021,%,Share of operations R in total processing,0.97
-2022,%,Share of operations R in total processing,0.7
-2023,%,Share of operations R in total processing,0.2
-2011,%,Share of operations D in total processing,96.7
-2012,%,Share of operations D in total processing,98.2
-2013,%,Share of operations D in total processing,97.3
-2014,%,Share of operations D in total processing,97.8
-2015,%,Share of operations D in total processing,97.5
-2016,%,Share of operations D in total processing,98.8
-2017,%,Share of operations D in total processing,98.7
-2018,%,Share of operations D in total processing,98.8
-2019,%,Share of operations D in total processing,88.6
-2020,%,Share of operations D in total processing,99.2
-2021,%,Share of operations D in total processing,92.26
-2022,%,Share of operations D in total processing,92.0
-2023,%,Share of operations D in total processing,92.3
-2011,%,Share of exports in total processing,2.8
-2012,%,Share of exports in total processing,0.4
-2013,%,Share of exports in total processing,0.8
-2014,%,Share of exports in total processing,0.7
-2015,%,Share of exports in total processing,0.8
-2016,%,Share of exports in total processing,0.4
-2017,%,Share of exports in total processing,0.7
-2018,%,Share of exports in total processing,0.6
-2019,%,Share of exports in total processing,11.1
-2020,%,Share of exports in total processing,0.5
-2021,%,Share of exports in total processing,6.77
-2022,%,Share of exports in total processing,7.3
-2023,%,Share of exports in total processing,7.5
+2011,percent,Share of operations R in total processing,0.5
+2012,percent,Share of operations R in total processing,1.4
+2013,percent,Share of operations R in total processing,1.9
+2014,percent,Share of operations R in total processing,1.5
+2015,percent,Share of operations R in total processing,1.7
+2016,percent,Share of operations R in total processing,0.8
+2017,percent,Share of operations R in total processing,0.6
+2018,percent,Share of operations R in total processing,0.6
+2019,percent,Share of operations R in total processing,0.3
+2020,percent,Share of operations R in total processing,0.3
+2021,percent,Share of operations R in total processing,0.97
+2022,percent,Share of operations R in total processing,0.7
+2023,percent,Share of operations R in total processing,0.2
+2011,percent,Share of operations D in total processing,96.7
+2012,percent,Share of operations D in total processing,98.2
+2013,percent,Share of operations D in total processing,97.3
+2014,percent,Share of operations D in total processing,97.8
+2015,percent,Share of operations D in total processing,97.5
+2016,percent,Share of operations D in total processing,98.8
+2017,percent,Share of operations D in total processing,98.7
+2018,percent,Share of operations D in total processing,98.8
+2019,percent,Share of operations D in total processing,88.6
+2020,percent,Share of operations D in total processing,99.2
+2021,percent,Share of operations D in total processing,92.26
+2022,percent,Share of operations D in total processing,92.0
+2023,percent,Share of operations D in total processing,92.3
+2011,percent,Share of exports in total processing,2.8
+2012,percent,Share of exports in total processing,0.4
+2013,percent,Share of exports in total processing,0.8
+2014,percent,Share of exports in total processing,0.7
+2015,percent,Share of exports in total processing,0.8
+2016,percent,Share of exports in total processing,0.4
+2017,percent,Share of exports in total processing,0.7
+2018,percent,Share of exports in total processing,0.6
+2019,percent,Share of exports in total processing,11.1
+2020,percent,Share of exports in total processing,0.5
+2021,percent,Share of exports in total processing,6.77
+2022,percent,Share of exports in total processing,7.3
+2023,percent,Share of exports in total processing,7.5
+2024,kg per capita,Hazardous waste generated,473.7
+2024,percent,Share of operations R in total processing,0.2
+2024,percent,Share of operations D in total processing,99.0
+2024,percent,Share of exports in total processing,0.8

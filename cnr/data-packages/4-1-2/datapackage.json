@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
@@ -20,11 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stopa završetka nižeg srednjeg obrazovanja",
+                "procenat",
                 ""
               ]
             },
             "title": "Jedinica"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stopa završetka nižeg srednjeg obrazovanja",
+                "Stopa završetka osnovnog obrazovanja",
+                "Stopa završetka višeg srednjeg obrazovanja",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

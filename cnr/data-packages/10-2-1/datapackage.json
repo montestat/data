@@ -20,11 +20,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "procenat",
                 ""
               ]
             },
             "title": "Jedinica"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Pol"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "manje od 18 godina",
+                "18-24 godine",
+                "25-54 godine",
+                "55-64 godine",
+                "65 ili više godina",
+                "18-64 godine",
+                ""
+              ]
+            },
+            "title": "Starost"
           },
           {
             "name": "Value",

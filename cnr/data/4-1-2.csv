@@ -1,11 +1,25 @@
-Year,Units,Value
-%,Stopa završetka nižeg srednjeg obrazovanja,74.51
-%,Stopa završetka nižeg srednjeg obrazovanja,94.2
-%,Stopa završetka nižeg srednjeg obrazovanja,90.5
-%,Stopa završetka nižeg srednjeg obrazovanja,93.98
-%,Stopa završetka nižeg srednjeg obrazovanja,95.25
-%,Stopa završetka nižeg srednjeg obrazovanja,94.52
-%,Stopa završetka nižeg srednjeg obrazovanja,93.46
-%,Stopa završetka nižeg srednjeg obrazovanja,96.33
-%,Stopa završetka nižeg srednjeg obrazovanja,95.79
-%,Stopa završetka nižeg srednjeg obrazovanja,94.92
+Year,Units,Kategorija,Value
+2011,procenat,Stopa završetka nižeg srednjeg obrazovanja,74.51
+2012,procenat,Stopa završetka nižeg srednjeg obrazovanja,94.2
+2014,procenat,Stopa završetka nižeg srednjeg obrazovanja,90.5
+2015,procenat,Stopa završetka nižeg srednjeg obrazovanja,93.98
+2016,procenat,Stopa završetka nižeg srednjeg obrazovanja,95.25
+2017,procenat,Stopa završetka nižeg srednjeg obrazovanja,94.52
+2018,procenat,Stopa završetka nižeg srednjeg obrazovanja,93.46
+2019,procenat,Stopa završetka nižeg srednjeg obrazovanja,96.33
+2020,procenat,Stopa završetka nižeg srednjeg obrazovanja,95.79
+2021,procenat,Stopa završetka nižeg srednjeg obrazovanja,94.92
+2022,procenat,Stopa završetka nižeg srednjeg obrazovanja,99.11
+2023,procenat,Stopa završetka nižeg srednjeg obrazovanja,99.38
+2024,procenat,Stopa završetka nižeg srednjeg obrazovanja,99.35
+2025,procenat,Stopa završetka nižeg srednjeg obrazovanja,99.11
+2021,procenat,Stopa završetka osnovnog obrazovanja,99.1
+2022,procenat,Stopa završetka osnovnog obrazovanja,99.11
+2023,procenat,Stopa završetka osnovnog obrazovanja,98.96
+2024,procenat,Stopa završetka osnovnog obrazovanja,98.73
+2025,procenat,Stopa završetka osnovnog obrazovanja,98.88
+2021,procenat,Stopa završetka višeg srednjeg obrazovanja,97.07
+2022,procenat,Stopa završetka višeg srednjeg obrazovanja,96.98
+2023,procenat,Stopa završetka višeg srednjeg obrazovanja,96.44
+2024,procenat,Stopa završetka višeg srednjeg obrazovanja,95.92
+2025,procenat,Stopa završetka višeg srednjeg obrazovanja,96.84

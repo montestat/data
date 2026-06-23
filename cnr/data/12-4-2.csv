@@ -25,42 +25,46 @@ Year,Units,Kategorija,Value
 2021,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,103.8
 2022,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,98.3
 2023,kg po glavi stanovnika,Obrađeni opasni otpad u ukupnoj stvorenoj količini opasnog otpada,106.9
-2011,%,Udio operacija R u ukupnoj obradi,0.5
-2012,%,Udio operacija R u ukupnoj obradi,1.4
-2013,%,Udio operacija R u ukupnoj obradi,1.9
-2014,%,Udio operacija R u ukupnoj obradi,1.5
-2015,%,Udio operacija R u ukupnoj obradi,1.7
-2016,%,Udio operacija R u ukupnoj obradi,0.8
-2017,%,Udio operacija R u ukupnoj obradi,0.6
-2018,%,Udio operacija R u ukupnoj obradi,0.6
-2019,%,Udio operacija R u ukupnoj obradi,0.3
-2020,%,Udio operacija R u ukupnoj obradi,0.3
-2021,%,Udio operacija R u ukupnoj obradi,0.97
-2022,%,Udio operacija R u ukupnoj obradi,0.7
-2023,%,Udio operacija R u ukupnoj obradi,0.2
-2011,%,Udio operacija D u ukupnoj obradi,96.7
-2012,%,Udio operacija D u ukupnoj obradi,98.2
-2013,%,Udio operacija D u ukupnoj obradi,97.3
-2014,%,Udio operacija D u ukupnoj obradi,97.8
-2015,%,Udio operacija D u ukupnoj obradi,97.5
-2016,%,Udio operacija D u ukupnoj obradi,98.8
-2017,%,Udio operacija D u ukupnoj obradi,98.7
-2018,%,Udio operacija D u ukupnoj obradi,98.8
-2019,%,Udio operacija D u ukupnoj obradi,88.6
-2020,%,Udio operacija D u ukupnoj obradi,99.2
-2021,%,Udio operacija D u ukupnoj obradi,92.26
-2022,%,Udio operacija D u ukupnoj obradi,92.0
-2023,%,Udio operacija D u ukupnoj obradi,92.3
-2011,%,Udio izvoza u ukupnoj obradi,2.8
-2012,%,Udio izvoza u ukupnoj obradi,0.4
-2013,%,Udio izvoza u ukupnoj obradi,0.8
-2014,%,Udio izvoza u ukupnoj obradi,0.7
-2015,%,Udio izvoza u ukupnoj obradi,0.8
-2016,%,Udio izvoza u ukupnoj obradi,0.4
-2017,%,Udio izvoza u ukupnoj obradi,0.7
-2018,%,Udio izvoza u ukupnoj obradi,0.6
-2019,%,Udio izvoza u ukupnoj obradi,11.1
-2020,%,Udio izvoza u ukupnoj obradi,0.5
-2021,%,Udio izvoza u ukupnoj obradi,6.77
-2022,%,Udio izvoza u ukupnoj obradi,7.3
-2023,%,Udio izvoza u ukupnoj obradi,7.5
+2011,procenat,Udio operacija R u ukupnoj obradi,0.5
+2012,procenat,Udio operacija R u ukupnoj obradi,1.4
+2013,procenat,Udio operacija R u ukupnoj obradi,1.9
+2014,procenat,Udio operacija R u ukupnoj obradi,1.5
+2015,procenat,Udio operacija R u ukupnoj obradi,1.7
+2016,procenat,Udio operacija R u ukupnoj obradi,0.8
+2017,procenat,Udio operacija R u ukupnoj obradi,0.6
+2018,procenat,Udio operacija R u ukupnoj obradi,0.6
+2019,procenat,Udio operacija R u ukupnoj obradi,0.3
+2020,procenat,Udio operacija R u ukupnoj obradi,0.3
+2021,procenat,Udio operacija R u ukupnoj obradi,0.97
+2022,procenat,Udio operacija R u ukupnoj obradi,0.7
+2023,procenat,Udio operacija R u ukupnoj obradi,0.2
+2011,procenat,Udio operacija D u ukupnoj obradi,96.7
+2012,procenat,Udio operacija D u ukupnoj obradi,98.2
+2013,procenat,Udio operacija D u ukupnoj obradi,97.3
+2014,procenat,Udio operacija D u ukupnoj obradi,97.8
+2015,procenat,Udio operacija D u ukupnoj obradi,97.5
+2016,procenat,Udio operacija D u ukupnoj obradi,98.8
+2017,procenat,Udio operacija D u ukupnoj obradi,98.7
+2018,procenat,Udio operacija D u ukupnoj obradi,98.8
+2019,procenat,Udio operacija D u ukupnoj obradi,88.6
+2020,procenat,Udio operacija D u ukupnoj obradi,99.2
+2021,procenat,Udio operacija D u ukupnoj obradi,92.26
+2022,procenat,Udio operacija D u ukupnoj obradi,92.0
+2023,procenat,Udio operacija D u ukupnoj obradi,92.3
+2011,procenat,Udio izvoza u ukupnoj obradi,2.8
+2012,procenat,Udio izvoza u ukupnoj obradi,0.4
+2013,procenat,Udio izvoza u ukupnoj obradi,0.8
+2014,procenat,Udio izvoza u ukupnoj obradi,0.7
+2015,procenat,Udio izvoza u ukupnoj obradi,0.8
+2016,procenat,Udio izvoza u ukupnoj obradi,0.4
+2017,procenat,Udio izvoza u ukupnoj obradi,0.7
+2018,procenat,Udio izvoza u ukupnoj obradi,0.6
+2019,procenat,Udio izvoza u ukupnoj obradi,11.1
+2020,procenat,Udio izvoza u ukupnoj obradi,0.5
+2021,procenat,Udio izvoza u ukupnoj obradi,6.77
+2022,procenat,Udio izvoza u ukupnoj obradi,7.3
+2023,procenat,Udio izvoza u ukupnoj obradi,7.5
+2024,kg po glavi stanovnika,Stvoreni opasni otpad po glavi stanovnika (kg),473.7
+2024,procenat,Udio operacija R u ukupnoj obradi,0.2
+2024,procenat,Udio operacija D u ukupnoj obradi,99.0
+2024,procenat,Udio izvoza u ukupnoj obradi,0.8

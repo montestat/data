@@ -1,11 +1,25 @@
-Year,Units,Value
-%,Lower secondary completion rate,74.51
-%,Lower secondary completion rate,94.2
-%,Lower secondary completion rate,90.5
-%,Lower secondary completion rate,93.98
-%,Lower secondary completion rate,95.25
-%,Lower secondary completion rate,94.52
-%,Lower secondary completion rate,93.46
-%,Lower secondary completion rate,96.33
-%,Lower secondary completion rate,95.79
-%,Lower secondary completion rate,94.92
+Year,Units,Category,Value
+2011,percent,Lower secondary completion rate,74.51
+2012,percent,Lower secondary completion rate,94.2
+2014,percent,Lower secondary completion rate,90.5
+2015,percent,Lower secondary completion rate,93.98
+2016,percent,Lower secondary completion rate,95.25
+2017,percent,Lower secondary completion rate,94.52
+2018,percent,Lower secondary completion rate,93.46
+2019,percent,Lower secondary completion rate,96.33
+2020,percent,Lower secondary completion rate,95.79
+2021,percent,Lower secondary completion rate,94.92
+2022,percent,Lower secondary completion rate,99.11
+2023,percent,Lower secondary completion rate,99.38
+2024,percent,Lower secondary completion rate,99.35
+2025,percent,Lower secondary completion rate,99.11
+2021,percent,Primary education completion rate,99.1
+2022,percent,Primary education completion rate,99.11
+2023,percent,Primary education completion rate,98.96
+2024,percent,Primary education completion rate,98.73
+2025,percent,Primary education completion rate,98.88
+2021,percent,Upper secondary education completion rate,97.07
+2022,percent,Upper secondary education completion rate,96.98
+2023,percent,Upper secondary education completion rate,96.44
+2024,percent,Upper secondary education completion rate,95.92
+2025,percent,Upper secondary education completion rate,96.84

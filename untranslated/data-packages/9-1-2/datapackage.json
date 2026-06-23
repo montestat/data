@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "1000_tons",
+                "1000_passengers",
                 ""
               ]
             }
@@ -34,6 +35,7 @@
                 "road_traffic",
                 "air_traffic",
                 "maritime_traffic",
+                "local_road_traffic",
                 ""
               ]
             }

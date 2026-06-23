@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -20,11 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lower secondary completion rate",
+                "percent",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower secondary completion rate",
+                "Primary education completion rate",
+                "Upper secondary education completion rate",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

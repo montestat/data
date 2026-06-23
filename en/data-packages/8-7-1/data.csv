@@ -1,3 +1,13 @@
-Year,Units,Location,Value
-2018,%,,11.7
-2018,%,Roma settlements,10.3
+Year,Units,Location,Sex,Age,Value
+2018,percent,,,aged 5-17 years,7.7
+2018,percent,Roma settlements,,aged 5-17 years,6.1
+2018,percent,,Male,aged 5-17 years,8.5
+2018,percent,,Female,aged 5-17 years,7.0
+2018,percent,Roma settlements,Male,aged 5-17 years,8.1
+2018,percent,Roma settlements,Female,aged 5-17 years,4.2
+2018,percent,,,aged 5-11 years,14.9
+2018,percent,,,aged 12-14 years,1.0
+2018,percent,,,aged 15-17 years,0.0
+2018,percent,Roma settlements,,aged 5-11 years,6.9
+2018,percent,Roma settlements,,aged 12-14 years,7.0
+2018,percent,Roma settlements,,aged 15-17 years,3.1

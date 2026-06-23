@@ -1,1 +1,5 @@
-Year,Value
+Year,Units,Category,Value
+2025,score (0-4),National education policies,4
+2025,score (0-4),Curricula,3
+2025,score (0-4),Teacher education,3
+2025,score (0-4),Student assessment,2

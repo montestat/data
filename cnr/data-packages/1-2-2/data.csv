@@ -1,55 +1,61 @@
 Year,Units,Pol,Starost,Value
-2015,%,,,43.8
-2016,%,,,43.1
-2017,%,,,42.2
-2018,%,,,41.2
-2019,%,,,36.5
-2020,%,,,37.6
-2021,%,,,38.9
-2022,%,,,34.1
-2023,%,,,31.0
-2015,%,Muškarci,,42.8
-2016,%,Muškarci,,42.9
-2017,%,Muškarci,,42.2
-2018,%,Muškarci,,40.3
-2019,%,Muškarci,,35.8
-2020,%,Muškarci,,37.0
-2021,%,Muškarci,,38.1
-2022,%,Muškarci,,33.2
-2023,%,Muškarci,,31.0
-2015,%,Žene,,44.9
-2016,%,Žene,,43.4
-2017,%,Žene,,42.2
-2018,%,Žene,,42.1
-2019,%,Žene,,37.2
-2020,%,Žene,,38.3
-2021,%,Žene,,39.7
-2022,%,Žene,,35.0
-2023,%,Žene,,31.0
-2015,%,,18-64 godine,42.3
-2016,%,,18-64 godine,42.3
-2017,%,,18-64 godine,40.8
-2018,%,,18-64 godine,39.3
-2019,%,,18-64 godine,35.0
-2020,%,,18-64 godine,36.0
-2021,%,,18-64 godine,38.1
-2022,%,,18-64 godine,33.3
-2023,%,,18-64 godine,30.4
-2015,%,,65 ili više godina,38.7
-2016,%,,65 ili više godina,37.1
-2017,%,,65 ili više godina,37.4
-2018,%,,65 ili više godina,35.8
-2019,%,,65 ili više godina,31.2
-2020,%,,65 ili više godina,32.8
-2021,%,,65 ili više godina,31.8
-2022,%,,65 ili više godina,26.7
-2023,%,,65 ili više godina,20.5
-2015,%,,manje od 18 godina,51.0
-2016,%,,manje od 18 godina,48.9
-2017,%,,manje od 18 godina,49.0
-2018,%,,manje od 18 godina,48.5
-2019,%,,manje od 18 godina,43.5
-2020,%,,manje od 18 godina,45.0
-2021,%,,manje od 18 godina,45.5
-2022,%,,manje od 18 godina,40.4
-2023,%,,manje od 18 godina,38.2
+2015,procenat,,,43.8
+2016,procenat,,,43.1
+2017,procenat,,,42.2
+2018,procenat,,,41.2
+2019,procenat,,,36.5
+2020,procenat,,,37.6
+2021,procenat,,,38.9
+2022,procenat,,,34.1
+2023,procenat,,,31.0
+2015,procenat,Muškarci,,42.8
+2016,procenat,Muškarci,,42.9
+2017,procenat,Muškarci,,42.2
+2018,procenat,Muškarci,,40.3
+2019,procenat,Muškarci,,35.8
+2020,procenat,Muškarci,,37.0
+2021,procenat,Muškarci,,38.1
+2022,procenat,Muškarci,,33.2
+2023,procenat,Muškarci,,31.0
+2015,procenat,Žene,,44.9
+2016,procenat,Žene,,43.4
+2017,procenat,Žene,,42.2
+2018,procenat,Žene,,42.1
+2019,procenat,Žene,,37.2
+2020,procenat,Žene,,38.3
+2021,procenat,Žene,,39.7
+2022,procenat,Žene,,35.0
+2023,procenat,Žene,,31.0
+2015,procenat,,18-64 godine,42.3
+2016,procenat,,18-64 godine,42.3
+2017,procenat,,18-64 godine,40.8
+2018,procenat,,18-64 godine,39.3
+2019,procenat,,18-64 godine,35.0
+2020,procenat,,18-64 godine,36.0
+2021,procenat,,18-64 godine,38.1
+2022,procenat,,18-64 godine,33.3
+2023,procenat,,18-64 godine,30.4
+2015,procenat,,65 ili više godina,38.7
+2016,procenat,,65 ili više godina,37.1
+2017,procenat,,65 ili više godina,37.4
+2018,procenat,,65 ili više godina,35.8
+2019,procenat,,65 ili više godina,31.2
+2020,procenat,,65 ili više godina,32.8
+2021,procenat,,65 ili više godina,31.8
+2022,procenat,,65 ili više godina,26.7
+2023,procenat,,65 ili više godina,20.5
+2015,procenat,,manje od 18 godina,51.0
+2016,procenat,,manje od 18 godina,48.9
+2017,procenat,,manje od 18 godina,49.0
+2018,procenat,,manje od 18 godina,48.5
+2019,procenat,,manje od 18 godina,43.5
+2020,procenat,,manje od 18 godina,45.0
+2021,procenat,,manje od 18 godina,45.5
+2022,procenat,,manje od 18 godina,40.4
+2023,procenat,,manje od 18 godina,38.2
+2024,procenat,,,29.2
+2024,procenat,Muškarci,,28.4
+2024,procenat,Žene,,30.1
+2024,procenat,,18-64 godine,28.2
+2024,procenat,,65 ili više godina,25.6
+2024,procenat,,manje od 18 godina,34.6

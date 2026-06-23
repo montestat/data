@@ -21,6 +21,7 @@
               "enum": [
                 "1_1_1_cat_1",
                 "1_1_1_cat_2",
+                "1_1_1_cat_3",
                 ""
               ]
             }
@@ -48,6 +49,12 @@
                 "aged 15-24 years",
                 "aged more 15 years",
                 "aged more 25 years",
+                "aged 0-17 years",
+                "aged 18-24 years",
+                "aged 25-54 years",
+                "aged 55-64 years",
+                "aged over 65 years",
+                "aged 18-64 years",
                 ""
               ]
             }

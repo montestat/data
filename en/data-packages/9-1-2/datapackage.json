@@ -20,7 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1000_tons",
+                "thousand tons",
+                "thousand passengers",
                 ""
               ]
             },
@@ -36,6 +37,7 @@
                 "road traffic",
                 "air traffic",
                 "maritime traffic",
+                "local road traffic",
                 ""
               ]
             },

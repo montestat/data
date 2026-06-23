@@ -19,14 +19,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "thousands_eur",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

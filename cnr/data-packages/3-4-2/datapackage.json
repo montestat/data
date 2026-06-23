@@ -12,11 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
             "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "procenat",
+                ""
+              ]
+            },
+            "title": "Jedinica"
+          },
+          {
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Jedinica"
+            "title": "Pol"
           },
           {
             "name": "Value",

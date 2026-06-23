@@ -1,32 +1,34 @@
 Year,Units,Lokacija,Pol,Value
-2018,%,,67.0,
-2018,%,Romska naselja,36.4,
-2003,%,,Oba pola,66.77273
-2005,%,,Oba pola,71.85972
-2006,%,,Oba pola,89.66021
-2007,%,,Oba pola,89.24952
-2008,%,,Oba pola,100.0
-2015,%,,Žene,61.02342
-2015,%,,Oba pola,63.65526
-2015,%,,Muškarci,66.08655
-2016,%,,Muškarci,63.18468
-2016,%,,Žene,58.52359
-2016,%,,Oba pola,60.90729
-2017,%,,Oba pola,71.57668
-2017,%,,Žene,71.77828
-2017,%,,Muškarci,71.39169
-2018,%,,Muškarci,76.19764
-2018,%,,Žene,72.72479
-2018,%,,Oba pola,74.5357
-2019,%,,Oba pola,74.42893
-2019,%,,Žene,73.70713
-2019,%,,Muškarci,75.09406
-2020,%,,Muškarci,80.12997
-2020,%,,Žene,78.84615
-2020,%,,Oba pola,79.51384
-2021,%,,Oba pola,76.54288
-2021,%,,Žene,76.43979
-2021,%,,Muškarci,76.63789
-2022,%,,Muškarci,75.78105
-2022,%,,Žene,80.07031
-2022,%,,Oba pola,77.84128
+2018,procenat,,,67.0
+2018,procenat,Romska naselja,,36.4
+2003,procenat,,Oba pola,66.77273
+2005,procenat,,Oba pola,71.85972
+2006,procenat,,Oba pola,89.66021
+2007,procenat,,Oba pola,89.24952
+2008,procenat,,Oba pola,100.0
+2015,procenat,,Žene,61.02342
+2015,procenat,,Oba pola,63.65526
+2015,procenat,,Muškarci,66.08655
+2016,procenat,,Muškarci,63.18468
+2016,procenat,,Žene,58.52359
+2016,procenat,,Oba pola,60.90729
+2017,procenat,,Oba pola,71.57668
+2017,procenat,,Žene,71.77828
+2017,procenat,,Muškarci,71.39169
+2018,procenat,,Oba pola,74.5357
+2019,procenat,,Oba pola,74.42893
+2019,procenat,,Žene,73.70713
+2019,procenat,,Muškarci,75.09406
+2020,procenat,,Muškarci,80.12997
+2020,procenat,,Žene,78.84615
+2020,procenat,,Oba pola,79.51384
+2021,procenat,,Oba pola,76.54288
+2021,procenat,,Žene,76.43979
+2021,procenat,,Muškarci,76.63789
+2022,procenat,,Muškarci,75.78105
+2022,procenat,,Žene,80.07031
+2022,procenat,,Oba pola,77.84128
+2018,procenat,,Muškarci,71.3
+2018,procenat,,Žene,62.8
+2018,procenat,Romska naselja,Muškarci,40.5
+2018,procenat,Romska naselja,Žene,31.0

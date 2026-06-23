@@ -20,7 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1000_tons",
+                "hiljada tona",
+                "hiljada putnika",
                 ""
               ]
             },
@@ -36,6 +37,7 @@
                 "drumski saobraćaj",
                 "avio saobraćaj",
                 "pomorski saobraćaj",
+                "lokalni drumski saobraćaj",
                 ""
               ]
             },

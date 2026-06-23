@@ -1,16 +1,16 @@
 Year,Units,Pol,Value
-2000,%,Muškarci,30.5
-2000,%,Oba pola,24.8
-2000,%,FEMale,19.3
-2005,%,FEMale,19.0
-2005,%,Muškarci,32.9
-2005,%,Oba pola,25.8
-2010,%,Oba pola,23.6
-2010,%,FEMale,17.9
-2010,%,Muškarci,29.7
-2015,%,Oba pola,22.8
-2015,%,FEMale,16.7
-2015,%,Muškarci,29.0
-2019,%,FEMale,16.0
-2019,%,Muškarci,28.6
-2019,%,Oba pola,22.3
+2000,procenat,Muškarci,30.5
+2000,procenat,Oba pola,24.8
+2000,procenat,FEMale,19.3
+2005,procenat,FEMale,19.0
+2005,procenat,Muškarci,32.9
+2005,procenat,Oba pola,25.8
+2010,procenat,Oba pola,23.6
+2010,procenat,FEMale,17.9
+2010,procenat,Muškarci,29.7
+2015,procenat,Oba pola,22.8
+2015,procenat,FEMale,16.7
+2015,procenat,Muškarci,29.0
+2019,procenat,FEMale,16.0
+2019,procenat,Muškarci,28.6
+2019,procenat,Oba pola,22.3

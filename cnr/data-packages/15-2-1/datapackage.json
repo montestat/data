@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "tona po hektaru",
-                "%",
+                "procenat",
                 ""
               ]
             },

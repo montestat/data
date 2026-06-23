@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "percent",
                 ""
               ]
             },
@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOTHSEX",
-                "FEMALE",
-                "MALE",
+                "Both sexes",
+                "Female",
+                "Male",
                 ""
               ]
             },

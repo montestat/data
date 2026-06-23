@@ -35,6 +35,30 @@
             }
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 5-17 years",
+                "aged 5-11 years",
+                "aged 12-14 years",
+                "aged 15-17 years",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

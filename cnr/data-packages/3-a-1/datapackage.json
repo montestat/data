@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "procenat",
                 ""
               ]
             },
@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOTHSEX",
-                "FEMALE",
-                "MALE",
+                "Oba pola",
+                "Žene",
+                "Muškarci",
                 ""
               ]
             },

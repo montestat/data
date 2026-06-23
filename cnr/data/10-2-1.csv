@@ -1,11 +1,20 @@
-Year,Units,Value
-2012,%,22.7
-2013,%,19.9
-2014,%,21.3
-2015,%,20.5
-2016,%,18.9
-2017,%,18.9
-2018,%,19.9
-2019,%,17.4
-2020,%,16.7
-2021,%,15.9
+Year,Units,Pol,Starost,Value
+2012,procenat,,,22.7
+2013,procenat,,,19.9
+2014,procenat,,,21.3
+2015,procenat,,,20.5
+2016,procenat,,,18.9
+2017,procenat,,,18.9
+2018,procenat,,,19.9
+2019,procenat,,,17.4
+2020,procenat,,,16.7
+2021,procenat,,,15.9
+2022,procenat,,,14.5
+2022,procenat,Muškarci,,14.4
+2022,procenat,Žene,,14.6
+2022,procenat,,manje od 18 godina,21.9
+2022,procenat,,18-24 godine,18.1
+2022,procenat,,25-54 godine,13.3
+2022,procenat,,55-64 godine,8.5
+2022,procenat,,65 ili više godina,9.2
+2022,procenat,,18-64 godine,13.0

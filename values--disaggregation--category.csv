@@ -1,6 +1,9 @@
 Value,Disaggregation combinations using this value,Number of indicators
 10_5_1_cat_1,1,1
 10_5_1_cat_2,1,1
+13_2_1_climate_adaptation_plan,1,1
+13_2_1_national_communication_btr,1,1
+13_2_1_ndc,1,1
 14_5_1_cat_1,1,1
 14_5_1_cat_2,1,1
 15_1_2_cat_1,1,1
@@ -15,6 +18,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 17_18_3_cat_2,1,1
 1_1_1_cat_1,9,1
 1_1_1_cat_2,9,1
+1_1_1_cat_3,9,1
 1_2_gjr,7,1
 1_3_1_cat_1,1,1
 1_3_1_cat_2,1,1
@@ -36,6 +40,13 @@ Value,Disaggregation combinations using this value,Number of indicators
 3_b_1_cat_2,1,1
 3_d_1_cat_1,1,1
 3_d_1_cat_2,1,1
+4_1_2_cat_1,1,1
+4_1_2_cat_2,1,1
+4_1_2_cat_3,1,1
+4_7_1_curricula,1,1
+4_7_1_national_policies,1,1
+4_7_1_student_assessment,1,1
+4_7_1_teacher_education,1,1
 4_a_1_cat_1,1,1
 4_b_1_cat_1,1,1
 5_1_1_cat_1,1,1
@@ -99,7 +110,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 adults_15,1,1
 advanced_spread_sheets,2,1
 AGR,1,1
-air_traffic,1,1
+air_traffic,2,1
 ALL,1,1
 allarea,1,1
 ALP,1,1
@@ -140,6 +151,7 @@ HYDROPOWER,1,1
 IND,1,1
 install_software,2,1
 less_1_gjr,7,1
+local_road_traffic,1,1
 manufacturing_value,2,1
 MARINE,1,1
 maritime_traffic,1,1
@@ -154,7 +166,7 @@ more_3_gjr,7,1
 MULTIPLE,1,1
 national_stat_plan_strategy,1,1
 ombudsman,1,1
-parity_index,4,1
+parity_index,6,1
 photos,2,1
 presentations,2,1
 processed_hazardous_waste,1,1
@@ -163,10 +175,10 @@ produced_waste,21,1
 programming,2,1
 public_transport_cat_1,1,1
 public_transport_cat_2,1,1
-railway_traffic,1,1
+railway_traffic,2,1
 reading,6,1
 recycled_waste,1,1
-road_traffic,1,1
+road_traffic,2,1
 rotterdam_convention_1,1,1
 rotterdam_convention_2,1,1
 rural,1,1
@@ -181,7 +193,7 @@ stockholm_convention_2,1,1
 stockholm_convention_3,1,1
 teacher_class_1,1,1
 teacher_class_2,1,1
-territory,4,1
+territory,6,1
 TEX,1,1
 total,12,6
 total_waste,1,1
@@ -195,7 +207,7 @@ water_waste_cat_1,1,1
 water_waste_cat_2,1,1
 water_waste_cat_3,1,1
 water_waste_cat_total,1,1
-wealth,4,1
+wealth,6,1
 WIND,1,1
 without_agriculture,1,1
 word_processing,2,1

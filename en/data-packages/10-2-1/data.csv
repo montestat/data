@@ -1,11 +1,20 @@
-Year,Units,Value
-2012,%,22.7
-2013,%,19.9
-2014,%,21.3
-2015,%,20.5
-2016,%,18.9
-2017,%,18.9
-2018,%,19.9
-2019,%,17.4
-2020,%,16.7
-2021,%,15.9
+Year,Units,Sex,Age,Value
+2012,percent,,,22.7
+2013,percent,,,19.9
+2014,percent,,,21.3
+2015,percent,,,20.5
+2016,percent,,,18.9
+2017,percent,,,18.9
+2018,percent,,,19.9
+2019,percent,,,17.4
+2020,percent,,,16.7
+2021,percent,,,15.9
+2022,percent,,,14.5
+2022,percent,Male,,14.4
+2022,percent,Female,,14.6
+2022,percent,,aged 0-17 years,21.9
+2022,percent,,aged 18-24 years,18.1
+2022,percent,,aged 25-54 years,13.3
+2022,percent,,aged 55-64 years,8.5
+2022,percent,,aged over 65 years,9.2
+2022,percent,,aged 18-64 years,13.0

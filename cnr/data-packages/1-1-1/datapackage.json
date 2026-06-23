@@ -22,6 +22,7 @@
               "enum": [
                 "Udio stanovništva ispod međunarodne linije siromaštva",
                 "Zaposleno stanovništvo ispod međunarodne linije siromaštva",
+                "Stopa rizika od siromaštva (EU-SILC)",
                 ""
               ]
             },
@@ -32,7 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "procenat",
                 ""
               ]
             },
@@ -51,6 +52,12 @@
                 "15-24 godine",
                 "više od 15 godina",
                 "više od 25 godina",
+                "manje od 18 godina",
+                "18-24 godine",
+                "25-54 godine",
+                "55-64 godine",
+                "65 ili više godina",
+                "18-64 godine",
                 ""
               ]
             },

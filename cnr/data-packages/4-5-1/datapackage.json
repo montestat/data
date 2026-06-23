@@ -45,6 +45,7 @@
               "enum": [
                 "osnovna škola",
                 "srednja škola",
+                "više srednje obrazovanje",
                 ""
               ]
             },

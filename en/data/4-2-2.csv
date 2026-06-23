@@ -1,32 +1,34 @@
 Year,Units,Location,Sex,Value
-2018,%,,67.0,
-2018,%,Roma settlements,36.4,
-2003,%,,Both 'sexes',66.77273
-2005,%,,Both 'sexes',71.85972
-2006,%,,Both 'sexes',89.66021
-2007,%,,Both 'sexes',89.24952
-2008,%,,Both 'sexes',100.0
-2015,%,,Female,61.02342
-2015,%,,Both 'sexes',63.65526
-2015,%,,Male,66.08655
-2016,%,,Male,63.18468
-2016,%,,Female,58.52359
-2016,%,,Both 'sexes',60.90729
-2017,%,,Both 'sexes',71.57668
-2017,%,,Female,71.77828
-2017,%,,Male,71.39169
-2018,%,,Male,76.19764
-2018,%,,Female,72.72479
-2018,%,,Both 'sexes',74.5357
-2019,%,,Both 'sexes',74.42893
-2019,%,,Female,73.70713
-2019,%,,Male,75.09406
-2020,%,,Male,80.12997
-2020,%,,Female,78.84615
-2020,%,,Both 'sexes',79.51384
-2021,%,,Both 'sexes',76.54288
-2021,%,,Female,76.43979
-2021,%,,Male,76.63789
-2022,%,,Male,75.78105
-2022,%,,Female,80.07031
-2022,%,,Both 'sexes',77.84128
+2018,percent,,,67.0
+2018,percent,Roma settlements,,36.4
+2003,percent,,Both 'sexes',66.77273
+2005,percent,,Both 'sexes',71.85972
+2006,percent,,Both 'sexes',89.66021
+2007,percent,,Both 'sexes',89.24952
+2008,percent,,Both 'sexes',100.0
+2015,percent,,Female,61.02342
+2015,percent,,Both 'sexes',63.65526
+2015,percent,,Male,66.08655
+2016,percent,,Male,63.18468
+2016,percent,,Female,58.52359
+2016,percent,,Both 'sexes',60.90729
+2017,percent,,Both 'sexes',71.57668
+2017,percent,,Female,71.77828
+2017,percent,,Male,71.39169
+2018,percent,,Both 'sexes',74.5357
+2019,percent,,Both 'sexes',74.42893
+2019,percent,,Female,73.70713
+2019,percent,,Male,75.09406
+2020,percent,,Male,80.12997
+2020,percent,,Female,78.84615
+2020,percent,,Both 'sexes',79.51384
+2021,percent,,Both 'sexes',76.54288
+2021,percent,,Female,76.43979
+2021,percent,,Male,76.63789
+2022,percent,,Male,75.78105
+2022,percent,,Female,80.07031
+2022,percent,,Both 'sexes',77.84128
+2018,percent,,Male,71.3
+2018,percent,,Female,62.8
+2018,percent,Roma settlements,Male,40.5
+2018,percent,Roma settlements,Female,31.0

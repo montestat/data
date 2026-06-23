@@ -12,11 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Sex"
           },
           {
             "name": "Value",

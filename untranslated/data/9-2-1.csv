@@ -10,6 +10,10 @@ Year,Units,Category,Value
 2018,percent_of_gdp,manufacturing_value,4.0
 2019,percent_of_gdp,manufacturing_value,3.8
 2020,percent_of_gdp,manufacturing_value,4.0
+2021,percent_of_gdp,manufacturing_value,3.7
+2022,percent_of_gdp,manufacturing_value,3.8
+2023,percent_of_gdp,manufacturing_value,2.9
+2024,percent_of_gdp,manufacturing_value,3.3
 2010,per_capita_in_eur,manufacturing_value,206.0
 2011,per_capita_in_eur,manufacturing_value,254.0
 2012,per_capita_in_eur,manufacturing_value,228.0
@@ -18,6 +22,7 @@ Year,Units,Category,Value
 2015,per_capita_in_eur,manufacturing_value,229.0
 2016,per_capita_in_eur,manufacturing_value,230.0
 2017,per_capita_in_eur,manufacturing_value,260.0
-2018,per_capita_in_eur,manufacturing_value,
-2019,per_capita_in_eur,manufacturing_value,
-2020,per_capita_in_eur,manufacturing_value,
+2021,per_capita_in_eur,manufacturing_value,291.0
+2022,per_capita_in_eur,manufacturing_value,358.0
+2023,per_capita_in_eur,manufacturing_value,328.0
+2024,per_capita_in_eur,manufacturing_value,408.0

@@ -1,55 +1,61 @@
 Year,Units,Sex,Age,Value
-2015,%,,,43.8
-2016,%,,,43.1
-2017,%,,,42.2
-2018,%,,,41.2
-2019,%,,,36.5
-2020,%,,,37.6
-2021,%,,,38.9
-2022,%,,,34.1
-2023,%,,,31.0
-2015,%,Male,,42.8
-2016,%,Male,,42.9
-2017,%,Male,,42.2
-2018,%,Male,,40.3
-2019,%,Male,,35.8
-2020,%,Male,,37.0
-2021,%,Male,,38.1
-2022,%,Male,,33.2
-2023,%,Male,,31.0
-2015,%,Female,,44.9
-2016,%,Female,,43.4
-2017,%,Female,,42.2
-2018,%,Female,,42.1
-2019,%,Female,,37.2
-2020,%,Female,,38.3
-2021,%,Female,,39.7
-2022,%,Female,,35.0
-2023,%,Female,,31.0
-2015,%,,aged 18-64 years,42.3
-2016,%,,aged 18-64 years,42.3
-2017,%,,aged 18-64 years,40.8
-2018,%,,aged 18-64 years,39.3
-2019,%,,aged 18-64 years,35.0
-2020,%,,aged 18-64 years,36.0
-2021,%,,aged 18-64 years,38.1
-2022,%,,aged 18-64 years,33.3
-2023,%,,aged 18-64 years,30.4
-2015,%,,aged over 65 years,38.7
-2016,%,,aged over 65 years,37.1
-2017,%,,aged over 65 years,37.4
-2018,%,,aged over 65 years,35.8
-2019,%,,aged over 65 years,31.2
-2020,%,,aged over 65 years,32.8
-2021,%,,aged over 65 years,31.8
-2022,%,,aged over 65 years,26.7
-2023,%,,aged over 65 years,20.5
-2015,%,,aged 0-17 years,51.0
-2016,%,,aged 0-17 years,48.9
-2017,%,,aged 0-17 years,49.0
-2018,%,,aged 0-17 years,48.5
-2019,%,,aged 0-17 years,43.5
-2020,%,,aged 0-17 years,45.0
-2021,%,,aged 0-17 years,45.5
-2022,%,,aged 0-17 years,40.4
-2023,%,,aged 0-17 years,38.2
+2015,percent,,,43.8
+2016,percent,,,43.1
+2017,percent,,,42.2
+2018,percent,,,41.2
+2019,percent,,,36.5
+2020,percent,,,37.6
+2021,percent,,,38.9
+2022,percent,,,34.1
+2023,percent,,,31.0
+2015,percent,Male,,42.8
+2016,percent,Male,,42.9
+2017,percent,Male,,42.2
+2018,percent,Male,,40.3
+2019,percent,Male,,35.8
+2020,percent,Male,,37.0
+2021,percent,Male,,38.1
+2022,percent,Male,,33.2
+2023,percent,Male,,31.0
+2015,percent,Female,,44.9
+2016,percent,Female,,43.4
+2017,percent,Female,,42.2
+2018,percent,Female,,42.1
+2019,percent,Female,,37.2
+2020,percent,Female,,38.3
+2021,percent,Female,,39.7
+2022,percent,Female,,35.0
+2023,percent,Female,,31.0
+2015,percent,,aged 18-64 years,42.3
+2016,percent,,aged 18-64 years,42.3
+2017,percent,,aged 18-64 years,40.8
+2018,percent,,aged 18-64 years,39.3
+2019,percent,,aged 18-64 years,35.0
+2020,percent,,aged 18-64 years,36.0
+2021,percent,,aged 18-64 years,38.1
+2022,percent,,aged 18-64 years,33.3
+2023,percent,,aged 18-64 years,30.4
+2015,percent,,aged over 65 years,38.7
+2016,percent,,aged over 65 years,37.1
+2017,percent,,aged over 65 years,37.4
+2018,percent,,aged over 65 years,35.8
+2019,percent,,aged over 65 years,31.2
+2020,percent,,aged over 65 years,32.8
+2021,percent,,aged over 65 years,31.8
+2022,percent,,aged over 65 years,26.7
+2023,percent,,aged over 65 years,20.5
+2015,percent,,aged 0-17 years,51.0
+2016,percent,,aged 0-17 years,48.9
+2017,percent,,aged 0-17 years,49.0
+2018,percent,,aged 0-17 years,48.5
+2019,percent,,aged 0-17 years,43.5
+2020,percent,,aged 0-17 years,45.0
+2021,percent,,aged 0-17 years,45.5
+2022,percent,,aged 0-17 years,40.4
+2023,percent,,aged 0-17 years,38.2
+2024,percent,,,29.2
+2024,percent,Male,,28.4
+2024,percent,Female,,30.1
+2024,percent,,aged 18-64 years,28.2
+2024,percent,,aged over 65 years,25.6
+2024,percent,,aged 0-17 years,34.6

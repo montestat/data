@@ -45,6 +45,7 @@
               "enum": [
                 "primary school",
                 "lower secondary school",
+                "upper secondary education",
                 ""
               ]
             },
