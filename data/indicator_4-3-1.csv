@@ -25,7 +25,6 @@ Year,Units,Age,Sex,Value
 2019,%,aged 15-24 years,Male,54.8
 2020,%,aged 15-24 years,Male,57.2
 2021,%,aged 15-24 years,Male,59.7
-2022,%,aged 15-24 years,Male,53.8
 2022,%,aged 15-24 years,Male,50.3
 2010,%,aged 15-24 years,Female,69.8
 2011,%,aged 15-24 years,Female,75.3
@@ -83,3 +82,4 @@ Year,Units,Age,Sex,Value
 2021,%,aged 25-64 years,Female,5.4
 2022,%,aged 25-64 years,Female,3.4
 2023,%,aged 25-64 years,Female,3.5
+2024,%,aged 25-64 years,,4.2
