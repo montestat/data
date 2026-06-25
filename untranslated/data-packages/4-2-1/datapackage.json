@@ -35,6 +35,18 @@
             }
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bothsex",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

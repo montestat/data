@@ -1,3 +1,7 @@
-Year,Units,Location,Value
-2018,total,,90.2
-2018,total,Roma settlements,76.9
+Year,Units,Location,Sex,Value
+2018,total,,Both 'sexes',90.2
+2018,total,Roma settlements,Both 'sexes',76.9
+2018,total,,Male,90.0
+2018,total,Roma settlements,Male,78.9
+2018,total,,Female,90.6
+2018,total,Roma settlements,Female,74.5

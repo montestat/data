@@ -1,1 +1,1 @@
-{"data":{"Year":[2018,2018],"Units":["ukupno","ukupno"],"Lokacija":[null,"Romska naselja"],"Value":[90.2,76.9]},"edges":[]}
+{"data":{"Year":[2018,2018,2018,2018,2018,2018],"Units":["ukupno","ukupno","ukupno","ukupno","ukupno","ukupno"],"Lokacija":[null,"Romska naselja",null,"Romska naselja",null,"Romska naselja"],"Pol":["Oba pola","Oba pola","Mu\u0161karci","Mu\u0161karci","\u017dene","\u017dene"],"Value":[90.2,76.9,90.0,78.9,90.6,74.5]},"edges":{"From":["Pol"],"To":["Lokacija"]}}

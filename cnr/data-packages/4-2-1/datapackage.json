@@ -38,6 +38,19 @@
             "title": "Lokacija"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Oba pola",
+                "Muškarci",
+                "Žene",
+                ""
+              ]
+            },
+            "title": "Pol"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"

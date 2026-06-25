@@ -49,6 +49,9 @@ Value,Disaggregation combinations using this value,Number of indicators
 4_1_2_cat_1,1,1
 4_1_2_cat_2,1,1
 4_1_2_cat_3,1,1
+4_5_1_cat_1,6,1
+4_5_1_cat_2,6,1
+4_5_1_cat_3,6,1
 4_7_1_curricula,1,1
 4_7_1_national_policies,1,1
 4_7_1_student_assessment,1,1
@@ -172,7 +175,6 @@ more_3_gjr,7,1
 MULTIPLE,1,1
 national_stat_plan_strategy,1,1
 ombudsman,1,1
-parity_index,6,1
 photos,2,1
 presentations,2,1
 processed_hazardous_waste,1,1
@@ -199,7 +201,6 @@ stockholm_convention_2,1,1
 stockholm_convention_3,1,1
 teacher_class_1,1,1
 teacher_class_2,1,1
-territory,6,1
 TEX,1,1
 total,12,6
 total_waste,1,1
@@ -213,7 +214,6 @@ water_waste_cat_1,1,1
 water_waste_cat_2,1,1
 water_waste_cat_3,1,1
 water_waste_cat_total,1,1
-wealth,6,1
 WIND,1,1
 without_agriculture,1,1
 word_processing,2,1

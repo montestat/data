@@ -1,3 +1,7 @@
-Year,Units,Lokacija,Value
-2018,ukupno,,90.2
-2018,ukupno,Romska naselja,76.9
+Year,Units,Lokacija,Pol,Value
+2018,ukupno,,Oba pola,90.2
+2018,ukupno,Romska naselja,Oba pola,76.9
+2018,ukupno,,Muškarci,90.0
+2018,ukupno,Romska naselja,Muškarci,78.9
+2018,ukupno,,Žene,90.6
+2018,ukupno,Romska naselja,Žene,74.5

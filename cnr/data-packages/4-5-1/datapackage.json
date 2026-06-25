@@ -56,9 +56,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "indeks pariteta",
-                "bogatstvo",
-                "područje",
+                "4_5_1_cat_1",
+                "4_5_1_cat_2",
+                "4_5_1_cat_3",
                 ""
               ]
             },

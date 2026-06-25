@@ -1,22 +1,22 @@
 Year,Units,Lokacija,Starost,Kategorija,Value
-2018,ukupno,,osnovna škola,indeks pariteta,1.01
-2018,ukupno,,osnovna škola,bogatstvo,0.95
-2018,ukupno,,osnovna škola,područje,1.01
-2018,ukupno,,srednja škola,indeks pariteta,1.05
-2018,ukupno,,srednja škola,bogatstvo,0.8
-2018,ukupno,,srednja škola,područje,1.0
-2018,ukupno,,više srednje obrazovanje,indeks pariteta,1.06
-2018,ukupno,,više srednje obrazovanje,bogatstvo,0.66
-2018,ukupno,,više srednje obrazovanje,područje,1.02
-2018,ukupno,Romska naselja,osnovna škola,indeks pariteta,1.06
-2018,ukupno,Romska naselja,osnovna škola,bogatstvo,0.58
-2018,ukupno,Romska naselja,osnovna škola,područje,0.99
-2018,ukupno,Romska naselja,srednja škola,indeks pariteta,1.16
-2018,ukupno,Romska naselja,srednja škola,bogatstvo,0.32
-2018,ukupno,Romska naselja,srednja škola,područje,0.91
-2018,ukupno,Romska naselja,više srednje obrazovanje,indeks pariteta,0.86
-2018,ukupno,Romska naselja,više srednje obrazovanje,bogatstvo,0.09
-2018,ukupno,Romska naselja,više srednje obrazovanje,područje,0.58
+2018,ukupno,,osnovna škola,4_5_1_cat_1,1.01
+2018,ukupno,,osnovna škola,4_5_1_cat_2,0.95
+2018,ukupno,,osnovna škola,4_5_1_cat_3,1.01
+2018,ukupno,,srednja škola,4_5_1_cat_1,1.05
+2018,ukupno,,srednja škola,4_5_1_cat_2,0.8
+2018,ukupno,,srednja škola,4_5_1_cat_3,1.0
+2018,ukupno,,više srednje obrazovanje,4_5_1_cat_1,1.06
+2018,ukupno,,više srednje obrazovanje,4_5_1_cat_2,0.66
+2018,ukupno,,više srednje obrazovanje,4_5_1_cat_3,1.02
+2018,ukupno,Romska naselja,osnovna škola,4_5_1_cat_1,1.06
+2018,ukupno,Romska naselja,osnovna škola,4_5_1_cat_2,0.58
+2018,ukupno,Romska naselja,osnovna škola,4_5_1_cat_3,0.99
+2018,ukupno,Romska naselja,srednja škola,4_5_1_cat_1,1.16
+2018,ukupno,Romska naselja,srednja škola,4_5_1_cat_2,0.32
+2018,ukupno,Romska naselja,srednja škola,4_5_1_cat_3,0.91
+2018,ukupno,Romska naselja,više srednje obrazovanje,4_5_1_cat_1,0.86
+2018,ukupno,Romska naselja,više srednje obrazovanje,4_5_1_cat_2,0.09
+2018,ukupno,Romska naselja,više srednje obrazovanje,4_5_1_cat_3,0.58
 2015,odnos,,,,0.92339
 2016,odnos,,,,0.92623
 2017,odnos,,,,1.00539
