@@ -56,9 +56,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4_5_1_cat_1",
-                "4_5_1_cat_2",
-                "4_5_1_cat_3",
+                "Gender parity index (female/male)",
+                "Wealth parity index (poorest 20%/richest 20%)",
+                "Location parity index (rural/urban)",
                 ""
               ]
             },

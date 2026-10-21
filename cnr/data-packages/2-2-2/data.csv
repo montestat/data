@@ -1,3 +1,5 @@
-Year,Units,Lokacija,Value
-2018,procenat,,7.2
-2018,procenat,Romska naselja,20.8
+Year,Units,Lokacija,Kategorija,Value
+2025,procenat,,Zaostajanje tjelesne težine u odnosu na visinu (< -2 SD),3.1
+2025,procenat,,Gojaznost (tjelesna težina u odnosu na visinu > +2 SD),7.8
+2025,procenat,Romska naselja,Zaostajanje tjelesne težine u odnosu na visinu (< -2 SD),4.9
+2025,procenat,Romska naselja,Gojaznost (tjelesna težina u odnosu na visinu > +2 SD),2.9

@@ -35,6 +35,17 @@
             }
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2_2_2_cat_1",
+                "2_2_2_cat_2",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

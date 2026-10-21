@@ -56,9 +56,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4_5_1_cat_1",
-                "4_5_1_cat_2",
-                "4_5_1_cat_3",
+                "Indeks rodnog pariteta (ženski/muški)",
+                "Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %)",
+                "Indeks pariteta prema tipu naselja (ostalo/gradsko)",
                 ""
               ]
             },

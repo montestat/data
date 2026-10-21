@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_kr",
       "schema": {
         "fields": [
           {
@@ -36,6 +36,18 @@
               ]
             },
             "title": "Lokacija"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zaostajanje tjelesne težine u odnosu na visinu (< -2 SD)",
+                "Gojaznost (tjelesna težina u odnosu na visinu > +2 SD)",
+                ""
+              ]
+            },
+            "title": "Kategorija"
           },
           {
             "name": "Value",

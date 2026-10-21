@@ -1,1 +1,1 @@
-{"data":{"Year":[2018,2018],"Units":["percent","percent"],"Location":[null,"Roma settlements"],"Value":[7.2,20.8]},"edges":[]}
+{"data":{"Year":[2025,2025,2025,2025],"Units":["percent","percent","percent","percent"],"Location":[null,null,"Roma settlements","Roma settlements"],"Category":["Wasting (weight-for-height < -2 SD)","Overweight (weight-for-height > +2 SD)","Wasting (weight-for-height < -2 SD)","Overweight (weight-for-height > +2 SD)"],"Value":[3.1,7.8,4.9,2.9]},"edges":{"From":["Category"],"To":["Location"]}}

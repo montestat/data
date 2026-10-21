@@ -1,6 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
-ALLAREA,1,1
 allarea,16,2
+ALLAREA,1,1
 Andrijevica,3,1
 Bar UB,2,1
 Bar,3,1
@@ -23,14 +23,14 @@ Pluzine,3,1
 Podgorica UB,2,1
 Podgorica UT,1,1
 Podgorica,3,1
-Roma settlements,45,17
+Roma settlements,49,17
 Rozaje,3,1
-RURAL,1,1
 rural,3,3
+RURAL,1,1
 savnik,3,1
 Tivat UB,1,1
 Tivat,3,1
 Ulcinj,3,1
-URBAN,1,1
 urban,3,3
+URBAN,1,1
 Zabljak,3,1

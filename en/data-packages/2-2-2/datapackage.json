@@ -38,6 +38,18 @@
             "title": "Location"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wasting (weight-for-height < -2 SD)",
+                "Overweight (weight-for-height > +2 SD)",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

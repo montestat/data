@@ -1,22 +1,22 @@
 Year,Units,Lokacija,Starost,Kategorija,Value
-2018,ukupno,,osnovna škola,4_5_1_cat_1,1.01
-2018,ukupno,,osnovna škola,4_5_1_cat_2,0.95
-2018,ukupno,,osnovna škola,4_5_1_cat_3,1.01
-2018,ukupno,,srednja škola,4_5_1_cat_1,1.05
-2018,ukupno,,srednja škola,4_5_1_cat_2,0.8
-2018,ukupno,,srednja škola,4_5_1_cat_3,1.0
-2018,ukupno,,više srednje obrazovanje,4_5_1_cat_1,1.06
-2018,ukupno,,više srednje obrazovanje,4_5_1_cat_2,0.66
-2018,ukupno,,više srednje obrazovanje,4_5_1_cat_3,1.02
-2018,ukupno,Romska naselja,osnovna škola,4_5_1_cat_1,1.06
-2018,ukupno,Romska naselja,osnovna škola,4_5_1_cat_2,0.58
-2018,ukupno,Romska naselja,osnovna škola,4_5_1_cat_3,0.99
-2018,ukupno,Romska naselja,srednja škola,4_5_1_cat_1,1.16
-2018,ukupno,Romska naselja,srednja škola,4_5_1_cat_2,0.32
-2018,ukupno,Romska naselja,srednja škola,4_5_1_cat_3,0.91
-2018,ukupno,Romska naselja,više srednje obrazovanje,4_5_1_cat_1,0.86
-2018,ukupno,Romska naselja,više srednje obrazovanje,4_5_1_cat_2,0.09
-2018,ukupno,Romska naselja,više srednje obrazovanje,4_5_1_cat_3,0.58
+2018,ukupno,,osnovna škola,Indeks rodnog pariteta (ženski/muški),1.01
+2018,ukupno,,osnovna škola,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.95
+2018,ukupno,,osnovna škola,Indeks pariteta prema tipu naselja (ostalo/gradsko),1.01
+2018,ukupno,,srednja škola,Indeks rodnog pariteta (ženski/muški),1.05
+2018,ukupno,,srednja škola,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.8
+2018,ukupno,,srednja škola,Indeks pariteta prema tipu naselja (ostalo/gradsko),1.0
+2018,ukupno,,više srednje obrazovanje,Indeks rodnog pariteta (ženski/muški),1.06
+2018,ukupno,,više srednje obrazovanje,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.66
+2018,ukupno,,više srednje obrazovanje,Indeks pariteta prema tipu naselja (ostalo/gradsko),1.02
+2018,ukupno,Romska naselja,osnovna škola,Indeks rodnog pariteta (ženski/muški),1.06
+2018,ukupno,Romska naselja,osnovna škola,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.58
+2018,ukupno,Romska naselja,osnovna škola,Indeks pariteta prema tipu naselja (ostalo/gradsko),0.99
+2018,ukupno,Romska naselja,srednja škola,Indeks rodnog pariteta (ženski/muški),1.16
+2018,ukupno,Romska naselja,srednja škola,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.32
+2018,ukupno,Romska naselja,srednja škola,Indeks pariteta prema tipu naselja (ostalo/gradsko),0.91
+2018,ukupno,Romska naselja,više srednje obrazovanje,Indeks rodnog pariteta (ženski/muški),0.86
+2018,ukupno,Romska naselja,više srednje obrazovanje,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.09
+2018,ukupno,Romska naselja,više srednje obrazovanje,Indeks pariteta prema tipu naselja (ostalo/gradsko),0.58
 2015,odnos,,,,0.92339
 2016,odnos,,,,0.92623
 2017,odnos,,,,1.00539
@@ -25,3 +25,21 @@ Year,Units,Lokacija,Starost,Kategorija,Value
 2020,odnos,,,,0.98398
 2021,odnos,,,,0.99742
 2022,odnos,,,,1.05357
+2025,ukupno,,osnovna škola,Indeks rodnog pariteta (ženski/muški),1.0
+2025,ukupno,,osnovna škola,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.97
+2025,ukupno,,osnovna škola,Indeks pariteta prema tipu naselja (ostalo/gradsko),1.0
+2025,ukupno,,srednja škola,Indeks rodnog pariteta (ženski/muški),1.01
+2025,ukupno,,srednja škola,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.91
+2025,ukupno,,srednja škola,Indeks pariteta prema tipu naselja (ostalo/gradsko),1.01
+2025,ukupno,,više srednje obrazovanje,Indeks rodnog pariteta (ženski/muški),1.0
+2025,ukupno,,više srednje obrazovanje,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.83
+2025,ukupno,,više srednje obrazovanje,Indeks pariteta prema tipu naselja (ostalo/gradsko),1.01
+2025,ukupno,Romska naselja,osnovna škola,Indeks rodnog pariteta (ženski/muški),1.07
+2025,ukupno,Romska naselja,osnovna škola,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.77
+2025,ukupno,Romska naselja,osnovna škola,Indeks pariteta prema tipu naselja (ostalo/gradsko),1.02
+2025,ukupno,Romska naselja,srednja škola,Indeks rodnog pariteta (ženski/muški),1.15
+2025,ukupno,Romska naselja,srednja škola,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.4
+2025,ukupno,Romska naselja,srednja škola,Indeks pariteta prema tipu naselja (ostalo/gradsko),0.79
+2025,ukupno,Romska naselja,više srednje obrazovanje,Indeks rodnog pariteta (ženski/muški),1.36
+2025,ukupno,Romska naselja,više srednje obrazovanje,Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %),0.11
+2025,ukupno,Romska naselja,više srednje obrazovanje,Indeks pariteta prema tipu naselja (ostalo/gradsko),1.09
