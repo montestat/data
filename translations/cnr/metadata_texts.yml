@@ -28,7 +28,7 @@
 1-2-2-national-introductioncomment: ""
 3-1-2-global-methodology: 'Procenat porođaja kojima je prisustvovalo obučeno zdravsteno osoblje (uglavnom ljekari, medicinske sestre ili babice) je procenat porođaja kojima prisustvuje zdravstveni radnik obučen za pružanje spasilačke porodiljske njege, uključujući pružanje potrebnog nadzora, njege i saveta ženama tokom trudnoće i post-partum period, samostalno rukovanje porođaja i brige o novorođenčadima. Tradicionalne osobe koje nadgledaju porođaj, čak i ako dobiju kratak kurs obuke, nisu uključeni. Metoda izračunavanja: Broj žena starosne dobi od 15 do 49 godina sa živim rođenjem na kojima je prisustvovao kvalifikovani zdravstveni radnik (doktori, medicinske sestre ili babice) tokom porođaja izražava se kao procenat žena starosne dobi 15-49 godina sa živim rođenjem u istom periodu.'
 3-1-2-national-methodology: ""
-3-1-2-national-datasource: 'Anketiranje domaćinstava na nacionalnom nivou'
+3-1-2-national-datasource: 'MICS 2018; MICS 2025–2026 (Uprava za statistiku/UNICEF)'
 3-1-2-national-disaggregation: 'Za ovaj indikator, kada se podaci prikupljaju iz anketiranja domaćinstava, dostupno je razvrstavanje prema prebivalištu (urbano/ruralno), kućnim bogatstvom (kvintile) i starosti majke, geografske regije. Kada se podaci prijavljuju iz administrativnih izvora, razvrstavanje je više ograničeno i ima tendenciju da uključi samo prebivalište.'
 3-1-2-national-comment: 'Globalni monitoring sprovode UNICEF i WHO. Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-02.pdf'
 3-1-2-national-deviation: ""
@@ -77,10 +77,10 @@
 3-3-4-national-introductioncomment: ""
 3-7-1-global-methodology: 'Procenat žena u reproduktivnom dobu (između 15-49 godina starosti) koje su seksualno aktivne i koje su svoju potrebu za planiranjem porodice zadovoljile modernim metodama. Ankete domaćinstava uključuju niz pitanja koja mjere stopu rasprostranjenosti modernih kontraceptivnih sredstava kao i potražnju (potrebu) za planiranjem porodice. Ukupna potražnja (potreba) za planiranjem porodice se definiše kao zbir ukupnog broja žena u reproduktivnom dobu (između 15-49 godina starosti) koje su udate ili u zajednici i koje trenutno koriste ili čiji seksualni partner trenutno koristi, makar jedno kontraceptivno sredstvo, i nezadovoljene potrebe za planiranjem porodice. Nezadovoljena potreba za planiranjem porodice je proporcija ukupnog broja žena u reproduktivnom dobu (između 15-49 godina starosti) koje su ili udate ili žive u sporazumnoj zajednici, koje su plodne i seksualno aktivne i ne koriste nikakve kontraceptivne metode (moderne ili tradicionalne), i koje naglašavaju da ne žele više djece ili žele da odgode rađanje narednog djeteta za najmanje dvije godine. Ovdje ubrajamo: (i) sve trudnice (udate ili u sporazumnoj zajednici) čije su trudnoće neželjene ili začete u pogrešnom trenutku; (ii) sve porodilje čija menstruacija i dalje izostaje (udate ili u sporazumnoj zajednici) koje ne planiraju porodicu i čiji je prethodni porođaj bio neželjen ili je dijete začeto u pogrešnom trenutku; (iii) sve plodne žene (udate ili u sporazumnoj zajednici) koje nisu ni trudne niti su porodilje, i koje ne žele više djece (žele da ograniče veličinu svoje porodice) ili žele da odgode rađanje narednog djeteta za najmanje dvije godine ili ne znaju da li i kada žele da rode još jedno dijete (žele da naprave veći razmak između rađanja djece), a koje ne koriste nijedno kontraceptivno sredstvo.'
 3-7-1-national-methodology: 'Broj žena u reproduktivnom dobu (15 do 49 godina) koje su svoju potrebu za planiranjem porodice zadovoljile modernim metodama, podijeljen s ukupnim brojem žena starosti od 15 do 49 godina koje su trenutno u braku ili zajednici.'
-3-7-1-national-datasource: 'MICS/UNICEF'
+3-7-1-national-datasource: 'MICS 2018; MICS 2025–2026 (Uprava za statistiku/UNICEF)'
 3-7-1-national-disaggregation: ""
 3-7-1-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf'
-3-7-1-national-deviation: ""
+3-7-1-national-deviation: 'Vrijednosti za 2025. godinu odnose se na sve žene starosti 15–49 godina (MICS7, tabela TM.4.3). Vrijednosti iz MICS 2018 mogu se odnositi samo na žene koje su trenutno udate ili žive u zajednici. Poređenje treba vršiti sa oprezom.'
 3-7-1-national-introductioncomment: 'Vremenski plan: u 2018.godini i svakoj narednoj rundi MICS istraživanja.'
 3-7-2-global-methodology: 'Godišnji broj porođaja žena između 15 i 49 godina starosti na 1000 žena u datoj starosnoj grupi. Takođe se naziva i starosno specifična stopa fertiliteta kod žena između 15 i 49 godina starosti. Stopa porođaja kod adolescentkinja se obično računa kao srazmjera. Brojilac je broj živorođenčadi žena između 15 i 49 godina starosti, dok je imenilac procjena izloženosti rađanju žena između 15 i 49 godina starosti. Brojilac i imenilac se računaju različito za civilnu registraciju i za podatke anketa i popisa.'
 3-7-2-national-methodology: ''
@@ -112,10 +112,10 @@
 4-1-1-national-introductioncomment: ""
 4-2-1-global-methodology: 'Procjenat djece na početku osnovne škole, najčešće 6 godina starosti u mnogim zemljama, koja pokazuju zdravlje shodno njihovim godinama, psihosocijalno blagostanje i posjeduju neophodne sposobnosti i znanje potrebno za obrazovanje u prvim razredima osnovne škole. Djeca polaze u osnovnu školu u različitim uzrastima u različitim zemljama. Iz ovoga proizilazi da indikator može dosta odražavati razvoj djeteta između pete i sedme godine života.'
 4-2-1-national-methodology: ""
-4-2-1-national-datasource: 'MICS/UNICEF'
+4-2-1-national-datasource: 'MICS 2018; MICS 2025–2026 (Uprava za statistiku/UNICEF)'
 4-2-1-national-disaggregation: ""
 4-2-1-national-comment: 'U MICS6 istrazivanju definisan je SDG indikator 4.2.1 ali definicija nije u potpunosti ista. Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-01.pdf'
-4-2-1-national-deviation: ""
+4-2-1-national-deviation: 'Vrijednosti za 2018. godinu zasnovane su na Indeksu ranog razvoja djeteta iz MICS6 istraživanja (djeca uzrasta 36–59 mjeseci), a vrijednosti za 2025. godinu na Indeksu ranog razvoja djeteta 2030 (ECDI2030, djeca uzrasta 24–59 mjeseci). Vrijednosti nijesu uporedive.'
 4-2-1-national-introductioncomment: 'Vremenski plan: U 2018.godini svakoj narednoj rundi MISC istraživanja.'
 4-3-1-global-methodology: 'Procenat mladih i adolescenata u datoj starosnoj grupi (primjer - 15 - 24 godine, 25 - 64 godine itd.) koji učestvuju u formalnom ili neformalnom obrazovanju ili obuci u datom vremenskom opsegu (primjer - proteklih 12 mjeseci). Idealno, ovaj indikator bi trebao biti razdvojen po tipovima programa poput TVET-a (tehničko i stručno obrazovanje i obuka), visokog obrazovanja, obrazovanja za odrasle i drugih relevantnih tipova, kao i da pokriva kako formalne tako i neformalne programe obrazovanja.'
 4-3-1-national-methodology: 'EUROSTAT'
@@ -140,7 +140,7 @@
 4-c-1-national-introductioncomment: ""
 5-3-1-global-methodology: 'UNICEF: Ovaj indikator obezbjeđuje proporciju žena između 20 i 24 godine starosti koje su se prvi put udale ili bile u zajednici do 18 godine života. Indikator se računa dijeljenjem broja žena između 20 i 24 godine starosti koje su se prvi put udale ili bile u zajednici do 18 godine života sa ukupnim brojem žena starosti između 20 i 24 godine u čitavoj populaciji.'
 5-3-1-national-methodology: ""
-5-3-1-national-datasource: 'MICS/UNICEF'
+5-3-1-national-datasource: 'MICS 2018; MICS 2025–2026 (Uprava za statistiku/UNICEF)'
 5-3-1-national-disaggregation: ""
 5-3-1-national-comment: 'Link metapodatka: https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-01.pdf'
 5-3-1-national-deviation: ""
@@ -189,10 +189,10 @@
 8-6-1-national-introductioncomment: ""
 8-7-1-global-methodology: "MOR: Pojam dječije radne snage odražava angažovanje djece u zabranjenom radu i, uopšteno, u tipovima posla koji se eliminišu kao socijalno i moralno nepoželjni, kako preporučuje nacionalno zakonodavstvo, MOR-ova Konvencija o minimalnim godinama za zapošljavanje i iz 1973 (broj 138), kao i Konvencija o najgorim oblicima dječijeg rada iz 1999 (broj 182), njihove respektivne dopunske Preporuke (brojevi 146 i 190), kao i UN Konvencija o pravima djeteta. Okvir statističkog mjerenja za dječiji rad strukturisan je oko: (i) starosti djeteta; (ii) produktivne aktivnosti djeteta, uključujući njihovu prirodu i uslove pod kojima se one vrše, kao i vrijeme trajanja angažovanje djeteta u takvim aktivnostima. U svrhu statističkog mjerenja djeca angažovana u dječijem radu uključuju sva lica starosne dobi od 5 do 17 godina koja su, tokom određenog vremenskog perioda, angažovana u jednoj ili više sljedećih kategorija aktivnosti: (a) najgori oblici dječijeg rada, (kako je opisano u paragrafima 17-30, 18-ta ICLS rezolucija); (b) zaposlenost ispod minimalne starosti, (kako je opisano u paragrafima 32 i 33 18-te rezolucije ICLS-a); i (c) opasne neplaćene usluge domaćinstvima, (kako je opisano u paragrafima 36 i 37 18-te rezolucije ICLS-a), primenjivo kada se kao okvir mjera koristi opšta granica proizvodnje."
 8-7-1-national-methodology: "Broj djece od 5 do 17 godina koja se bave dječijim radom podijeljen ukupnim brojem djece od 5 do 17 godina."
-8-7-1-national-datasource: "MICS istrazivanje"
+8-7-1-national-datasource: 'MICS 2018; MICS 2025–2026 (Uprava za statistiku/UNICEF)'
 8-7-1-national-disaggregation: ""
 8-7-1-national-comment: "Link metapodataka: https://unstats.un.org/sdgs/metadata/files/Metadata-08-07-01.pdf"
-8-7-1-national-deviation: ""
+8-7-1-national-deviation: 'Vrijednosti za 2025. godinu prate MICS7 definiciju koja se koristi za izvještavanje o SDG, a koja ne obuhvata djecu koja rade u opasnim uslovima; ranije MICS runde su ih obuhvatale. Poređenje treba vršiti sa oprezom.'
 8-7-1-national-introductioncomment: "Vremenski plan: u 2018. godini i u svakoj narednoj rundi MICS-a."
 8-10-1-global-methodology: "Broj filijala poslovnih banaka na 100.000 odraslih. Broj automatskih bankomata (ATM) na 100.000 odraslih. Metod izračunavanja: Indikatori se izračunavaju na osnovu podataka prikupljenih direktno od Centralne banke ili glavnog finansijskog regulatora u zemlji. Formula za dobijanje ovih pokazatelja su: Broj filijala poslovnih banaka na 100.000 odraslih  = Broj filijala poslovnih banaka / Odrasla populacija / 100.000. Broj automatskih bankomata (ATM) na 100.000 odraslih = Broj automatskih automatskih mašina (bankomata) / odrasla populacija / 100.000."
 8-10-1-national-methodology: ""

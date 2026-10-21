@@ -59,3 +59,10 @@ Year,Units,Location,Category,Value
 2022,%,RURAL,,43.05118
 2022,%,ALLAREA,,57.39968
 
+2025,%,,sanitation_cat_2,90.6
+2025,%,,sanitation_cat_3,81.3
+2025,%,,sanitation_cat_4,4.3
+2025,%,Roma settlements,sanitation_cat_1,93.5
+2025,%,Roma settlements,sanitation_cat_2,93.7
+2025,%,Roma settlements,sanitation_cat_3,80.6
+2025,%,Roma settlements,sanitation_cat_4,1.7

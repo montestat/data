@@ -28,7 +28,7 @@
 1-2-2-national-introductioncomment: ""
 3-1-2-global-methodology: "Percentage of births attended by skilled health personnel (generally doctors, nurses or midwives) is the percentage of deliveries attended by health personnel trained in providing lifesaving obstetric care, including giving the necessary supervision, care and advice to women during pregnancy, labour and the post-partum period, conducting deliveries on their own, and caring for newborns. Traditional birth attendants, even if they receive a short training course, are not included. Computation Method: The number of women aged 15-49 with a live birth attended by a skilled health personnel (doctors, nurses or midwives) during delivery is expressed as a percentage of women aged 15-49 with a live birth in the same period."
 3-1-2-national-methodology: ""
-3-1-2-national-datasource: ""
+3-1-2-national-datasource: 'MICS 2018; MICS 2025–2026 (Monstat/UNICEF)'
 3-1-2-national-disaggregation: ""
 3-1-2-national-comment: ""
 3-1-2-national-deviation: ""
@@ -77,10 +77,10 @@
 3-3-4-national-introductioncomment: ""
 3-7-1-global-methodology: "Percentage of women of reproductive age (15-49 years) who are sexually active and who have their need for family planning satisfied with modern methods. Household surveys include a series of questions to measure modern contraceptive prevalence rate and demand for family planning. Total demand for family planning is defined as the sum of the number of women of reproductive age (15-49 years) who are married or in a union and who are currently using, or whose sexual partner is currently using, at least one contraceptive method, and the unmet need for family planning. Unmet need for family planning is the proportion of women of reproductive age (15-49 years) either married or in a consensual union, who are fecund and sexually active but who are not using any method of contraception (modern or traditional), and report not wanting any more children or wanting to delay the birth of their next child for at least two years. Included are: (i) all pregnant women (married or in a consensual union) whose pregnancies were unwanted or mistimed at the time of conception; (ii) all postpartum amenorrhoeic women (married or in consensual union) who are not using family planning and whose last birth was unwanted or mistimed; (iii) all fecund women (married or in consensual union) who are neither pregnant nor postpartum amenorrhoeic, and who either do not want any more children (want to limit family size), or who wish to postpone the birth of a child for at least two years or do not know when or if they want another child (want to space births), but are not using any contraceptive method."
 3-7-1-national-methodology: ""
-3-7-1-national-datasource: ""
+3-7-1-national-datasource: 'MICS 2018; MICS 2025–2026 (Monstat/UNICEF)'
 3-7-1-national-disaggregation: ""
 3-7-1-national-comment: ""
-3-7-1-national-deviation: ""
+3-7-1-national-deviation: '2025 values refer to all women aged 15–49 (MICS7, Table TM.4.3). MICS 2018 values may refer only to women currently married or in union. Compare with caution.'
 3-7-1-national-introductioncomment: ""
 3-7-2-global-methodology: "Annual number of births to women aged 1519 years per 1000 women in that age group. It is also referred to as the age-specific fertility rate for women aged 1519 years. The adolescent birth rate is generally computed as a ratio. The numerator is the number of live births to women aged 1519 years, and the denominator is an estimate of exposure to childbearing by women aged 1519 years. The numerator and the denominator are calculated differently for civil registration and survey and census data."
 3-7-2-national-methodology: ""
@@ -112,10 +112,10 @@
 4-1-1-national-introductioncomment: ""
 4-2-1-global-methodology: "The percentage of children at the start of primary school, typically age 6 years in many countries, who demonstrate age-appropriate health, learning and psychosocial well-being and possess the necessary competencies and knowledge required for learning in the early primary grades. The age at which children start primary school varies across countries. This means that the indicator may broadly reflect children's development between about five and seven years of age."
 4-2-1-national-methodology: ""
-4-2-1-national-datasource: ""
+4-2-1-national-datasource: 'MICS 2018; MICS 2025–2026 (Monstat/UNICEF)'
 4-2-1-national-disaggregation: ""
 4-2-1-national-comment: ""
-4-2-1-national-deviation: ""
+4-2-1-national-deviation: '2018 values use the MICS6 Early Childhood Development Index (children aged 36–59 months); 2025 values use the ECDI2030 (children aged 24–59 months). The two are not comparable.'
 4-2-1-national-introductioncomment: ""
 4-3-1-global-methodology: "The percentage of youth and adults in a given age range (e.g. 15-24 years, 25-64 years etc.) participating in formal or non-formal education or training in a given time period (e.g. last 12 months). Ideally, the indicator should be disaggregated by types of programme such as TVET, tertiary education, adult education and other relevant types and cover both formal and non-formal programmes."
 4-3-1-national-methodology: ""
@@ -140,7 +140,7 @@
 4-c-1-national-introductioncomment: ""
 5-3-1-global-methodology: "UNICEF: This indicator provides the proportion of women aged 20 to 24 years who were first married or in union by age 18. It is calculated by dividing the number of women aged 20-24 who were first married or in union by age 18 by the total number of women aged 20-24 in the population"
 5-3-1-national-methodology: ""
-5-3-1-national-datasource: ""
+5-3-1-national-datasource: 'MICS 2018; MICS 2025–2026 (Monstat/UNICEF)'
 5-3-1-national-disaggregation: ""
 5-3-1-national-comment: ""
 5-3-1-national-deviation: ""
@@ -189,10 +189,10 @@
 8-6-1-national-introductioncomment: ""
 8-7-1-global-methodology: "ILO: The term child labour reflects the engagement of children in prohibited work and, more generally, in types of work to be eliminated as socially and morally undesirable as guided by national legislation, the ILO Minimum Age Convention, 1973 (No. 138), and the Worst Forms of Child Labour Convention, 1999 (No. 182), their respective supplementing Recommendations (Nos 146 and 190), and the United Nations Convention on the Rights of the Child. The statistical measurement framework for child labour is structured around (i) the age of the child; (ii) the productive activities by the child, including their nature and the conditions under which these are performed, and the duration of engagement by the child in such activities. For the purpose of statistical measurement, children engaged in child labour include all persons aged 5 to 17 years who, during a specified time period, were engaged in one or more of the following categories of activities: (a) worst forms of child labour, (as described in paragraphs 17-30, 18th ICLS resolution); (b) employment below the minimum age, (as described in paragraphs 32 and 33 of the 18th ICLS resolution); and (c) hazardous unpaid household services, (as described in paragraphs 36 and 37 of the 18th ICLS resolution), applicable where the general production boundary is used as the measurement framework."
 8-7-1-national-methodology: ""
-8-7-1-national-datasource: ""
+8-7-1-national-datasource: 'MICS 2018; MICS 2025–2026 (Monstat/UNICEF)'
 8-7-1-national-disaggregation: ""
 8-7-1-national-comment: ""
-8-7-1-national-deviation: ""
+8-7-1-national-deviation: '2025 values follow the MICS7 definition used for SDG reporting, which does not include children working under hazardous conditions; earlier MICS rounds included them. Compare with caution.'
 8-7-1-national-introductioncomment: ""
 8-10-1-global-methodology: "The number of commercial bank branches per 100,000 adults. The number of automated teller machines (ATMs) per 100,000 adults. Computation Method: The indicators are calculated based on data collected directly from the Central Bank or the main financial regulator in the country. The formula to obtain those indicators are: The number of commercial bank branches per 100,000 adults=Number of commercial bank branches/Adult population/100,000. The number of automated teller machines (ATMs) per 100,000 adults=Number of automated teller machines (ATMs)/Adult population/100,000."
 8-10-1-national-methodology: ""
