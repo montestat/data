@@ -147,7 +147,7 @@
 5-3-1-national-introductioncomment: 'Vremenski plan: u 2018. godini i svakoj narednoj rundi MICS-a.'
 7-1-1-global-methodology: 'Proporcija stanovništva sa pristupom električnoj energiji je procenat stanovništva sa pristupom električnoj energiji.'
 7-1-1-national-methodology: ""
-7-1-1-national-datasource: 'MICS istraživanja.'
+7-1-1-national-datasource: 'UNECE (nacionalna serija); MICS 2018 i MICS 2025–2026 (Uprava za statistiku/UNICEF) za Crnu Goru i romska naselja'
 7-1-1-national-disaggregation: 'Razvrstavanje po mjesto prebivališta (urbano/ruralno područje).'
 7-1-1-national-comment: 'Indikatori ciljeva održivog razvoja (SDG), http://unstats.un.org/sdgs/indicators/indicators-list/. Međuagencijska radna grupa za indikatore održivog razvoja kontinuirano ažurira metapodatke mnogih indikatora SDG-a i vrši promjene na listi SDG indikatora. MICS pokriva brojne indikatore SDG-a s potpunim podudaranjem njihovih definicija, dok su neki od indikatora samo djelimično pokriveni MICS-om. Ovi poslednji slučajevi uključeni su ovdje sve dok trenutna međunarodna metodologija dozvoljava samo način na koji je definisan MICS indikator, i/ili ukoliko značajan dio SDG indikatora može biti generisan putem MICS indikatora. Za više informacija o metapodacima o SDG indikatorima, pogledajte http://unstats.un.org/sdgs/metadata/. Neki indikatori kreirani su na osnovu pitanja iz nekoliko modula MICS upitnika. U takvim slučajevima, naveden je samo modul(i) koji sadrži većinu neophodnih podataka. Svi pokazatelji MICS-a su raščlanjeni ili mogu biti raščlanjeni, gdje je to relevantno, po kvintilima bogatstva, polu, starosti, migracijskom statusu, invaliditetu i geografskoj lokaciji (prema domenima izvještavanja), ili drugim karakteristikama, u skladu sa preporukama Međuagencijske ekspertske grupa o SDG indikatorima: http://unstats.un.org/sdgs/indicators/Official%20List%20of%20Proposed%20SDG%20Indicators.pdf'
 7-1-1-national-deviation: ""
@@ -371,7 +371,7 @@
 1-4-1-national-introductioncomment: ""
 2-2-1-global-methodology: ""
 2-2-1-national-methodology: ""
-2-2-1-national-datasource: "MICS za 2018. za romska naselja"
+2-2-1-national-datasource: 'UNECE (nacionalna serija); MICS 2018 i MICS 2025–2026 (Uprava za statistiku/UNICEF) za Crnu Goru i romska naselja'
 2-2-1-national-disaggregation: ""
 2-2-1-national-comment: ""
 2-2-1-national-deviation: ""
@@ -437,7 +437,7 @@
 16-2-1-national-datasource: 'MICS'
 16-2-1-national-disaggregation: ""
 16-2-1-national-comment: ""
-16-2-1-national-deviation: ""
+16-2-1-national-deviation: 'Podaci iz MICS istraživanja odnose se na djecu starosti 1–14 godina, a ne 1–17 godina kako je navedeno u globalnoj definiciji indikatora.'
 16-2-1-national-introductioncomment: ""
 16-3-1-global-methodology: ""
 16-3-1-national-methodology: 'Broj žrtava nasilnog krivičnog djela (fizički ili seksualni napad) u prethodnih 12 mjeseci koji su prijavili svoj posljednji incident nadležnim organima ili drugim zvanično priznatim mehanizmima za rješavanje sukoba, izražen kroz procenat svih žrtava krivičnih djela u posljednjih 12 mjeseci. U nadležne institucije spadaju policija, tužioci ili drugi organi sa nadležnošću da istražuju određena krivična djela (kao što su korupcija i prevara), dok u "ostale zvanično priznate mehanizme za rješavanje sukoba" mogu spadati različite institucije sa ulogom u neformalnom pravosuđu i rješavanju sporova (npr. plemenski i vjerski lideri, starješine sela, lideri zajednice), pod uslovom da je njihova uloga zvanično priznata od strane državne vlasti. Metod izračunavanja: Broj žrtava nasilnog zločina u prethodnih 12 mjeseci koji su prijavili viktimizaciju nadležnim organima ili drugim službenim priznatim mehanizmima za rješavanje sukoba, podijeljenog sa brojem svih žrtava nasilnog krivičnog djela u prethodnih 12 mjeseci (koji se naziva i "stopa prijavljivanja krivičnih djela"). Broj žrtava nasilnog zločina, kao i broj žrtava nasilnog zločina, mjeri se kroz uzorke istraživanja opće populacije, najčešće angažovanih anketa o viktimizaciji kriminala. U Crnoj Gori ovaj indikator se obračunava kroz MICS istraživanje.'

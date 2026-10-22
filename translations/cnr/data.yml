@@ -86,7 +86,7 @@ per_1000_population: na 1000 ljudi
 per_100_population: na 100 ljudi
 class_2_3: razredi 2/3
 primary_school: osnovna škola
-lower_high_school: srednja škola
+lower_high_school: niže srednje obrazovanje
 reading: čitanje
 maths: matematika
 youth: mladi
@@ -242,10 +242,10 @@ composition_variance: varijansa kompozicije
 parity_index: indeks pariteta
 wealth: bogatstvo
 territory: područje
-sanitation_cat_1: 'članovi domaćinstva s prostorijom za pranje ruku u kojoj se nalaze voda i sapun ili deterdžent'
+sanitation_cat_1: 'članovi domaćinstva koji imaju mjesto za pranje ruku na kojem su prisutni voda i sapun ili deterdžent'
 sanitation_cat_2: 'članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije koje ne dijele sa drugima'
-sanitation_cat_3: 'članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju gdje se otpad ne prazni'
-sanitation_cat_4: 'članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u kojima nije omogućeno puštanje vode u zajedničku kanalizaciju, ali se otpad prazni'
+sanitation_cat_3: 'članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u krugu domaćinstva (bez priključka na kanalizaciju) iz kojih otpadne materije nikad nisu pražnjene ili su pražnjene i odložene u pokrivenoj jami'
+sanitation_cat_4: 'članovi domaćinstva koji koriste unaprijeđene sanitarne prostorije u krugu domaćinstva (bez priključka na kanalizaciju) iz kojih su otpadne materije uklanjane van domaćinstva radi tretmana'
 water_waste_cat_1: 'obračunski indikator za domaćinstva'
 water_waste_cat_2: 'obračunski indikator za industriju'
 water_waste_cat_3: 'udio bezbjedno tretiranih tokova kućne otpadne vode'
@@ -448,3 +448,4 @@ tonnes: 'tone'
 4_5_1_cat_1: 'Indeks rodnog pariteta (ženski/muški)'
 4_5_1_cat_2: 'Indeks pariteta prema imovinskom stanju (najsiromašnijih 20 %/najbogatijih 20 %)'
 4_5_1_cat_3: 'Indeks pariteta prema tipu naselja (ostalo/gradsko)'
+'Education level': 'Nivo obrazovanja'

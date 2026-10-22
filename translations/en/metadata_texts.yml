@@ -147,7 +147,7 @@
 5-3-1-national-introductioncomment: ""
 7-1-1-global-methodology: "Proportion of population with access to electricity is the percentage of population with access to electricity."
 7-1-1-national-methodology: ""
-7-1-1-national-datasource: ""
+7-1-1-national-datasource: 'UNECE (national series); MICS 2018 and MICS 2025–2026 (Monstat/UNICEF) for Montenegro and Roma settlements'
 7-1-1-national-disaggregation: ""
 7-1-1-national-comment: ""
 7-1-1-national-deviation: ""
@@ -371,7 +371,7 @@
 1-4-1-national-introductioncomment: ""
 2-2-1-global-methodology: ""
 2-2-1-national-methodology: ""
-2-2-1-national-datasource: "MICS in 2018 for Roma settlements"
+2-2-1-national-datasource: 'UNECE (national series); MICS 2018 and MICS 2025–2026 (Monstat/UNICEF) for Montenegro and Roma settlements'
 2-2-1-national-disaggregation: ""
 2-2-1-national-comment: ""
 2-2-1-national-deviation: ""
@@ -437,7 +437,7 @@
 16-2-1-national-datasource: 'MICS'
 16-2-1-national-disaggregation: ""
 16-2-1-national-comment: ""
-16-2-1-national-deviation: ""
+16-2-1-national-deviation: 'MICS data refer to children aged 1–14 years, not 1–17 years as in the global indicator definition.'
 16-2-1-national-introductioncomment: ""
 16-3-1-global-methodology: ""
 16-3-1-national-methodology: ""
