@@ -15,7 +15,7 @@
 1-b-1-title: Procenat javne-socijalne potrošnje za siromašne u odnosu na ukupnu javnu potrošnju
 10-1-1-title: Stope rasta izdataka domaćinstva ili prihoda po glavi stanovnika među donjih 40 procenata stanovništva i ukupnog stanovništva
 10-2-1-title: Udio stanovništva koji živi ispod 50 procenata srednjeg prihoda, po starosnoj dobi, polu i osobama sa invaliditetom
-10-3-1-title: Udio stanovništva koji je prijavio da se lično osjećao diskriminisano ili šikanirano u proteklih 12 mjeseci na osnovu diskriminišućeg razloga koji je zabranjen međunarodnim humanitarnim pravom
+10-3-1-title: 'Udio stanovništva koje je prijavilo da se lično osjećalo diskriminisano ili uznemiravano u prethodnih 12 mjeseci na osnovu diskriminacije zabranjene međunarodnim pravom o ljudskim pravima'
 10-4-1-title: Radni udio BDP-a koji obuhvata plate i davanja socijalne zaštite
 10-4-2-title: Redistributivni uticaj fiskalne politike
 10-5-1-title: Pokazatelji finansijske ispravnosti
@@ -141,7 +141,7 @@
 2-1-1-title: Prevalencija neuhranjenosti
 2-1-2-title: Prevalencija umjerene ili teške nesigurnosti u snabdijevanju hranom u populaciji, na osnovu Skale doživljavanja nesigurnosti u snabdijevanju hranom
 2-2-1-title: Prevalencija zaostajanja u rastu (visina za uzrast <-2 standardnog odstupanja od srednje vrijednosti Standarda za rast djeteta Svjetske zdravstvene organizacije (SZO)) kod djece mlađe od 5 godina
-2-2-2-title: Prevalencija pothranjenosti (težina za visinu >+2 ili <-2 standardnog odstupanja od srednje vrijednosti Standarda SZO za rast djeteta) kod djece mlađe od 5 godina, po vrsti (zaostajanje u rastu i nedovoljna težina djece)
+2-2-2-title: Prevalencija pothranjenosti (težina za visinu >+2 ili <-2 standardnog odstupanja od srednje vrijednosti Standarda SZO za rast djeteta) kod djece mlađe od 5 godina, po vrsti (zaostajanje tjelesne težine u odnosu na visinu i gojaznost)
 2-2-3-title: Prevalencija anemije kod žena starosti od 15 do 49 godina, prema statusu trudnoće (procenat)
 2-3-1-title: Obim proizvodnje po radnoj jedinici po klasama veličine poljoprivrednih/stočarskih/šumarskih preduzeća
 2-3-2-title: Prosječni prihod malih proizvođača hrane, po polu i autohtonom statusu
@@ -186,12 +186,12 @@
 3-d-2-title: Procenat infekcija krvotoka usljed odabranih organizama otpornih na antimikrobne ljekove
 4-1-1-title: 'Udio djece i mladih: (a) u razredima 2/3; (B) na kraju osnovne škole; i (c) na kraju niže srednje škole koja postižu najmanje minimalni nivo poznavanja iz (i) čitanja i (ii) matematike, po polu'
 4-1-2-title: 'Stopa završetka (osnovno obrazovanje, niže srednje obrazovanje, više srednje obrazovanje)'
-4-2-1-title: Udio djece ispod 5 godina starosti koja su razvojno na dobrom putu u pogledu zdravlja, učenja i psihosocijalnog blagostanja, po polu
+4-2-1-title: Udio djece uzrasta 24–59 mjeseci koja su razvojno na dobrom putu u pogledu zdravlja, učenja i psihosocijalnog blagostanja, po polu
 4-2-1-a-title: 'Udio djece ispod 5 godina starosti koja su razvojno na dobrom putu u pogledu zdravlja, učenja i psihosocijalnog blagostanja, po polu'
 4-2-2-title: Stopa učestvovanja u organizovanom učenju (godinu dana prije zvaničnog uzrasta za upis u osnovnu školu), po polu
 4-3-1-title: Stopa učestvovanja mladih i odraslih u formalnom i neformalnom obrazovanju i osposobljavanju u prethodnih 12 mjeseci, po polu
 4-4-1-title: Udio mladih i odraslih osoba koje imaju informaciono-komunikacione vještine (ICT), prema vrsti vještine
-4-5-1-title: Indeksi pariteta (žensko/muško, ruralno/urbano, donja/gornja petina bogatstva i drugi, poput statusa invalidnosti, autohtonih naroda i pogođenosti konfliktima kako podaci postanu dostupni)
+4-5-1-title: Indeksi pariteta (žensko/muško, ruralno/urbano, donja/gornja petina bogatstva i drugi, poput statusa invalidnosti, autohtonih naroda i pogođenosti konfliktima kako podaci postanu dostupni) za sve obrazovne indikatore sa ove liste koji se mogu razvrstati
 4-6-1-title: Procenat stanovništva u određenoj starosnoj grupi koji je postigao makar utvrđeni nivo poznavanja funkcionalne (a) pismenosti i (b) numeričkih vještina, po polu
 4-7-1-title: Mjera u kojoj su (i) globalno obrazovanje za građanstvo i (ii) obrazovanje za održivi razvoj, uključujući i rodnu ravnopravnost i ljudska prava integrisani na svim nivoima u (a) nacionalne obrazovne politike, (b) nastavne planove i programe, (c) obrazovanje nastavnika i (d) procjenjivanje postignuća učenika (student assessment)
 4-a-1-title: 'Udio škola sa pristupom: (a) električnoj energiji; (B) internetu za pedagoške svrhe; (C) kompjuterima za pedagoške svrhe; (D) prilagođenoj infrastrukturi i materijalima za učenike sa invaliditetom; (E) osnovnoj vodi za piće; (F) osnovnim sadržajima toaleta za jedan pol; i (g) osnovnim uređajima za pranje ruku (u skladu sa definicijama indikatora "voda, sanitacija i higijena za sve" (WASH))'
@@ -212,7 +212,7 @@
 5-b-1-title: Udio pojedinaca koji posjeduju mobilni telefon, po polu
 5-c-1-title: Udio zemalja sa sistemima za praćenje i javna izdvajanja za rodnu ravnopravnost i osnaživanje žena
 6-1-1-title: Udio stanovništva koje koristi usluge snabdijevanja pijaćom vodom kojima se upravlja na bezbjedan način
-6-2-1-title: Udio stanovništva koji koristi sanitarne usluge kojima se upravlja na bezbjedan način, ukljućujući i mogućnost pranja ruku vodom i sapunom
+6-2-1-title: Udio stanovništva koji koristi sanitarne usluge kojima se upravlja na bezbjedan način, uključujući i mogućnost pranja ruku vodom i sapunom
 6-3-1-title: Udio otpadnih voda koje su tretirane na bezbjedan način
 6-3-2-title: Udio vodnih tijela sa dobrim kvalitetom vode
 6-4-1-title: Promjena u efikasnosti upotrebe vode tokom vremena
@@ -238,7 +238,7 @@
 8-5-1-title: Prosječna satnica zaposlenih žena i muškaraca, po profesiji, starosnoj dobi i osobama sa invaliditetom
 8-5-2-title: Stopa nezaposlenosti, po polu, starosnoj dobi i osobama sa invaliditetom
 8-6-1-title: Udio mladih (starosne dobi 15-24) koji nijesu obuhvaćeni obrazovanjem, zapošljavanjem ili obukom
-8-7-1-title: Udio i broj djece starosne dobi 5-17 godina koja su uključena u dječiji rad, po polu i godinama
+8-7-1-title: Udio i broj djece starosne dobi 5-17 godina koja su uključena u dječji rad, po polu i uzrastu
 8-8-1-title: Stope učestalosti fatalnih i ne-fatalnih povreda na radu, po polu i statusu migranata radnika, a posebno žena migranata, i osoba sa nesigurnim zaposlenjem
 8-8-2-title: Povećanje nacionalnog poštovanja radnih prava (sloboda udruživanja i kolektivno pregovaranje) zasnovanih na tekstualnim izvorima Međunarodne organizacije rada (MOR) i domaćem zakonodavstvu, po polu i migrantskom statusu
 8-9-1-title: Direktni BDP od turizma kao udio ukupnog BDP-a i u stopi rasta
