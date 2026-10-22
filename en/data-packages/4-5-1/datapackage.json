@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "ratio",
                 ""
               ]
@@ -39,7 +38,7 @@
             "title": "Location"
           },
           {
-            "name": "Age",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -49,7 +48,7 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Education level"
           },
           {
             "name": "Category",

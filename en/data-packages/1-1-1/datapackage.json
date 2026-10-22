@@ -71,7 +71,7 @@
                 "All area",
                 "Urban",
                 "Rural",
-                "Both 'sexes'",
+                "Both sexes",
                 ""
               ]
             },
@@ -82,7 +82,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Both 'sexes'",
+                "Both sexes",
                 "Female",
                 "Male",
                 "all ages",

@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "ratio",
                 ""
               ]
@@ -36,7 +35,7 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
